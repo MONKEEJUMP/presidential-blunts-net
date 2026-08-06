@@ -81,7 +81,6 @@ export function ContentFigure({ image, priority = false }: { image: ContentImage
         <GoldOrnament className="content-figure__ornament content-figure__ornament--top" gradientId={`${gradientIdBase}-ornament-top`} position="top" />
         <GoldOrnament className="content-figure__ornament content-figure__ornament--bottom" gradientId={`${gradientIdBase}-ornament-bottom`} position="bottom" />
       </div>
-      <figcaption>{image.caption}</figcaption>
     </figure>
   );
 }
