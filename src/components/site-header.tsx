@@ -23,6 +23,13 @@ export function SiteHeader({ currentPath = "/" }: { currentPath?: string }) {
             <span className="brand-lockup__tagline">The Official Presidential Site</span>
           </span>
         </Link>
+        <a className="header-official-link" href="https://presidentialmoonrocks.com" rel="nofollow">
+          <span className="header-official-link__label header-official-link__label--full">Official Presidential</span>
+          <span className="header-official-link__label header-official-link__label--short">Presidential</span>
+          <svg aria-hidden="true" viewBox="0 0 14 14">
+            <path d="M5 3h6v6M11 3 3 11" />
+          </svg>
+        </a>
         <nav className="primary-nav" aria-label="Primary navigation">
           {primaryNavigation.map((item) => {
             const isCurrent = currentPath === item.href || currentPath.startsWith(`${item.href}/`);
