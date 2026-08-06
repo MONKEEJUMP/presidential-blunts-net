@@ -3,8 +3,8 @@
 ## Phase 1 — Apex domain not present in Vercel scope
 
 - Problem: `presidentialblunts.net` was not registered in the active Vercel team when infrastructure setup began.
-- Action: Created and linked the separate `presidential-blunts-net` Vercel project, continued the complete local build, and reserved domain attachment for the production-deployment step.
-- Status: Pending production deployment and domain attachment verification.
+- Action: Created and linked the separate `presidential-blunts-net` Vercel project, deployed the production build, and attached both the apex and `www` domains.
+- Status: DNS remains pending at GoDaddy. Vercel requires `A presidentialblunts.net 76.76.21.21` and currently reports the same A target for `www.presidentialblunts.net`; the stable Vercel alias serves all 23 routes in the meantime.
 
 ## Phase 9 — Two Head Cheese graphics have no verified product destination
 
