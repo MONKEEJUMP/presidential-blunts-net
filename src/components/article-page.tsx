@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Fragment } from "react";
 
 import type { ContentImage, ContentSection, PageContent } from "@/content/types";
-import { absoluteUrl, escapeJsonLd, imageUrl, siloLabels, SITE_NAME, SITE_URL } from "@/lib/site";
+import { absoluteUrl, escapeJsonLd, imageUrl, siloLabels, SITE_URL } from "@/lib/site";
 
 import { ContentFigure } from "./content-figure";
 import { SiteFooter } from "./site-footer";
@@ -140,14 +140,14 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
   if (page.kind === "pillar") {
     graph.unshift({
       "@type": "Organization",
-      "@id": `${SITE_URL}/#organization`,
+      "@id": "https://presidentialmoonrocks.com/#organization",
       name: "Presidential",
       alternateName: ["Presidential Blunts", "Presidential Cannabis"],
       foundingDate: "2012",
       foundingLocation: { "@type": "Place", name: "Los Angeles, California" },
       description: "Presidential publishes this official reference to its tobacco-free infused blunts.",
-      url: SITE_URL,
-      logo: { "@type": "ImageObject", url: imageUrl(), width: 512, height: 512 },
+      url: "https://presidentialmoonrocks.com",
+      logo: undefined,
       // No verified social profile URLs were supplied; never invent sameAs values.
       sameAs: [],
     });
@@ -163,9 +163,10 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       image: images.length ? images.map((image) => imageUrl(image)) : [imageUrl()],
       publisher: {
         "@type": "Organization",
-        "@id": `${SITE_URL}/#organization`,
-        name: SITE_NAME,
-        logo: { "@type": "ImageObject", url: imageUrl() },
+        "@id": "https://presidentialmoonrocks.com/#organization",
+        name: "Presidential",
+        url: "https://presidentialmoonrocks.com",
+        logo: undefined,
       },
     });
   }
