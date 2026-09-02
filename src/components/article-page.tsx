@@ -80,6 +80,36 @@ function ArticleSection({ section, image, reverse }: { section: ContentSection; 
   );
 }
 
+function RelatedSiteLinks({ page }: { page: PageContent }) {
+  if (!page.linkParagraphs?.length) return null;
+  return (
+    <div className="article-section__copy">
+      {page.linkParagraphs.map((paragraph) => (
+        <p key={paragraph.link.href}>
+          {paragraph.before}<a href={paragraph.link.href}>{paragraph.link.label}</a>{paragraph.after}
+        </p>
+      ))}
+    </div>
+  );
+}
+
+function FrequentlyAskedQuestions({ page }: { page: PageContent }) {
+  if (!page.faq?.length) return null;
+  return (
+    <section className="article-section" id="faq">
+      <div className="article-section__copy">
+        <h2>Frequently Asked Questions</h2>
+        {page.faq.map((item) => (
+          <div key={item.question}>
+            <h3>{item.question}</h3>
+            <p>{item.answer}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function BrandCallToAction() {
   return (
     <aside className="brand-cta" aria-labelledby="brand-cta-heading">
@@ -127,31 +157,59 @@ function LinkDirectory({ page }: { page: PageContent }) {
 
 function StructuredData({ page, images }: { page: PageContent; images: ContentImage[] }) {
   const pageUrl = absoluteUrl(page.path);
+  const organizationId = `${SITE_URL}/#organization`;
+  const websiteId = `${SITE_URL}/#website`;
+  const webPageId = `${pageUrl}#webpage`;
   const imageObjects = images.map((image) => ({
     "@type": "ImageObject",
     contentUrl: imageUrl(image),
     width: image.width,
     height: image.height,
-    caption: image.caption,
     description: image.alt,
   }));
-  const graph: Record<string, unknown>[] = [...imageObjects];
-
-  if (page.kind === "pillar") {
-    graph.unshift({
+  const graph: Record<string, unknown>[] = [
+    {
       "@type": "Organization",
-      "@id": "https://presidentialmoonrocks.com/#organization",
-      name: "Presidential",
-      alternateName: ["Presidential Blunts", "Presidential Cannabis"],
-      foundingDate: "2012",
-      foundingLocation: { "@type": "Place", name: "Los Angeles, California" },
-      description: "Presidential publishes this official reference to its tobacco-free infused blunts.",
-      url: "https://presidentialmoonrocks.com",
-      logo: undefined,
-      // No verified social profile URLs were supplied; never invent sameAs values.
-      sameAs: [],
-    });
-  }
+      "@id": organizationId,
+      name: "Presidential Blunts",
+      alternateName: ["Presidential Infused Blunts", "Presidential Hemp Blunts"],
+      url: SITE_URL,
+      logo: { "@type": "ImageObject", url: imageUrl(), width: 512, height: 512 },
+      sameAs: ["https://presidentialcannabis.net/"],
+      parentOrganization: {
+        "@type": "Organization",
+        name: "Presidential Cannabis",
+        url: "https://presidentialcannabis.net/",
+      },
+    },
+    {
+      "@type": "WebSite",
+      "@id": websiteId,
+      url: `${SITE_URL}/`,
+      name: "Presidential Blunts",
+      publisher: { "@id": organizationId },
+    },
+    {
+      "@type": page.kind === "about" ? ["WebPage", "AboutPage"] : page.faq?.length ? ["WebPage", "FAQPage"] : "WebPage",
+      "@id": webPageId,
+      url: pageUrl,
+      name: page.title,
+      description: page.description,
+      isPartOf: { "@id": websiteId },
+      about: { "@id": organizationId },
+      relatedLink: ["https://presidentialcannabis.net/", "https://presidentialthc.net/"],
+      ...(page.faq?.length
+        ? {
+            mainEntity: page.faq.map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: { "@type": "Answer", text: item.answer },
+            })),
+          }
+        : {}),
+    },
+    ...imageObjects,
+  ];
 
   if (page.kind === "article") {
     graph.unshift({
@@ -162,11 +220,7 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       mainEntityOfPage: pageUrl,
       image: images.length ? images.map((image) => imageUrl(image)) : [imageUrl()],
       publisher: {
-        "@type": "Organization",
-        "@id": "https://presidentialmoonrocks.com/#organization",
-        name: "Presidential",
-        url: "https://presidentialmoonrocks.com",
-        logo: undefined,
+        "@id": organizationId,
       },
     });
   }
@@ -202,9 +256,11 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
             {page.sections.map((section, index) => (
               <Fragment key={section.id}>
                 <ArticleSection image={usedSectionImages[index]} reverse={index % 2 === 1} section={section} />
+                {index === 0 ? <RelatedSiteLinks page={page} /> : null}
                 {index === 0 ? <BrandCallToAction /> : null}
               </Fragment>
             ))}
+            <FrequentlyAskedQuestions page={page} />
           </div>
           {remainingImages.length ? <aside className="image-ledger" aria-label="Packaging details">{remainingImages.map((image) => <ContentFigure image={image} key={image.src} />)}</aside> : null}
           <LinkDirectory page={page} />

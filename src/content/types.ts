@@ -22,6 +22,17 @@ export type PageLink = {
   description?: string;
 };
 
+export type LinkedParagraph = {
+  before: string;
+  link: PageLink;
+  after: string;
+};
+
+export type FaqItem = {
+  question: string;
+  answer: string;
+};
+
 export type PageContent = {
   path: string;
   kind: PageKind;
@@ -32,6 +43,8 @@ export type PageContent = {
   wordTarget: [number, number];
   intro: string[];
   sections: ContentSection[];
+  linkParagraphs?: LinkedParagraph[];
+  faq?: FaqItem[];
   childLinks?: PageLink[];
   relatedLinks?: PageLink[];
   externalLink?: PageLink;

@@ -4,22 +4,22 @@ export const pillarPage: PageContent = {
   path: "/",
   kind: "pillar",
   h1: "Presidential Blunts",
-  title: "Presidential Blunts — The Official Infused Blunt Reference",
+  title: "Presidential Blunts | Official Infused Blunt Guide",
   description:
-    "A complete reference to Presidential tobacco-free hemp-wrap blunts, their three-layer construction, formats, strain range, burn behavior, and retail availability.",
+    "Presidential Blunts are Presidential's tobacco-free hemp-wrap infused blunts — flower, concentrate, and kief in one format — explained here, sold only at licensed retailers.",
   wordTarget: [2200, 2800],
   intro: [
-    "A Presidential blunt is an official infused blunt built from flower, concentrate, and kief inside a tobacco-free hemp wrap. Its thicker wrap holds more material than a pre-roll, carries heat longer, and supports a slower burn. Presidential offers the same layered idea in full-size blunts and minis across a broad strain library.",
+    "Presidential Blunts are the official tobacco-free infused blunt line from Presidential Cannabis: flower carried through with concentrate, finished with kief, wrapped in hemp. This site is the official reference for how Presidential Blunts are built, how they differ from pre-rolls and minis, how strain and flavor lines work, and how to recognize authentic product at licensed retail.",
   ],
   sections: [
     {
       id: "what-a-blunt-is",
-      heading: "What a Blunt Is",
+      heading: "What are Presidential Blunts?",
       paragraphs: [
-        "A blunt is a wrapped format designed to hold a substantial fill and manage it through a longer session. The wrap is thicker than the rolling paper used for a pre-roll. That extra structure gives the roll a firm outer layer, creates room for more material, and keeps heat in the format for longer. These traits work together: capacity shapes the size of the roll, thickness shapes its airflow, and retained heat supports the steady pace associated with a blunt.",
-        "Traditional blunt construction begins with tobacco leaf, often from a cigar or cigarillo that is emptied and refilled. That leaf brings nicotine and its own taste to everything inside it. Presidential uses a different expression of the format: a hemp wrap around an infused center. The result keeps the familiar blunt architecture—substantial wrap, generous capacity, and measured burn—while giving the contents a neutral-tasting frame.",
-        "A pre-roll uses thin rolling paper and follows a quicker rhythm. Paper catches readily, burns fastest among these formats, and reaches its finish sooner. A blunt moves at a slower pace because its wrap is thicker, its fill is larger, and the format holds heat longer. The distinction is structural rather than cosmetic. Changing the outer material changes airflow, capacity, heat retention, and the amount of time the roll remains in use.",
-        "That structural view is the most useful way to understand the category. The word blunt describes more than a silhouette. It identifies a relationship between wrap, contents, airflow, and heat. Presidential builds within that relationship and adds a three-layer infused construction, so the wrap and the material inside it are designed to work as one complete format.",
+        "Presidential Blunts carry a three-layer construction of flower, concentrate, and kief inside a tobacco-free hemp wrap. Flower supplies the plant-material foundation, concentrate adds density and heat retention, and kief completes the infused material. The hemp wrap holds that construction in the thicker, slower-burning format associated with a blunt while keeping the flavor profile focused on the ingredients inside.",
+        "The line is available in full-size blunts and minis. A full-size blunt carries more material and supports a longer session, while a mini brings the same hemp-wrap and infused construction into a compact size. A paper pre-roll uses a thinner outer layer and follows a quicker burn, giving each format a clear role within the wider Presidential catalog.",
+        "The material inside a Presidential Blunt is related to the flower, concentrate, and kief construction that defines Presidential Moon Rocks. The blunt format carries that layered material inside a ready-to-use hemp wrap, connecting the brand's flagship infused foundation with a distinct rolled presentation.",
+        "Presidential operates wholesale through licensed retailers. Presidentialblunts.net is the official blunt reference, Presidentialcannabis.net is the brand and plant guide, and Presidentialthc.net explains the chemistry of extracts and infusion. Together, the three references connect product format, brand context, and technical understanding.",
       ],
     },
     {
@@ -103,6 +103,40 @@ export const pillarPage: PageContent = {
         "The ritual library follows an infused blunt through lighting, relighting, storage, session length, and sharing. It turns the properties of concentrated material and thicker hemp wraps into practical steps. The strain library then gathers every currently named blunt strain in one place and explains the verified series and collaboration structure without creating separate strain pages.",
         "Together, these four paths form one reference system. Start with the wrap to understand the shell, compare formats to understand the alternatives, follow the ritual to work with the slower burn, and use the strains hub to scan the available names. The detailed articles below offer focused next reads, while each hub provides the full path through its subject.",
       ],
+    },
+  ],
+  linkParagraphs: [
+    {
+      before: "Explore the company story and plant-focused context in ",
+      link: { href: "https://presidentialcannabis.net/", label: "the official Presidential Cannabis brand guide" },
+      after: ".",
+    },
+    {
+      before: "Continue into extract composition and process through ",
+      link: { href: "https://presidentialthc.net/", label: "the Presidential infusion chemistry reference" },
+      after: ".",
+    },
+  ],
+  faq: [
+    {
+      question: "What are Presidential Blunts?",
+      answer: "Presidential Blunts are tobacco-free hemp-wrap infused blunts from Presidential Cannabis. They combine flower, concentrate, and kief in full-size and mini formats.",
+    },
+    {
+      question: "Are Presidential Blunts tobacco-free?",
+      answer: "Yes. Presidential Blunts use hemp wraps and are one hundred percent tobacco-free, giving the infused flower, concentrate, kief, and selected flavor profile a neutral outer wrap.",
+    },
+    {
+      question: "How do Presidential Blunts differ from a pre-roll?",
+      answer: "A Presidential Blunt uses a thicker hemp wrap, carries more material, retains heat longer, and follows a slower burn. A pre-roll uses thin rolling paper and offers a quicker format.",
+    },
+    {
+      question: "Where can I buy Presidential Blunts?",
+      answer: "Presidential Blunts are available through licensed retailers in active Presidential markets. The official retailer locator provides the current path to nearby availability.",
+    },
+    {
+      question: "Does this site sell Presidential Blunts?",
+      answer: "Presidentialblunts.net provides the official product-format reference. Licensed retailers provide current Presidential Blunts availability through the brand's wholesale retail network.",
     },
   ],
   childLinks: [

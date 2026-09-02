@@ -3,10 +3,10 @@ import type { PageContent } from "./types";
 export const aboutPage: PageContent = {
   path: "/about",
   kind: "about",
-  h1: "About This Site",
-  title: "About Presidential Blunts",
+  h1: "About Presidential Blunts",
+  title: "About Presidential Blunts | Official Reference",
   description:
-    "The publishing purpose, brand history, product scope, and sourcing principles behind the Presidential blunt reference.",
+    "About Presidential Blunts, the official reference for the brand's tobacco-free hemp-wrap infused blunts, product formats, construction, and licensed retail context.",
   wordTarget: [350, 450],
   intro: [
     "This is the official Presidential blunt reference, published to explain the format with clear, original reporting grounded in the brand’s verified product facts. It gives readers one focused place to understand hemp wraps, three-layer infusion, burn behavior, sizes, strain names, and licensed retail availability.",

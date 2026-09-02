@@ -51,7 +51,6 @@ export async function generateMetadata({ params }: PublicationPageProps): Promis
       };
 
   return {
-    ...(path === "/" ? { metadataBase: null } : {}),
     title: page.title,
     description: page.description,
     alternates: { canonical },
