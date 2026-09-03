@@ -131,6 +131,21 @@ export const pillarPage: PageContent = {
       link: { href: "/about", label: "brand" },
       after: " and this official publication fit together.",
     },
+    {
+      before: "Learn how cannabis ",
+      link: { href: "https://presidentialcannabis.net/genetics/phenotypes", label: "phenotypes" },
+      after: " shape the traits expressed by a plant.",
+    },
+    {
+      before: "Meet ",
+      link: { href: "https://presidentialcannabis.net/about", label: "Presidential Cannabis" },
+      after: " through the official company story.",
+    },
+    {
+      before: "Compare ",
+      link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+      after: " with infused formats in the broader cannabis guide.",
+    },
   ],
   faq: [
     {

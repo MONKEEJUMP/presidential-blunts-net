@@ -76,6 +76,21 @@ export const strainsPage: PageContent = {
       link: { href: "/ritual", label: "guide" },
       after: " for lighting, storage, and sharing.",
     },
+    {
+      before: "Trace how each ",
+      link: { href: "https://presidentialcannabis.net/genetics/phenotypes", label: "strain" },
+      after: " expresses traits through cannabis genetics.",
+    },
+    {
+      before: "Compare ",
+      link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+      after: " with infused products across the wider catalog.",
+    },
+    {
+      before: "Explore the official plant and company guide from ",
+      link: { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis" },
+      after: ".",
+    },
   ],
   relatedLinks: [
     {

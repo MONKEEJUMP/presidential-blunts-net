@@ -16,14 +16,14 @@
 14. Pages live returning 200 on the stable Vercel alias: 23 of 23.
 15. Pages live returning 200 on the custom apex: 0 of 23 until DNS and SSL propagate.
 16. Registered composition: 1 pillar, 4 hubs, 17 articles, and 1 About page.
-17. Total rendered editorial words: 17,353.
-18. `/`: 2,457 words.
-19. `/wrap`: 509 words.
-20. `/compare`: 528 words.
-21. `/ritual`: 490 words.
-22. `/strains`: 493 words.
+17. Total rendered editorial words: 17,549.
+18. `/`: 2,486 words.
+19. `/wrap`: 540 words.
+20. `/compare`: 557 words.
+21. `/ritual`: 517 words.
+22. `/strains`: 521 words.
 23. `/wrap/what-a-wrap-does`: 751 words.
-24. `/wrap/hemp-vs-tobacco`: 729 words.
+24. `/wrap/hemp-vs-tobacco`: 752 words.
 25. `/wrap/tobacco-free`: 738 words.
 26. `/wrap/burn-rate`: 724 words.
 27. `/wrap/wrap-and-flavour`: 727 words.
@@ -39,7 +39,7 @@
 37. `/ritual/storage`: 743 words.
 38. `/ritual/session-length`: 729 words.
 39. `/ritual/sharing`: 748 words.
-40. `/about`: 408 words.
+40. `/about`: 437 words.
 41. Content images placed: 100 across the 23 pages; the shared crest is the 101st public WebP.
 42. Pages with zero content images: 0.
 43. Images appearing on more than one page: 0.

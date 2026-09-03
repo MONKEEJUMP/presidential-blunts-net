@@ -82,6 +82,21 @@ export const comparePages: PageContent[] = [
         link: { href: "/wrap", label: "cannabis" },
         after: " wrap reference explains the outer layer behind these format differences.",
       },
+      {
+        before: "Compare ",
+        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        after: " with infused formats in the wider choosing guide.",
+      },
+      {
+        before: "Continue through the official brand reference at ",
+        link: { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis" },
+        after: ".",
+      },
+      {
+        before: "See how ",
+        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        after: " wrap context connects with cannabis flower anatomy.",
+      },
     ],
     childLinks: [
       {

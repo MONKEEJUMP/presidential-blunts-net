@@ -69,6 +69,21 @@ export const wrapPages: PageContent[] = [
         link: { href: "/ritual", label: "guide" },
         after: " for the finished roll.",
       },
+      {
+        before: "Compare ",
+        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        after: " with infused formats in the broader product guide.",
+      },
+      {
+        before: "Explore the full plant and brand reference from ",
+        link: { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis" },
+        after: ".",
+      },
+      {
+        before: "Connect the ",
+        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        after: " wrap conversation with the structure of cannabis flower.",
+      },
     ],
     childLinks: [
       {
@@ -232,6 +247,18 @@ export const wrapPages: PageContent[] = [
           "Presidential's answer is consistent: hemp surrounds the three-layer infused construction across the catalog. Full-size blunts and minis share that approach, with a mini carrying the same construction at a smaller size. The result is a clear family resemblance from one format to another—hemp at the surface, flower, concentrate, and kief inside, and the selected series profile at the center of the taste.",
           "The comparison becomes especially useful when language around blunts feels broad. Start with the wrap material, then follow what that material adds. Tobacco leaf identifies the nicotine-carrying, tobacco-flavoured tradition. Hemp identifies Presidential's tobacco-free, neutral approach. From there, size, infusion, and series can be considered on their own terms. That sequence keeps the wrap decision distinct from the contents and shows how a familiar blunt structure can support a clearly different finished character.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Compare the finished blunt format with infused ",
+        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        after: " in the broader product guide.",
+      },
+      {
+        before: "Connect ",
+        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        after: " wrap material with the anatomy of cannabis flower.",
       },
     ],
     relatedLinks: [
