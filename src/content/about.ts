@@ -37,6 +37,23 @@ export const aboutPage: PageContent = {
       ],
     },
   ],
+  linkParagraphs: [
+    {
+      before: "Start with the complete ",
+      link: { href: "/", label: "blunt" },
+      after: " reference for the core Presidential format.",
+    },
+    {
+      before: "Browse all current blunt ",
+      link: { href: "/strains", label: "strains" },
+      after: " in the catalog library.",
+    },
+    {
+      before: "See how ",
+      link: { href: "/wrap", label: "hemp" },
+      after: " provides the tobacco-free outer structure.",
+    },
+  ],
   externalLink: {
     href: "https://presidentialmoonrocks.com",
     label: "Explore the complete Presidential catalog",

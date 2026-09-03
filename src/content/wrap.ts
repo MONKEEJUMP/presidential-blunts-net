@@ -58,6 +58,18 @@ export const wrapPages: PageContent[] = [
         ],
       },
     ],
+    linkParagraphs: [
+      {
+        before: "Return to the complete ",
+        link: { href: "/", label: "blunt" },
+        after: " reference for the full infused format.",
+      },
+      {
+        before: "Continue with the lighting, storage, and sharing ",
+        link: { href: "/ritual", label: "guide" },
+        after: " for the finished roll.",
+      },
+    ],
     childLinks: [
       {
         href: "/wrap/what-a-wrap-does",
@@ -496,6 +508,13 @@ export const wrapPages: PageContent[] = [
           "At lighting, the relationship becomes visible. Infused material takes longer to catch than flower, and rotating the end in the flame gives the dense roll time to establish an even light. The thicker hemp wrap then supports the slower burn and longer heat retention associated with a blunt. Relighting fits the same design. From fibre selection to finished session, manufacturing quality appears as consistency in shape, airflow, flavour neutrality, and pace.",
           "The finished piece can therefore be understood through observable functions rather than an invented factory recipe. It begins as hemp material, becomes a continuous flexible surface, reaches the thickness and size of the intended format, and arrives around the infused filling as a consistent wrap. When those stages align, the outer layer can perform all of its jobs at once. It contains more material than a paper pre-roll, supports an even airflow path, holds heat within a slower burn, and maintains the neutral taste that Presidential chose for the catalog.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "See how the finished wrap performs in the complete ",
+        link: { href: "/", label: "blunt" },
+        after: " reference.",
       },
     ],
     relatedLinks: [

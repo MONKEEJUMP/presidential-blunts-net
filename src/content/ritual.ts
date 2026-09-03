@@ -56,6 +56,13 @@ export const ritualPages: PageContent[] = [
         ],
       },
     ],
+    linkParagraphs: [
+      {
+        before: "The complete ",
+        link: { href: "/", label: "blunt" },
+        after: " reference connects this ritual to construction, format, and the Presidential catalog.",
+      },
+    ],
     childLinks: [
       {
         href: "/ritual/how-to-light-one",

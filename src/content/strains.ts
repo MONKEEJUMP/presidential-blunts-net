@@ -65,6 +65,18 @@ export const strainsPage: PageContent = {
       ],
     },
   ],
+  linkParagraphs: [
+    {
+      before: "Return to the complete ",
+      link: { href: "/", label: "blunt" },
+      after: " reference for construction and format context.",
+    },
+    {
+      before: "Match a selected format to the session ",
+      link: { href: "/ritual", label: "guide" },
+      after: " for lighting, storage, and sharing.",
+    },
+  ],
   relatedLinks: [
     {
       href: "/",

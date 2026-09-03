@@ -66,6 +66,23 @@ export const comparePages: PageContent[] = [
         ],
       },
     ],
+    linkParagraphs: [
+      {
+        before: "Use the complete ",
+        link: { href: "/", label: "blunt" },
+        after: " reference to place every comparison in context.",
+      },
+      {
+        before: "Continue to the lighting and session ",
+        link: { href: "/ritual", label: "guide" },
+        after: " after choosing a format.",
+      },
+      {
+        before: "The ",
+        link: { href: "/wrap", label: "cannabis" },
+        after: " wrap reference explains the outer layer behind these format differences.",
+      },
+    ],
     childLinks: [
       {
         href: "/compare/blunt-vs-joint",
