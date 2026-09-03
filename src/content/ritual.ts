@@ -62,6 +62,21 @@ export const ritualPages: PageContent[] = [
         link: { href: "/", label: "blunt" },
         after: " reference connects this ritual to construction, format, and the Presidential catalog.",
       },
+      {
+        before: "Compare ",
+        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        after: " with infused formats before choosing a session style.",
+      },
+      {
+        before: "Explore more official cannabis ",
+        link: { href: "https://presidentialcannabis.net/", label: "guides" },
+        after: " from Presidential Cannabis.",
+      },
+      {
+        before: "Follow ",
+        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        after: " and flower back to their plant structure.",
+      },
     ],
     childLinks: [
       {

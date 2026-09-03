@@ -53,6 +53,21 @@ export const aboutPage: PageContent = {
       link: { href: "/wrap", label: "hemp" },
       after: " provides the tobacco-free outer structure.",
     },
+    {
+      before: "See how each ",
+      link: { href: "https://presidentialcannabis.net/genetics/phenotypes", label: "strain" },
+      after: " begins with traits expressed through cannabis genetics.",
+    },
+    {
+      before: "Compare ",
+      link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+      after: " with infused products across the wider Presidential guide.",
+    },
+    {
+      before: "Explore cannabis ",
+      link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "flower structure" },
+      after: " from the plant outward.",
+    },
   ],
   externalLink: {
     href: "https://presidentialmoonrocks.com",
