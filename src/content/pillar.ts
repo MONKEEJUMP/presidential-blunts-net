@@ -116,6 +116,21 @@ export const pillarPage: PageContent = {
       link: { href: "https://presidentialthc.net/", label: "the Presidential infusion chemistry reference" },
       after: ".",
     },
+    {
+      before: "Explore every available Presidential ",
+      link: { href: "/strains", label: "strain" },
+      after: " in the complete blunt library.",
+    },
+    {
+      before: "See how each ",
+      link: { href: "/wrap/how-wraps-are-made", label: "hemp" },
+      after: " wrap moves from plant fibre to the finished blunt format.",
+    },
+    {
+      before: "Read how the ",
+      link: { href: "/about", label: "brand" },
+      after: " and this official publication fit together.",
+    },
   ],
   faq: [
     {

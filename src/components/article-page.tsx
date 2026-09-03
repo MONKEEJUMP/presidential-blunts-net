@@ -86,7 +86,11 @@ function RelatedSiteLinks({ page }: { page: PageContent }) {
     <div className="article-section__copy">
       {page.linkParagraphs.map((paragraph) => (
         <p key={paragraph.link.href}>
-          {paragraph.before}<a href={paragraph.link.href}>{paragraph.link.label}</a>{paragraph.after}
+          {paragraph.before}
+          {paragraph.link.href.startsWith("/")
+            ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link>
+            : <a href={paragraph.link.href}>{paragraph.link.label}</a>}
+          {paragraph.after}
         </p>
       ))}
     </div>
