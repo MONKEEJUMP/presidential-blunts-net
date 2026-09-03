@@ -4,7 +4,7 @@ export const aboutPage: PageContent = {
   path: "/about",
   kind: "about",
   h1: "About Presidential Blunts",
-  title: "About Presidential Blunts | Official Reference",
+  title: "About Presidential Blunts | Brand and Publisher",
   description:
     "About Presidential Blunts, the official reference for the brand's tobacco-free hemp-wrap infused blunts, product formats, construction, and licensed retail context.",
   wordTarget: [350, 450],

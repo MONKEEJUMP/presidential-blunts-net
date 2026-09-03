@@ -4,8 +4,8 @@ export const strainsPage: PageContent = {
   path: "/strains",
   kind: "hub",
   silo: "strains",
-  h1: "The Strains",
-  title: "Presidential Blunt Strains",
+  h1: "Blunt Strains and Catalog Groupings",
+  title: "Blunt Strain and Catalog Guide | Presidential Blunts",
   description:
     "A standalone library of the 24 named strains available as Presidential blunts, with a guide to the six verified catalog groupings.",
   wordTarget: [450, 600],
