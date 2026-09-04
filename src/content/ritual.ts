@@ -5,10 +5,10 @@ export const ritualPages: PageContent[] = [
     path: "/ritual",
     kind: "hub",
     silo: "ritual",
-    h1: "The Ritual",
-    title: "How to Enjoy an Infused Blunt",
+    h1: "The Infused Blunt Ritual",
+    title: "Infused Blunt Ritual and Session Guide | Presidential Blunts",
     description:
-      "A practical guide to lighting, relighting, storing, timing, and sharing a Presidential infused blunt.",
+      "Learn how to light, relight, store, time, and share a tobacco-free infused blunt through the practical session guidance from Presidential Blunts.",
     wordTarget: [450, 600],
     intro: [
       "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower-concentrate-kief construction give the ritual its deliberate tempo.",
@@ -115,10 +115,10 @@ export const ritualPages: PageContent[] = [
     path: "/ritual/how-to-light-one",
     kind: "article",
     silo: "ritual",
-    h1: "Lighting",
-    title: "How to Light an Infused Blunt",
+    h1: "How to Light an Infused Blunt",
+    title: "How to Light an Infused Blunt | Presidential Blunts",
     description:
-      "Learn the steady rotation and gradual heat that give an infused blunt an even first light.",
+      "Learn how gradual heat, steady rotation, and an even glowing edge create a balanced first light for dense material in the Presidential Blunts guide.",
     wordTarget: [700, 900],
     intro: [
       "Light an infused blunt by placing the end in the flame, rotating it steadily, and giving the full edge time to catch. Infused material lights more gradually than flower because its concentrate is dense and holds heat, so a patient, even rotation creates the strongest start.",
@@ -198,10 +198,10 @@ export const ritualPages: PageContent[] = [
     path: "/ritual/relighting",
     kind: "article",
     silo: "ritual",
-    h1: "Relighting",
-    title: "Relighting an Infused Blunt",
+    h1: "How to Relight an Infused Blunt",
+    title: "How to Relight an Infused Blunt | Presidential Blunts",
     description:
-      "See why relighting belongs to the infused blunt format and how gradual rotation restores an even glow.",
+      "Learn why dense infused material benefits from gradual relighting and steady rotation to restore an even edge in the Presidential Blunts guide.",
     wordTarget: [700, 900],
     intro: [
       "Relighting an infused blunt is a normal part of its slower-burning construction. Bring the active end back to the flame, rotate it steadily, and allow the full edge to regain an even glow before continuing.",
@@ -282,10 +282,10 @@ export const ritualPages: PageContent[] = [
     path: "/ritual/storage",
     kind: "article",
     silo: "ritual",
-    h1: "Storage",
-    title: "How to Store Infused Blunts",
+    h1: "How to Store Infused Blunts",
+    title: "Complete Infused Blunt Storage Guide | Presidential Blunts",
     description:
-      "Build a simple cool, dark storage routine that respects an infused blunt and its terpene-rich construction.",
+      "Build a cool, dark storage routine around temperature, light, containers, and terpene-rich infused material with the Presidential Blunts guide.",
     wordTarget: [700, 900],
     intro: [
       "Store an infused blunt in a cool, dark place inside a dedicated container. Heat and light take terpenes first, so stable temperature, shade, and an orderly home are the core of the storage routine.",
@@ -366,8 +366,8 @@ export const ritualPages: PageContent[] = [
     path: "/ritual/session-length",
     kind: "article",
     silo: "ritual",
-    h1: "Session Length",
-    title: "How Long an Infused Blunt Lasts",
+    h1: "Infused Blunt Session Length",
+    title: "Infused Blunt Session Length | Presidential Blunts",
     description:
       "Understand how wrap thickness, material capacity, concentrate, and format size shape an infused blunt session.",
     wordTarget: [700, 900],
@@ -450,10 +450,10 @@ export const ritualPages: PageContent[] = [
     path: "/ritual/sharing",
     kind: "article",
     silo: "ritual",
-    h1: "Sharing",
-    title: "The Blunt as a Shared Format",
+    h1: "Sharing an Infused Blunt",
+    title: "Sharing an Infused Blunt Guide | Presidential Blunts",
     description:
-      "See how a blunt's capacity, slower burn, and relighting rhythm create a natural format for a group.",
+      "Explore how capacity, a slower burn, passing, resting, and relighting shape a shared session in the practical Presidential Blunts ritual guide.",
     wordTarget: [700, 900],
     intro: [
       "A blunt fits a shared session because its thicker wrap holds more material, burns slower, and keeps heat longer than a pre-roll. Those traits create time for passing, setting the blunt down, returning to it, and renewing the edge with an even relight.",

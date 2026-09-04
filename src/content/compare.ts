@@ -5,10 +5,10 @@ export const comparePages: PageContent[] = [
     path: "/compare",
     kind: "hub",
     silo: "compare",
-    h1: "Compare",
+    h1: "Compare Blunts and Rolled Formats",
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
-      "Compare blunts with joints, pre-rolls, spliffs, minis, regular blunts, hemp wraps, and rolling papers.",
+      "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
     wordTarget: [450, 600],
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion.",
@@ -146,10 +146,10 @@ export const comparePages: PageContent[] = [
     path: "/compare/blunt-vs-joint",
     kind: "article",
     silo: "compare",
-    h1: "Blunt vs Joint",
-    title: "Blunt vs Joint — The Real Differences",
+    h1: "Blunt vs Joint Differences",
+    title: "Blunt vs Joint: Key Differences | Presidential Blunts",
     description:
-      "A direct comparison of blunt and joint wraps, size, burn time, heat, and the occasions each format suits.",
+      "Compare a blunt and joint by wrap material, capacity, burn pace, heat retention, and session style in the official Presidential Blunts reference.",
     wordTarget: [700, 900],
     intro: [
       "A blunt uses a thicker wrap, holds more material, burns more slowly, and retains heat longer than a joint. A joint uses thin rolling paper, carries a lighter construction, and moves through a session more quickly. The useful choice comes down to desired size, pace, and whether the occasion calls for an extended or compact format.",
@@ -242,9 +242,9 @@ export const comparePages: PageContent[] = [
     kind: "article",
     silo: "compare",
     h1: "Blunt vs Pre-Roll",
-    title: "Blunt vs Pre-Roll Explained",
+    title: "Blunt vs Pre-Roll: Format Guide | Presidential Blunts",
     description:
-      "Compare blunts and pre-rolls by wrap material, volume, burn speed, heat, construction, and occasion.",
+      "Compare blunts and pre-rolls by outer material, capacity, burn speed, heat retention, and occasion with the Presidential Blunts format guide.",
     wordTarget: [700, 900],
     intro: [
       "A blunt uses a thicker wrap, holds more material, burns more slowly, and retains heat longer than a pre-roll. A pre-roll uses thin rolling paper, burns fastest, and finishes quickest. Choose between them by matching the format's capacity and pace to the time and company around the session.",
@@ -338,7 +338,7 @@ export const comparePages: PageContent[] = [
     kind: "article",
     silo: "compare",
     h1: "Blunt vs Spliff",
-    title: "Blunt vs Spliff — What Separates Them",
+    title: "Blunt vs Spliff: Key Differences | Presidential Blunts",
     description:
       "Learn the definitions of blunt and spliff, why the terms overlap in conversation, and where a tobacco-free hemp blunt fits.",
     wordTarget: [700, 900],
@@ -434,9 +434,9 @@ export const comparePages: PageContent[] = [
     kind: "article",
     silo: "compare",
     h1: "Mini vs Full Blunt",
-    title: "Mini Blunts vs Full-Size Blunts",
+    title: "Mini vs Full Blunt Comparison | Presidential Blunts",
     description:
-      "Compare mini and full-size blunts by construction, capacity, session length, sharing, and occasion.",
+      "Compare mini and full-size blunts by construction, capacity, session length, sharing, and occasion in the clear Presidential Blunts format guide.",
     wordTarget: [700, 900],
     intro: [
       "A mini blunt uses the same core construction as a full-size blunt at a smaller size. The mini suits a shorter session or fewer people, while the full-size format brings more material, a longer burn, and more room for sharing. The choice is about scale rather than a different definition of the blunt.",
@@ -530,9 +530,9 @@ export const comparePages: PageContent[] = [
     kind: "article",
     silo: "compare",
     h1: "Infused vs Non-Infused",
-    title: "Infused Blunts vs Regular Blunts",
+    title: "Infused vs Regular Blunts Compared | Presidential Blunts",
     description:
-      "Compare infused and regular blunts by layers, potency, density, heat, lighting, and burn behavior.",
+      "Compare infused and regular blunts by flower, concentrate, kief, density, heat, lighting, and burn behavior with Presidential Blunts guidance.",
     wordTarget: [700, 900],
     intro: [
       "An infused blunt combines flower with concentrate and kief, while a regular blunt uses flower as its primary fill. Infusion raises the measurable potency, adds density, retains more heat, and creates a slower lighting and burn pattern. The wrap can remain the same; the meaningful change takes place inside it.",
@@ -626,9 +626,9 @@ export const comparePages: PageContent[] = [
     kind: "article",
     silo: "compare",
     h1: "Hemp Wrap vs Paper",
-    title: "Hemp Wraps vs Rolling Papers",
+    title: "Hemp Wrap vs Rolling Paper Guide | Presidential Blunts",
     description:
-      "Compare hemp wraps and rolling papers by material, thickness, capacity, burn rate, heat, and taste.",
+      "Compare hemp wraps and rolling papers by material, thickness, airflow, capacity, burn rate, heat, and taste in the Presidential Blunts guide.",
     wordTarget: [700, 900],
     intro: [
       "A hemp wrap is thicker, holds more material, burns more slowly, and retains heat longer than rolling paper. Rolling paper is thin, creates a lighter format, burns fastest, and finishes quickest. Hemp suits the scale and pace of a blunt, while paper suits the compact pace of a joint or pre-roll.",
