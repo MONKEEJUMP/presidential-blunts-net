@@ -241,7 +241,7 @@ export const comparePages: PageContent[] = [
     path: "/compare/blunt-vs-pre-roll",
     kind: "article",
     silo: "compare",
-    h1: "Blunt vs Pre-Roll",
+    h1: "Blunt vs Pre-Roll: Format Differences",
     title: "Blunt vs Pre-Roll: Format Guide | Presidential Blunts",
     description:
       "Compare blunts and pre-rolls by outer material, capacity, burn speed, heat retention, and occasion with the Presidential Blunts format guide.",
@@ -337,7 +337,7 @@ export const comparePages: PageContent[] = [
     path: "/compare/blunt-vs-spliff",
     kind: "article",
     silo: "compare",
-    h1: "Blunt vs Spliff",
+    h1: "Blunt vs Spliff: Key Differences",
     title: "Blunt vs Spliff: Key Differences | Presidential Blunts",
     description:
       "Learn the definitions of blunt and spliff, why the terms overlap in conversation, and where a tobacco-free hemp blunt fits.",
@@ -433,7 +433,7 @@ export const comparePages: PageContent[] = [
     path: "/compare/mini-vs-full",
     kind: "article",
     silo: "compare",
-    h1: "Mini vs Full Blunt",
+    h1: "Mini vs Full-Size Blunt Comparison",
     title: "Mini vs Full Blunt Comparison | Presidential Blunts",
     description:
       "Compare mini and full-size blunts by construction, capacity, session length, sharing, and occasion in the clear Presidential Blunts format guide.",
@@ -625,7 +625,7 @@ export const comparePages: PageContent[] = [
     path: "/compare/hemp-wrap-vs-paper",
     kind: "article",
     silo: "compare",
-    h1: "Hemp Wrap vs Paper",
+    h1: "Hemp Wrap vs Rolling Paper",
     title: "Hemp Wrap vs Rolling Paper Guide | Presidential Blunts",
     description:
       "Compare hemp wraps and rolling papers by material, thickness, airflow, capacity, burn rate, heat, and taste in the Presidential Blunts guide.",
