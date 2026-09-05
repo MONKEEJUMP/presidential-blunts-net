@@ -50,8 +50,8 @@ export const strainsPage: PageContent = {
       id: "series-and-lines",
       heading: "Series and Collaboration Lines",
       paragraphs: [
-        "The Silver Flavor Series contains seven products built on distillate and has a fruit-forward direction. Distillate is refined to a near-neutral aroma, making it a clear foundation when flavor is added deliberately. The Gold Strain Series contains 19 products built on live resin and has a cannabis-forward direction. Live resin begins with cannabis flash-frozen around minus 40 degrees Fahrenheit within hours of harvest, followed by low-temperature closed-loop hydrocarbon extraction and vacuum purging.",
-        "The Rose Gold Connoisseur Series contains five products built on solventless live rosin. Fresh-frozen material is washed in ice water and then pressed with heat and pressure; hash rosin presses at 160 to 190 degrees Fahrenheit. Three additional groupings complete the verified catalog structure: the Presidential Line with ten products, the Presidential House Line with three, and Presidential x THC Design with three. The collaboration uses estate-grown flower cultivated by THC Design.",
+        "The Silver Flavor Series contains seven products built on distillate and has a fruit-forward direction. The Gold Strain Series contains 19 products built on live resin and has a cannabis-forward direction. Live resin begins with cannabis frozen at harvest rather than first dried and cured.",
+        "The Rose Gold Connoisseur Series contains five products built on solventless live rosin, which uses ice water, heat, and pressure instead of chemical solvents. Three additional groupings complete the catalog structure: the Presidential Line with ten products, the Presidential House Line with three, and Presidential x THC Design with three. The collaboration uses flower cultivated by THC Design.",
       ],
     },
     {
