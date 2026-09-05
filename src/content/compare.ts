@@ -549,10 +549,10 @@ export const comparePages: PageContent[] = [
       },
       {
         id: "measurable-potency",
-        heading: "The potency difference is measurable",
+        heading: "Potency depends on the tested batch",
         paragraphs: [
-          "Flower tests at 15–25% THC. The concentrate coating alone can reach as high as 90%, while finished moon rocks can reach as high as 70%—roughly three times the ceiling of top-shelf flower. These figures describe concentration in the material and show why infusion is a construction category of its own.",
-          "The comparison is therefore structural and numerical. A regular flower-filled blunt reflects the potency of its flower. An infused build combines that flower with concentrated material and kief. Series and extract choice then refine the recipe: distillate supports deliberately added flavor, live resin brings a cannabis-forward profile, and live rosin supplies a solventless extract path.",
+          "A regular flower-filled blunt reflects the tested cannabinoids in its flower. An infused build combines flower with concentrated material and kief, so its values must come from the finished batch rather than a generic category range.",
+          "The comparison is therefore structural and batch-specific. Series and extract choice refine the recipe: distillate supports the Silver Flavor Series, live resin identifies the Gold Strain Series, and live rosin supplies the solventless Rose Gold path. Read the current package label and associated test results for potency.",
         ],
       },
       {
