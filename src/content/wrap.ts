@@ -128,7 +128,7 @@ export const wrapPages: PageContent[] = [
     path: "/wrap/what-a-wrap-does",
     kind: "article",
     silo: "wrap",
-    h1: "What a Wrap Does",
+    h1: "What an Infused Blunt Wrap Does",
     title: "What an Infused Blunt Wrap Does | Presidential Blunts",
     description:
       "Learn how a blunt wrap provides structure, controls airflow, sets burn rate, retains heat, and influences flavour.",
@@ -197,8 +197,8 @@ export const wrapPages: PageContent[] = [
     path: "/wrap/hemp-vs-tobacco",
     kind: "article",
     silo: "wrap",
-    h1: "Hemp vs Tobacco Leaf",
-    title: "Hemp Wraps vs Tobacco Leaf Blunt Wraps",
+    h1: "Hemp Wraps vs Tobacco Leaf",
+    title: "Hemp Wraps vs Tobacco Leaf Blunt Wraps | Presidential Blunts",
     description:
       "Compare neutral hemp wraps with traditional tobacco leaf wraps across taste, nicotine, burn, and finished blunt character.",
     wordTarget: [700, 900],
@@ -416,7 +416,7 @@ export const wrapPages: PageContent[] = [
     path: "/wrap/wrap-and-flavour",
     kind: "article",
     silo: "wrap",
-    h1: "Wrap and Flavour",
+    h1: "How Hemp Wraps Shape Flavour",
     title: "How Hemp Wraps Shape Flavour | Presidential Blunts",
     description:
       "See how a neutral hemp wrap creates space for flower, concentrate, kief, terpenes, and a blunt's selected flavour direction.",
@@ -485,7 +485,7 @@ export const wrapPages: PageContent[] = [
     path: "/wrap/how-wraps-are-made",
     kind: "article",
     silo: "wrap",
-    h1: "How Wraps Are Made",
+    h1: "How Hemp Blunt Wraps Are Made",
     title: "How Hemp Blunt Wraps Are Made | Presidential Blunts",
     description:
       "Follow the functional path from hemp fibre to a consistent finished blunt wrap, with attention to thickness, uniformity, and burn.",
