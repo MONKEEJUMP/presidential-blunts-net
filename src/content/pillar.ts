@@ -17,7 +17,7 @@ export const pillarPage: PageContent = {
       heading: "What are Presidential Blunts?",
       paragraphs: [
         "A Presidential blunt combines flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, premium THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
-        "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity.",
+        "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity. Product quality and construction quality can differ by item, so the current package remains the reliable reference.",
       ],
     },
     {
@@ -41,7 +41,7 @@ export const pillarPage: PageContent = {
       heading: "Compare Presidential products and find a licensed retailer",
       paragraphs: [
         "Use the Wrap guide for hemp construction, Compare for blunts versus pre rolls and minis, Ritual for handling and storage, and Strains for the current named catalog. Those focused pages carry the detail so this homepage can remain the clear starting point for Presidential Blunts.",
-        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Use the official Find Us path, then confirm the current selection with the retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
+        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Use the official Find Us path, then confirm the current selection with the retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
       ],
     },
   ],
