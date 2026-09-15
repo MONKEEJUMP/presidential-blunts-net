@@ -33,7 +33,7 @@ export const pillarPage: PageContent = {
       heading: "Flower, concentrate, kief, and moon rock roots",
       paragraphs: [
         "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief.",
-        "Even distribution matters more than repeating a category-wide potency number. Concentrate changes density and heat retention, so consistent placement supports a more uniform roll. Indica, sativa, and hybrid remain cultivar language: one indica selection, another indica cultivar, and each indica catalog entry all identify plants, while sativa selections and other sativa entries stay separate from Presidential.",
+        "Even distribution matters more than repeating a category-wide potency number. Concentrate changes density and heat retention, so consistent placement supports a more uniform roll. Presidential names the brand, while indica, sativa, and hybrid describe cultivars: an indica or sativa label classifies the plant, and another indica or sativa reference still describes an indica cultivar rather than the company.",
       ],
     },
     {
