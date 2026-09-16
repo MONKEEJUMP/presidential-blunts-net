@@ -24,7 +24,7 @@ export const pillarPage: PageContent = {
       id: "hemp-wrap",
       heading: "Tobacco-free hemp-wrap construction",
       paragraphs: [
-        "Presidential Blunts use hemp wraps rather than tobacco leaf. The wrap keeps the crafted infused fill packed securely and helps define the slower blunt format without adding tobacco or nicotine. Distinct flavors come from the flower, concentrate, kief, and the profile identified for the particular product.",
+        "Presidential Blunts use hemp wraps rather than tobacco leaf. The wrap keeps the crafted infused fill packed securely and helps define the slower blunt format without adding tobacco or nicotine. Distinct flavors come from the flower, concentrate, kief, and the profile identified for the particular product. Check the current package for flavor details.",
         "A blunt and a pre roll are related rolled-cannabis formats, but they are not interchangeable. Pre rolls use paper; Presidential Blunts use a broader hemp wrap. Full-size blunts and minis keep the same construction packed at different scales. The format page and package provide the reliable comparison.",
       ],
     },
