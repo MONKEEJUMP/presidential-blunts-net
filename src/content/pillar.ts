@@ -9,7 +9,7 @@ export const pillarPage: PageContent = {
     "Presidential Blunts are Presidential's tobacco-free hemp-wrap infused blunts — flower, concentrate, and kief in one format — explained here, sold only at licensed retailers.",
   wordTarget: [560, 700],
   intro: [
-    "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
+    "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
   ],
   sections: [
     {
