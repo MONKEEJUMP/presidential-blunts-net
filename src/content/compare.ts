@@ -9,7 +9,7 @@ export const comparePages: PageContent[] = [
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
       "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
-    wordTarget: [1050, 1250],
+    wordTarget: [900, 1050],
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion.",
       "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice.",
