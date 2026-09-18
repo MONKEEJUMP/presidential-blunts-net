@@ -9,10 +9,11 @@ export const wrapPages: PageContent[] = [
     title: "Hemp Wraps and Infused Blunts — The Wrap Reference",
     description:
       "A focused guide to hemp blunt wraps, including taste, burn rate, airflow, tobacco-free construction, and how wraps are made.",
-    wordTarget: [450, 600],
+    wordTarget: [950, 1100],
     intro: [
       "A blunt wrap holds the material together, manages airflow, sets the pace of the burn, and influences what reaches the palate. Presidential uses a neutral hemp wrap across its blunt catalog, creating a tobacco-free format in which the flower, concentrate, and kief remain at the center of the taste.",
       "This reference follows the wrap from its basic purpose through its finished performance. Each guide isolates one part of the subject, then connects it to the complete infused blunt format.",
+      "Presidential Blunts publishes this hub as a construction reference for the hemp-wrapped format. Presidential is the brand and publisher, not a strain or cultivar. The library separates the outer material from the flower and infusion inside so readers can compare one part of the roll at a time.",
     ],
     sections: [
       {
@@ -20,6 +21,15 @@ export const wrapPages: PageContent[] = [
         heading: "The four jobs of a wrap",
         paragraphs: [
           "The wrap gives a blunt its structure, but structure is only the beginning. Its thickness and fit shape the path air takes through the roll, the pace at which the material burns, and the way heat is retained. Its own character can also join the flavour or stay neutral. The guide to what a wrap does brings those four jobs together and explains why the outer layer has such a large role in the finished format.",
+        ],
+      },
+      {
+        id: "read-the-wrap",
+        heading: "Read the wrap from material to finished roll",
+        paragraphs: [
+          "A wrap is the continuous outer material closed around the fill. It holds the roll's shape, establishes the outside boundary of airflow, and stays present as heat moves down the roll. Material type, thickness, uniformity, and fit determine whether that layer behaves like thin rolling paper, a tobacco-leaf shell, or a hemp blunt wrap.",
+          "Rolling paper creates a lighter outer layer around a joint or pre-roll. Traditional blunt construction uses tobacco leaf, which contributes tobacco taste and nicotine through the wrap itself. A formed hemp wrap keeps the substantial outer structure associated with a blunt while leaving tobacco leaf outside the build. These are construction distinctions, not a quality ranking, and they can be checked before size, infusion, or flavour is considered.",
+          "Use the hub in that same order. Start with the wrap's basic jobs, then identify hemp or tobacco as the material. Confirm what tobacco free means, follow how hemp becomes a finished sheet, and examine burn rate after the full construction is clear. The flavour guide comes last because taste reflects both the wrap and the contents it surrounds. That sequence keeps the Presidential Blunts brand separate from cultivar names and keeps each guide focused on one practical question.",
         ],
       },
       {
@@ -83,6 +93,31 @@ export const wrapPages: PageContent[] = [
         before: "Connect the ",
         link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
         after: " wrap conversation with the structure of cannabis flower.",
+      },
+      {
+        before: "Begin with ",
+        link: { href: "/wrap/what-a-wrap-does", label: "what a wrap does" },
+        after: " when structure, airflow, burn rate, and taste need to be separated into their basic jobs.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/wrap/hemp-vs-tobacco", label: "hemp and tobacco leaf comparison" },
+        after: " when the main question is what the outer material contributes to the finished blunt.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/wrap/tobacco-free", label: "tobacco-free hemp wrap guide" },
+        after: " for the exact construction meaning of that phrase across the Presidential Blunts catalog.",
+      },
+      {
+        before: "Continue to the ",
+        link: { href: "/wrap/how-wraps-are-made", label: "hemp wrap construction guide" },
+        after: " to follow the material from hemp fibre to a consistent finished sheet.",
+      },
+      {
+        before: "Finish with the ",
+        link: { href: "/wrap/burn-rate", label: "blunt burn-rate guide" },
+        after: " when thickness, fill density, airflow, and lighting pace need to be considered together.",
       },
     ],
     childLinks: [
