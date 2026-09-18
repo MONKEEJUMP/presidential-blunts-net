@@ -9,10 +9,11 @@ export const comparePages: PageContent[] = [
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
       "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
-    wordTarget: [450, 600],
+    wordTarget: [1050, 1250],
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion.",
       "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice.",
+      "Presidential Blunts publishes this hub as an infused-blunt format reference. Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question.",
     ],
     sections: [
       {
@@ -58,6 +59,15 @@ export const comparePages: PageContent[] = [
         ],
       },
       {
+        id: "how-to-read-comparisons",
+        heading: "How to read a format comparison",
+        paragraphs: [
+          "Start with construction rather than the product name. Identify the outside material, then the fill, added infusion, and finished size. A hemp wrap and rolling paper handle capacity and heat differently. Flower alone and an infused blend also describe different builds. Those checks establish the format before taste, pace, or occasion enters the decision.",
+          "When only one feature is unclear, use the guide devoted to that feature. When several features change at once, read the guides in sequence: outer material first, flower or infusion second, and size last. This prevents a mini from being treated as a different construction and keeps a ready-made pre-roll from being confused with a hemp-wrapped blunt. If tobacco and definition are the question, use the spliff guide before comparing scale.",
+          "Package details should support the comparison. Look for the format name, wrap or paper material, ingredient statement, net weight, batch information, and labeled potency where required. The library explains what those details mean; it does not rank products, promise an experience, or turn a brand name into a cultivar. Presidential Blunts remains the publisher and infused-blunt brand, while strain and cultivar names identify the flower separately.",
+        ],
+      },
+      {
         id: "choose-by-format",
         heading: "Choose by format",
         paragraphs: [
@@ -96,6 +106,31 @@ export const comparePages: PageContent[] = [
         before: "See how ",
         link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
         after: " wrap context connects with cannabis flower anatomy.",
+      },
+      {
+        before: "Start with the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs paper comparison" },
+        after: " when the outer layer is the main question; it explains how material changes capacity, heat, and burn pace before other features are considered.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: " to separate thick-wrap and thin-paper construction when two hand-rolled formats look similar from a distance.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll comparison" },
+        after: " when the decision is between ready-to-light formats and the important difference is the wrap, fill, size, or pace.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs non-infused guide" },
+        after: " to isolate what concentrate and kief change in the build without treating infusion as a strain or making an effects claim.",
+      },
+      {
+        before: "Finish with the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full comparison" },
+        after: " when construction is already settled and the remaining choice is capacity, session length, or sharing scale.",
       },
     ],
     childLinks: [
