@@ -9,7 +9,7 @@ export const wrapPages: PageContent[] = [
     title: "Hemp Wraps and Infused Blunts — The Wrap Reference",
     description:
       "A focused guide to hemp blunt wraps, including taste, burn rate, airflow, tobacco-free construction, and how wraps are made.",
-    wordTarget: [950, 1100],
+    wordTarget: [850, 1000],
     intro: [
       "A blunt wrap holds the material together, manages airflow, sets the pace of the burn, and influences what reaches the palate. Presidential uses a neutral hemp wrap across its blunt catalog, creating a tobacco-free format in which the flower, concentrate, and kief remain at the center of the taste.",
       "This reference follows the wrap from its basic purpose through its finished performance. Each guide isolates one part of the subject, then connects it to the complete infused blunt format.",
