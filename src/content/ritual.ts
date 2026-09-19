@@ -9,10 +9,11 @@ export const ritualPages: PageContent[] = [
     title: "Infused Blunt Ritual and Session Guide | Presidential Blunts",
     description:
       "Learn how to light, relight, store, time, and share a tobacco-free infused blunt through the practical session guidance from Presidential Blunts.",
-    wordTarget: [450, 600],
+    wordTarget: [850, 1000],
     intro: [
       "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower-concentrate-kief construction give the ritual its deliberate tempo.",
       "Presidential blunts pair a neutral, tobacco-free hemp wrap with the three-layer build. The wrap lets the contents lead the taste, while evenly distributed concentrate holds heat and supports a steady burn. The same core ritual applies across the Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings. These five guides cover each part of the session from storage through sharing, with clear cues that work for minis and full-size blunts.",
+      "Presidential Blunts publishes this hub as a practical guide to the hemp-wrapped infused format. Presidential is the brand and publisher, not a strain or cultivar, so the ritual stays focused on preparation, heat, pace, storage, and the people sharing the session.",
     ],
     sections: [
       {
@@ -55,6 +56,16 @@ export const ritualPages: PageContent[] = [
           "The sharing guide covers passing, resting, returning, and choosing a mini or full-size blunt for the number of people gathered.",
         ],
       },
+      {
+        id: "session-flow",
+        heading: "Build the session from setup to closeout",
+        paragraphs: [
+          "Prepare the setting before applying flame. Choose a stable, heat-safe surface, keep the package or storage container nearby, and allow enough time for the format selected. A mini and a full-size blunt use the same infused construction, but their different capacities create different timelines. Reading the current package and choosing the size first keeps the session plan tied to the actual product in hand.",
+          "At the first light, warm the entire rim instead of holding the flame against one point. Rotate until the edge carries a connected glow, then watch the burn line as the session moves forward. A pause does not mean the ritual failed. Set the blunt on a suitable surface, keep the lit end attended, and return to the same even-heat method when the edge needs another light.",
+          "Pacing becomes a shared cue when more than one adult participates. Agree on a passing direction, leave room for the blunt to rest, and let each person decide whether to take a turn. The slower format does not require a rushed circle. A mini may fit a shorter gathering, while a full-size blunt gives a larger group more time to pass, pause, and relight without changing the core sequence.",
+          "Close the session as deliberately as it began. Make sure the ember is fully out, allow the remaining material to cool, and check the surface before walking away. If a portion will be kept, return it to a dedicated container only after it has cooled completely, then place that container in a cool, dark location. This closeout keeps fire safety, storage, and the next session in one repeatable routine.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
@@ -76,6 +87,31 @@ export const ritualPages: PageContent[] = [
         before: "Follow ",
         link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
         after: " and flower back to their plant structure.",
+      },
+      {
+        before: "Start with the ",
+        link: { href: "/ritual/how-to-light-one", label: "infused blunt lighting guide" },
+        after: " for the first rotation, warming pass, and even glowing edge.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " when a pause or an uneven edge calls for fresh, gradual heat.",
+      },
+      {
+        before: "Check the ",
+        link: { href: "/ritual/session-length", label: "session-length guide" },
+        after: " before choosing between a mini and a full-size blunt.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/ritual/sharing", label: "shared-session guide" },
+        after: " for passing, resting, and keeping the group pace unhurried.",
+      },
+      {
+        before: "Finish with the ",
+        link: { href: "/ritual/storage", label: "infused blunt storage guide" },
+        after: " for a cool, dark routine between sessions.",
       },
     ],
     childLinks: [
