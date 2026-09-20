@@ -7,9 +7,10 @@ export const aboutPage: PageContent = {
   title: "About Presidential Blunts | Brand and Publisher",
   description:
     "About Presidential Blunts, the official reference for the brand's tobacco-free hemp-wrap infused blunts, product formats, construction, and licensed retail context.",
-  wordTarget: [350, 450],
+  wordTarget: [750, 900],
   intro: [
     "This is the official Presidential blunt reference, published to explain the format with clear, original reporting grounded in the brand’s verified product facts. It gives readers one focused place to understand hemp wraps, three-layer infusion, burn behavior, sizes, strain names, and licensed retail availability.",
+    "Presidential Blunts is the publisher identity for this focused reference. Presidential is the brand, not a strain or cultivar, and the site keeps that identity separate from the named flower selections recorded in the catalog index.",
   ],
   sections: [
     {
@@ -36,6 +37,16 @@ export const aboutPage: PageContent = {
         "The publication also connects learning with the brand’s wholesale model. Readers can understand the format here, then use Presidential’s complete catalog and retail resources to continue through licensed channels. That relationship keeps the reference centered on education while giving current product information a clear home.",
       ],
     },
+    {
+      id: "using-the-publication",
+      heading: "How to Use the Official Reference",
+      paragraphs: [
+        "The publication covers one subject: Presidential hemp-wrap infused blunts. It explains the format, records the verified catalog structure, and identifies the publisher behind the material. It does not turn every catalog name into a separate page, assign unverified products to a series, or use the Presidential name as though it were a cultivar.",
+        "Each hub answers a different class of question. The wrap hub explains the tobacco-free outer material, airflow, burn rate, and how hemp wraps are made. The ritual hub covers storage, lighting, relighting, session length, and sharing. The comparison hub separates blunts from joints, pre-rolls, spliffs, paper wraps, and smaller formats. The strains hub keeps the verified name list and catalog groupings together without inventing child routes.",
+        "Readers can enter through the hub that matches the question in front of them. A construction question belongs in the wrap library. A question about lighting or storage belongs in the ritual library. Format differences belong in comparisons, while exact names and series context belong in the strains index. The links between those hubs keep one topic from carrying claims that belong somewhere else.",
+        "The site uses direct answers first, then adds the facts needed to understand the answer. Construction statements stay with the format, catalog statements stay with the catalog, and publisher statements stay with the brand record. When a detail depends on a specific package or current official catalog record, readers should check that source rather than infer it from a strain name, series label, image, or older page. That check keeps the publication current without adding unsupported catalog claims.",
+      ],
+    },
   ],
   linkParagraphs: [
     {
@@ -52,6 +63,16 @@ export const aboutPage: PageContent = {
       before: "See how ",
       link: { href: "/wrap", label: "hemp" },
       after: " provides the tobacco-free outer structure.",
+    },
+    {
+      before: "Use the ",
+      link: { href: "/ritual", label: "infused blunt ritual guide" },
+      after: " for storage, lighting, relighting, pacing, and sharing.",
+    },
+    {
+      before: "Open the ",
+      link: { href: "/compare", label: "blunt comparison hub" },
+      after: " when the question is how rolled formats differ.",
     },
     {
       before: "See how each ",
