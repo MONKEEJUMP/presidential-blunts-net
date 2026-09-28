@@ -376,10 +376,11 @@ export const comparePages: PageContent[] = [
     title: "Blunt vs Spliff: Key Differences | Presidential Blunts",
     description:
       "Learn the definitions of blunt and spliff, why the terms overlap in conversation, and where a tobacco-free hemp blunt fits.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt describes a wrapped format with a thicker outer layer, while a spliff traditionally describes cannabis and tobacco combined inside rolling paper. A Presidential blunt uses a neutral hemp wrap and a flower, concentrate, and kief interior, making it fully tobacco free. The position of the tobacco—and Presidential's use of hemp—separates the terms clearly.",
       "Everyday conversation sometimes groups rolled formats together because they share a familiar silhouette. Construction provides the reliable definition: identify the outer material, then identify what sits inside it.",
+      "On a licensed blunt or pre-roll shelf, those two builds can sit near each other under similar rolled silhouettes. The useful first questions are wrap and fill, not packaging art or a casual nickname. Reading the outside material, then the ingredient statement, turns a crowded display into a clear blunt-versus-spliff comparison for adult shoppers 21+.",
     ],
     sections: [
       {
@@ -388,6 +389,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A traditional blunt uses tobacco leaf as its wrap, often from a cigar or cigarillo that has been emptied and refilled. Presidential builds the blunt format with hemp instead. The thicker hemp wrap keeps the format's capacity and slower-burning character while giving it a neutral taste and tobacco-free construction.",
           "A spliff traditionally places tobacco together with cannabis in the fill and surrounds that mixture with rolling paper. The defining tobacco is therefore inside the paper. Reading the two formats from outside inward makes the distinction easy to keep: thicker wrap and larger capacity identify the blunt structure; a cannabis-and-tobacco fill identifies the traditional spliff structure.",
+          "That outside-inward order also travels well across a licensed retail display. Two packages can share a rolled outline while still describing different materials. When the wrap is hemp or another non-tobacco leaf substitute and the fill stays cannabis-only, the build belongs with the blunt family in Presidential's vocabulary. When thin paper surrounds a cannabis-and-tobacco mixture, the traditional spliff definition is the better fit. Keeping the comparison on construction prevents nicknames from standing in for the wrap and fill.",
         ],
       },
       {
@@ -396,6 +398,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Both are rolled formats, and both can be held, lit, and shared in a similar way. That visible resemblance explains why casual language can blur the names. A construction-based vocabulary restores precision and keeps the topic simple.",
           "Ask two direct questions. What material forms the outside layer? What materials form the fill? A thick wrap around flower points to the blunt family. Thin paper around cannabis combined with tobacco points to the traditional spliff family. Thin paper around flower corresponds to a joint or pre-roll, depending on how it was prepared and presented.",
+          "Label literacy keeps those answers honest on the shelf. Look for wrap or paper language, ingredient statements, net weight, and batch or lot identifiers where the market requires them. Those details describe what is around the fill and what sits inside it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and spliff construction without treating a casual nickname as a substitute for the current label.",
         ],
       },
       {
@@ -404,6 +407,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Presidential occupies a clear place in this comparison. Its blunt uses hemp wrap, and the entire format is tobacco free. Inside are three layers: flower, concentrate, and kief. The Infusion System carries distillate through the flower, and collected kief trichomes form the final layer.",
           "That build preserves the thicker wrap, greater material volume, slower burn, and longer heat retention associated with a blunt. At the same time, the neutral hemp wrap allows the contents to lead the taste. The result is best described directly as an infused, tobacco-free hemp blunt.",
+          "Because Presidential keeps tobacco out of both wrap and fill, the product should not be read as a spliff even when someone uses that word casually for any rolled format. The accurate shelf language stays blunt-first: hemp wrap outside, cannabis construction inside, no tobacco leaf and no tobacco mixed into the fill. Series names and strain labels refine the recipe after that construction is clear.",
         ],
       },
       {
@@ -412,6 +416,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "The hemp blunt's thicker wrap and greater volume support a slower pace than thin rolling paper. Concentrate adds density and holds heat, so an infused blunt catches gradually and responds well to rotation in the flame. Even distribution through the flower helps the burn remain even, and relighting fits the format's deliberate rhythm.",
           "Taste follows construction as well. Traditional tobacco carries its own flavor. Presidential's hemp wrap is neutral, creating a clear path for the flower, extract, kief, and chosen profile inside the blunt.",
+          "Pace belongs with occasion rather than with medical framing. A traditional paper-wrapped spliff often moves on the quicker paper timeline once lit, while a thicker hemp blunt asks for more time at the flame and a session that can absorb the slower, heat-holding burn. Neither path is a dosing schedule; both are construction cues that help match wrap, fill, and available time without rushing the catch.",
         ],
       },
       {
@@ -421,6 +426,7 @@ export const comparePages: PageContent[] = [
           "A precise comparison gives every material an address. In a traditional spliff, rolling paper is outside and a combination of cannabis and tobacco is inside. In a Presidential blunt, hemp wrap is outside and the infused flower build is inside. This outside-and-inside method communicates more than the silhouette ever can, and it stays useful across mini and full-size versions.",
           "It also clarifies the role of flavor. Tobacco leaf or tobacco within the fill carries tobacco's own taste. Neutral hemp allows Presidential's selected materials to set the profile. Distillate can serve as a near-neutral base for deliberately added fruit-forward flavor, while live resin and live rosin provide their respective cannabis-forward and solventless extract paths. The wrap supports those choices through structure and a slower pace.",
           "Burn rate completes the description. Thin paper gives the traditional spliff its quick paper pace. The thicker hemp wrap, greater volume, and dense infusion give a Presidential blunt a longer, heat-holding pace. Material placement and burn behavior point to the same definition from two directions.",
+          "Solving wrap and fill in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Blunt versus spliff answers where tobacco sits—if it sits anywhere at all. Keeping those decisions separate makes a licensed shelf readable when packaging looks related at a glance.",
         ],
       },
       {
@@ -429,7 +435,55 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Use blunt for the thicker wrapped format with greater capacity and a slower burn. Use spliff for the traditional paper-wrapped combination of cannabis and tobacco. Use tobacco-free hemp blunt for the precise Presidential construction.",
           "That language communicates both form and material. It tells a reader how the product is wrapped, what the fill contains, and what kind of burn pace the structure supports. Clear naming makes the choice as straightforward as the build itself.",
+          "A practical order of decisions keeps the library usable. Confirm wrap and whether tobacco appears anywhere in the build, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/compare", label: "blunt comparison hub" },
+        after: " when you want every format guide in one place before narrowing to wrap, fill, or size.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when the outside material—not the traditional tobacco fill—is the main distinction on the shelf.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: " to separate thicker wrapped capacity from thin paper around flower alone.",
+      },
+      {
+        before: "Compare ready-to-light formats in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if wrap, fill density, and completion time still need separating after the spliff question is clear.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " once tobacco is ruled out and the remaining question is flower-only versus three-layer construction.",
+      },
+      {
+        before: "For catch technique on a thicker wrap, continue through the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after you know whether the format is a hemp blunt or a paper-wrapped traditional spliff.",
+      },
+      {
+        before: "When a denser blunt needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits thicker construction without treating it as a fault.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " after construction is chosen, so pace stays tied to available time rather than to dosing language.",
+      },
+      {
+        before: "Confirm how the tobacco-free outer layer frames the format in the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: ", then return here when the blunt-versus-spliff fill question is the remaining distinction.",
       },
     ],
     relatedLinks: [
@@ -456,6 +510,16 @@ export const comparePages: PageContent[] = [
         href: "/compare/infused-vs-non-infused",
         label: "See what infusion adds",
         description: "Explore flower, concentrate, and kief construction.",
+      },
+      {
+        href: "/ritual/how-to-light-one",
+        label: "Lighting for thicker wraps",
+        description: "Rotate and catch technique after choosing the format.",
+      },
+      {
+        href: "/wrap",
+        label: "Explore wrap materials",
+        description: "Keep the outer layer separate from the fill question.",
       },
     ],
     externalLink: {
