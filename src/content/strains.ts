@@ -8,10 +8,11 @@ export const strainsPage: PageContent = {
   title: "Blunt Strain and Catalog Guide | Presidential Blunts",
   description:
     "A standalone library of the 24 named strains available as Presidential blunts, with a guide to the six verified catalog groupings.",
-  wordTarget: [800, 950],
+  wordTarget: [1100, 1250],
   intro: [
     "The Presidential blunt library contains 24 named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. Individual strain pages belong to a later expansion, so this page serves as the complete strain index today.",
     "Presidential Blunts publishes this index as a catalog guide. Presidential is the brand and publisher, not a strain or cultivar name, so the page keeps named selections separate from the series and partnership labels used to organize them.",
+    "Adult readers 21+ can treat the hub as a browsing map: start with a familiar name, read the grouping notes for extract and catalog context, then move to format guides when the question shifts to wrap construction, size, or session pace. The index stays educational and construction-first, without medical claims, dosing language, or invented lab percentages.",
   ],
   sections: [
     {
@@ -19,6 +20,7 @@ export const strainsPage: PageContent = {
       heading: "All 24 Blunt Strains",
       paragraphs: [
         "Each name below is available as a blunt. The list presents the library without assigning individual strains to a series, leaving the series descriptions to explain their verified construction and catalog direction.",
+        "Scan the names as an equal index. A familiar selection can sit next to a newer label without implying ranking, potency, or a hidden series assignment. Until individual reference pages arrive, this roll call is the complete blunt-name layer of the catalog.",
       ],
       bullets: [
         "Cherry Gelato",
@@ -53,6 +55,18 @@ export const strainsPage: PageContent = {
       paragraphs: [
         "The Silver Flavor Series contains seven products built on distillate and has a fruit-forward direction. The Gold Strain Series contains 19 products built on live resin and has a cannabis-forward direction. Live resin begins with cannabis frozen at harvest rather than first dried and cured.",
         "The Rose Gold Connoisseur Series contains five products built on solventless live rosin, which uses ice water, heat, and pressure instead of chemical solvents. Three additional groupings complete the catalog structure: the Presidential Line with ten products, the Presidential House Line with three, and Presidential x THC Design with three. The collaboration uses flower cultivated by THC Design.",
+        "Together these six groupings form the verified catalog map. Extract-led series (Silver, Gold, Rose Gold) describe concentrate preparation and flavor direction. House and collaboration lines describe organizational structure. Counts across the six groupings total 47 products in the wider catalog, while this hub isolates the 24 names offered as blunts.",
+        "Reading the groupings as layers—not as a second strain list—keeps the index accurate. A series label explains construction and catalog direction. It does not rename a cultivar or invent a one-to-one map from every blunt name to a single series when the verified record does not publish that assignment here.",
+      ],
+    },
+    {
+      id: "names-to-formats",
+      heading: "How Names Map to Blunt Formats",
+      paragraphs: [
+        "A strain name answers which selection is on the package. A format answer is separate: tobacco-free blunt, mini, infused pre-roll, or Moon Rocks. This library focuses on the blunt format—a thicker hemp wrap around infused material—while the wider catalog still carries those other formats under the same brand umbrella.",
+        "Family language on this hub means catalog relationship, not botanical taxonomy invented here. Fruit-forward Silver and cannabis-forward Gold selections illustrate series direction; house and collaboration lines show who organized a grouping. None of those labels replace the blunt wrap, infusion system, or size choice.",
+        "When a reader moves from name to format, useful next questions stay construction-first: Is the outer layer a hemp blunt wrap or thinner paper? Is the scale full-size or mini? Is the comparison against an infused pre-roll or another rolled format? Those questions route to the wrap and compare hubs without a medical frame or a guessed potency story.",
+        "Every listed blunt name still returns to the same core construction cue. Presidential blunts are one hundred percent tobacco free. The neutral wrap lets flower, concentrate, kief, and the selected flavor direction define the finished profile. Series and line labels refine extract character and catalog placement; they do not invent a different wrap chemistry for each name.",
       ],
     },
     {
@@ -62,7 +76,16 @@ export const strainsPage: PageContent = {
         "A strain name and a series name provide two different entry points. The strain list supports browsing by a familiar selection, while the series description explains an extract base, flavor direction, or collaboration. Keeping those pieces distinct makes the library accurate and gives every name equal space until its own reference page is developed.",
         "Across the six groupings, the verified counts total 47 products. Those products appear in four formats—Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis—while this library focuses specifically on the 24 names available as blunts. The format focus makes the index easy to scan: every listed name belongs in the blunt conversation, and the surrounding series guide supplies the verified extract and catalog context readers can use alongside it.",
         "All of these selections return to the same blunt format: a thicker hemp wrap around infused material. Presidential blunts are one hundred percent tobacco free, and the neutral wrap lets the flower, concentrate, kief, and selected flavor direction define the finished profile. Readers who want the complete format overview can return to Presidential Blunts, while current retail availability is available through the licensed-retailer locator.",
-        "The standalone hub keeps every verified strain name visible in one place and provides a stable foundation for the individual reference pages planned for the later library expansion.",
+        "The hub keeps every verified strain name visible here as the foundation for later individual reference pages.",
+      ],
+    },
+    {
+      id: "browse-without-claims",
+      heading: "Browse Without Medical Claims",
+      paragraphs: [
+        "Use the hub as a catalog map, not a wellness guide. Names, series labels, and format notes describe what is published in the Presidential blunt library. They do not diagnose, treat, or promise an outcome. Skip invented dosing advice, lab percentages that are not on this page, and any reading that turns a fruit-forward or cannabis-forward series note into a medical claim.",
+        "A practical browse path stays concrete. Start with a name you recognize. Read the grouping section for extract base and catalog context. Open the wrap guide when outer construction matters, the compare hub when blunt-versus-pre-roll or mini-versus-full sizing is next, and the ritual guide when lighting, storage, or sharing is the next skill. Check the current package and licensed retailer for product-specific details this index does not invent.",
+        "Keeping medical language out protects accuracy. The page explains groupings, formats, and browsing steps so readers 21+ navigate with construction and catalog facts—not unverifiable claims.",
       ],
     },
     {
