@@ -734,10 +734,11 @@ export const wrapPages: PageContent[] = [
     title: "How Hemp Blunt Wraps Are Made | Presidential Blunts",
     description:
       "Follow the functional path from hemp fibre to a consistent finished blunt wrap, with attention to thickness, uniformity, and burn.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A hemp blunt wrap begins with hemp fibre and becomes a thin, flexible, consistent sheet sized to hold rolled material. The essential manufacturing goal is uniform function: dependable thickness, an even surface, and a finished form that can contain the filling, guide airflow, and support the blunt's slow burn. Those qualities become visible when the wrap meets flower, concentrate, kief, heat, and air.",
       "This reference follows the functional journey from plant fibre to a consistent finished wrap, then connects each manufacturing objective to the complete infused blunt.",
+      "Adult shoppers 21+ can treat manufacturing language as construction literacy rather than a factory tour or a medical claim. Reading for wrap material, format scale, and sheet consistency on a licensed package keeps attention on how the outer layer is built to perform beside flower, concentrate, and kief.",
     ],
     sections: [
       {
@@ -746,6 +747,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "The process starts with hemp as the material source. For a tobacco-free blunt, that choice is foundational: hemp supplies the outer layer in place of traditional tobacco leaf. The finished wrap therefore carries the blunt's structure while staying outside the tobacco-and-nicotine tradition associated with cigar or cigarillo leaf.",
           "At this stage, the important idea is material identity rather than a proprietary formula. The plant fibre must ultimately become a continuous sheet capable of bending around a roll. It needs enough substance to behave like a blunt wrap, which is thicker than the thin rolling paper used for a pre-roll and supports a slower, heat-holding format.",
+          "That identity also shows up on packaging. Labels that name hemp wrap or tobacco-free wrap are pointing at the outer sheet, not inventing a new interior. Keeping fibre choice attached to the wrap prevents nicknames from standing in for material, and it keeps the later questions of size, series, and infusion on their own terms.",
         ],
       },
       {
@@ -754,6 +756,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "Manufacturing turns the hemp material into a broad, coherent wrap surface. A continuous sheet gives the finished piece one unbroken boundary around the material inside. That boundary is what allows the wrap to hold a larger fill in shape and establish the outside of the airflow path.",
           "Consistency across the sheet matters because the wrap is active along its full length. The lit end meets heat, the body contains the unburned material, and air moves through the roll. A uniform surface lets each part participate in the same construction rather than introducing abrupt changes from one portion to the next.",
+          "Soft spots, pinched seams, or abrupt changes in gauge can leave one side catching ahead of the other even when the fill is prepared carefully. A uniform hemp sheet of blunt-scale thickness gives heat and air a continuous outer wall, which supports an even edge rather than a racing thin-paper seam. Sheet coherence is therefore a practical manufacturing objective before anything is lit.",
         ],
       },
       {
@@ -762,6 +765,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "The formed material must reach a useful thickness and a finished size. Thickness separates the wrap from pre-roll paper in functional terms: the blunt wrap surrounds more material, burns slower, and holds heat longer. Size gives the sheet enough area to enclose the intended roll.",
           "Full-size blunts and minis show how the same construction can be expressed at different scales. A mini is the same construction at a smaller size. The wrap still needs a consistent surface, an appropriate boundary around the contents, and the structural character of a blunt. Scale changes while the central role of the material stays the same.",
+          "Reading thickness and size as separate dials keeps shelf comparison clear. A thicker wrap preserves the blunt side of the format contrast with thin rolling paper; a shorter length shortens the session window without rewriting the outer material. Solving sheet gauge first, then format scale, then series direction keeps related packaging readable when outlines look similar at a glance.",
         ],
       },
       {
@@ -770,6 +774,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "Once the wrap has its final form, manufacturing quality becomes practical. A consistent piece can surround the filling with a dependable outer layer. It supports the shape of the roll, keeps the contents organized, and gives air and heat a stable boundary through the length of the product.",
           "This is also where neutrality serves the finished design. Presidential uses hemp wraps that stay neutral in flavour, allowing the flower, concentrate, kief, and selected series profile to lead. The final wrap is therefore evaluated by what it contributes—structure, pace, and a clear setting for the contents—across the complete blunt.",
+          "Label literacy ties that finished consistency to the purchase decision. Look for wrap material, net weight or format size, and series name in the same pass, along with any batch or lot identifiers the market requires. Those fields describe construction and aroma intent. They do not authorize medical promises. When hemp wrap and a named series appear together, the package is saying the outer layer stays quiet so the interior profile can remain recognizable from the first draw to the last.",
         ],
       },
       {
@@ -779,14 +784,70 @@ export const wrapPages: PageContent[] = [
           "Presidential's interior has three layers. Flower forms the base, concentrate is carried through the flower by the Infusion System, and kief is added last. Concentrate is dense and retains heat, so even distribution supports an even burn. The manufactured wrap gathers that prepared interior into one continuous, usable format.",
           "At lighting, the relationship becomes visible. Infused material takes longer to catch than flower, and rotating the end in the flame gives the dense roll time to establish an even light. The thicker hemp wrap then supports the slower burn and longer heat retention associated with a blunt. Relighting fits the same design. From fibre selection to finished session, manufacturing quality appears as consistency in shape, airflow, flavour neutrality, and pace.",
           "The finished piece can therefore be understood through observable functions rather than an invented factory recipe. It begins as hemp material, becomes a continuous flexible surface, reaches the thickness and size of the intended format, and arrives around the infused filling as a consistent wrap. When those stages align, the outer layer can perform all of its jobs at once. It contains more material than a paper pre-roll, supports an even airflow path, holds heat within a slower burn, and maintains the neutral taste that Presidential chose for the catalog.",
+          "Matching that pace to available time keeps the topic adult and construction-first. A full-size infused blunt asks for a session that can absorb a slower catch and an occasional relight; a mini keeps the same manufactured wrap logic in a shorter window. Humidity and pack density still matter after the first light, because an edge that was even at the start can drift if the remaining fill is uneven or overly dry. Returning the unburned portion to a cool, dark resting place protects the remaining material without inventing a new format. How wraps are made stays a description of sheet formation and finished function—not a claim about effects or outcomes.",
         ],
       },
     ],
     linkParagraphs: [
       {
+        before: "Begin with the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: " when you want manufacturing placed beside structure, material, tobacco-free definition, and flavour in one field guide.",
+      },
+      {
         before: "See how the finished wrap performs in the complete ",
         link: { href: "/", label: "blunt" },
         after: " reference.",
+      },
+      {
+        before: "Connect manufacture to the wrap's four jobs in the ",
+        link: { href: "/wrap/what-a-wrap-does", label: "what a wrap does guide" },
+        after: " once sheet formation and finished consistency are clear.",
+      },
+      {
+        before: "Read where sheet consistency meets pace in the ",
+        link: { href: "/wrap/burn-rate", label: "burn rate guide" },
+        after: " when evenness and session length follow from the thicker hemp format.",
+      },
+      {
+        before: "Place hemp material in the precise ",
+        link: { href: "/wrap/tobacco-free", label: "tobacco-free wrap guide" },
+        after: " after fibre choice is settled and the next question is the catalog definition.",
+      },
+      {
+        before: "Compare outer materials in the ",
+        link: { href: "/wrap/hemp-vs-tobacco", label: "hemp vs tobacco leaf guide" },
+        after: " when the shelf question is which wrap tradition is framing the format.",
+      },
+      {
+        before: "Connect the neutral outer layer to taste with the ",
+        link: { href: "/wrap/wrap-and-flavour", label: "wrap and flavour guide" },
+        after: " once manufacturing quality has explained why the sheet stays quiet.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when manufactured hemp needs a format-level contrast beside the paper tradition.",
+      },
+      {
+        before: "Match scale after sheet formation is settled in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full comparison" },
+        after: ", keeping size separate from wrap manufacture.",
+      },
+      {
+        before: "Place infusion beside the finished wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs non-infused comparison" },
+        after: " when the interior layers are the next construction variable.",
+      },
+      {
+        before: "Practice a measured catch on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after manufacturing expectations for density and pace are set.",
+      },
+      {
+        before: "Protect the unburned portion with the ",
+        link: { href: "/ritual/storage", label: "storage ritual page" },
+        after: " so humidity habits support an even later burn inside the same manufactured wrap.",
       },
     ],
     relatedLinks: [
@@ -795,6 +856,9 @@ export const wrapPages: PageContent[] = [
       { href: "/wrap/what-a-wrap-does", label: "Connect manufacture to wrap function" },
       { href: "/wrap/burn-rate", label: "Read where consistency meets burn rate" },
       { href: "/wrap/tobacco-free", label: "Place hemp material in context" },
+      { href: "/wrap/wrap-and-flavour", label: "Move from manufacture to flavour" },
+      { href: "/compare/hemp-wrap-vs-paper", label: "Contrast hemp wrap with rolling paper" },
+      { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
@@ -802,4 +866,5 @@ export const wrapPages: PageContent[] = [
       description: "See how Presidential presents its infused blunts.",
     },
   },
+
 ];
