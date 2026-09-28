@@ -406,10 +406,11 @@ export const ritualPages: PageContent[] = [
     title: "Infused Blunt Session Length | Presidential Blunts",
     description:
       "Understand how wrap thickness, material capacity, concentrate, and format size shape an infused blunt session.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "An infused blunt runs longer than a pre-roll because its thicker wrap carries more material, burns slower, and holds heat longer. Concentrate adds density and extends that deliberate burn behavior, while a mini offers the same construction at a smaller scale.",
       "Session length therefore comes from format and presents a flexible timeline. The clearest choice is to match the full-size blunt or mini to the occasion, then follow the natural lighting and relighting rhythm of the material.",
+      "On a licensed shelf, adult shoppers 21+ can treat session length as a format-and-occasion question rather than a dosing schedule. Reading wrap language, net weight, and whether the build is infused, then matching mini or full size to available time and company, keeps the timeline grounded in construction—not in medical claims.",
     ],
     sections: [
       {
@@ -419,6 +420,7 @@ export const ritualPages: PageContent[] = [
           "A blunt and a pre-roll use different outer materials. The blunt uses a thicker wrap, and the pre-roll uses thin rolling paper. The blunt also holds more material, which gives the flame a larger, denser construction to move through over the course of a session.",
           "Those characteristics make the blunt the slower format. The wrap and contents hold heat longer, while the larger capacity creates more distance from the opening light to the finish. The session follows that physical design at a measured tempo.",
           "The hemp wrap also stays neutral in taste, allowing the flower, concentrate, and kief to lead throughout that longer timeline. The session therefore combines added duration with a clear view of the three-layer build, all carried by the steady heat of the thicker format.",
+          "Label literacy makes that pace readable before anything is lit. A package that names hemp wrap or tobacco-free wrap, then lists a higher net weight than a paper pre-roll beside it, is pointing at a longer construction timeline. Thicker outer layer and greater fill capacity usually ask for more available time; thin paper and a lighter fill usually move on a quicker clock. The comparison stays descriptive of materials, not a promise about effects.",
         ],
       },
       {
@@ -427,6 +429,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "An infused blunt carries flower, concentrate, and kief. Concentrate is dense and holds heat, and the Presidential Infusion System distributes it through the flower before the kief layer is applied. Even distribution supports an even burn across the layered material.",
           "That density also explains the slower catch at the first flame and the natural place of relighting later. The session can include several heat cycles: an even opening light, a steady period of burn, a pause, and a gradual relight around the active edge.",
+          "Multiple heat cycles are a construction feature, not a fault. Dense concentrate and a thicker wrap retain warmth between turns, so setting the blunt down and returning to it fits the format. Gradual rotation reunites the circumference after a pause, and planning for those returns keeps the clock honest: lighting, draws, resting intervals, and the occasional steady relight.",
         ],
       },
       {
@@ -435,6 +438,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A mini uses the same construction at a smaller size. It keeps the blunt's thicker hemp wrap and infused build while presenting them on a more compact scale. A full-size blunt brings greater material capacity to the same basic ritual.",
           "This gives the format an immediate planning tool. Choose the mini when the occasion calls for the smaller expression, and choose the full blunt when the occasion has room for the longer expression. Both begin with steady rotation in the flame and support relighting as the dense material moves through its cycle.",
+          "Three cues organize the size choice without inventing dosing language: available time, company size, and format preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final decision, and net weight on the label simply confirms which scale left the licensed counter.",
         ],
       },
       {
@@ -443,6 +447,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The number of people participating shapes how the available time is used. One person can follow the burn directly, while a group adds passing and resting intervals. The blunt's slower burn and greater capacity give a shared session room to move through those turns.",
           "A mini can serve a compact gathering, and a full-size blunt can support a longer shared rhythm. The most useful measure is the occasion itself: the chosen size, the number of participants, and the familiar sequence of light, pass, pause, and relight.",
+          "Passing order and resting intervals are part of the timeline, not interruptions of it. A clear clockwise or counterclockwise sequence keeps the active edge moving; when the glow quiets, the next person rotates the end through the flame. Solo sessions skip the pass but still use the same edge reading and gradual returns. Session length is construction pace plus the gathering's natural rhythm.",
         ],
       },
       {
@@ -451,6 +456,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The active edge provides a practical marker throughout the session. An even glowing circumference shows the material moving together. A quieter glow during a resting interval signals the natural moment for another complete rotation through the flame.",
           "This approach keeps time connected to the format itself. The group or individual reads the edge, responds with gradual heat, and lets the dense construction resume its pace. Each heat cycle becomes a visible part of the full timeline.",
+          "Humidity and pack evenness can nudge how that edge behaves after the first light. A drifting glow is a cue to slow down, rotate fully, and restore an even ring rather than chase a hotter flame. Returning an unfinished portion to a cool, dark resting place protects the remaining material between sittings. Progress stays a visible construction story—edge, heat, pause, return—without medical or dosing advice.",
         ],
       },
       {
@@ -459,6 +465,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Presidential blunts span distillate-based, live-resin, live-rosin, Presidential, House, and THC Design groupings. Each direction brings its own flower, extract, and flavor context to the session, while the blunt format supplies the common structure of hemp wrap and infused material.",
           "That common structure makes planning repeatable. Choose the series, choose mini or full size, store it cool and dark, rotate it through the first flame, and use gradual relights as the session unfolds. Format decisions establish the scale, and visible heat cues carry it forward.",
+          "Series choice refines aroma and extract direction after size is settled—Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, or THC Design. None of those names change the lighting method: the hemp wrap still frames the build, concentrate still adds density, and mini or full size still sets how long the occasion should reserve. Keeping series after scale prevents a flavor preference from choosing the wrong session length.",
         ],
       },
       {
@@ -467,7 +474,55 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Storage, lighting, and relighting all contribute to the timeline. A cool, dark place supports the terpene-rich material before the session. A gradual rotating light gives the circumference an even glow, and a later relight restores that glow after a pause.",
           "Together, these steps make session length easy to understand as a format story. Thicker hemp wrap, more material, dense concentrate, and chosen size establish the pace. The ritual then follows those traits from the first flame through each steady return.",
+          "A practical order keeps the plan usable: confirm hemp wrap and infused construction on the label, choose mini or full size against available time and company, store cool and dark, rotate the opening light until the edge glows evenly, then follow the active circumference. When the glow quiets, relight gradually and continue. The sequence stays adult, construction-first, and free of medical language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/ritual", label: "ritual hub" },
+        after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
+      },
+      {
+        before: "Practice the opening catch on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one page" },
+        after: " once mini or full size is chosen and the first even glow matters.",
+      },
+      {
+        before: "When a denser build needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits thicker construction without treating it as a fault.",
+      },
+      {
+        before: "Fit capacity to a group with the ",
+        link: { href: "/ritual/sharing", label: "sharing ritual page" },
+        after: " after scale is clear and passing order becomes part of the timeline.",
+      },
+      {
+        before: "Protect the material before the clock starts with the ",
+        link: { href: "/ritual/storage", label: "storage ritual page" },
+        after: " so cool, dark habits support the session you planned.",
+      },
+      {
+        before: "Compare scales directly in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full-size blunt guide" },
+        after: " when the remaining question is capacity and occasion length.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: " if session length still needs a format-level contrast beside this timeline.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " when density and heat-holding behavior are the remaining variables.",
+      },
+      {
+        before: "Connect pace to wrap mechanics with the ",
+        link: { href: "/wrap/burn-rate", label: "burn rate guide" },
+        after: " once size is chosen and the next question is how heat travels through the sheet.",
       },
     ],
     relatedLinks: [
@@ -476,6 +531,9 @@ export const ritualPages: PageContent[] = [
       { href: "/ritual/sharing", label: "Fit the format to a group" },
       { href: "/ritual/how-to-light-one", label: "Start the session evenly" },
       { href: "/ritual/relighting", label: "Continue after a pause" },
+      { href: "/ritual/storage", label: "Prepare the blunt before the session" },
+      { href: "/compare/mini-vs-full", label: "Compare mini and full-size scales" },
+      { href: "/compare/blunt-vs-joint", label: "Compare blunt and joint timelines" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
