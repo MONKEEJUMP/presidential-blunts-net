@@ -86,6 +86,12 @@ export const comparePages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "This ",
+        link: { href: "/about", label: "brand" },
+        after: " and publisher page explains who stands behind this educational reference.",
+      },
+
+      {
         before: "Use the complete ",
         link: { href: "/", label: "Presidential Blunts homepage guide" },
         after: " to place every format comparison in the full infused-blunt context.",
@@ -432,6 +438,12 @@ export const comparePages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "Catalog ",
+        link: { href: "/strains", label: "strains" },
+        after: " and cultivar groupings sit on the strains hub.",
+      },
+
+      {
         before: "Start from the ",
         link: { href: "/compare", label: "blunt comparison hub" },
         after: " when you want every format guide in one place before narrowing to wrap, fill density, or completion time.",
@@ -761,6 +773,12 @@ export const comparePages: PageContent[] = [
       },
     ],
     linkParagraphs: [
+      {
+        before: "Catalog ",
+        link: { href: "/strains", label: "strains" },
+        after: " and cultivar groupings sit on the strains hub.",
+      },
+
       {
         before: "Start from the ",
         link: { href: "/compare", label: "blunt comparison hub" },

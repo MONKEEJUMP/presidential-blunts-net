@@ -62,6 +62,12 @@ export const aboutPage: PageContent = {
     },
   ],
   linkParagraphs: [
+      {
+        before: "Trace the three-layer ",
+        link: { href: "/wrap/how-wraps-are-made", label: "hemp" },
+        after: " wrap build on the how-wraps-are-made guide.",
+      },
+
     {
       before: "Start with the complete ",
       link: { href: "/", label: "Presidential Blunts homepage guide" },

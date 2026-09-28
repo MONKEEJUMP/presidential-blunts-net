@@ -82,6 +82,24 @@ export const ritualPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "This ",
+        link: { href: "/about", label: "brand" },
+        after: " and publisher page explains who stands behind this educational reference.",
+      },
+
+      {
+        before: "Trace the three-layer ",
+        link: { href: "/wrap/how-wraps-are-made", label: "hemp" },
+        after: " wrap build on the how-wraps-are-made guide.",
+      },
+
+      {
+        before: "Catalog ",
+        link: { href: "/strains", label: "strain" },
+        after: " or cultivar groupings sit on the strains hub.",
+      },
+
+      {
         before: "The complete ",
         link: { href: "/", label: "blunt" },
         after: " reference connects this ritual to construction, format, and the Presidential catalog.",
@@ -241,6 +259,12 @@ export const ritualPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "The outer ",
+        link: { href: "/wrap", label: "hemp" },
+        after: " wrap sets burn pace and flavour for this format.",
+      },
+
+      {
         before: "Start from the ",
         link: { href: "/ritual", label: "ritual hub" },
         after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
@@ -354,6 +378,12 @@ export const ritualPages: PageContent[] = [
       },
     ],
     linkParagraphs: [
+      {
+        before: "The outer ",
+        link: { href: "/wrap", label: "hemp" },
+        after: " wrap sets burn pace and flavour for this format.",
+      },
+
       {
         before: "Start from the ",
         link: { href: "/ritual", label: "ritual hub" },
@@ -497,6 +527,12 @@ export const ritualPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "The outer ",
+        link: { href: "/wrap", label: "hemp" },
+        after: " wrap sets burn pace and flavour for this format.",
+      },
+
+      {
         before: "Start from the ",
         link: { href: "/ritual", label: "ritual hub" },
         after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
@@ -638,6 +674,12 @@ export const ritualPages: PageContent[] = [
       },
     ],
     linkParagraphs: [
+      {
+        before: "The outer ",
+        link: { href: "/wrap", label: "hemp" },
+        after: " wrap sets burn pace and flavour for this format.",
+      },
+
       {
         before: "Start from the ",
         link: { href: "/ritual", label: "ritual hub" },
