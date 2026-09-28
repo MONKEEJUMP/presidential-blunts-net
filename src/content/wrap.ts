@@ -9,11 +9,12 @@ export const wrapPages: PageContent[] = [
     title: "Hemp Wraps and Infused Blunts — The Wrap Reference",
     description:
       "A focused guide to hemp blunt wraps, including taste, burn rate, airflow, tobacco-free construction, and how wraps are made.",
-    wordTarget: [850, 1000],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt wrap holds the material together, manages airflow, sets the pace of the burn, and influences what reaches the palate. Presidential uses a neutral hemp wrap across its blunt catalog, creating a tobacco-free format in which the flower, concentrate, and kief remain at the center of the taste.",
       "This reference follows the wrap from its basic purpose through its finished performance. Each guide isolates one part of the subject, then connects it to the complete infused blunt format.",
       "Presidential Blunts publishes this hub as a construction reference for the hemp-wrapped format. Presidential is the brand and publisher, not a strain or cultivar. The library separates the outer material from the flower and infusion inside so readers can compare one part of the roll at a time.",
+      "Adult readers 21+ can use this hub as a materials map: outer sheet, hemp versus other wraps, burn and flavour with infusion, then child links—without medical claims or invented lab percentages.",
     ],
     sections: [
       {
@@ -30,6 +31,7 @@ export const wrapPages: PageContent[] = [
           "A wrap is the continuous outer material closed around the fill. It holds the roll's shape, establishes the outside boundary of airflow, and stays present as heat moves down the roll. Material type, thickness, uniformity, and fit determine whether that layer behaves like thin rolling paper, a tobacco-leaf shell, or a hemp blunt wrap.",
           "Rolling paper creates a lighter outer layer around a joint or pre-roll. Traditional blunt construction uses tobacco leaf, which contributes tobacco taste and nicotine through the wrap itself. A formed hemp wrap keeps the substantial outer structure associated with a blunt while leaving tobacco leaf outside the build. These are construction distinctions, not a quality ranking, and they can be checked before size, infusion, or flavour is considered.",
           "Use the hub in that same order. Start with the wrap's basic jobs, then identify hemp or tobacco as the material. Confirm what tobacco free means, follow how hemp becomes a finished sheet, and examine burn rate after the full construction is clear. The flavour guide comes last because taste reflects both the wrap and the contents it surrounds. That sequence keeps the Presidential Blunts brand separate from cultivar names and keeps each guide focused on one practical question.",
+          "On a licensed label, treat wrap materials as named sheets—hemp, tobacco-free, tobacco leaf, or rolling paper—so the blunt outline never stands in for the outer layer.",
         ],
       },
       {
@@ -37,6 +39,7 @@ export const wrapPages: PageContent[] = [
         heading: "Hemp and tobacco leaf traditions",
         paragraphs: [
           "Traditional blunts use tobacco leaf, often from a cigar or cigarillo that is emptied and refilled. That leaf carries nicotine and a tobacco taste. A hemp wrap creates a different tradition: it is tobacco free and neutral in flavour. The hemp and tobacco leaf comparison looks at what each wrap contributes to taste, burn, and the identity of the finished blunt.",
+          "Hemp versus other wraps is a materials contrast, not a ranking: tobacco leaf joins every draw, thin paper runs lighter, and hemp keeps blunt-scale thickness without tobacco.",
         ],
       },
       {
@@ -51,6 +54,7 @@ export const wrapPages: PageContent[] = [
         heading: "How the wrap sets the pace",
         paragraphs: [
           "A blunt uses a thicker wrap than a pre-roll, holds more material, burns slower, and holds heat longer. Airflow, density, and the distribution of infused material all meet at the wrap. The burn-rate guide shows how those elements work together, why infused material takes a measured light, and how a slow pace defines the blunt as a session format.",
+          "With infusion, concentrate holds heat, so wrap thickness and an even fill support a measured catch rather than a racing thin-paper edge—burn stays construction, not dosing.",
         ],
       },
       {
@@ -58,6 +62,7 @@ export const wrapPages: PageContent[] = [
         heading: "A window onto flavour",
         paragraphs: [
           "A neutral hemp wrap lets the flower, concentrate, kief, and deliberately built flavour profile speak clearly. That matters in a three-layer construction, where each inner layer has its own role. The wrap-and-flavour guide follows taste from the outer layer inward and examines how neutrality makes the wrap feel more like a window onto the contents than an added flavour of its own.",
+          "Infusion keeps neutrality part of flavour design: Silver, Gold, and Rose Gold stay recognizable because the outer sheet adds no tobacco note.",
         ],
       },
       {
@@ -65,6 +70,13 @@ export const wrapPages: PageContent[] = [
         heading: "From hemp fibre to finished wrap",
         paragraphs: [
           "A finished hemp wrap turns plant fibre into a consistent sheet that can hold a roll and support a steady path for air and heat. Thickness, uniformity, and a dependable finished shape are the qualities that become visible during lighting and burning. The manufacturing guide follows that functional journey and shows how consistency at the wrap stage carries through to the complete blunt.",
+        ],
+      },
+      {
+        id: "catalog-navigation",
+        heading: "How to navigate the wrap catalog",
+        paragraphs: [
+          "Browse in order: four jobs, hemp versus other wraps, tobacco-free meaning, manufacturing, burn rate, then flavour. Each child link isolates one wrap question; return here or continue to blunt, ritual, or compare hubs when the next question leaves the outer sheet.",
         ],
       },
     ],
