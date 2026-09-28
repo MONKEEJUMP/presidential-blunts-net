@@ -605,10 +605,11 @@ export const comparePages: PageContent[] = [
     title: "Mini vs Full Blunt Comparison | Presidential Blunts",
     description:
       "Compare mini and full-size blunts by construction, capacity, session length, sharing, and occasion in the clear Presidential Blunts format guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A mini blunt uses the same core construction as a full-size blunt at a smaller size. The mini suits a shorter session or fewer people, while the full-size format brings more material, a longer burn, and more room for sharing. The choice is about scale rather than a different definition of the blunt.",
       "That shared construction matters. Both sizes can use the same tobacco-free hemp wrap and the same flower, concentrate, and kief layering, so size can be chosen after the desired format and profile are already clear.",
+      "On a licensed blunt shelf for adult consumers 21+, mini and full-size packages can share a brand line, wrap material, and recipe language while still naming different capacities. The useful first questions are net weight, fill volume, and intended session length—not packaging art or a casual nickname. Once construction is confirmed as a hemp-wrapped blunt, scale becomes a practical fit to time and company rather than a new format category.",
     ],
     sections: [
       {
@@ -617,6 +618,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A mini keeps the recognizable blunt structure: a thicker wrap, more deliberate burn behavior than thin paper, and capacity for an infused interior. Its smaller dimensions make the session compact. A full-size blunt expands that structure, increasing the amount of material and the time the format can remain in rotation.",
           "Presidential rolls in neutral hemp wraps across the blunt catalog. The wrap is tobacco free and lets the interior lead the taste. Because this foundation remains consistent, comparing mini and full size can stay centered on practical questions of time, company, and desired volume.",
+          "Reading the two sizes side by side on a licensed shelf keeps the comparison honest. Look for wrap language, ingredient statements, net weight, and batch or lot identifiers where the market requires them. Those cues describe how much material each format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult shoppers 21+ can treat mini and full as the same blunt vocabulary at two scales once the package confirms hemp wrap and fill construction.",
         ],
       },
       {
@@ -625,6 +627,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "The infused build has three layers: flower, concentrate, and kief. Presidential's Infusion System distributes distillate through the flower, then places the kief layer last. The mini carries that same layered idea in a smaller package; the full blunt gives the build more room.",
           "This consistency makes size selection simple. A reader can first choose an extract and profile across Presidential's series, then choose the amount of format suited to the occasion. The mini is a true blunt at a reduced scale, rather than a shift to thin rolling paper or a different outer material.",
+          "Keeping construction first also prevents related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Mini versus full answers only scale once those decisions are settled. Series names and strain labels refine the recipe after the wrap and size are clear, so a smaller blunt is never mistaken for a paper joint simply because the package looks compact.",
         ],
       },
       {
@@ -633,6 +636,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A full-size blunt holds more material, so it supports a longer session. A mini holds less and reaches its finish sooner. Both retain the slower-burning character created by the thicker wrap, while their different capacities create two useful time windows.",
           "Infused material adds density in both cases. Concentrate holds heat and takes time to catch, making a steady light part of either size. Rotate the blunt in the flame and let the circumference establish itself. A relight belongs comfortably within the format's dense construction and extends the session at its natural pace.",
+          "Pace belongs with occasion rather than with medical framing. A mini often fits a concise window once the catch is established, while a full-size blunt asks for more available time and a session that can absorb the longer, heat-holding path. Neither path is a dosing schedule; both are construction cues that help match capacity to the clock without rushing the light or treating size as a substitute for labeled ingredients.",
         ],
       },
       {
@@ -641,6 +645,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "The mini fits naturally with a smaller circle or a compact individual occasion. The full-size blunt supplies greater capacity for passing through a group. Since a blunt burns more slowly and holds heat longer than a pre-roll, either size offers a deliberate rhythm; the full format simply carries that rhythm further.",
           "Think in terms of fit. A small amount of time and a small group point toward the mini. A broader window and more people point toward the full size. Choosing by company helps the format arrive at a comfortable scale from the first light to the finish.",
+          "Sharing still follows the same hemp-wrap manners at either scale: establish an even light, pass with care, and let the denser infused construction hold heat between turns. The mini simply covers fewer passes before it finishes; the full-size blunt keeps the rotation available longer. Scale changes how far the format can travel through a circle, not whether the build remains a tobacco-free blunt.",
         ],
       },
       {
@@ -650,6 +655,7 @@ export const comparePages: PageContent[] = [
           "Three cues organize the choice: time, company, and format preference. Time establishes the desired session length. Company establishes how much sharing capacity belongs in the plan. Format preference confirms that the thicker hemp wrap, slower burn, and infused construction are the characteristics being selected. Once those cues align, mini or full size becomes a practical final decision.",
           "The same cues also help with lighting. Either size benefits from a steady rotation in the flame because its concentrate content catches gradually. The mini reaches an established burn across a smaller circumference and carries less total material. The full-size blunt establishes the same kind of light across a larger format, then holds heat through its longer path. Scale changes the duration while the lighting method stays familiar.",
           "A size choice can remain flexible from one occasion to the next. The mini brings the construction into a concise window, and the full-size blunt expands it for time and sharing. The consistent hemp wrap and layered interior keep the format recognizable at either scale.",
+          "A practical order of decisions keeps the library usable. Confirm wrap and fill construction first, decide whether the interior should stay flower-only or take a layered infused path, then match mini or full size to time and company. Lighting, relighting, and storage guides can follow once scale is chosen, because catch technique and storage habits respond to wrap thickness and fill density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
       },
       {
@@ -658,7 +664,60 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Presidential offers strains as blunts across several series, including fruit-forward distillate builds, cannabis-forward live resin builds, solventless live rosin builds, and collaboration lines. Size is one decision within that wider selection rather than the whole identity of the product.",
           "Choose the series and strain profile, then set the scale. Mini means the same blunt idea in a concise format. Full size means more capacity, more time, and more opportunity to share. Both preserve the defining hemp-wrap construction.",
+          "When the shelf shows the same series in more than one size, treat the shared recipe as settled and let capacity finish the purchase. Confirm the tobacco-free hemp wrap, read net weight and ingredient language on the current package, and pick the scale that fits the occasion. The mini keeps Presidential's layered blunt idea compact; the full-size format stretches the same idea across a longer session without changing what a blunt is.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/compare", label: "blunt comparison hub" },
+        after: " when you want every format guide in one place before narrowing to wrap, size, or session length.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: " when wrap thickness and paper pace still need separating before the mini-or-full scale question.",
+      },
+      {
+        before: "Compare ready-to-light formats in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if wrap, fill density, and completion time still need clarifying after size is settled.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " once scale is chosen and the remaining question is flower-only versus three-layer construction.",
+      },
+      {
+        before: "Confirm the outer layer in the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when the shelf still mixes paper and wrap language around similarly sized packages.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " after construction and scale are chosen, so pace stays tied to available time rather than to dosing language.",
+      },
+      {
+        before: "For catch technique on either size, continue through the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " once you know whether the format is a mini or full hemp blunt.",
+      },
+      {
+        before: "When a denser blunt needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits thicker construction at either scale.",
+      },
+      {
+        before: "Plan a group rotation with the ",
+        link: { href: "/ritual/sharing", label: "sharing ritual page" },
+        after: " after you decide whether mini or full size supplies enough capacity for the circle.",
+      },
+      {
+        before: "Confirm how the tobacco-free outer layer frames the format in the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: ", then return here when the mini-versus-full size question is the remaining distinction.",
       },
     ],
     relatedLinks: [
@@ -685,6 +744,21 @@ export const comparePages: PageContent[] = [
         href: "/compare/blunt-vs-joint",
         label: "Choose between blunt and joint",
         description: "Match wrap thickness and session length to the occasion.",
+      },
+      {
+        href: "/ritual/session-length",
+        label: "Plan session length",
+        description: "Tie mini or full capacity to the time available.",
+      },
+      {
+        href: "/ritual/sharing",
+        label: "Sharing and rotation",
+        description: "Match group size to blunt capacity after choosing scale.",
+      },
+      {
+        href: "/wrap",
+        label: "Explore wrap materials",
+        description: "Keep the outer layer separate from the size question.",
       },
     ],
     externalLink: {
