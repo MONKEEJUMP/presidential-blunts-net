@@ -155,10 +155,11 @@ export const ritualPages: PageContent[] = [
     title: "How to Light an Infused Blunt | Presidential Blunts",
     description:
       "Learn how gradual heat, steady rotation, and an even glowing edge create a balanced first light for dense material in the Presidential Blunts guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Light an infused blunt by placing the end in the flame, rotating it steadily, and giving the full edge time to catch. Infused material lights more gradually than flower because its concentrate is dense and holds heat, so a patient, even rotation creates the strongest start.",
       "The goal is a continuous glow around the edge. Once the circumference carries that glow, the flower, concentrate, kief, and hemp wrap can move forward together at the slower pace built into the format.",
+      "Adult shoppers 21+ can treat the opening light as a construction step, not a rush. Thicker hemp wrap, denser fill, and evenly distributed concentrate ask for gradual heat. Reading the rim, completing each turn, and waiting for a connected ring keeps the first light construction-first and free of medical or dosing language.",
     ],
     sections: [
       {
@@ -167,6 +168,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A Presidential blunt brings three layers into one construction: flower, concentrate, and kief. Concentrate is dense and holds heat. The Presidential Infusion System carries distillate through the flower, and the kief layer finishes the build. The first light therefore warms a richer structure than the flower and thin paper of a pre-roll.",
           "That density gives the lighting step its deliberate character. A pre-roll uses thin rolling paper and finishes quickly. A blunt uses a thicker wrap, carries more material, burns slower, and retains heat longer. The opening flame begins that larger heat cycle, and a measured start suits it perfectly.",
+          "Expecting a gradual catch prevents holding the flame on one spot until a hot corner races ahead of the rim. Dense concentrate stores heat once it arrives, so patience at the opening pays forward through the first draws.",
         ],
       },
       {
@@ -175,6 +177,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Hold the end where the flame can meet the full rim, then turn the blunt at a steady rate. Each rotation introduces heat to a new part of the circumference. Continue the motion until the edge shows an even ring of active glow. This movement matches the same principle that supports the construction: evenly distributed concentrate burns evenly.",
           "The rotation can be smooth and unhurried. A complete turn gives every section of the edge its moment in the flame, while another turn deepens the catch. The wrap and contents then reach their working temperature together. The result is a clear starting line with a full ring of balanced light.",
+          "Keep the flame at the rim rather than burying the tip deep into a torch. Soft contact plus continuous turning shares heat without a scorched pocket. If one arc lights faster, slow the turn and give quieter sections another pass until the ring looks continuous.",
         ],
       },
       {
@@ -183,6 +186,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "An even light looks like a connected glowing edge around the end of the blunt. The ring shows that heat has reached the full circumference. Small areas can receive another pass through the flame, using the same rotation until the whole rim joins the glow.",
           "This visual check keeps the ritual simple. Watch the edge, add heat where the glow is still forming, and let the dense contents respond. Concentrate stores that heat once it arrives, while the thicker hemp wrap supports the slower burn that distinguishes a blunt from a paper pre-roll.",
+          "A one-sided or broken glow is information, not failure. Return that quieter segment to the flame with the same complete rotation, then recheck the circumference. The first light finishes when the ring looks connected—not when the tip first shows a bright spot.",
         ],
       },
       {
@@ -191,6 +195,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Presidential uses a hemp wrap across its blunts. The wrap is one hundred percent tobacco free and neutral in taste, so the material inside leads the flavor. This makes the lighting step a direct introduction to the flower, concentrate, and final kief layer.",
           "The catalog carries distillate-based, live-resin, live-rosin, Presidential, House, and THC Design groupings. Each build still benefits from the same even opening heat. The format stays consistent while the material inside supplies its own direction.",
+          "Because the wrap stays neutral, the opening glow lets flower and extract directions present themselves without a competing paper taste. Lighting evenly protects that introduction—a scorched corner muddies what the wrap was meant to leave clear.",
         ],
       },
       {
@@ -199,6 +204,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The catalog presents several approaches to infused material. The Silver Flavor Series uses distillate and follows a fruit-forward direction. The Gold Strain Series uses live resin for a cannabis-forward direction, while the Rose Gold Connoisseur Series uses solventless live rosin. Presidential, House, and THC Design groupings add further choices within the same broad format.",
           "Each series still gives the lighting ritual one consistent cue: give the dense infused material time to catch. Rotate the circumference, observe the forming glow, and continue until the ring appears connected. The series establishes the material direction, while the even first light establishes the burn.",
+          "Series choice refines aroma and extract character; it does not invent a new lighting method. Distillate, live resin, and live rosin remain dense concentrates inside a thicker wrap, so gradual heat and a complete turn still apply.",
         ],
       },
       {
@@ -207,6 +213,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A mini uses the same construction at a smaller size. That makes the lighting method easy to carry between formats. Place the end in the flame, rotate around the rim, and look for an even glow that follows the circumference of the chosen size.",
           "A full-size blunt holds more material and supports a longer session. A mini presents the same layers in a compact format. The dimensions change, while the core visual language stays constant: gradual heat, complete rotation, and one balanced glowing edge.",
+          "Scale changes how long the first catch may take, not the shape of the ritual. A smaller circumference still needs a full turn; a larger one offers more rim for the same connected ring. Once the wrap is in hand, the lighting cue stays identical.",
         ],
       },
       {
@@ -215,7 +222,30 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "After the first glow forms, the session follows the slow-burning character of the blunt. Denser infused material may call for another light later, and that relight is part of the design. The same steady rotation renews the edge and carries the session onward.",
           "Storage also supports the next lighting ritual. A cool, dark place respects the terpenes, while a mini or full-size format lets the scale match the occasion. From the first turn in the flame to each later reset, the essential cue remains even heat around the edge.",
+          "Treat the opening light as the first beat in a longer clock of draws, rests, and occasional rim renewals. A heat-safe surface between turns and the same gradual rotation at each return keep the session aligned with thicker wrap and denser fill.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/ritual", label: "ritual hub" },
+        after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
+      },
+      {
+        before: "Renew a quiet edge later with the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " using the same gradual rotation that built the first connected glow.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " so the slower pace after the opening light stays tied to format rather than to dosing language.",
+      },
+      {
+        before: "Compare scale before the flame on the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full comparison" },
+        after: " once mini or full size is chosen and the first even glow matters.",
       },
     ],
     relatedLinks: [
