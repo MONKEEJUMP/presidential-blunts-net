@@ -167,10 +167,11 @@ export const wrapPages: PageContent[] = [
     title: "What an Infused Blunt Wrap Does | Presidential Blunts",
     description:
       "Learn how a blunt wrap provides structure, controls airflow, sets burn rate, retains heat, and influences flavour.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt wrap does four connected jobs: it holds the material in a stable shape, guides airflow through the roll, helps set the burn rate, and either contributes flavour or lets the contents lead. Because those jobs happen at once, changing the wrap changes the entire format more than its simple outer appearance suggests.",
       "Presidential uses a neutral hemp wrap, so its structural and burn roles stay present while the flower, concentrate, and kief define the taste.",
+      "On a licensed shelf, adult shoppers 21+ can treat those four jobs as a construction checklist before anything is lit. Reading the package for wrap material, format scale, and series direction keeps structure, airflow, pace, and flavour grounded in materials rather than medical claims or dosing advice.",
     ],
     sections: [
       {
@@ -179,6 +180,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "The first job is physical: the wrap keeps the rolled material together as one usable form. A blunt holds more material than a pre-roll, so the outer layer supports a larger, denser construction. That stable shape gives the contents a clear center and a continuous path from the lit end through the body of the roll.",
           "In an infused blunt, the contents are not one uniform ingredient. Flower forms the base, concentrate moves through it, and kief completes the three-layer construction. The wrap gathers those layers into a single format. Its fit helps the distributed material remain arranged as a roll rather than as separate components, which is the starting point for predictable airflow and an even burn.",
+          "Fit and sheet consistency make that structural job visible on the shelf. A smooth hemp wrap of blunt-scale thickness holds the layered fill in one continuous cylinder; soft spots, pinched seams, or abrupt changes in gauge can leave one side of the roll less supported than the other. Reading wrap language on a licensed label—hemp wrap, blunt wrap, or paper—helps set expectations for how the outer sheet will contain the fill before size or series is considered.",
         ],
       },
       {
@@ -187,6 +189,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "Air enters at the lit end and travels through the material when the blunt is drawn. The wrap defines the outer boundary of that route. A consistent boundary supports a consistent path, connecting the way a blunt is rolled to the way it burns. Thickness, density, and airflow therefore work as a system rather than as isolated features.",
           "The material inside matters just as much. Concentrate is dense and holds heat, and the Presidential Infusion System carries distillate through the flower rather than placing it only on the surface. Even distribution supports even burning. The wrap completes that arrangement by holding the infused flower in place and giving moving air one continuous roll to pass through.",
+          "Draw feel is the shopper's quick check on that path. A sealed, continuous wrap around an evenly arranged fill usually draws with a smooth resistance that matches blunt-scale construction. Soft spots, pinched seams, or a fill that leaves large voids create shortcuts for air and heat, so one side of the edge can run ahead. Keeping pack density even from tip to tip, and keeping the wrap smooth against the fill, is how airflow stays allied with the wrap's other jobs instead of undermining them.",
         ],
       },
       {
@@ -195,6 +198,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "A blunt uses a thicker wrap than a pre-roll, burns slower, and holds heat longer. The wrap is one reason the two formats move at different speeds. Its thickness surrounds a larger volume of material and supports the slower rhythm associated with a blunt. Heat remains part of the active roll for longer, while the contents advance at a measured pace.",
           "Infusion adds another part to that rhythm. Concentrate-rich material lights more slowly than flower, so a rotating flame and enough time to catch create the right beginning. Relighting also fits the construction because denser material continues at a slower pace. The wrap and the infused interior work together to make that behaviour coherent from the first light onward.",
+          "Matching that pace to available time keeps the topic adult and construction-first. A full-size infused blunt asks for a session that can absorb a slower catch and an occasional relight; a mini keeps the same wrap logic in a shorter window. Humidity and pack density still matter after the first light, because an edge that was even at the start can drift if the remaining fill is uneven or overly dry. Returning the unburned portion to a cool, dark resting place protects the remaining material without inventing a new format.",
         ],
       },
       {
@@ -203,6 +207,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "A wrap can bring its own taste or remain neutral. Traditional tobacco leaf carries a tobacco character along with nicotine. Hemp gives Presidential a tobacco-free, neutral outer layer. The distinction reaches every draw because the wrap is present around the full length of the material.",
           "Neutrality is an active design choice. It creates space for the flower, concentrate, kief, and selected flavour profile to remain recognizable as the contents of the blunt. This is especially relevant across Presidential's different series: distillate supports fruit-forward Silver products, live resin supports cannabis-forward Gold products, and solventless live rosin defines the Rose Gold Connoisseur Series. The same neutral wrap lets each interior construction keep its own identity.",
+          "Label literacy ties that taste role to the purchase decision. Look for wrap material, series name, and extract type in the same pass, along with any batch or lot identifiers the market requires. Those fields describe construction and aroma intent. They do not authorize medical promises. When hemp wrap and a named series appear together, the package is saying the outer layer stays quiet so the flower, concentrate, kief, and series profile can remain recognizable from the first draw to the last.",
         ],
       },
       {
@@ -212,7 +217,70 @@ export const wrapPages: PageContent[] = [
           "The wrap's jobs converge during a session. Its shape holds the three layers, its boundary guides airflow, its thickness contributes to the slow burn, and its neutrality keeps the taste centered on the material. None of those roles needs to compete with the others; a well-matched wrap performs them together.",
           "That combination explains why wrap choice changes more than appearance. It determines how the roll is organized, how air and heat move, how quickly the contents advance, and whether the outer layer adds a separate taste. In a Presidential blunt, hemp makes those decisions consistent across full-size blunts and minis, with the smaller format carrying the same basic construction at a smaller size.",
           "A simple way to read any wrap is to ask four questions in order. Does it keep the filling in one stable roll? Does it give air a consistent route? Does its thickness match the intended pace? Does its material support the flavour direction? Those questions translate an outer sheet into the practical experience of the format. For Presidential, hemp answers them with blunt-scale structure, a slow-burning boundary, and a neutral taste role around the infused interior.",
+          "Solving those questions in order also keeps a licensed shelf readable when packaging looks related at a glance. Identify the outer material first, then format scale, then series direction inside the shared wrap. A mini and a full-size blunt can share the same hemp jobs at different lengths; Silver, Gold, and Rose Gold can share the same neutral frame while differing by extract. The wrap stays one component with four jobs—not a claim about effects or outcomes.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Begin with the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: " when you want the wrap's four jobs placed beside material, manufacturing, tobacco-free definition, and flavour in one field guide.",
+      },
+      {
+        before: "Compare outer materials in the ",
+        link: { href: "/wrap/hemp-vs-tobacco", label: "hemp vs tobacco leaf guide" },
+        after: " when the shelf question is which wrap tradition is framing structure, pace, and taste.",
+      },
+      {
+        before: "Confirm the tobacco-free outer layer in the ",
+        link: { href: "/wrap/tobacco-free", label: "tobacco-free hemp wrap page" },
+        after: " if the remaining distinction is material choice rather than the four jobs themselves.",
+      },
+      {
+        before: "See how sheet consistency becomes a finished wrap in the ",
+        link: { href: "/wrap/how-wraps-are-made", label: "how wraps are made guide" },
+        after: ", then return here for the functional jobs that sheet supports.",
+      },
+      {
+        before: "Relate structure and airflow to pace with the ",
+        link: { href: "/wrap/burn-rate", label: "burn rate guide" },
+        after: " when thickness, density, and lighting need a dedicated session reading.",
+      },
+      {
+        before: "Move from the wrap's taste role to the palate with the ",
+        link: { href: "/wrap/wrap-and-flavour", label: "wrap and flavour guide" },
+        after: " once neutrality and series direction are clear.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when the four jobs need a format-level contrast beside the paper tradition.",
+      },
+      {
+        before: "Relate wrap jobs to ready-to-light builds in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if completion time and outer material are the practical shelf decision.",
+      },
+      {
+        before: "Place infusion beside wrap function in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs non-infused comparison" },
+        after: " when the interior layers are the next construction variable.",
+      },
+      {
+        before: "Match scale after wrap jobs are settled in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full comparison" },
+        after: ", keeping size separate from the outer sheet's four roles.",
+      },
+      {
+        before: "Practice a measured catch on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after structure, airflow, and pace expectations are set.",
+      },
+      {
+        before: "Protect the unburned portion with the ",
+        link: { href: "/ritual/storage", label: "storage ritual page" },
+        after: " so humidity habits support an even later burn inside the same wrap.",
       },
     ],
     relatedLinks: [
@@ -221,6 +289,10 @@ export const wrapPages: PageContent[] = [
       { href: "/wrap/burn-rate", label: "Examine how the pace is set" },
       { href: "/wrap/wrap-and-flavour", label: "Continue from structure into taste" },
       { href: "/wrap/how-wraps-are-made", label: "Follow the wrap back to its making" },
+      { href: "/wrap/tobacco-free", label: "Define the tobacco-free outer layer" },
+      { href: "/wrap/hemp-vs-tobacco", label: "Compare hemp with tobacco leaf" },
+      { href: "/compare/hemp-wrap-vs-paper", label: "Contrast hemp wrap with rolling paper" },
+      { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
@@ -228,6 +300,7 @@ export const wrapPages: PageContent[] = [
       description: "Explore Presidential blunts on the main product site.",
     },
   },
+
   {
     path: "/wrap/hemp-vs-tobacco",
     kind: "article",
