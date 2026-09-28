@@ -185,10 +185,11 @@ export const comparePages: PageContent[] = [
     title: "Blunt vs Joint: Key Differences | Presidential Blunts",
     description:
       "Compare a blunt and joint by wrap material, capacity, burn pace, heat retention, and session style in the official Presidential Blunts reference.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt uses a thicker wrap, holds more material, burns more slowly, and retains heat longer than a joint. A joint uses thin rolling paper, carries a lighter construction, and moves through a session more quickly. The useful choice comes down to desired size, pace, and whether the occasion calls for an extended or compact format.",
       "Those differences begin at the outside layer and continue through every practical part of the format. Wrap thickness shapes capacity, airflow, burn rate, heat, and the role the filled material plays in the overall taste.",
+      "On a licensed blunt or pre-roll shelf, both formats can share a rolled silhouette while still describing different wraps, sizes, and session lengths. The useful first questions are wrap and capacity, not packaging art or a casual nickname. Reading the outside material, then net weight and ingredient language, turns a crowded display into a clear blunt-versus-joint comparison for adult shoppers 21+.",
     ],
     sections: [
       {
@@ -197,6 +198,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "The clearest distinction is the material surrounding the fill. A joint uses thin rolling paper. A blunt uses a thicker wrap, and Presidential blunts use hemp for that job. The hemp wrap is tobacco free and neutral in taste, giving the flower, concentrate, kief, and selected flavor profile a clear position inside the finished format.",
           "Thickness is functional. It gives a blunt enough structure to hold more material and creates a slower path through the session. Thin paper gives a joint its lighter build and quickest pace. Each format is coherent because its outer layer, capacity, and intended rhythm work together.",
+          "That wrap-first order also travels well across a licensed retail display. Two packages can look related at a glance while still naming paper on one label and hemp wrap on the other. When the outside layer is thin rolling paper around flower, the build belongs with the joint family. When the outside layer is a thicker hemp wrap with greater fill capacity, the blunt vocabulary is the better fit. Keeping the comparison on construction prevents nicknames from standing in for the wrap.",
         ],
       },
       {
@@ -205,6 +207,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A blunt generally carries more material than a joint. That greater capacity supports an occasion with more time or more people, while a joint's smaller paper-wrapped build suits a concise session. Size here is more than a visual distinction: it influences how long the format remains in use and how often it can move around a group.",
           "Presidential also offers the mini, which keeps blunt construction at a smaller size. That creates a useful middle choice for someone who values the thicker hemp wrap and layered format in a compact package.",
+          "Label literacy keeps size honest on the shelf. Look for wrap or paper language, net weight, and batch or lot identifiers where the market requires them. Those details describe how much material the format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and joint capacity without treating a casual nickname as a substitute for the current label.",
         ],
       },
       {
@@ -213,6 +216,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A blunt burns more slowly and holds heat longer. Its thicker wrap and greater material volume create a deliberate pace. A joint's thin paper burns faster, so it reaches its finish sooner. This is the most immediate difference once the formats are lit, and it makes time available an easy way to choose between them.",
           "Infusion adds another layer to the blunt's burn behavior. Concentrate is dense and holds heat. When the concentrate is distributed evenly through the flower, the material can burn evenly; Presidential's Infusion System carries distillate through the flower, with the kief layer applied last. Infused material catches more slowly, so rotation in the flame gives it time to establish an even light. Relighting also fits the format's dense, slower-burning construction.",
+          "Pace belongs with occasion rather than with medical framing. A paper joint often moves on the quicker timeline once lit, while a thicker hemp blunt asks for more time at the flame and a session that can absorb the slower, heat-holding burn. Neither path is a dosing schedule; both are construction cues that help match wrap, size, and available time without rushing the catch.",
         ],
       },
       {
@@ -221,6 +225,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A neutral hemp wrap lets the material inside lead the taste. In a Presidential blunt, that interior can include flower, concentrate, and collected kief trichomes. The wrap provides structure and pace while the layered fill supplies the profile. Rolling paper gives a joint a thinner boundary around its flower and a quicker route through the material.",
           "This makes the comparison easy to frame: the blunt emphasizes capacity, heat retention, and an unhurried burn, while the joint emphasizes a light paper construction and fast completion.",
+          "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A joint comparison stays centered on thin paper and a lighter flower fill unless the package states otherwise.",
         ],
       },
       {
@@ -229,6 +234,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Set the two formats beside each other and the decision becomes visible. The blunt has a thicker boundary and space for a greater fill. The joint has a slim paper boundary and a smaller overall build. Follow that visual difference forward and it predicts the slower blunt burn, the quicker joint finish, and the different amounts of time each asks from the occasion.",
           "For an infused Presidential blunt, the inside adds flower, concentrate, and kief to that substantial hemp-wrapped shape. Concentrate carried through the flower adds density, while the final kief layer completes the construction. A joint keeps the comparison centered on thin paper and flower. The difference is therefore both outside and inside: wrap against paper, greater volume against compact volume, and layered infusion against a simpler fill when flower alone is used.",
+          "Solving wrap and size in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Blunt versus joint answers capacity and session length once the outer layer is known. Blunt versus spliff answers where tobacco sits—if it sits anywhere at all. Keeping those decisions separate makes a licensed shelf readable when packaging looks related at a glance.",
         ],
       },
       {
@@ -237,7 +243,55 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Choose a blunt when the occasion has room for a longer pace, a larger format, or sharing. Choose a joint when the available time favors a quick paper-wrapped session. Choose a mini blunt when the desired combination is hemp-wrap structure in a smaller size.",
           "The most useful answer stays practical. Look at the number of people, the time available, and whether the layered infused construction belongs in the plan. Those three cues point naturally toward full blunt, mini blunt, or joint.",
+          "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/compare", label: "blunt comparison hub" },
+        after: " when you want every format guide in one place before narrowing to wrap, size, or session length.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when the outside material—not capacity alone—is the main distinction on the shelf.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/blunt-vs-spliff", label: "blunt vs spliff guide" },
+        after: " when the remaining question is where tobacco sits, if it sits anywhere at all.",
+      },
+      {
+        before: "Compare ready-to-light formats in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if wrap, fill density, and completion time still need separating after the joint question is clear.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " once paper versus hemp wrap is settled and the remaining question is flower-only versus three-layer construction.",
+      },
+      {
+        before: "For catch technique on a thicker wrap, continue through the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after you know whether the format is a hemp blunt or a paper joint.",
+      },
+      {
+        before: "When a denser blunt needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits thicker construction without treating it as a fault.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " after construction is chosen, so pace stays tied to available time rather than to dosing language.",
+      },
+      {
+        before: "Confirm how the tobacco-free outer layer frames the format in the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: ", then return here when the blunt-versus-joint size and session question is the remaining distinction.",
       },
     ],
     relatedLinks: [
@@ -264,6 +318,21 @@ export const comparePages: PageContent[] = [
         href: "/compare/mini-vs-full",
         label: "Mini and full-size blunts",
         description: "See how blunt construction changes with size.",
+      },
+      {
+        href: "/compare/blunt-vs-spliff",
+        label: "Blunt vs spliff",
+        description: "Separate wrap capacity from any tobacco-fill question.",
+      },
+      {
+        href: "/ritual/how-to-light-one",
+        label: "Lighting for thicker wraps",
+        description: "Rotate and catch technique after choosing the format.",
+      },
+      {
+        href: "/wrap",
+        label: "Explore wrap materials",
+        description: "Keep the outer layer separate from the size question.",
       },
     ],
     externalLink: {
