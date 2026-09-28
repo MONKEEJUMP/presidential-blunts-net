@@ -380,10 +380,11 @@ export const ritualPages: PageContent[] = [
     title: "Complete Infused Blunt Storage Guide | Presidential Blunts",
     description:
       "Build a cool, dark storage routine around temperature, light, containers, and terpene-rich infused material with the Presidential Blunts guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Store an infused blunt in a cool, dark place inside a dedicated container. Heat and light take terpenes first, so stable temperature, shade, and an orderly home are the core of the storage routine.",
       "The same approach works before a first session and between sessions. A simple sequence of container, location, and return keeps every storage decision connected to the material inside.",
+      "Adult shoppers 21+ can treat storage as construction care, not a dosing schedule. Flower, concentrate, and kief hold aromatic terpenes that leave first when heat and light rise, so a dedicated container in a cool, shaded place protects the three-layer build before the first even glow and after every pause. The habit stays descriptive of materials and environment—free of medical claims.",
     ],
     sections: [
       {
@@ -392,6 +393,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Terpenes bring recognizable aromatic directions to the material, including peppery caryophyllene, pine-like pinene, musky myrcene, citrus limonene, and floral linalool. Heat and light reach those terpenes first, which makes a cool and dark setting the most useful storage priority.",
           "Choose a stable location where the temperature stays comfortably cool and deep shade surrounds the container. Repeating that placement turns the rule into a dependable habit. The blunt receives the same environment each time it returns to storage.",
+          "Practical placement follows the same cue. A drawer, cabinet, or shaded shelf away from windows, heaters, and parked-car heat keeps the container out of swinging temperature and direct sun. Cool and dark is not a special device requirement; it is a repeatable room choice that leaves the aromatic layers in a steadier state until the next session.",
         ],
       },
       {
@@ -401,6 +403,7 @@ export const ritualPages: PageContent[] = [
           "A dedicated container brings the storage plan into one defined place. Select a size that fits the blunt comfortably and can return to the same cool, dark location after each use. The container becomes the link between the material and its stable environment.",
           "This choice also makes format planning straightforward. A full-size blunt and a mini share the same three-layer construction at different sizes, so each can have a container matched to its dimensions. The guiding conditions remain identical: cool temperature and deep shade.",
           "Consistency gives the routine its value. One container, one stable location, and one return step create an easy pattern around the infused format. Each part reinforces the cool, dark principle that places terpene care at the center of storage.",
+          "Fit matters as much as location. The blunt should rest without being crushed, and the lid should close only after any remaining ember is fully out and the material has cooled. An opaque or shaded container in the same cool spot reduces stray light between sittings and keeps the home address of the format unmistakable.",
         ],
       },
       {
@@ -409,6 +412,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Presidential infused construction combines flower, concentrate, and kief. Kief consists of collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. The concentrate is carried through the flower, and the final kief layer completes the build.",
           "That layered material gives storage a clear purpose. The routine supports the full composition rather than the wrap alone. A neutral hemp wrap lets the contents lead the taste during the session, while the cool, dark setting gives those contents a consistent home beforehand.",
+          "Because the outer infused surface includes a kief finish over distributed concentrate, storage is about protecting the assembled structure, not only the hemp sheet. Avoiding heat spikes, bright light, and tight crush points helps those layers stay where they were built to sit until gradual flame brings the circumference back to an even glow.",
         ],
       },
       {
@@ -417,6 +421,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "When a session pauses, return the blunt to its dedicated container and place it back in the chosen location. The action is short, repeatable, and connected directly to the terpene rule. The container supplies the home; the location supplies coolness and darkness.",
           "At the next session, the lighting ritual begins with gradual heat. Rotate the infused blunt in the flame and let its dense material catch evenly. Storage and lighting work as two complementary stages: one maintains a stable setting, and the other introduces heat in a measured way.",
+          "A clean closeout keeps the next opening ready. Confirm the ember is fully out, allow the remaining portion to cool on a heat-safe surface, then place it in the fitted container only after it has cooled completely. That short sequence protects the terpene-rich layers between sittings and makes the cool, dark return automatic rather than improvised.",
         ],
       },
       {
@@ -425,6 +430,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The Silver Flavor Series is built on distillate, the Gold Strain Series on live resin, and the Rose Gold Connoisseur Series on solventless live rosin. The Presidential, House, and THC Design groupings broaden the catalog with more flower and extract combinations. Cool, dark storage gives all of these infused directions one clear home rule.",
           "Distillate supplies a near-neutral aromatic base when flavor is added deliberately. Live resin begins with cannabis flash-frozen at harvest, while live rosin begins with fresh-frozen material and uses an ice-water wash followed by heat and pressure. The extract paths vary, and the storage cue stays consistent.",
+          "Series choice refines aroma and extract direction after format size is settled; it does not invent a separate storage method. Mini or full size still gets a fitted container, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple cool, dark habit that protects every Presidential infused direction the same way.",
         ],
       },
       {
@@ -433,6 +439,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A complete storage routine can be read in three short steps. Place the infused blunt in its fitted container, return that container to the cool and shaded location, and bring it forward when the next session begins. The same sequence works for an intact format and for a pause between sessions.",
           "At that next opening, the heat strategy changes by design. Storage supplies coolness and darkness; lighting supplies a gradual flame around the circumference. Keeping those stages distinct gives the material a stable home followed by an even start.",
+          "Retrieval should stay patient. Bring the container forward, open it once the session is ready, and rotate the active end through the flame until the rim shows a connected glow. Do not rush heat to compensate for time in storage—the cool, dark setting was meant to hold the material steady, and gradual rotation is what activates the edge again.",
         ],
       },
       {
@@ -441,7 +448,55 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Time becomes easier to manage when the chosen format matches the occasion. A mini presents the same construction at a smaller size, while a full blunt carries more material and burns longer than a pre-roll. Selecting the scale beforehand can shape how much of the format the session uses.",
           "Whatever the format, the storage principle stays concise: a dedicated container, a cool location, and darkness. That trio respects the terpene-rich layers and makes the next step easy to remember. When the session resumes, an even rotation in the flame carries the ritual forward.",
+          "Occasion planning and storage reinforce each other. Choose mini or full size against available time and company, keep the unused portion cool and dark between sittings, and treat relighting as the measured return to flame when a pause quieted the edge. The sequence stays adult, construction-first, and free of medical language—format sets the clock; storage protects what remains on it.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/ritual", label: "ritual hub" },
+        after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
+      },
+      {
+        before: "Move from a cool home to an even opening on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one page" },
+        after: " once the container comes forward and gradual rotation matters.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " so mini or full size is chosen before storage protects what the timeline leaves unfinished.",
+      },
+      {
+        before: "When a denser build needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits thicker construction after a cool, dark pause.",
+      },
+      {
+        before: "Fit capacity to a group with the ",
+        link: { href: "/ritual/sharing", label: "sharing ritual page" },
+        after: " after scale is clear and resting intervals still return unfinished material to storage.",
+      },
+      {
+        before: "Compare scales directly in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full-size blunt guide" },
+        after: " when container fit and occasion length are still deciding which format to store.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if storage still needs a format-level contrast beside this cool, dark routine.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " when terpene-rich layers explain why heat and light are the first storage concerns.",
+      },
+      {
+        before: "Connect material care to wrap mechanics with the ",
+        link: { href: "/wrap/burn-rate", label: "burn rate guide" },
+        after: " once storage is set and the next question is how heat travels through the sheet.",
       },
     ],
     relatedLinks: [
@@ -450,6 +505,9 @@ export const ritualPages: PageContent[] = [
       { href: "/ritual/how-to-light-one", label: "Move from storage to an even light" },
       { href: "/ritual/session-length", label: "Choose a format for the occasion" },
       { href: "/ritual/relighting", label: "Return to a paused session" },
+      { href: "/ritual/sharing", label: "Fit storage to a shared pace" },
+      { href: "/compare/mini-vs-full", label: "Compare mini and full-size scales" },
+      { href: "/compare/infused-vs-non-infused", label: "Compare infused and regular builds" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/learn/flavor-science",
