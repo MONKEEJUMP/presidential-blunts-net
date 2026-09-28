@@ -82,6 +82,18 @@ export const wrapPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "This ",
+        link: { href: "/about", label: "brand" },
+        after: " and publisher page explains who stands behind this educational reference.",
+      },
+
+      {
+        before: "Catalog ",
+        link: { href: "/strains", label: "strain" },
+        after: " or cultivar groupings sit on the strains hub.",
+      },
+
+      {
         before: "Return to the complete ",
         link: { href: "/", label: "blunt" },
         after: " reference for the full infused format.",
@@ -234,6 +246,12 @@ export const wrapPages: PageContent[] = [
       },
     ],
     linkParagraphs: [
+      {
+        before: "Ritual ",
+        link: { href: "/ritual", label: "guides" },
+        after: " cover lighting, pacing, airflow, and storage.",
+      },
+
       {
         before: "Begin with the ",
         link: { href: "/wrap", label: "wrap hub" },
@@ -945,6 +963,12 @@ export const wrapPages: PageContent[] = [
       },
     ],
     linkParagraphs: [
+      {
+        before: "The ritual ",
+        link: { href: "/ritual", label: "guide" },
+        after: " covers lighting, pacing, airflow, and storage.",
+      },
+
       {
         before: "Begin with the ",
         link: { href: "/wrap", label: "wrap hub" },
