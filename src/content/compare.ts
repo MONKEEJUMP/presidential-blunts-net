@@ -22,6 +22,7 @@ export const comparePages: PageContent[] = [
         heading: "Blunt vs Joint",
         paragraphs: [
           "A blunt uses a thicker wrap and carries more material, while a joint uses thin rolling paper and follows a quicker pace. That construction gives the blunt a slower burn and longer heat retention. The full guide compares the two from the outside layer inward, then matches their different sizes and rhythms to different occasions.",
+          "Reading wrap thickness before nicknames keeps the joint comparison honest: thin paper and lighter capacity on one side, thicker hemp and greater fill on the other.",
         ],
       },
       {
@@ -74,6 +75,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Begin with the occasion, then choose the construction that supports it. Thin paper suits a quick finish. A mini brings blunt construction to a smaller session. A full-size infused blunt brings more material, a deliberate burn, and room for sharing. Once format is settled, the individual guides make the remaining distinctions simple.",
           "The comparisons also work together. Wrap and paper explain the outside layer, infused and regular explain the inside, and mini and full explain scale. Read in that order, the library becomes a practical map from construction to occasion.",
+          "Once wrap, fill, and size are settled, ritual pages for lighting and session pace can follow without rewriting the format definition for adult readers 21+.",
         ],
       },
       {
