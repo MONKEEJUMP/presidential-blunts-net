@@ -22,6 +22,7 @@ export const wrapPages: PageContent[] = [
         heading: "The four jobs of a wrap",
         paragraphs: [
           "The wrap gives a blunt its structure, but structure is only the beginning. Its thickness and fit shape the path air takes through the roll, the pace at which the material burns, and the way heat is retained. Its own character can also join the flavour or stay neutral. The guide to what a wrap does brings those four jobs together and explains why the outer layer has such a large role in the finished format.",
+          "Structure keeps the roll intact; airflow sets how freely a draw arrives; burn rate sets how quickly heat advances; taste decides whether the outer sheet stays quiet or joins the profile. Separating those four jobs keeps the hemp wrap from being confused with flower, concentrate, or kief inside the blunt.",
         ],
       },
       {
@@ -47,6 +48,7 @@ export const wrapPages: PageContent[] = [
         heading: "A precise tobacco-free definition",
         paragraphs: [
           "In a Presidential blunt, tobacco free means the outer wrap is hemp rather than tobacco leaf. That choice applies across the blunt catalog and gives the phrase a clear, practical meaning. The tobacco-free guide explains the material choice, the consistency it creates from one format to the next, and the way a neutral wrap keeps attention on what was rolled inside it.",
+          "That tobacco-free sheet is the shared construction cue across Silver, Gold, Rose Gold, and the wider blunt catalog: hemp outside, infusion inside. Verify the wrap material on the licensed label rather than inferring it from a strain name or series badge.",
         ],
       },
       {
@@ -70,6 +72,7 @@ export const wrapPages: PageContent[] = [
         heading: "From hemp fibre to finished wrap",
         paragraphs: [
           "A finished hemp wrap turns plant fibre into a consistent sheet that can hold a roll and support a steady path for air and heat. Thickness, uniformity, and a dependable finished shape are the qualities that become visible during lighting and burning. The manufacturing guide follows that functional journey and shows how consistency at the wrap stage carries through to the complete blunt.",
+          "Manufacturing consistency matters because a wrap that varies in thickness or edge quality changes how the roll catches and how evenly heat travels. This hub stays at the functional level—fibre to sheet to finished blunt—without inventing process percentages or laboratory claims.",
         ],
       },
       {
