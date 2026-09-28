@@ -787,10 +787,11 @@ export const comparePages: PageContent[] = [
     title: "Hemp Wrap vs Rolling Paper Guide | Presidential Blunts",
     description:
       "Compare hemp wraps and rolling papers by material, thickness, airflow, capacity, burn rate, heat, and taste in the Presidential Blunts guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A hemp wrap is thicker, holds more material, burns more slowly, and retains heat longer than rolling paper. Rolling paper is thin, creates a lighter format, burns fastest, and finishes quickest. Hemp suits the scale and pace of a blunt, while paper suits the compact pace of a joint or pre-roll.",
       "The outside material is active structure rather than decoration. It holds the fill together, carries airflow, sets the burn rate, and either contributes flavor or gives the contents room to lead.",
+      "On a licensed blunt or pre-roll shelf, hemp wraps and rolling papers can share a rolled outline while feeling different in the hand. Thickness, burn pace, and finished size are the practical cues adult shoppers 21+ can read before opening a pack. Comparing those cues—rather than packaging art alone—keeps the hemp-wrap-versus-paper decision construction-first and free of medical claims.",
     ],
     sections: [
       {
@@ -799,6 +800,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Presidential uses hemp wraps for its blunts. The wrap is 100% tobacco free and neutral in taste, keeping the finished format centered on what was rolled inside. Rolling paper is the thin outer layer associated with joints and pre-rolls. These two materials create distinct structures before size, flower, or infusion is considered.",
           "A thicker wrap gives a blunt enough support to carry more material. Thin paper keeps a joint or pre-roll light and compact. The choice of outer material therefore establishes both the name of the format and the scale it can comfortably hold.",
+          "Feel follows that material choice on the counter. A hemp wrap has more body between the fingers than thin rolling paper, and that tactile difference usually tracks with capacity and session length once the package is open. Reading the wrap or paper line on the label, then the net weight and ingredient statement, confirms whether the outer layer is hemp-based or paper before any nickname stands in for the build.",
         ],
       },
       {
@@ -807,6 +809,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Hemp wrap gives the blunt a substantial boundary around its fill. That structure pairs with the blunt's greater material volume and makes room for flower or a layered infused construction. Paper follows a smaller, quicker format and carries less material than a blunt.",
           "The mini shows how flexible hemp-wrap construction can be. It brings the same thicker-wrap identity to a smaller size, creating a compact option that remains clearly part of the blunt family. Full size expands capacity and lengthens the session, while paper remains the direct path to the fastest finish.",
+          "Size options sit on top of that thickness difference. Full-size hemp blunts lean into longer sessions and greater fill; mini hemp blunts keep the thicker-wrap identity at a shorter length; paper stays the compact path. Matching size to available time is a retail decision for adults 21+, not a dosing schedule—thickness and listed net weight describe the format, not how anyone should consume.",
         ],
       },
       {
@@ -815,6 +818,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A hemp-wrapped blunt burns more slowly and holds heat longer. Thin rolling paper burns fastest and finishes quickest. These are practical characteristics rather than abstract material differences: they determine how much time the format asks for and how naturally it can be shared.",
           "An infused interior adds density to the hemp-wrapped format. Concentrate retains heat and catches more gradually than flower. Rotating the blunt in the flame helps it establish an even light, and even concentrate distribution supports an even burn. A relight is part of the deliberate pace created by the dense fill and thicker wrap.",
+          "Burn behavior is what shoppers notice once the format is lit. Thicker hemp tends to ask for a measured catch and holds heat longer; thin paper usually finishes on a quicker timeline. Those are construction traits tied to wrap thickness and fill density. For a closer look at how pace is set after the material is chosen, the burn-rate guide belongs beside this comparison rather than replacing it.",
         ],
       },
       {
@@ -823,6 +827,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Traditional tobacco leaf carries its own taste. Presidential's hemp wrap is neutral, so the profile comes from the flower, concentrate, kief, terpenes, and any flavor added deliberately. The wrap behaves like a clear frame around those materials: present in structure and quiet in taste.",
           "That quality matters across the Presidential series. Distillate provides a near-neutral aromatic base for fruit-forward profiles. Live resin supports cannabis-forward profiles, and solventless live rosin anchors the Connoisseur Series. A neutral outside layer allows those different extract paths to remain legible in the finished blunt.",
+          "Label language also separates taste claims from structure. A tobacco-free hemp wrap statement tells you the outer layer is not tobacco leaf; it does not promise a medical outcome. Flavor and series names describe the fill path—flower, extract style, and any deliberate profile—while the wrap stays the quiet frame. Reading wrap first, then fill descriptors, keeps taste talk anchored to materials on the package.",
         ],
       },
       {
@@ -832,6 +837,7 @@ export const comparePages: PageContent[] = [
           "The outer material and inner fill work as one system. Hemp wrap supplies strength, capacity, and a slower rate around flower, concentrate, and kief. Paper supplies a thin, fast-burning boundary around the fill of a joint or pre-roll. Choosing the outside layer therefore sets the conditions in which the inside material will travel from first light to finish.",
           "Presidential's Infusion System is designed for the hemp-wrapped side of that comparison. Distillate runs through the flower, so dense concentrate is distributed within the fill, and kief goes on last. The wrap contains that layered construction and maintains its deliberate pace. With paper, the quickest burn remains the defining practical characteristic, making time and desired capacity reliable selection cues.",
           "The comparison can be read in one sequence: material, thickness, capacity, then pace. Hemp establishes a substantial tobacco-free wrap, greater fill, and longer burn. Paper establishes a thin boundary, compact fill, and quick finish. The inside recipe then adds the final level of detail.",
+          "Splitting the questions helps when related formats sit nearby. Hemp wrap versus paper answers the outer layer. Blunt versus spliff asks where tobacco sits, if it sits anywhere. Infused versus regular asks whether concentrate and kief join the flower. Solving those in order keeps a licensed display readable when silhouettes look related at a glance.",
         ],
       },
       {
@@ -840,7 +846,65 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Choose hemp wrap when the occasion calls for blunt capacity, a slower burn, longer heat retention, or an infused three-layer build. Choose rolling paper when the occasion calls for a light format and the quickest completion. Choose a mini blunt when the desired middle ground is hemp-wrap character at a smaller scale.",
           "A simple format check brings the whole comparison together. Look at thickness, then capacity, then the time available. Those cues make hemp wrap and paper easy to distinguish and easy to match to a session.",
+          "A practical shelf order keeps the library usable. Confirm whether the outer layer is hemp wrap or rolling paper, note size and net weight, decide whether the fill should stay flower-only or take a layered infused path, then match the burn pace to the occasion. Lighting and storage guides can follow once the outer material is fixed, because catch technique responds to thickness and density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/compare", label: "blunt comparison hub" },
+        after: " when you want every format guide in one place before narrowing to wrap thickness or paper pace.",
+      },
+      {
+        before: "For how thickness and density set the timeline after the material is chosen, continue with the ",
+        link: { href: "/wrap/burn-rate", label: "blunt burn-rate guide" },
+        after: ".",
+      },
+      {
+        before: "When the remaining question is where tobacco sits—if it sits anywhere—read the ",
+        link: { href: "/compare/blunt-vs-spliff", label: "blunt vs spliff comparison" },
+        after: " after the outer layer is clear.",
+      },
+      {
+        before: "Separate thicker wrapped capacity from thin paper around flower alone in the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: ".",
+      },
+      {
+        before: "Compare ready-to-light volume and completion time in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if wrap and fill density still need separating.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " once hemp versus paper is settled and the remaining question is flower-only versus three-layer construction.",
+      },
+      {
+        before: "Confirm the tobacco-free outer layer in the ",
+        link: { href: "/wrap/tobacco-free", label: "tobacco-free wrap page" },
+        after: ", then return here when paper is still in the comparison set.",
+      },
+      {
+        before: "Place hemp beside traditional leaf language in the ",
+        link: { href: "/wrap/hemp-vs-tobacco", label: "hemp vs tobacco wrap guide" },
+        after: " when the shelf still groups wrapped formats by habit rather than by material.",
+      },
+      {
+        before: "Explore the full outer-layer library from the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: " before matching burn pace or size to the session.",
+      },
+      {
+        before: "For catch technique on a thicker wrap, continue through the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after you know whether the format is hemp-wrapped or paper-wrapped.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " after construction is chosen, so pace stays tied to available time rather than to dosing language.",
       },
     ],
     relatedLinks: [
@@ -867,6 +931,21 @@ export const comparePages: PageContent[] = [
         href: "/compare/blunt-vs-spliff",
         label: "Place hemp wrap beside a spliff",
         description: "Separate the outer material from the traditional fill.",
+      },
+      {
+        href: "/wrap/burn-rate",
+        label: "Read how burn pace is set",
+        description: "Connect wrap thickness and fill density to session timing.",
+      },
+      {
+        href: "/wrap",
+        label: "Explore wrap materials",
+        description: "Keep the outer layer library separate from fill questions.",
+      },
+      {
+        href: "/wrap/tobacco-free",
+        label: "Confirm tobacco-free wrap language",
+        description: "Read the outer-layer claim before comparing paper formats.",
       },
     ],
     externalLink: {
