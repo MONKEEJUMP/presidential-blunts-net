@@ -7,9 +7,11 @@ export const pillarPage: PageContent = {
   title: "Presidential Blunts | Official Infused Blunt Guide",
   description:
     "Presidential Blunts are Presidential's tobacco-free hemp-wrap infused blunts — flower, concentrate, and kief in one format — explained here, sold only at licensed retailers.",
-  wordTarget: [560, 700],
+  wordTarget: [1100, 1250],
   intro: [
     "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
+    "Use this homepage as the starting map for the whole site. The Wrap hub covers hemp construction and burn, Compare separates blunts from pre rolls and minis, Ritual walks lighting through storage and sharing, Strains records the named catalog, and About explains the publisher and wholesale model. Each hub stays educational for adults 21+ and sends product questions back to the current package and licensed retailer.",
+    "Presidential is the brand and publisher here, not a strain or cultivar name. Indica, sativa, and hybrid labels describe plant groupings inside the catalog; they do not rename the company. This site does not sell or ship cannabis—it explains the infused blunt format and points adults to legal, licensed doors.",
   ],
   sections: [
     {
@@ -18,6 +20,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "A Presidential blunt combines flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, premium THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
         "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity. Product quality and construction quality can differ by item, so the current package remains the reliable reference.",
+        "Read the build in that order—flower base, concentrate infusion, kief finish, hemp outer sheet—then move into the hubs when one part needs more depth. Construction language stays educational: no dosing claims, no invented lab percentages, and no substitute for the licensed label in your market.",
       ],
     },
     {
@@ -26,6 +29,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Presidential Blunts use hemp wraps rather than tobacco leaf. The wrap keeps the crafted infused fill packed securely and helps define the slower blunt format without adding tobacco or nicotine. Distinct flavors come from the flower, concentrate, kief, and the profile identified for the particular product. Check the current package for flavor details.",
         "A blunt and a pre roll are related rolled-cannabis formats, but they are not interchangeable. Pre rolls use paper; Presidential Blunts use a broader hemp wrap. Full-size blunts and minis keep the same construction packed at different scales. The format page and package provide the reliable comparison.",
+        "When the outer sheet is the question—material, tobacco-free meaning, burn pace, or how flavour reads through a neutral wrap—continue in the Wrap hub. When size and format contrast matter more than the sheet itself, Compare keeps blunt, pre-roll, mini, and paper distinctions side by side without collapsing them into one product story.",
       ],
     },
     {
@@ -34,6 +38,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief.",
         "Even distribution matters more than repeating a category-wide potency number. Concentrate changes density and heat retention, so consistent placement supports a more uniform roll. Presidential names the brand, while indica, sativa, and hybrid describe cultivars: an indica or sativa label classifies the plant, and another indica or sativa reference still describes an indica cultivar rather than the company.",
+        "Named products live in the Strains hub, where catalog groupings keep Silver, Gold, Rose Gold, and related lines readable without treating brand identity as a cultivar. Session handling—cool dark storage, even lighting, relights, pacing, and sharing—belongs in the Ritual hub so this homepage can stay the overview rather than a how-to manual.",
       ],
     },
     {
@@ -42,6 +47,15 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Use the Wrap guide for hemp construction, Compare for blunts versus pre rolls and minis, Ritual for handling and storage, and Strains for the current named catalog. Those focused pages carry the detail so this homepage can remain the clear starting point for Presidential Blunts.",
         "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Use the official Find Us path, then confirm the current selection with the retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
+        "For publisher context, wholesale footprint, and why this reference exists separately from the retail counter, read the About page. Keep outbound retailer discovery on the official Find Us path already linked from this site; leave moon-rock locator destinations unchanged when you follow them from here.",
+      ],
+    },
+    {
+      id: "hub-map",
+      heading: "How the Presidential Blunts hubs nest under this guide",
+      paragraphs: [
+        "This pillar is the parent map. Five primary destinations nest under it for adult readers: Wrap for hemp construction, Compare for rolled-format contrasts, Ritual for session cues, Strains for named catalog groupings, and About for brand and publisher context. Child articles under each hub isolate one practical question—wrap jobs, burn rate, blunt versus pre-roll, lighting, storage, a single strain name—while linking back here when the next question spans more than one silo.",
+        "Browse in that practical order when you are new to the infused blunt format, or jump to the hub that matches the moment in hand. Construction questions start in Wrap; format choice continues in Compare; handling continues in Ritual; product names continue in Strains; company framing continues in About. Return to this homepage whenever you need the full Presidential Blunts overview in one place.",
       ],
     },
   ],
@@ -60,6 +74,26 @@ export const pillarPage: PageContent = {
       before: "Browse every current Presidential blunt ",
       link: { href: "/strains", label: "strain and product grouping" },
       after: ".",
+    },
+    {
+      before: "Open the ",
+      link: { href: "/wrap", label: "hemp wrap construction hub" },
+      after: " when the outer sheet, tobacco-free meaning, burn pace, or flavour window needs a dedicated guide.",
+    },
+    {
+      before: "Use the ",
+      link: { href: "/compare", label: "compare rolled formats hub" },
+      after: " for blunt versus pre-roll, mini versus full-size, and related construction contrasts.",
+    },
+    {
+      before: "Follow the ",
+      link: { href: "/ritual", label: "ritual and session hub" },
+      after: " for lighting, relighting, storage, pacing, and sharing cues.",
+    },
+    {
+      before: "Read ",
+      link: { href: "/about", label: "About Presidential Blunts" },
+      after: " for publisher identity, wholesale context, and why this educational reference exists.",
     },
   ],
   faq: [
