@@ -349,10 +349,11 @@ export const comparePages: PageContent[] = [
     title: "Blunt vs Pre-Roll: Format Guide | Presidential Blunts",
     description:
       "Compare blunts and pre-rolls by outer material, capacity, burn speed, heat retention, and occasion with the Presidential Blunts format guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt uses a thicker wrap, holds more material, burns more slowly, and retains heat longer than a pre-roll. A pre-roll uses thin rolling paper, burns fastest, and finishes quickest. Choose between them by matching the format's capacity and pace to the time and company around the session.",
       "Both formats can arrive ready to light, so appearance alone can make them seem closely related. The useful distinction is construction: outer material, interior volume, density, and burn behavior establish two different ways to package and enjoy flower or an infused build.",
+      "On a licensed blunt or pre-roll shelf, both ready-to-light formats can share a rolled silhouette while still describing different wraps, fill densities, and completion times. The useful first questions are wrap and capacity, not packaging art. Reading the outside material, then net weight and ingredient language, turns a crowded display into a clear blunt-versus-pre-roll comparison for adult shoppers 21+.",
     ],
     sections: [
       {
@@ -361,6 +362,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A pre-roll is built with thin rolling paper. A blunt uses a thicker wrap, and Presidential uses a neutral hemp wrap across its blunt catalog. The difference can be felt in the structure before lighting and seen in the pace after lighting. Paper supports the fastest finish; hemp wrap supports a slower, heat-holding format.",
           "Neutral hemp also gives the interior a clear voice. Presidential's tobacco-free wrap carries no tobacco taste, so the flower, concentrate, kief, and deliberate flavor profile remain central. The outer material still performs important work by holding the fill, carrying airflow, and setting the format's burn rate.",
+          "That wrap-first order also travels well across a licensed retail display. Two packages can look related at a glance while still naming paper on one label and hemp wrap on the other. When the outside layer is thin rolling paper around a ready-to-light fill, the build belongs with the pre-roll family. When the outside layer is a thicker hemp wrap with greater fill capacity, the blunt vocabulary is the better fit.",
         ],
       },
       {
@@ -369,6 +371,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A blunt holds more material than a pre-roll. Its thicker wrap supplies the structure for that greater capacity, creating a format suited to a longer window or a shared occasion. A pre-roll's thin-paper form keeps the scale compact and the completion time short.",
           "Size can be refined further through a mini blunt. A mini uses the same construction at a smaller size, preserving the hemp wrap and blunt character while shortening the session. That gives readers three clear positions: quick pre-roll, compact mini blunt, and longer full-size blunt.",
+          "Label literacy keeps size honest on the shelf. Look for wrap or paper language, net weight, and batch or lot identifiers where the market requires them. Those details describe how much material the format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and pre-roll capacity without treating a casual nickname as a substitute for the current label.",
         ],
       },
       {
@@ -377,6 +380,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Thin rolling paper burns fastest. The thicker blunt wrap and larger fill burn more slowly and hold heat longer. These traits make the pre-roll a natural fit for a concise occasion and the blunt a natural fit when the session can unfold at a deliberate pace.",
           "Infused construction deepens that distinction. Concentrate is dense and retains heat, so an infused blunt takes more time to catch than flower alone. Rotating it in the flame lets the circumference establish an even light. Evenly distributed concentrate then supports an even burn, while an occasional relight matches the density of the material.",
+          "Pace belongs with occasion rather than with medical framing. A paper pre-roll often moves on the quicker timeline once lit, while a thicker hemp blunt asks for more time at the flame and a session that can absorb the slower, heat-holding burn. Neither path is a dosing schedule; both are construction cues that help match wrap, fill density, and available time without rushing the catch.",
         ],
       },
       {
@@ -385,6 +389,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Presidential's infused construction combines flower, concentrate, and kief. The Infusion System carries distillate through the flower, and the kief layer goes on last. That arrangement integrates dense concentrate within the fill instead of making the outside wrap responsible for the flavor or structure.",
           "A reader can therefore compare more than shape. A paper pre-roll offers the quickest format. A hemp-wrapped infused blunt adds greater capacity, a slower burn, and three distinct layers. Presidential produces both infused pre-rolls and tobacco-free blunts, making the format decision separate from the larger catalog of series and strains.",
+          "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A pre-roll comparison stays centered on thin paper and a ready-to-light fill unless the package states a different wrap.",
         ],
       },
       {
@@ -394,6 +399,7 @@ export const comparePages: PageContent[] = [
           "A pre-roll and a Presidential blunt can each place a finished rolled format in hand. Convenience is their shared starting point, while construction determines what happens next. The paper pre-roll favors speed and a compact volume. The hemp blunt favors capacity, heat retention, and a longer arc. That makes the label on the format useful information rather than a small naming detail.",
           "The decision can also begin with the people present. A concise paper format aligns with a short individual window. A mini blunt keeps hemp-wrap structure while scaling down the amount. A full blunt brings enough material and burn time to move comfortably through a group. Each choice has a clear role, and the transition from one scale to the next remains easy to understand.",
           "Storage and preparation can stay consistent with the material in hand: keep the finished format cool and dark, then give an infused build enough time to catch evenly. The contrast appears in pace, with paper moving quickly and the blunt settling into its slower-burning rhythm.",
+          "Solving wrap and capacity in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Blunt versus pre-roll answers ready-to-light pace and completion time once the outer layer is known. Keeping those decisions separate makes a licensed display readable when packaging looks related at a glance.",
         ],
       },
       {
@@ -402,7 +408,60 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Select a pre-roll when the schedule favors the fastest finish and a light paper format. Select a mini blunt when a smaller session still calls for blunt construction. Select a full-size blunt when more material, longer heat retention, and room for sharing fit the occasion.",
           "The comparison works best as a simple sequence: decide how much time is available, decide how much capacity belongs in the session, then choose paper or hemp wrap. Those practical questions lead directly to the format that fits.",
+          "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/compare", label: "blunt comparison hub" },
+        after: " when you want every format guide in one place before narrowing to wrap, fill density, or completion time.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when the outside material—not ready-to-light convenience alone—is the main distinction on the shelf.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: " to separate thicker wrapped capacity from thin paper around flower when the product was not finished as a shelf pre-roll.",
+      },
+      {
+        before: "Compare tobacco placement in the ",
+        link: { href: "/compare/blunt-vs-spliff", label: "blunt vs spliff guide" },
+        after: " when the remaining question is where tobacco sits, if it sits anywhere at all.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " once paper versus hemp wrap is settled and the remaining question is flower-only versus three-layer construction.",
+      },
+      {
+        before: "Match mini or full capacity with the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full size guide" },
+        after: " after the blunt path is chosen and the remaining question is how much material the session should carry.",
+      },
+      {
+        before: "For catch technique on a thicker wrap, continue through the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after you know whether the format is a hemp blunt or a paper pre-roll.",
+      },
+      {
+        before: "When a denser blunt needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits thicker construction without treating it as a fault.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " after construction is chosen, so pace stays tied to available time rather than to dosing language.",
+      },
+      {
+        before: "Confirm how the tobacco-free outer layer frames the format in the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: ", then return here when the blunt-versus-pre-roll pace and capacity question is the remaining distinction.",
       },
     ],
     relatedLinks: [
@@ -429,6 +488,21 @@ export const comparePages: PageContent[] = [
         href: "/compare/infused-vs-non-infused",
         label: "Infused and regular construction",
         description: "Look inside the fill and compare the layers.",
+      },
+      {
+        href: "/compare/blunt-vs-spliff",
+        label: "Blunt vs spliff",
+        description: "Separate wrap capacity from any tobacco-fill question.",
+      },
+      {
+        href: "/ritual/how-to-light-one",
+        label: "Lighting for thicker wraps",
+        description: "Rotate and catch technique after choosing the format.",
+      },
+      {
+        href: "/wrap",
+        label: "Explore wrap materials",
+        description: "Keep the outer layer separate from the ready-to-light question.",
       },
     ],
     externalLink: {
