@@ -568,10 +568,11 @@ export const comparePages: PageContent[] = [
     title: "Infused vs Regular Blunts Compared | Presidential Blunts",
     description:
       "Compare infused and regular blunts by flower, concentrate, kief, density, heat, lighting, and burn behavior with Presidential Blunts guidance.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "An infused blunt combines flower with concentrate and kief, while a regular blunt uses flower as its primary fill. Infusion raises the measurable potency, adds density, retains more heat, and creates a slower lighting and burn pattern. The wrap can remain the same; the meaningful change takes place inside it.",
       "Presidential's construction makes that interior easy to understand as three layers. Flower forms the base, concentrate is carried through it, and kief completes the build on the outside of the infused material beneath the wrap.",
+      "On a licensed blunt or pre-roll shelf, those two builds often sit side by side under similar brand art. The useful first question is not flavor marketing or a series name; it is whether the fill is flower alone or flower joined by concentrate and kief. Reading the package for construction language, ingredient order, and batch test context turns the shelf into a clear comparison instead of a guessing game.",
     ],
     sections: [
       {
@@ -580,6 +581,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A regular blunt centers on flower inside its wrap. An infused blunt adds concentrate and kief, turning the fill into a coordinated three-layer system. Each component has a clear role: flower provides the body of the fill, concentrate adds a dense refined layer, and kief contributes collected trichomes—the resin glands that hold most of the plant's cannabinoids and terpenes.",
           "Presidential's Infusion System carries distillate through the flower instead of concentrating it only at the surface. The kief layer goes on last. Distribution is important because dense concentrate burns evenly when spread evenly, producing a more consistent path through the filled material.",
+          "That layer map also travels well across a licensed retail display. Two packages can share a hemp wrap, a similar size, and the same brand crest while still describing different interiors. When the label or panel names concentrate, distillate, live resin, live rosin, or kief alongside flower, the build belongs on the infused side. When flower is the complete fill story, the build stays regular. Keeping the comparison on construction prevents series names or artwork from standing in for the interior architecture.",
         ],
       },
       {
@@ -588,6 +590,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A regular flower-filled blunt reflects the tested cannabinoids in its flower. An infused build combines flower with concentrated material and kief, so its values must come from the finished batch rather than a generic category range.",
           "The comparison is therefore structural and batch-specific. Series and extract choice refine the recipe: distillate supports the Silver Flavor Series, live resin identifies the Gold Strain Series, and live rosin supplies the solventless Rose Gold path. Read the current package label and associated test results for potency.",
+          "Label literacy keeps that reading honest. Look for format name, wrap material, ingredient statement, net weight, batch or lot identifiers, and the potency figures tied to that finished unit where the market requires them. Those details describe what is in the wrap; they do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the numbers to compare builds on the shelf without treating a category average as a substitute for the current batch.",
         ],
       },
       {
@@ -596,6 +599,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Concentrate is dense and holds heat. An infused blunt consequently takes longer to catch than flower alone and carries heat through a slower burn. A regular blunt still benefits from the thicker wrap's deliberate pace, while the infused interior adds another source of density.",
           "This difference becomes visible during lighting. Rotate an infused blunt in the flame and allow the circumference to catch steadily. Once established, evenly distributed concentrate supports an even burn. Relighting fits the format because the dense material is moving at its intended pace.",
+          "Pace belongs with occasion rather than with medical framing. A regular flower fill often suits a shorter window or a lighter shared rotation where the interior stays simpler. An infused build tends to ask for more time at the flame, a steadier hand during the catch, and a session that can absorb the denser burn without rushing. Neither path is a dosing schedule; both are construction cues that help match the blunt to available time and company.",
         ],
       },
       {
@@ -604,6 +608,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Both infused and regular blunts depend on the wrap for structure, airflow, and burn rate. Presidential uses a tobacco-free hemp wrap with neutral taste. That choice keeps the comparison focused on the interior, allowing flower, concentrate, kief, terpenes, and deliberate flavor to lead.",
           "The thicker hemp wrap also holds more material and retains heat longer than thin rolling paper. Infusion works within those blunt characteristics, deepening density rather than changing the basic identity of the wrapped format.",
+          "Because the wrap can stay constant across both builds, shoppers should separate the outside-material question from the fill question. Hemp wrap versus paper answers how the format is framed and how quickly thin paper would finish. Infused versus regular answers what travels inside that frame. Solving them in that order keeps a licensed shelf readable when packaging looks related at a glance.",
         ],
       },
       {
@@ -613,6 +618,7 @@ export const comparePages: PageContent[] = [
           "Infused is a broad construction category with several possible extract paths. Presidential's Silver Flavor Series is built on distillate and carries fruit-forward profiles. The Gold Strain Series uses live resin for a cannabis-forward profile. The Rose Gold Connoisseur Series uses solventless live rosin. Each still sits on the infused side because concentrate and kief join the flower in the layered build.",
           "The extract path changes how the recipe is assembled while the comparison with regular flower remains stable. Distillate is refined to a near-neutral aroma, live resin begins with cannabis flash-frozen at harvest, and live rosin begins with fresh-frozen material washed in ice water and pressed under heat and pressure. These are distinct concentrate routes serving the same structural role: adding a dense layer to flower before kief completes the construction.",
           "Series choice answers which concentrate route and profile belong in the blunt. The infused-versus-regular choice answers whether concentrate and kief join the flower at all. Keeping those decisions separate makes the catalog easier to read and preserves the direct construction comparison.",
+          "When a package names the extract path clearly, treat that line as a refinement inside the infused category rather than a replacement for the flower-versus-infused question. Distillate, live resin, and live rosin explain how the concentrate layer was prepared; they do not erase the simpler shelf check that asks whether any concentrate and kief joined the flower in the first place.",
         ],
       },
       {
@@ -621,7 +627,50 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Choose a regular blunt when flower is the complete center of the format. Choose an infused blunt when the desired build includes flower, concentrate, and kief, along with the slower catch and denser burn that accompany those layers. Mini and full sizes can then match the format to the time and company available.",
           "The direct comparison is simple: same blunt family, different interior architecture. Reading the layers tells you which one you have and how to approach its lighting and pace.",
+          "A practical order of decisions keeps the library usable. Confirm blunt construction and wrap first, decide whether the fill should stay flower-only or take the three-layer infused path, then match mini or full size to the session. Lighting and storage guides can follow once the build is chosen, because catch technique and storage habits respond to density rather than inventing a new format. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/compare", label: "blunt comparison hub" },
+        after: " when you want every format guide in one place before narrowing to fill, wrap, or size.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full blunt guide" },
+        after: " after the fill decision is settled and the remaining question is session scale or sharing capacity.",
+      },
+      {
+        before: "Read the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when the outside material—not the interior layers—is the main distinction on the shelf.",
+      },
+      {
+        before: "Compare ready-to-light formats in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if wrap, fill density, and completion time still need separating after infusion is clear.",
+      },
+      {
+        before: "For catch technique and denser lighting pace, continue through the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " once you know whether the interior is flower-only or three-layer infused.",
+      },
+      {
+        before: "When a denser build needs a steady return to flame, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional relight fits infused construction without treating it as a fault.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " after construction is chosen, so pace stays tied to available time rather than to dosing language.",
+      },
+      {
+        before: "Confirm how the tobacco-free outer layer frames either fill in the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: ", then return here when the interior comparison is the remaining question.",
       },
     ],
     relatedLinks: [
@@ -648,6 +697,16 @@ export const comparePages: PageContent[] = [
         href: "/compare/hemp-wrap-vs-paper",
         label: "Understand wrap and paper",
         description: "See how the outside layer complements the fill.",
+      },
+      {
+        href: "/ritual/how-to-light-one",
+        label: "Lighting for denser builds",
+        description: "Rotate and catch technique after choosing infusion.",
+      },
+      {
+        href: "/strains",
+        label: "Browse series and strain names",
+        description: "Keep cultivar names separate from construction.",
       },
     ],
     externalLink: {
