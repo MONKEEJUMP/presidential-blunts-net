@@ -238,10 +238,11 @@ export const ritualPages: PageContent[] = [
     title: "How to Relight an Infused Blunt | Presidential Blunts",
     description:
       "Learn why dense infused material benefits from gradual relighting and steady rotation to restore an even edge in the Presidential Blunts guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Relighting an infused blunt is a normal part of its slower-burning construction. Bring the active end back to the flame, rotate it steadily, and allow the full edge to regain an even glow before continuing.",
       "Concentrate is dense and holds heat, while a blunt carries more material inside a thicker wrap. Those traits extend the format's pace and make a fresh application of heat a natural reset within the full session.",
+      "Adult shoppers 21+ can treat a quieter glow after a pause as a construction cue, not a fault. Thicker hemp wrap, greater fill capacity, and evenly distributed concentrate ask for gradual returns to flame the same way they ask for a patient first light. Reading the circumference, rotating fully, and waiting for a connected ring keeps the reset construction-first and free of medical or dosing language.",
     ],
     sections: [
       {
@@ -250,6 +251,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A Presidential blunt combines flower, concentrate, and kief. The concentrate is distributed through the flower by the Presidential Infusion System, with the kief layer applied last. That dense construction burns more slowly than flower alone and keeps heat for a longer interval.",
           "A relight follows directly from those physical traits. The material takes time to catch at the beginning, and the same measured response applies after a pause. Fresh flame restores heat to the active edge and returns the three-layer build to its steady sequence.",
+          "Thin rolling paper around a lighter fill often finishes on a quicker clock and may need fewer returns to flame. A thicker hemp wrap around flower, concentrate, and kief holds warmth between turns and still cools enough during conversation or a resting interval that the edge can quiet. Expecting that quiet moment—and answering it with rotation rather than a rushed hot spot—keeps the ritual aligned with how the format is built.",
         ],
       },
       {
@@ -258,6 +260,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Begin with the same visual cue used for the first light: the circumference of the active end. Place that edge in the flame and rotate the blunt so each section receives heat. A slow, complete turn gives the whole rim time to form a connected glow.",
           "The fresh light can stay focused on the edge. Concentrate already holds warmth within the material, so the ritual simply adds enough energy for the rim to catch again. Continue rotating until the glow appears balanced around the circumference.",
+          "A drifting or one-sided glow is a cue to slow the turn, not to hold the flame on a single point. Give each section of the rim its moment, then check again for a continuous ring. That same edge-reading habit works after the opening light, after a solo pause, and after a shared pass when the glow has quieted.",
         ],
       },
       {
@@ -267,6 +270,7 @@ export const ritualPages: PageContent[] = [
           "Gradual heat keeps the relight aligned with the blunt's construction. Rotation shares the flame around the full edge so each area advances together. Even input complements evenly distributed concentrate and supports an even return to the burn.",
           "Watch the glow build from section to section. Each pass adds heat where the active rim is still coming up, and the connected ring signals that the reset is complete. This approach gives the hemp wrap and infused contents one clear line from which to continue.",
           "The neutral hemp wrap keeps the focus on what was rolled inside it. As the edge renews, the flower, concentrate, and kief return to the same balanced path established by the opening light. The wrap supports the slower pace while the distributed concentrate carries heat through the material.",
+          "Gradual heat also protects the session's rhythm. A hotter, fixed flame on one spot can create a runaway edge that the rest of the circumference never quite joins. Steady rotation avoids that imbalance and matches the deliberate tempo already built into thicker wrap and denser fill. The goal is a renewed ring, not a scorched corner.",
         ],
       },
       {
@@ -275,6 +279,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The thicker wrap and larger material capacity give a blunt a longer format than a paper pre-roll. That longer timeline naturally creates room for a pause, whether one person is setting it down or a group is moving at a shared pace. A relight simply opens the next part of the same session.",
           "The process stays familiar every time: return to the edge, rotate in the flame, read the glow, and continue when the ring looks even. A repeatable cue makes the session easy to follow across a full-size blunt or the same construction in a smaller mini.",
+          "Pauses belong on a heat-safe surface with the lit end attended. When the glow quiets, the next turn—solo or shared—uses the same complete rotation through the flame. Treating rest intervals as planned stages rather than interruptions keeps session length honest: lighting, draws, resting, and the occasional steady relight all count as part of the format's clock.",
         ],
       },
       {
@@ -283,6 +288,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The three layers each remain part of the relight. Flower forms the core, concentrate travels through that flower, and kief completes the outside of the infused material. Applying flame around the circumference brings fresh heat to the assembled structure as one unit.",
           "The active edge provides all the information the ritual needs. A growing glow shows where heat is arriving, and a connected ring shows that the circumference has caught. This direct visual sequence works through the first relight and every later return.",
+          "Because concentrate is already distributed through the flower, the reset does not require chasing a separate topping or scraping an outer layer. The circumference is the working surface. Warm it evenly, let the dense interior respond, and continue once the ring looks connected. That layer-aware cue stays the same whether the package names distillate, live resin, live rosin, or another Presidential grouping.",
         ],
       },
       {
@@ -291,6 +297,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A mini carries the same blunt construction in a smaller size, so its relight follows the same rotation. The full-size format adds material and session length, while the edge still responds to a gradual complete turn through the flame.",
           "The Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings use distinct extract and flower directions. Across them, concentrate remains dense and infused material catches gradually. The shared relighting method keeps attention on the format's common physical cue.",
+          "Series choice refines aroma and extract direction after size is settled; it does not invent a new lighting method. Mini or full size still sets how often a pause may appear, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple edge-reading habit that renews the burn.",
         ],
       },
       {
@@ -299,7 +306,55 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Between sessions, a cool and dark storage place gives terpenes the setting they favor. Heat and light take terpenes first, so a steady storage routine complements the careful heat used during lighting and relighting.",
           "That connection completes the ritual. Storage protects the material's starting point, gradual flame activates the edge, and a relight renews it as the dense build asks. Expecting the reset lets the blunt keep its intended slow rhythm from beginning to end.",
+          "A practical closeout keeps the next return ready: confirm the ember is fully out, allow remaining material to cool, then place it in a dedicated container only after it has cooled completely. Cool, dark storage between sittings protects what is left; gradual rotation at the next opening restores the edge. The sequence stays adult, construction-first, and free of medical language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/ritual", label: "ritual hub" },
+        after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
+      },
+      {
+        before: "Practice the opening catch on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one page" },
+        after: " before a denser build asks for the same gradual rotation after a pause.",
+      },
+      {
+        before: "Match occasion length with the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: " so pauses and relights stay tied to format pace rather than to dosing language.",
+      },
+      {
+        before: "Fit capacity to a group with the ",
+        link: { href: "/ritual/sharing", label: "sharing ritual page" },
+        after: " when passing order and resting intervals become part of the same edge-reading habit.",
+      },
+      {
+        before: "Protect remaining material between sittings with the ",
+        link: { href: "/ritual/storage", label: "storage ritual page" },
+        after: " so cool, dark habits support the next gradual return to flame.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " when the remaining question is why one format asks for more returns to flame than the other.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " when density and heat-holding behavior explain why a quieter edge is expected.",
+      },
+      {
+        before: "Compare scales directly in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full-size blunt guide" },
+        after: " when mini or full size is still deciding how often a pause may appear.",
+      },
+      {
+        before: "Connect edge behavior to wrap mechanics with the ",
+        link: { href: "/wrap/burn-rate", label: "burn rate guide" },
+        after: " once construction is clear and the next question is how heat travels through the sheet.",
       },
     ],
     relatedLinks: [
@@ -308,6 +363,9 @@ export const ritualPages: PageContent[] = [
       { href: "/ritual/how-to-light-one", label: "Build the first even glow" },
       { href: "/ritual/session-length", label: "Understand the longer format" },
       { href: "/ritual/sharing", label: "Carry the rhythm through a group" },
+      { href: "/ritual/storage", label: "Keep an infused blunt ready" },
+      { href: "/compare/blunt-vs-pre-roll", label: "Compare blunt and pre-roll pace" },
+      { href: "/compare/infused-vs-non-infused", label: "Compare infused and regular builds" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/learn/infusion-science",
