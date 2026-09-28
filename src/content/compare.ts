@@ -1,7 +1,7 @@
 import type { PageContent } from "./types";
 
 export const comparePages: PageContent[] = [
-  {
+          {
     path: "/compare",
     kind: "hub",
     silo: "compare",
@@ -9,11 +9,12 @@ export const comparePages: PageContent[] = [
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
       "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
-    wordTarget: [900, 1050],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion.",
       "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice.",
       "Presidential Blunts publishes this hub as an infused-blunt format reference. Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question.",
+      "Adult readers 21+ can treat this hub as a format literacy map: start with the outer layer, then fill and infusion, then size and session pace. Each child guide isolates one contrast—joint, pre-roll, spliff, mini, infused build, or wrap versus paper—without medical claims, dosing language, or invented lab numbers.",
     ],
     sections: [
       {
@@ -75,22 +76,34 @@ export const comparePages: PageContent[] = [
           "The comparisons also work together. Wrap and paper explain the outside layer, infused and regular explain the inside, and mini and full explain scale. Read in that order, the library becomes a practical map from construction to occasion.",
         ],
       },
+      {
+        id: "navigate-comparison-library",
+        heading: "How to navigate this comparison library",
+        paragraphs: [
+          "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Each child page answers one contrast and links back here; keep outbound moon-rock and find-us paths unchanged when you follow them from related pages.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
         before: "Use the complete ",
-        link: { href: "/", label: "blunt" },
-        after: " reference to place every comparison in context.",
+        link: { href: "/", label: "Presidential Blunts homepage guide" },
+        after: " to place every format comparison in the full infused-blunt context.",
       },
       {
         before: "Continue to the lighting and session ",
-        link: { href: "/ritual", label: "guide" },
-        after: " after choosing a format.",
+        link: { href: "/ritual", label: "ritual hub" },
+        after: " after choosing a format, so catch, relight, and pace stay tied to construction.",
       },
       {
         before: "The ",
-        link: { href: "/wrap", label: "cannabis" },
-        after: " wrap reference explains the outer layer behind these format differences.",
+        link: { href: "/wrap", label: "hemp wrap construction hub" },
+        after: " explains the outer layer behind these format differences.",
+      },
+      {
+        before: "Browse named ",
+        link: { href: "/strains", label: "strains and catalog groupings" },
+        after: " after construction is clear, so cultivar labels refine the recipe rather than rewrite the format.",
       },
       {
         before: "Compare ",
@@ -121,6 +134,11 @@ export const comparePages: PageContent[] = [
         before: "Read the ",
         link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll comparison" },
         after: " when the decision is between ready-to-light formats and the important difference is the wrap, fill, size, or pace.",
+      },
+      {
+        before: "Use the ",
+        link: { href: "/compare/blunt-vs-spliff", label: "blunt vs spliff guide" },
+        after: " when the remaining question is where tobacco sits, if it sits anywhere at all.",
       },
       {
         before: "Use the ",
