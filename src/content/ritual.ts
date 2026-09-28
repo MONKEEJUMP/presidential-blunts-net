@@ -9,11 +9,12 @@ export const ritualPages: PageContent[] = [
     title: "Infused Blunt Ritual and Session Guide | Presidential Blunts",
     description:
       "Learn how to light, relight, store, time, and share a tobacco-free infused blunt through the practical session guidance from Presidential Blunts.",
-    wordTarget: [850, 1000],
+    wordTarget: [1100, 1250],
     intro: [
       "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower-concentrate-kief construction give the ritual its deliberate tempo.",
       "Presidential blunts pair a neutral, tobacco-free hemp wrap with the three-layer build. The wrap lets the contents lead the taste, while evenly distributed concentrate holds heat and supports a steady burn. The same core ritual applies across the Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings. These five guides cover each part of the session from storage through sharing, with clear cues that work for minis and full-size blunts.",
       "Presidential Blunts publishes this hub as a practical guide to the hemp-wrapped infused format. Presidential is the brand and publisher, not a strain or cultivar, so the ritual stays focused on preparation, heat, pace, storage, and the people sharing the session.",
+      "Adult readers 21+ can treat this hub as a session map: lighting flow, relighting, cool dark storage, format pacing, and sharing norms, then the child ritual pages that nest under each cue—without medical claims or invented dosing language.",
     ],
     sections: [
       {
@@ -22,6 +23,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Infused material catches more gradually than flower because concentrate is dense and holds heat. Bring the end to the flame, rotate the blunt, and give the full edge time to glow. That patient rotation introduces heat around the circumference and prepares the flower, concentrate, and kief to burn together.",
           "The lighting guide explains the visual rhythm of rotation, warming, and an even catch. It also shows how the first light establishes a balanced starting line for the session.",
+          "Lighting flow stays construction-first: soft flame at the rim, complete turns, and a connected glowing ring before the first draw. A one-sided catch is a cue to continue rotating, not to hold heat on a single hot corner until the edge races ahead.",
         ],
       },
       {
@@ -30,6 +32,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A relight is a natural feature of dense infused material. Concentrate helps the blunt burn slowly and retain heat, so a pause and a fresh flame belong to the same measured process. Rotate the edge again and let the next glow form evenly.",
           "The relighting article maps that small reset step and explains how focused, gradual heat brings the active edge back into balance.",
+          "Ritual pacing includes those returns. A quieter glow after conversation or a resting interval is expected denser-build behavior; the same gradual rotation that opened the session renews the circumference without treating the pause as a fault.",
         ],
       },
       {
@@ -46,6 +49,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A blunt uses a thicker wrap, holds more material, burns slower, and holds heat longer than a pre-roll. A mini uses the same construction at a smaller size. Together, those two formats provide a straightforward way to choose the scale of a session.",
           "The session-length guide explains how wrap, size, and concentrate shape the timeline, then turns those traits into a simple format choice.",
+          "Pacing starts before flame: choose mini or full size against available time and company, then let thicker wrap and denser fill set an unhurried clock of draws, rests, and occasional edge renewals.",
         ],
       },
       {
@@ -54,6 +58,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The blunt format gives a group time to pass, pause, set the piece down, and return to it. Its greater capacity and slower burn support a relaxed sequence in which each person can follow the same steady rotation and relighting cues.",
           "The sharing guide covers passing, resting, returning, and choosing a mini or full-size blunt for the number of people gathered.",
+          "Sharing norms stay simple and adult: agree on a passing direction once, leave room for the piece to rest on a heat-safe surface, let each person decide whether to take a turn, and use the same even-edge cue whenever the glow quiets between hands.",
         ],
       },
       {
@@ -64,6 +69,14 @@ export const ritualPages: PageContent[] = [
           "At the first light, warm the entire rim instead of holding the flame against one point. Rotate until the edge carries a connected glow, then watch the burn line as the session moves forward. A pause does not mean the ritual failed. Set the blunt on a suitable surface, keep the lit end attended, and return to the same even-heat method when the edge needs another light.",
           "Pacing becomes a shared cue when more than one adult participates. Agree on a passing direction, leave room for the blunt to rest, and let each person decide whether to take a turn. The slower format does not require a rushed circle. A mini may fit a shorter gathering, while a full-size blunt gives a larger group more time to pass, pause, and relight without changing the core sequence.",
           "Close the session as deliberately as it began. Make sure the ember is fully out, allow the remaining material to cool, and check the surface before walking away. If a portion will be kept, return it to a dedicated container only after it has cooled completely, then place that container in a cool, dark location. This closeout keeps fire safety, storage, and the next session in one repeatable routine.",
+        ],
+      },
+      {
+        id: "hub-nesting",
+        heading: "How ritual pages nest under this hub",
+        paragraphs: [
+          "This hub is the parent map. Five child ritual pages nest directly under it: how to light one, relighting, storage, session length, and sharing. Each child isolates one cue—opening glow, gradual reset, cool dark home, format timeline, or group rhythm—while linking back here when the next question spans more than one step.",
+          "Browse in that practical order when you are new to the format, or jump to the child that matches the moment in hand. Lighting flow and relighting stay paired with denser builds; storage protects what remains between sittings; session length and sharing translate capacity into solo or group pacing. Return to this hub whenever you need the full sequence in one place.",
         ],
       },
     ],
