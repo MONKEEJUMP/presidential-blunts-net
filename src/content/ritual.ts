@@ -664,10 +664,11 @@ export const ritualPages: PageContent[] = [
     title: "Sharing an Infused Blunt Guide | Presidential Blunts",
     description:
       "Explore how capacity, a slower burn, passing, resting, and relighting shape a shared session in the practical Presidential Blunts ritual guide.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A blunt fits a shared session because its thicker wrap holds more material, burns slower, and keeps heat longer than a pre-roll. Those traits create time for passing, setting the blunt down, returning to it, and renewing the edge with an even relight.",
       "A mini brings the same construction to a smaller gathering, while a full-size blunt provides the longer expression. The group can choose the scale, establish a simple passing rhythm, and let the format set the pace.",
+      "Adult shoppers 21+ can treat sharing as a construction-and-occasion question rather than a dosing schedule. Reading hemp-wrap language, net weight, and whether the build is infused, then matching mini or full size to company and available time, keeps the group rhythm grounded in the format—not in medical claims.",
     ],
     sections: [
       {
@@ -676,6 +677,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The shared quality begins with physical construction. A blunt uses a thicker wrap than a pre-roll and carries more material. It burns slower and holds heat longer, so the session has room for more than one person to participate in a measured sequence.",
           "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free. The material inside therefore leads the taste as the blunt moves through the group. Flower, concentrate, and kief remain the center of the format from the first light to the final pass.",
+          "Label cues make that shared timeline readable before anything is lit. A package that names hemp wrap or tobacco-free wrap beside a higher net weight than a thin-paper pre-roll is pointing at a longer construction clock. Thicker outer layer and greater fill capacity usually leave room for passes and pauses; thin paper and a lighter fill usually move on a quicker solo pace. The comparison stays descriptive of materials, not a promise about effects.",
         ],
       },
       {
@@ -684,6 +686,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A simple clockwise or counterclockwise sequence gives the group a clear order. Each person receives the blunt, follows the active edge, and passes it onward. The steady order complements the slow burn by giving the format a predictable path through the gathering.",
           "The edge itself supplies a shared visual cue. A connected glow signals that the blunt is moving evenly. When the glow becomes quieter during a pause, the next person can rotate the end through the flame and bring the full circumference back up together.",
+          "Agreeing on the direction once at the start prevents crossed hands and stalled turns later. One person can open the light, confirm the even ring, and hand the piece into the chosen order. From there the group does not need new instructions each lap—receive, read the edge, pass onward—so conversation can continue while the construction keeps a steady path around the circle.",
         ],
       },
       {
@@ -692,6 +695,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A group session naturally includes conversation and resting intervals. The blunt format supports that pace because dense concentrate and a thicker wrap retain heat and burn gradually. Setting the piece down and returning to it can become an expected stage of the shared rhythm.",
           "The return is direct: place the active end in the flame, turn it steadily, and watch for an even ring of glow. That relight reunites the group with the same edge and the same orderly sequence of passing.",
+          "Pauses are construction features, not interruptions. Dense concentrate and a thicker wrap hold warmth between turns, so a quiet glow is a cue to restore the circumference with gradual rotation rather than a hotter chase. When the gathering needs a longer break, resting the unfinished portion in a cool, dark place protects the remaining material until the next shared return.",
         ],
       },
       {
@@ -701,6 +705,7 @@ export const ritualPages: PageContent[] = [
           "A mini is the same blunt construction at a smaller size. Its hemp wrap, flower, concentrate, and kief follow the same lighting and relighting pattern in a compact format. A full-size blunt holds more material and extends the shared timeline.",
           "Selecting between them connects size directly to the occasion. A smaller gathering can choose the mini expression, while a gathering with more time can choose the full-size expression. Both formats give the group one shared object and one easy ritual to follow.",
           "The choice keeps every later cue familiar. Either size rotates through the opening flame, travels through the passing order, rests during pauses, and returns through a gradual relight. Scale changes the session length while the group method stays consistent.",
+          "Three cues organize the size decision without inventing dosing language: available time, company size, and preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final choice, and net weight on the label simply confirms which scale left the licensed counter.",
         ],
       },
       {
@@ -709,6 +714,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Every participant can read the same active edge. The first person begins with a steady rotation in the flame until the circumference carries an even glow. Later participants can use that same cue after a resting interval, turning the edge until the connected ring returns.",
           "A shared visual method supports continuity as the blunt moves around the group. Flower, concentrate, and kief travel together inside the hemp wrap, and the group responds to the assembled format with one repeatable motion. Rotation becomes the bridge between each pause and return.",
+          "Teaching the cue once keeps later passes smooth. Point out the even ring after the opening light so everyone can recognize a quiet glow as a shared signal, not a private judgment. Humidity and pack evenness can nudge how the edge behaves; a drifting glow is a cue to slow down, rotate fully, and restore the circumference rather than force a hotter flame mid-pass.",
         ],
       },
       {
@@ -717,6 +723,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Presidential offers six groupings across its catalog. Silver Flavor is distillate-based and fruit-forward, Gold Strain is live-resin-based and cannabis-forward, and Rose Gold Connoisseur uses solventless live rosin. Presidential, House, and THC Design groupings add more choices to the format.",
           "The group can select that material direction and then choose the session scale. A mini carries the same build into a compact gathering, and a full-size blunt supports the longer expression. The shared ritual remains clear across every choice: light evenly, pass in order, pause naturally, and relight gradually.",
+          "Series choice refines aroma and extract direction after size is settled. None of those names change the group method: the hemp wrap still frames the build, concentrate still adds density, and mini or full size still sets how long the occasion should reserve. Keeping series after scale prevents a flavor preference from choosing the wrong shared timeline.",
         ],
       },
       {
@@ -725,7 +732,50 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The full sequence begins before the gathering with a cool, dark storage place. At session time, one person rotates the end in the flame until the circumference glows evenly. The group passes in a clear order, makes room for pauses, and uses gradual relights whenever the dense material calls for fresh heat.",
           "Every step comes from the format itself. The hemp wrap stays neutral, the infused layers provide density, the larger capacity supplies time, and the chosen size fits the occasion. Sharing turns those construction facts into a clear, repeatable group rhythm.",
+          "A practical order keeps the plan usable: confirm hemp wrap and infused construction on the label, choose mini or full size against company and available time, store cool and dark, rotate the opening light until the edge glows evenly, then follow the agreed passing direction. When the glow quiets, relight gradually and continue. The sequence stays adult, construction-first, and free of medical language.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Start from the ",
+        link: { href: "/ritual", label: "ritual hub" },
+        after: " when you want storage, lighting, relighting, session length, and sharing in one field guide.",
+      },
+      {
+        before: "Match capacity to the occasion with the ",
+        link: { href: "/ritual/session-length", label: "session length guide" },
+        after: " once company size is clear and the remaining question is how long the format should run.",
+      },
+      {
+        before: "Practice the opening catch on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one page" },
+        after: " so the first even glow is ready before the passing order begins.",
+      },
+      {
+        before: "When a denser build needs a steady return between turns, the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " explains why an occasional gradual relight fits shared pauses without treating it as a fault.",
+      },
+      {
+        before: "Protect the material before the gathering with the ",
+        link: { href: "/ritual/storage", label: "storage ritual page" },
+        after: " so cool, dark habits support the session the group planned.",
+      },
+      {
+        before: "Compare scales directly in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full-size blunt guide" },
+        after: " when the remaining choice is capacity and shared session length.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/blunt-vs-joint", label: "blunt vs joint guide" },
+        after: " if the group still needs a format-level contrast beside this sharing rhythm.",
+      },
+      {
+        before: "See what changes inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        after: " when density and heat-holding behavior are the remaining variables for a shared pace.",
       },
     ],
     relatedLinks: [
@@ -734,10 +784,13 @@ export const ritualPages: PageContent[] = [
       { href: "/ritual/session-length", label: "Select the session scale" },
       { href: "/ritual/relighting", label: "Refresh the edge between passes" },
       { href: "/ritual/storage", label: "Prepare the blunt before gathering" },
+      { href: "/ritual/how-to-light-one", label: "Start the shared light evenly" },
+      { href: "/compare/mini-vs-full", label: "Compare mini and full-size scales" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/moon-rocks/thc-design-blunts",
       label: "Meet the Presidential and THC Design blunt collection",
     },
   },
+
 ];
