@@ -386,10 +386,11 @@ export const wrapPages: PageContent[] = [
     title: "How Blunt Wraps Shape Burn Rate | Presidential Blunts",
     description:
       "Understand how wrap thickness, material density, airflow, heat retention, and infusion establish a blunt's burn rate.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A wrap helps set burn rate by enclosing the material at a particular thickness and creating the outer boundary for airflow and heat. A blunt's thicker wrap, larger fill, and denser construction make it burn slower and hold heat longer than a thin-paper pre-roll. In an infused blunt, evenly distributed concentrate adds density and makes the measured pace even more important.",
       "Burn rate is therefore the result of a system: wrap, contents, airflow, and lighting all work together.",
+      "At a licensed counter, that system is easier to read when wrap material, thickness cues, and fill language appear on the package before anyone reaches for a flame. Adult shoppers 21+ can treat burn pace as a construction question—how even the edge runs, how dense the pack feels, and how humidity was handled in storage—without turning the topic into dosing advice or medical claims.",
     ],
     sections: [
       {
@@ -398,6 +399,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "The clearest starting point is the outer material. A pre-roll uses thin rolling paper, burns fastest, and finishes quickest. A blunt uses a thicker wrap, holds more material, burns slower, and retains heat longer. Those differences define two distinct session formats before infusion is even considered.",
           "Thickness does not act alone, but it establishes the conditions around the filling. The wrap surrounds the entire roll, meeting the heat at the lit end while holding the unburned contents in shape. That continuous outer layer helps the active edge progress at the deliberate rate associated with a blunt rather than the faster rate of thin paper.",
+          "Material and thickness also shape how evenly that edge advances. A uniform hemp sheet of blunt-scale thickness gives heat and air a consistent outer wall, which supports a balanced cherry instead of a racing thin-paper seam. Uneven sheet quality or an abrupt change in wrap gauge can leave one side catching ahead of the other even when the fill is prepared carefully. Reading wrap language on a licensed label—hemp wrap, blunt wrap, or paper—helps set expectations for evenness before the session starts.",
         ],
       },
       {
@@ -406,6 +408,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "A blunt carries more material than a pre-roll, and an infused blunt adds concentrate to the flower before kief completes the construction. Concentrate is dense and holds heat. The flame therefore meets a substantial set of layers, each contained within the wrap and moving forward together.",
           "Distribution is central to the way that density behaves. Concentrate spread evenly through the flower supports an even burn; material concentrated at the surface burns unevenly. The Presidential Infusion System carries distillate through the flower rather than simply coating the surface. By the time the wrap is added, the interior has been organized to support a consistent advance.",
+          "Pack density and humidity habits sit beside that infusion story as everyday descriptive factors. A roll packed so tightly that air barely moves will tend to stall or canoe; a roll packed too loosely can race once the wrap catches. Flower that has been stored very dry may light quickly and finish faster, while material kept overly moist can be slow to establish an even edge. Cool, dark storage that protects the contents without soaking or baking them is the practical habit: it keeps density and moisture in a workable range so the wrap's thickness and the fill can burn together rather than fighting each other.",
         ],
       },
       {
@@ -414,6 +417,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "Airflow supplies the moving current through the burning material. The wrap provides the outer boundary of that route, while the arrangement of flower, concentrate, and kief fills the space inside it. A consistent roll lets those elements function as one path from the lit end through the body of the blunt.",
           "This is why burn rate belongs to the whole construction rather than to one isolated ingredient. The wrap's thickness shapes the outside, density shapes the inside, and airflow moves through both. A steady path supports a steady progression, allowing the retained heat to move into the next portion of material at the pace established by the format.",
+          "Draw feel is the shopper's quick check on that path. A sealed, continuous wrap around an evenly arranged fill usually draws with a smooth resistance that matches blunt-scale construction. Soft spots, pinched seams, or a fill that leaves large voids create shortcuts for air and heat, so one side of the edge can run ahead. Keeping pack density even from tip to tip, and keeping the wrap smooth against the fill, is how airflow stays allied with burn rate instead of undermining it.",
         ],
       },
       {
@@ -422,6 +426,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "Infused material takes longer to light than flower because of its concentrate content. Rotating the end in the flame lets heat meet the full edge and gives the dense material time to catch. The goal is a balanced glowing edge across the roll, ready to draw air through the same path the wrap has established.",
           "This beginning fits the slower format. A longer catch is not separate from the blunt's burn rate; it is the opening expression of it. Once the edge is established, the thicker wrap and heat-holding concentrate continue to support the deliberate progression of the material.",
+          "Label literacy at the counter supports the same measured start. Look for wrap material, net weight, and any note that the format is infused or multi-layer, along with batch or lot identifiers where the market requires them. Those details tell you whether you are lighting thin paper around flower or a thicker hemp wrap around a denser build. They do not authorize dosing schedules or medical promises; they only set construction expectations so the first rotation in the flame matches what is actually inside the wrap.",
         ],
       },
       {
@@ -431,7 +436,70 @@ export const wrapPages: PageContent[] = [
           "Denser infused material burns slowly, so relighting is an expected part of the format. The same rotating approach can reestablish an even edge and bring the retained structure back to a steady burn. The relight confirms the construction's density and measured pace rather than changing the nature of the session.",
           "For the reader, burn rate translates into time and rhythm. A blunt is built to run longer than a pre-roll, while a mini keeps the same construction at a smaller size. The wrap is the outer control surface for both. It holds each format together, maintains the route for air and heat, and helps turn thickness and density into the slow, recognizable pace of an infused blunt.",
           "The full sequence can be read from start to finish. Rotation in the flame establishes heat around the edge. Air then moves through the wrapped material, while the concentrate-rich interior retains heat and advances slowly. An even distribution keeps that advance balanced, and a relight renews the edge when the dense roll pauses. Every stage reflects the same design choices. The wrap does not set the pace in isolation, but it gives thickness, fill, airflow, infusion, and heat one continuous structure in which to work together. That unity is the practical meaning of burn rate.",
+          "Matching that pace to available time keeps the topic adult and construction-first. A full-size infused blunt asks for a session that can absorb a slower catch and an occasional relight; a mini keeps the same wrap logic in a shorter window. Humidity habits and pack density still matter after the first light, because an edge that was even at the start can drift if the remaining fill is uneven or overly dry. Returning to a cool, dark resting place between sessions protects the unburned portion without inventing a new format. Burn rate stays a description of wrap, fill, air, and heat working together—not a claim about effects or outcomes.",
         ],
+      },
+    ],
+    linkParagraphs: [
+      {
+        before: "Begin with the ",
+        link: { href: "/wrap", label: "wrap hub" },
+        after: " when you want burn rate placed beside structure, material, manufacturing, and flavour in one field guide.",
+      },
+      {
+        before: "Place pace among the wrap's four jobs in the ",
+        link: { href: "/wrap/what-a-wrap-does", label: "what a wrap does guide" },
+        after: " before isolating thickness, density, and airflow on this page.",
+      },
+      {
+        before: "Compare outer materials in the ",
+        link: { href: "/wrap/hemp-vs-tobacco", label: "hemp vs tobacco leaf guide" },
+        after: " when the shelf question is which wrap tradition is framing the burn.",
+      },
+      {
+        before: "Confirm the tobacco-free outer layer in the ",
+        link: { href: "/wrap/tobacco-free", label: "tobacco-free hemp wrap page" },
+        after: " if the remaining distinction is material choice rather than session length.",
+      },
+      {
+        before: "See how sheet consistency becomes a finished burn in the ",
+        link: { href: "/wrap/how-wraps-are-made", label: "how wraps are made guide" },
+        after: ", then return here for the in-session mechanics.",
+      },
+      {
+        before: "Move from pace to taste with the ",
+        link: { href: "/wrap/wrap-and-flavour", label: "wrap and flavour guide" },
+        after: " once the burn system is clear and the next question is what reaches the palate.",
+      },
+      {
+        before: "Separate thicker wraps from thin paper in the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap vs rolling paper comparison" },
+        after: " when burn rate needs a format-level contrast.",
+      },
+      {
+        before: "Relate wrap pace to ready-to-light builds in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        after: " if completion time is the practical decision on the shelf.",
+      },
+      {
+        before: "Practice the measured catch on the ",
+        link: { href: "/ritual/how-to-light-one", label: "how to light one ritual page" },
+        after: " after thickness and density expectations are set.",
+      },
+      {
+        before: "Treat an occasional pause as part of the format with the ",
+        link: { href: "/ritual/relighting", label: "relighting guide" },
+        after: " rather than as a fault in the wrap.",
+      },
+      {
+        before: "Match construction to available time on the ",
+        link: { href: "/ritual/session-length", label: "session length page" },
+        after: ", keeping pace descriptive and free of dosing language.",
+      },
+      {
+        before: "Protect the unburned portion with the ",
+        link: { href: "/ritual/storage", label: "storage ritual page" },
+        after: " so humidity habits support an even later burn.",
       },
     ],
     relatedLinks: [
@@ -440,6 +508,9 @@ export const wrapPages: PageContent[] = [
       { href: "/wrap/what-a-wrap-does", label: "Place burn rate among the wrap's jobs" },
       { href: "/wrap/how-wraps-are-made", label: "Connect consistency with the finished burn" },
       { href: "/wrap/wrap-and-flavour", label: "Move from burn mechanics to flavour" },
+      { href: "/compare/blunt-vs-pre-roll", label: "Compare blunt and pre-roll pace" },
+      { href: "/ritual/how-to-light-one", label: "Practice a measured light" },
+      { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
     externalLink: {
       href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
