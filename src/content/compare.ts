@@ -9,7 +9,7 @@ export const comparePages: PageContent[] = [
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
       "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
-    wordTarget: [1100, 1250],
+    wordTarget: [1250, 1350],
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion.",
       "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice.",
@@ -30,6 +30,7 @@ export const comparePages: PageContent[] = [
         heading: "Blunt vs Pre-Roll",
         paragraphs: [
           "A blunt and a pre-roll can both arrive ready to light, yet their structures set distinct expectations. The blunt's thicker wrap supports greater material volume and a slower burn; the pre-roll's thin paper burns fastest and finishes quickest. This comparison makes format, pace, and purpose easy to read at a glance.",
+          "Ready-to-light does not erase wrap differences: a hemp-wrap blunt still carries thicker construction and slower heat, while a paper pre-roll keeps the quicker thin-paper pace adults 21+ expect from that format.",
         ],
       },
       {
@@ -44,6 +45,7 @@ export const comparePages: PageContent[] = [
         heading: "Mini vs Full Blunt",
         paragraphs: [
           "A mini carries the same blunt construction at a smaller size. A full-size blunt brings greater capacity and a longer session, while the mini keeps the format compact. The comparison looks at session length, sharing, and how size can match the number of people and the time available.",
+          "Scale stays separate from construction: a mini is still a blunt at smaller capacity, not a different wrap class, so session length and sharing should be read after wrap and fill are already settled.",
         ],
       },
       {
@@ -83,6 +85,7 @@ export const comparePages: PageContent[] = [
         heading: "How to navigate this comparison library",
         paragraphs: [
           "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Each child page answers one contrast and links back here; keep outbound moon-rock and find-us paths unchanged when you follow them from related pages.",
+          "Read each child guide for one contrast only, then return here when several format questions arrive together so wrap, fill, infusion, and size stay in a clear order for the Presidential Blunts reference.",
         ],
       },
     ],
