@@ -7,7 +7,7 @@ export const pillarPage: PageContent = {
   title: "Presidential Blunts | Official Infused Blunt Guide",
   description:
     "Presidential Blunts are Presidential's tobacco-free hemp-wrap infused blunts — flower, concentrate, and kief in one format — explained here, sold only at licensed retailers.",
-  wordTarget: [1100, 1250],
+  wordTarget: [1250, 1350],
   intro: [
     "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
     "Use this homepage as the starting map for the whole site. The Wrap hub covers hemp construction and burn, Compare separates blunts from pre rolls and minis, Ritual walks lighting through storage and sharing, Strains records the named catalog, and About explains the publisher and wholesale model. Each hub stays educational for adults 21+ and sends product questions back to the current package and licensed retailer.",
@@ -21,6 +21,7 @@ export const pillarPage: PageContent = {
         "A Presidential blunt combines flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, premium THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
         "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity. Product quality and construction quality can differ by item, so the current package remains the reliable reference.",
         "Read the build in that order—flower base, concentrate infusion, kief finish, hemp outer sheet—then move into the hubs when one part needs more depth. Construction language stays educational: no dosing claims, no invented lab percentages, and no substitute for the licensed label in your market.",
+        "Adults 21+ can treat this homepage overview as format literacy rather than a shopping cart: the infused blunt is defined by hemp wrap, layered fill, and slower burn, while named catalog items and licensed doors answer which product is currently available in a given market.",
       ],
     },
     {
@@ -30,6 +31,7 @@ export const pillarPage: PageContent = {
         "Presidential Blunts use hemp wraps rather than tobacco leaf. The wrap keeps the crafted infused fill packed securely and helps define the slower blunt format without adding tobacco or nicotine. Distinct flavors come from the flower, concentrate, kief, and the profile identified for the particular product. Check the current package for flavor details.",
         "A blunt and a pre roll are related rolled-cannabis formats, but they are not interchangeable. Pre rolls use paper; Presidential Blunts use a broader hemp wrap. Full-size blunts and minis keep the same construction packed at different scales. The format page and package provide the reliable comparison.",
         "When the outer sheet is the question—material, tobacco-free meaning, burn pace, or how flavour reads through a neutral wrap—continue in the Wrap hub. When size and format contrast matter more than the sheet itself, Compare keeps blunt, pre-roll, mini, and paper distinctions side by side without collapsing them into one product story.",
+        "Tobacco-free labeling stays with the wrap material itself. Confirm the current package for wrap composition and ingredients; this guide explains why hemp is used for blunt construction without inventing batch-level assay numbers beyond the published product facts.",
       ],
     },
     {
@@ -56,6 +58,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "This pillar is the parent map. Five primary destinations nest under it for adult readers: Wrap for hemp construction, Compare for rolled-format contrasts, Ritual for session cues, Strains for named catalog groupings, and About for brand and publisher context. Child articles under each hub isolate one practical question—wrap jobs, burn rate, blunt versus pre-roll, lighting, storage, a single strain name—while linking back here when the next question spans more than one silo.",
         "Browse in that practical order when you are new to the infused blunt format, or jump to the hub that matches the moment in hand. Construction questions start in Wrap; format choice continues in Compare; handling continues in Ritual; product names continue in Strains; company framing continues in About. Return to this homepage whenever you need the full Presidential Blunts overview in one place.",
+        "When a question spans two silos—for example wrap material and session pacing—return here first, then follow the hub links in sequence so construction and ritual stay distinct rather than merged into one undifferentiated product story.",
       ],
     },
   ],
