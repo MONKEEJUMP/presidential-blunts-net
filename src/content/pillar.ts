@@ -11,9 +11,16 @@ export const pillarPage: PageContent = {
   intro: [
     "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
     "Use this homepage as the starting map for the whole site. The Wrap hub covers hemp construction and burn, Compare separates blunts from pre rolls and minis, Ritual walks lighting through storage and sharing, Strains records the named catalog, and About explains the publisher and wholesale model. Each hub stays educational for adults 21+ and sends product questions back to the current package and licensed retailer.",
-    "Presidential is the brand and publisher here, not a strain or cultivar name. Indica, sativa, and hybrid labels describe plant groupings inside the catalog; they do not rename the company. This site does not sell or ship cannabis—it explains the infused blunt format and points adults to legal, licensed doors.",
+    "Presidential is the brand and publisher here, not a strain or cultivar name. Indica, sativa, and hybrid labels describe plant groupings inside the catalog; they do not rename the company. This site does not sell or ship cannabis—it explains the infused blunt format and points adults to legal, licensed doors. Adults 21+ can read this page for format literacy: a hemp wrap and a paper joint are different constructions.",
   ],
   sections: [
+    {
+      id: "blunt-joint-wrap",
+      heading: "Blunt, joint, and wrap",
+      paragraphs: [
+        "A joint is flower in thin paper. A blunt is flower in a broader leaf or wrap, so the piece is typically larger and burns more slowly than a joint. A traditional blunt uses a tobacco wrap; that wrap is leaf, and the leaf is what carries nicotine. A hemp wrap is the tobacco-free sheet. An infused pre-roll is a different construction: paper on the outside, with concentrate added to the fill, not a change to a hemp wrap.",
+      ],
+    },
     {
       id: "what-a-blunt-is",
       heading: "What are Presidential Blunts?",
