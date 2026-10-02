@@ -261,7 +261,7 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
           </header>
           <div className="gold-seam" aria-hidden="true" />
           <div className={`article-lead${leadImage ? " article-lead--with-image" : ""}`}>
-            <div className="article-lead__copy">{page.intro.map((paragraph, index) => <p key={`intro-${index}`}>{paragraph}</p>)}</div>
+            <div className="article-lead__copy">{page.leadParagraphs?.map((paragraph) => (<p key={`lead-${paragraph.link.href}`}>{paragraph.before}{paragraph.link.href.startsWith("/") ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link> : <a href={paragraph.link.href}>{paragraph.link.label}</a>}{paragraph.after}</p>))}{page.intro.map((paragraph, index) => <p key={`intro-${index}`}>{paragraph}</p>)}</div>
             {leadImage ? <ContentFigure image={leadImage} priority /> : null}
           </div>
           {showContents ? <TableOfContents page={page} /> : null}
