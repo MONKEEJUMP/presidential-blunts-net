@@ -114,11 +114,11 @@ function FrequentlyAskedQuestions({ page }: { page: PageContent }) {
   );
 }
 
-function BrandCallToAction() {
+function BrandCallToAction({ page }: { page: PageContent }) {
   return (
     <aside className="brand-cta" aria-labelledby="brand-cta-heading">
       <h2 id="brand-cta-heading">Find Presidential Near You</h2>
-      <p>Explore the full Presidential catalog and locate licensed retailers through the main Presidential site.</p>
+      <p>{page.ctaParagraph ?? "Explore the full Presidential catalog and locate licensed retailers through the main Presidential site."}</p>
       <a className="brand-cta__button" href="https://presidentialmoonrocks.com/find-us" rel="nofollow">Find a licensed retailer</a>
     </aside>
   );
@@ -237,14 +237,16 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
   const showContents = page.kind === "pillar" || page.kind === "hub";
   const leadImage = images[0];
   const sectionImages = images.slice(1);
-  const prependedPlainSection = page.sections[0]?.id === "blunt-joint-wrap";
+  const prependedPlainSection = page.sections[0]?.id === "blunt-joint-wrap" || page.sections[0]?.id === "pre-roll-vs-blunt";
   const usedSectionImages = prependedPlainSection
     ? sectionImages.slice(0, Math.max(0, page.sections.length - 1))
     : sectionImages.slice(0, page.sections.length);
   const remainingImages = sectionImages.slice(usedSectionImages.length);
   const linkAnchorId = page.sections.some((section) => section.id === "what-a-blunt-is")
     ? "what-a-blunt-is"
-    : page.sections[0]?.id;
+    : prependedPlainSection
+      ? page.sections[1]?.id
+      : page.sections[0]?.id;
   return (
     <>
       {page.path === "/" ? <link rel="canonical" href="https://presidentialblunts.net/" /> : null}
@@ -271,7 +273,7 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
               <Fragment key={section.id}>
                 <ArticleSection image={image} reverse={layoutIndex % 2 === 1} section={section} />
                 {section.id === linkAnchorId ? <RelatedSiteLinks page={page} /> : null}
-                {section.id === linkAnchorId ? <BrandCallToAction /> : null}
+                {section.id === linkAnchorId ? <BrandCallToAction page={page} /> : null}
               </Fragment>
               );
             })}

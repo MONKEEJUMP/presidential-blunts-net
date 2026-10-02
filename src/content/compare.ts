@@ -8,84 +8,91 @@ export const comparePages: PageContent[] = [
     h1: "Compare Blunts and Rolled Formats",
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
-      "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
+      "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference. Adults comparing smoking cannabis formats often start here before a dispensary visit when they want high quality cannabis on the go without the hassle of guessing wrap materials—a healthier option for adults who want benefits spelled out on the label before they light with friends.",
     wordTarget: [1250, 1350],
     intro: [
-      "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion.",
-      "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice.",
-      "Presidential Blunts publishes this hub as an infused-blunt format reference. Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question.",
-      "Adult readers 21+ can treat this hub as a format literacy map: start with the outer layer, then fill and infusion, then size and session pace. Each child guide isolates one contrast—joint, pre-roll, spliff, mini, infused build, or wrap versus paper—without medical claims, dosing language, or invented lab numbers.",
+      "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion. The main difference smokers notice first is wrap thickness and whether tobacco leaf wraps, a blunt wrap, or thin rolling papers surround the fill.",
+      "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice for their smoking experience and smoking sessions.",
+      "Presidential Blunts publishes this hub as an infused-blunt format reference. Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question. Quality cannabis construction, aroma, flavor, and convenience matter more than nicknames when adults choose a format that users can verify on a labeled package.",
+      "Adult readers 21+ can treat this hub as a format literacy map: start with the outer layer, then fill and infusion, then size and session pace. Each child guide isolates one contrast—joint, pre-roll, spliff, mini, infused build, or wrap versus paper—without medical claims, dosing language, or invented lab numbers. The goal is a clearer cannabis experience for smokers who want construction literacy before lighting, including how cannabis strains, burn time, and flavor cues show up on labeled packages.",
     ],
     sections: [
+      {
+        id: "pre-roll-vs-blunt",
+        heading: "Pre roll vs blunt",
+        paragraphs: [
+          "Joints consist of ground cannabis flower in thin paper. That sheet can be only rolling paper, including flax, in king-size and 1 1/4 sizes. A blunt places flower in a broader leaf or wrap. A tobacco wrap holds tobacco content in the outer leaf, while a hemp wrap is the tobacco-free sheet used for a smooth smoking experience. An infused pre-roll keeps paper on the outside and adds concentrate or kief to the flower. Pre-rolls typically hold ground flower in a compact pack for on the go use, while a blunt's fill can sit more tightly in the thicker wrap. Pre-rolled blunts arrive already formed, which removes grinding and rolling from the choice, and that paper build is not pre rolled joints.",
+        ],
+      },
       {
         id: "blunt-vs-joint",
         heading: "Blunt vs Joint",
         paragraphs: [
-          "A blunt uses a thicker wrap and carries more material, while a joint uses thin rolling paper and follows a quicker pace. That construction gives the blunt a slower burn and longer heat retention. The full guide compares the two from the outside layer inward, then matches their different sizes and rhythms to different occasions.",
-          "Reading wrap thickness before nicknames keeps the joint comparison honest: thin paper and lighter capacity on one side, thicker hemp and greater fill on the other.",
+          "A blunt uses a thicker wrap and carries more material, while a joint uses thin rolling paper and follows a quicker pace. That construction gives the blunt a slower burn and longer heat retention. The full guide compares the two from the outside layer inward, then matches their different sizes and rhythms to different occasions. Traditional tobacco leaf or cigar-style wraps once defined many blunts; Presidential uses a tobacco-free hemp blunt wrap so nicotine stays off the build while the even burn and capacity cues still read as blunt construction.",
+          "Reading wrap thickness before nicknames keeps the joint comparison honest: thin paper and lighter capacity on one side, thicker hemp and greater fill on the other. Smokers who prefer paper-only formats often choose rolling papers for a quicker smoking experience; those who want more capacity keep the blunt wrap for longer smoking sessions.",
         ],
       },
       {
         id: "blunt-vs-pre-roll",
         heading: "Blunt vs Pre-Roll",
         paragraphs: [
-          "A blunt and a pre-roll can both arrive ready to light, yet their structures set distinct expectations. The blunt's thicker wrap supports greater material volume and a slower burn; the pre-roll's thin paper burns fastest and finishes quickest. This comparison makes format, pace, and purpose easy to read at a glance.",
-          "Ready-to-light does not erase wrap differences: a hemp-wrap blunt still carries thicker construction and slower heat, while a paper pre-roll keeps the quicker thin-paper pace adults 21+ expect from that format.",
+          "A blunt and a pre-roll can both arrive ready to light, yet their structures set distinct expectations. The blunt's thicker wrap supports greater material volume and a slower burn; the pre-roll's thin paper burns fastest and finishes quickest. This comparison makes format, pace, and purpose easy to read at a glance for smoking cannabis on different occasions.",
+          "Ready-to-light does not erase wrap differences: a hemp-wrap blunt still carries thicker construction and slower heat, while a paper pre-roll keeps the quicker thin-paper pace adults 21+ expect from that format. Convenience is why many smokers reach for a ready-made cannabis roll or paper pre rolls, but wrap material still decides capacity and burn quality. Pure cannabis flower still differs from an infused fill even when both look similar at a glance.",
         ],
       },
       {
         id: "blunt-vs-spliff",
         heading: "Blunt vs Spliff",
         paragraphs: [
-          "Blunt and spliff describe different construction choices. A spliff traditionally places tobacco with cannabis inside rolling paper, while a Presidential blunt places its flower, concentrate, and kief inside a neutral hemp wrap. The detailed guide separates the terms and shows exactly where a tobacco-free blunt fits.",
+          "Blunt and spliff describe different construction choices. A spliff traditionally places tobacco with cannabis inside rolling paper, while a Presidential blunt places its flower, concentrate, and kief inside a neutral hemp wrap. The detailed guide separates the terms and shows exactly where a tobacco-free blunt fits. Avoiding tobacco leaf wraps and nicotine keeps Presidential builds distinct from a cigar-style tobacco wrap or tobacco leaves emptied for smoking weed.",
         ],
       },
       {
         id: "mini-vs-full",
         heading: "Mini vs Full Blunt",
         paragraphs: [
-          "A mini carries the same blunt construction at a smaller size. A full-size blunt brings greater capacity and a longer session, while the mini keeps the format compact. The comparison looks at session length, sharing, and how size can match the number of people and the time available.",
-          "Scale stays separate from construction: a mini is still a blunt at smaller capacity, not a different wrap class, so session length and sharing should be read after wrap and fill are already settled.",
+          "A mini carries the same blunt construction at a smaller size. A full-size blunt brings greater capacity and a longer session, while the mini keeps the format compact. The comparison looks at session length, sharing, and how size can match the number of people and the time available for smoking sessions with friends who bring different preferences around pace, capacity, and flavor.",
+          "Scale stays separate from construction: a mini is still a blunt at smaller capacity, not a different wrap class, so session length and sharing should be read after wrap and fill are already settled. Smokers who prefer a shorter cannabis experience often choose mini scale without changing the blunt wrap recipe.",
         ],
       },
       {
         id: "infused-vs-non-infused",
         heading: "Infused vs Non-Infused",
         paragraphs: [
-          "Infusion adds concentrate and kief to flower, creating a three-layer construction with more density than flower alone. That density holds heat and supports a slower burn, while even distribution helps the material burn evenly. The guide explains each layer, its job, and the measurable potency difference in the finished format.",
+          "Infusion adds concentrate and kief to flower, creating a three-layer construction with more density than flower alone. That density holds heat and supports a slower burn, while even distribution helps the material burn evenly for an even burn across the session. The guide explains each layer, its job, and the measurable potency difference in the finished format, including how labeled THC and aroma cues appear on quality packaging at a dispensary.",
         ],
       },
       {
         id: "hemp-wrap-vs-paper",
         heading: "Hemp Wrap vs Paper",
         paragraphs: [
-          "Hemp wrap is thicker, holds more material, and burns more slowly than thin rolling paper. Presidential uses a neutral hemp wrap, allowing the flower, concentrate, kief, and selected flavor profile to lead the taste. The full comparison follows the material choice through burn rate, heat, capacity, and flavor presentation.",
+          "Hemp wrap is thicker, holds more material, and burns more slowly than thin rolling papers. Presidential uses a neutral hemp wrap, allowing the flower, concentrate, kief, and selected flavor profile to lead the taste. The full comparison follows the material choice through burn rate, heat, capacity, and flavor presentation. Tobacco leaf wraps and classic tobacco wrap builds sit on one historical path; hemp blunt wrap and paper-only joints remain other paths for cannabis consumption without nicotine.",
         ],
       },
       {
         id: "how-to-read-comparisons",
         heading: "How to read a format comparison",
         paragraphs: [
-          "Start with construction rather than the product name. Identify the outside material, then the fill, added infusion, and finished size. A hemp wrap and rolling paper handle capacity and heat differently. Flower alone and an infused blend also describe different builds. Those checks establish the format before taste, pace, or occasion enters the decision.",
-          "When only one feature is unclear, use the guide devoted to that feature. When several features change at once, read the guides in sequence: outer material first, flower or infusion second, and size last. This prevents a mini from being treated as a different construction and keeps a ready-made pre-roll from being confused with a hemp-wrapped blunt. If tobacco and definition are the question, use the spliff guide before comparing scale.",
-          "Package details should support the comparison. Look for the format name, wrap or paper material, ingredient statement, net weight, batch information, and labeled potency where required. The library explains what those details mean; it does not rank products, promise an experience, or turn a brand name into a cultivar. Presidential Blunts remains the publisher and infused-blunt brand, while strain and cultivar names identify the flower separately.",
+          "Start with construction rather than the product name. Identify the outside material, then the fill, added infusion, and finished size. A hemp wrap and rolling papers handle capacity and heat differently. Flower alone and an infused blend also describe different builds. Those checks establish the format before taste, pace, or occasion enters the decision. The main difference between formats is almost always the outer layer first.",
+          "When only one feature is unclear, use the guide devoted to that feature. When several features change at once, read the guides in sequence: outer material first, flower or infusion second, and size last. This prevents a mini from being treated as a different construction and keeps ready-made pre rolls from being confused with a hemp-wrapped blunt. If tobacco and definition are the question, use the spliff guide before comparing scale. Pre rolled joints and paper-only formats stay on the thin-paper side of that map.",
+          "Package details should support the comparison. Look for the format name, wrap or paper material, ingredient statement, net weight, batch information, and labeled potency where required. The library explains what those details mean; it does not rank products, promise an experience, or turn a brand name into a cultivar. Presidential Blunts remains the publisher and infused-blunt brand, while strain and cultivar names identify the flower separately. Ask a dispensary for current quality, THC numbers, aroma notes, and benefits of each format rather than relying on a nickname alone. Users typically check popularity and labeled flavor before they prefer one build; personal preferences still decide whether a joint, blunt wrap, or paper pre rolls fit the occasion.",
         ],
       },
       {
         id: "choose-by-format",
         heading: "Choose by format",
         paragraphs: [
-          "Begin with the occasion, then choose the construction that supports it. Thin paper suits a quick finish. A mini brings blunt construction to a smaller session. A full-size infused blunt brings more material, a deliberate burn, and room for sharing. Once format is settled, the individual guides make the remaining distinctions simple.",
-          "The comparisons also work together. Wrap and paper explain the outside layer, infused and regular explain the inside, and mini and full explain scale. Read in that order, the library becomes a practical map from construction to occasion.",
-          "Once wrap, fill, and size are settled, ritual pages for lighting and session pace can follow without rewriting the format definition for adult readers 21+.",
+          "Begin with the occasion, then choose the construction that supports it. Thin rolling papers suit a quick finish when convenience is the priority for joints and pre rolls that finish faster than a blunt wrap. A mini brings blunt construction to a smaller session. A full-size infused blunt brings more material, a deliberate burn, and room for sharing. Once format is settled, the individual guides make the remaining distinctions simple. Convenience, quality, and the overall smoking experience should drive the pick—not marketing shorthand.",
+          "The comparisons also work together. Wrap and paper explain the outside layer, infused and regular explain the inside, and mini and full explain scale. Read in that order, the library becomes a practical map from construction to occasion for enjoying cannabis without confusing a cigar wrap for a hemp blunt wrap.",
+          "Once wrap, fill, and size are settled, ritual pages for lighting and session pace can follow without rewriting the format definition for adult readers 21+. Smoking cannabis with an even burn starts with the right wrap for the session length smokers actually want.",
         ],
       },
       {
         id: "navigate-comparison-library",
         heading: "How to navigate this comparison library",
         paragraphs: [
-          "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Each child page answers one contrast and links back here; keep outbound moon-rock and find-us paths unchanged when you follow them from related pages.",
-          "Read each child guide for one contrast only, then return here when several format questions arrive together so wrap, fill, infusion, and size stay in a clear order for the Presidential Blunts reference.",
+          "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Each child page answers one contrast and links back here; keep outbound moon-rock and find-us paths unchanged when you follow them from related pages. Tobacco leaves, tobacco leaf wraps, and nicotine cues belong in the spliff contrast, not in Presidential hemp construction.",
+          "Read each child guide for one contrast only, then return here when several format questions arrive together so wrap, fill, infusion, and size stay in a clear order for the Presidential Blunts reference. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase. Marijuana labeling, weed nicknames, and cannabis strains still follow the package—not the hub title—when users shop.",
         ],
       },
     ],
@@ -144,7 +151,7 @@ export const comparePages: PageContent[] = [
       {
         before: "Read the ",
         link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll comparison" },
-        after: " when the decision is between ready-to-light formats and the important difference is the wrap, fill, size, or pace.",
+        after: " when the decision is between ready-to-light blunts and paper pre rolls and the important difference is the wrap, fill, size, or pace.",
       },
       {
         before: "Use the ",
@@ -162,6 +169,8 @@ export const comparePages: PageContent[] = [
         after: " when construction is already settled and the remaining choice is capacity, session length, or sharing scale.",
       },
     ],
+    ctaParagraph:
+      "Explore the full Presidential catalog and locate licensed retailers through the main Presidential site. A licensed dispensary remains the place to confirm current quality, THC labeling, and aroma on the package before purchase.",
     childLinks: [
       {
         href: "/compare/blunt-vs-joint",
