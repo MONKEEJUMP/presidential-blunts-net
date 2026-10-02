@@ -18,7 +18,7 @@ export const aboutPage: PageContent = {
       id: "presidential",
       heading: "Presidential, Los Angeles, 2012",
       paragraphs: [
-        "Presidential was founded in Los Angeles in 2012. The company operates wholesale only, supplying products through licensed retailers. Its current catalog contains 47 products across six groupings and four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Products are carried in California, Oklahoma, New York, Nevada, Michigan, and Arizona, with Florida and Washington opening.",
+        "Presidential was founded in Los Angeles in 2012. The company operates wholesale only, supplying products through licensed retailers. Its current catalog contains 47 products across six groupings and four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Products are carried in California, Oklahoma, New York, Nevada, Michigan, and Arizona, with Washington opening.",
         "Across the blunt catalog, Presidential uses hemp wraps that are one hundred percent tobacco free. The hemp wrap provides the thicker structure, slower burn, and longer heat retention associated with a blunt while keeping its taste neutral. That lets the flower, concentrate, kief, and deliberately selected flavor direction provide the identity of what is rolled inside.",
         "Wholesale context matters for how this reference is read. Presidential Blunts does not sell or ship cannabis from this site; it explains the infused blunt format and points adults toward licensed doors where legal. Market coverage, retailer selection, and current package labeling remain the practical checks for availability and product identity.",
       ],
