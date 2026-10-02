@@ -85,6 +85,21 @@ export const wrapPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "When the question leaves the sheet and becomes a format contrast, open the ",
+        link: { href: "/compare", label: "compare hub" },
+        after: ".",
+      },
+      {
+        before: "Set hemp wrap beside rolling paper in the ",
+        link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap versus paper guide" },
+        after: ".",
+      },
+      {
+        before: "See what concentrate and kief change inside the wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused versus regular blunt guide" },
+        after: ".",
+      },
+      {
         before: "This ",
         link: { href: "/about", label: "brand" },
         after: " and publisher page explains who stands behind this educational reference.",

@@ -136,6 +136,11 @@ export const strainsPage: PageContent = {
       after: " when the question shifts from catalog names to outer construction.",
     },
     {
+      before: "Separate wrap thickness from thin paper with the ",
+      link: { href: "/compare/blunt-vs-joint", label: "blunt versus joint guide" },
+      after: " before a catalog name chooses the format.",
+    },
+    {
       before: "Open the ",
       link: { href: "/compare", label: "rolled-format comparison hub" },
       after: " to place the blunt catalog beside other rolled formats.",
