@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: PublicationPageProps): Promis
 
   const images = imagesForPage(pageImages, path);
   const socialImage = images[0];
-  const canonical = absoluteUrl(path);
+  const canonical = path === "/" ? "https://presidentialblunts.net/" : absoluteUrl(path);
   const socialImageMetadata = socialImage
     ? {
         url: imageUrl(socialImage),
@@ -53,11 +53,11 @@ export async function generateMetadata({ params }: PublicationPageProps): Promis
   return {
     title: page.title,
     description: page.description,
-    alternates: { canonical },
+    alternates: path === "/" ? undefined : { canonical },
     robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
     openGraph: {
       type: page.kind === "article" ? "article" : "website",
-      url: canonical,
+      url: path === "/" ? "https://presidentialblunts.net/" : canonical,
       title: page.title,
       description: page.description,
       siteName: SITE_NAME,

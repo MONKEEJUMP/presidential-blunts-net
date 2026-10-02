@@ -241,6 +241,7 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
   const remainingImages = sectionImages.slice(page.sections.length);
   return (
     <>
+      {page.path === "/" ? <link rel="canonical" href="https://presidentialblunts.net/" /> : null}
       <SiteHeader currentPath={page.path} />
       <main id="main-content">
         <article className={`publication publication--${page.kind}`}>
