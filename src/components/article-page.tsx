@@ -237,8 +237,14 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
   const showContents = page.kind === "pillar" || page.kind === "hub";
   const leadImage = images[0];
   const sectionImages = images.slice(1);
-  const usedSectionImages = sectionImages.slice(0, page.sections.length);
-  const remainingImages = sectionImages.slice(page.sections.length);
+  const prependedPlainSection = page.sections[0]?.id === "blunt-joint-wrap";
+  const usedSectionImages = prependedPlainSection
+    ? sectionImages.slice(0, Math.max(0, page.sections.length - 1))
+    : sectionImages.slice(0, page.sections.length);
+  const remainingImages = sectionImages.slice(usedSectionImages.length);
+  const linkAnchorId = page.sections.some((section) => section.id === "what-a-blunt-is")
+    ? "what-a-blunt-is"
+    : page.sections[0]?.id;
   return (
     <>
       {page.path === "/" ? <link rel="canonical" href="https://presidentialblunts.net/" /> : null}
@@ -258,13 +264,17 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
           </div>
           {showContents ? <TableOfContents page={page} /> : null}
           <div className="article-body">
-            {page.sections.map((section, index) => (
+            {page.sections.map((section, index) => {
+              const layoutIndex = prependedPlainSection ? index - 1 : index;
+              const image = layoutIndex >= 0 ? usedSectionImages[layoutIndex] : undefined;
+              return (
               <Fragment key={section.id}>
-                <ArticleSection image={usedSectionImages[index]} reverse={index % 2 === 1} section={section} />
-                {index === 0 ? <RelatedSiteLinks page={page} /> : null}
-                {index === 0 ? <BrandCallToAction /> : null}
+                <ArticleSection image={image} reverse={layoutIndex % 2 === 1} section={section} />
+                {section.id === linkAnchorId ? <RelatedSiteLinks page={page} /> : null}
+                {section.id === linkAnchorId ? <BrandCallToAction /> : null}
               </Fragment>
-            ))}
+              );
+            })}
             <FrequentlyAskedQuestions page={page} />
           </div>
           {remainingImages.length ? <aside className="image-ledger" aria-label="Packaging details">{remainingImages.map((image) => <ContentFigure image={image} key={image.src} />)}</aside> : null}
