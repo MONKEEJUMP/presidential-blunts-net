@@ -82,6 +82,16 @@ export const ritualPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
+        before: "Choose the rolled format before the session with the ",
+        link: { href: "/compare", label: "compare hub" },
+        after: ".",
+      },
+      {
+        before: "Match capacity to the sitting with the ",
+        link: { href: "/compare/mini-vs-full", label: "mini versus full blunt guide" },
+        after: " before you light.",
+      },
+      {
         before: "This ",
         link: { href: "/about", label: "brand" },
         after: " and publisher page explains who stands behind this educational reference.",

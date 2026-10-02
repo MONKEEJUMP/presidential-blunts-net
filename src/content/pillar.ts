@@ -84,6 +84,21 @@ export const pillarPage: PageContent = {
       after: " when the outer sheet, tobacco-free meaning, burn pace, or flavour window needs a dedicated guide.",
     },
     {
+      before: "Separate a ",
+      link: { href: "/compare/blunt-vs-joint", label: "blunt from a joint" },
+      after: " when wrap thickness, not just the rolled shape, is the question.",
+    },
+    {
+      before: "Keep tobacco out of the comparison with the ",
+      link: { href: "/compare/blunt-vs-spliff", label: "blunt versus spliff guide" },
+      after: ".",
+    },
+    {
+      before: "Set the outer sheet beside rolling paper in the ",
+      link: { href: "/compare/hemp-wrap-vs-paper", label: "hemp wrap versus paper guide" },
+      after: ".",
+    },
+    {
       before: "Use the ",
       link: { href: "/compare", label: "compare rolled formats hub" },
       after: " for blunt versus pre-roll, mini versus full-size, and related construction contrasts.",
