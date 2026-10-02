@@ -3,8 +3,8 @@ import type { PageContent } from "./types";
 export const pillarPage: PageContent = {
   path: "/",
   kind: "pillar",
-  h1: "Presidential Blunts: Official Infused Blunt Guide",
-  title: "Presidential Blunts | Official Infused Blunt Guide",
+  h1: "Presidential Blunts Presidential blunt | Official Infused Blunt Guide",
+  title: "Presidential Blunts Presidential blunt | Official Infused Blunt Guide",
   description:
     "Presidential Blunts are Presidential's tobacco-free hemp-wrap infused blunts — flower, concentrate, and kief in one format — explained here, sold only at licensed retailers.",
   wordTarget: [1250, 1350],
