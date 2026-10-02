@@ -8,7 +8,7 @@ export const comparePages: PageContent[] = [
     h1: "Compare Blunts and Rolled Formats",
     title: "Blunts Compared — Joint, Pre-Roll, Spliff and Mini",
     description:
-      "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference. Adults comparing smoking cannabis formats often start here before a dispensary visit when they want high quality cannabis on the go without the hassle of guessing wrap materials—a healthier option for adults who want benefits spelled out on the label before they light with friends.",
+      "Compare blunt formats by wrap, paper, capacity, burn rate, heat, and session style, with clear guidance from the Presidential Blunts reference.",
     wordTarget: [1250, 1350],
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion. The main difference smokers notice first is wrap thickness and whether tobacco leaf wraps, a blunt wrap, or thin rolling papers surround the fill.",
