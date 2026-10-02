@@ -48,6 +48,7 @@ export type PageContent = {
   childLinks?: PageLink[];
   relatedLinks?: PageLink[];
   externalLink?: PageLink;
+  ctaParagraph?: string;
 };
 
 export type ContentImage = {
