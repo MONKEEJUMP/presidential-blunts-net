@@ -43,6 +43,7 @@ export type PageContent = {
   wordTarget: [number, number];
   intro: string[];
   sections: ContentSection[];
+  leadParagraphs?: LinkedParagraph[];
   linkParagraphs?: LinkedParagraph[];
   faq?: FaqItem[];
   childLinks?: PageLink[];

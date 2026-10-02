@@ -16,6 +16,13 @@ export const comparePages: PageContent[] = [
       "Presidential Blunts publishes this hub as an infused-blunt format reference. Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question. Quality cannabis construction, aroma, flavor, and convenience matter more than nicknames when adults choose a format that users can verify on a labeled package.",
       "Adult readers 21+ can treat this hub as a format literacy map: start with the outer layer, then fill and infusion, then size and session pace. Each child guide isolates one contrast—joint, pre-roll, spliff, mini, infused build, or wrap versus paper—without medical claims, dosing language, or invented lab numbers. The goal is a clearer cannabis experience for smokers who want construction literacy before lighting, including how cannabis strains, burn time, and flavor cues show up on labeled packages.",
     ],
+    leadParagraphs: [
+      {
+        before: "This comparison library is published by ",
+        link: { href: "https://presidentialblunts.net/", label: "Presidential Blunts" },
+        after: ".",
+      },
+    ],
     sections: [
       {
         id: "pre-roll-vs-blunt",
