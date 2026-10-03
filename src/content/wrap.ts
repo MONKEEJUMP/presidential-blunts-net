@@ -262,6 +262,14 @@ export const wrapPages: PageContent[] = [
           "Solving those questions in order also keeps a licensed shelf readable when packaging looks related at a glance. Identify the outer material first, then format scale, then series direction inside the shared wrap. A mini and a full-size blunt can share the same hemp jobs at different lengths; Silver, Gold, and Rose Gold can share the same neutral frame while differing by extract. The wrap stays one component with four jobs—not a claim about effects or outcomes.",
         ],
       },
+      {
+        id: "one-fault-moves-the-rest",
+        heading: "When one job slips, the other three move",
+        paragraphs: [
+          "The four jobs share one sheet, so a fault does not stay in the job where it first shows. A soft spot, a pinched seam, or an abrupt change in gauge leaves one side of the roll less supported. That is the structure problem already named here, and the airflow reading of the same fault is a shortcut: air and heat take the easier side, and one side of the edge runs ahead. The slower pace of a thicker blunt wrap then describes only part of the roll, even while that wrap still surrounds a larger volume than a pre-roll and still holds heat in the active portion. Taste depends on the same boundary. The wrap is present for the full length of the material, and a neutral hemp layer keeps flower, concentrate, and kief recognizable only while the draw is still moving through the arranged fill rather than through a shortcut.",
+          "The same link is why a wrap change is not a flavour-only edit. A neutral hemp wrap leaves the structural and burn roles in place so the flower, concentrate, and kief define taste. Silver, Gold, and Rose Gold can share that frame and still differ by extract: fruit-forward distillate, cannabis-forward live resin, and solventless live rosin. A wrap that brings its own taste still has to hold the roll, bound the air path, and take part in the pace. On a licensed label, hemp wrap, blunt wrap, and paper are different expectations for how the outer sheet will contain the fill, and they are read before format scale or series direction. A mini and a full-size blunt can share those hemp jobs at different lengths. The reading stays a construction checklist for adults 21+. It is not a medical claim or dosing advice.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
