@@ -68,6 +68,14 @@ export const pillarPage: PageContent = {
         "When a question spans two silos—for example wrap material and session pacing—return here first, then follow the hub links in sequence so construction and ritual stay distinct rather than merged into one undifferentiated product story.",
       ],
     },
+    {
+      id: "brand-plant-format",
+      heading: "Keep the brand, the plant label, and the format apart",
+      paragraphs: [
+        "The names on this page do not stand in for each other. Presidential is the brand, while indica, sativa, and hybrid only classify the plant inside the catalog. Silver, Gold, and Rose Gold organize named lines; they do not choose the outer sheet. That sheet is its own fact: a tobacco-free hemp wrap when the format is a blunt, and paper when the format is a pre-roll. A moon rock presents the same flower, concentrate, and kief as a piece of flower rather than inside that wrap. Full-size blunts and minis keep the blunt construction and change the scale.",
+        "A slower burn follows the broader wrap and the denser infused fill, not the brand name or the cultivar label. The current package and batch test record still hold cannabinoid information, ingredients, and product identity; high potency is not a category-wide promise. Adults 21+ can use this page to sort those columns, then confirm availability with a licensed retailer. This site does not sell or ship cannabis, and it does not turn the format into dosing advice.",
+      ],
+    },
   ],
   linkParagraphs: [
     {
