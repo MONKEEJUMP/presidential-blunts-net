@@ -456,6 +456,14 @@ export const comparePages: PageContent[] = [
           "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
       },
+      {
+        id: "shorter-is-not-paper",
+        heading: "A shorter session is not a paper format",
+        paragraphs: [
+          "Time alone cannot finish this comparison, because two shorter formats still use different outer layers. A paper pre-roll finishes quickly because thin rolling paper surrounds a compact volume. A mini blunt shortens the session while keeping the thicker hemp wrap, the heat retention of a blunt, and the same construction at a smaller size. A full-size blunt is the longer position: more material and a slower, heat-holding burn. Available time chooses among those three only after the outside layer is known.",
+          "Ready-to-light convenience is shared, and it does not settle the rest. Packaging that looks related can still name paper on one label and hemp wrap on the other. Infusion is a separate question from that wrap: flower alone, or flower with concentrate carried through it and kief last. Series and strain names refine the recipe after that construction is clear. Net weight, ingredient language, and any required batch or lot identifier describe the unit. They do not authorize dosing advice or a medical claim.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
