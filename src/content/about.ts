@@ -63,6 +63,14 @@ export const aboutPage: PageContent = {
         "Use this publisher map whenever brand identity, wholesale context, or hub nesting is unclear, then return to the homepage pillar for the full infused-blunt overview without treating Presidential as a cultivar name.",
       ],
     },
+    {
+      id: "catalog-is-not-a-door-list",
+      heading: "Catalog counts are not a door list",
+      paragraphs: [
+        "The catalog count and the market list on this page answer different questions. Forty-seven products across six groupings and four formats ? Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis ? describe the catalog. The markets named beside that catalog describe where wholesale supply is carried, including Washington opening. A market name does not assign one of the 24 blunt names to a series, choose full-size or mini, or prove a package is at a door today.",
+        "Construction stays a third column. Hemp wraps that are one hundred percent tobacco free, a neutral taste, and the slower heat-holding burn describe the blunt format. They do not change because a market is on the list, and they do not turn Presidential into a cultivar. This site does not sell or ship cannabis. When the question is current selection, the package and the licensed door remain the check.",
+      ],
+    },
   ],
   linkParagraphs: [
       {
