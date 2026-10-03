@@ -98,6 +98,14 @@ export const strainsPage: PageContent = {
         "To use the hub, begin with the exact name list, then read the grouping notes for extract and catalog context. Move to the format guides when the question shifts to hemp wrap construction, blunt-versus-pre-roll differences, or mini-versus-full sizing. Check the current package for product-specific details instead of inferring them from a name or grouping alone. This keeps the index useful without inventing a product page, series assignment, or availability statement.",
       ],
     },
+    {
+      id: "twenty-four-is-not-forty-seven",
+      heading: "Do not sort the 24 names into the 47",
+      paragraphs: [
+        "The wider catalog counts 47 products across six groupings and four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. This page lists 24 blunt names and does not assign those names to a grouping. Silver's 7, Gold's 19, Rose Gold's 5, the Presidential Line's 10, the House Line's 3, and Presidential x THC Design's 3 are grouping counts, not open slots for a name on the blunt list. Placing one of those names inside a count invents a map the verified record does not publish here.",
+        "A grouping still explains extract and catalog direction. Silver is distillate and fruit-forward. Gold is live resin from cannabis frozen at harvest, and it is cannabis-forward. Rose Gold is solventless live rosin, made with ice water, heat, and pressure rather than chemical solvents. House and collaboration labels say who organized the line, including flower cultivated by THC Design. Those facts do not rename a cultivar, change the tobacco-free hemp wrap, or say which format is on a shelf today. Availability stays with the current package and a licensed retailer.",
+      ],
+    },
   ],
   linkParagraphs: [
     {
