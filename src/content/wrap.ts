@@ -82,6 +82,14 @@ export const wrapPages: PageContent[] = [
           "Browse in order: four jobs, hemp versus other wraps, tobacco-free meaning, manufacturing, burn rate, then flavour. Each child link isolates one wrap question; return here or continue to blunt, ritual, or compare hubs when the next question leaves the outer sheet.",
         ],
       },
+      {
+        id: "sheet-before-taste",
+        heading: "Taste and a series badge come after the sheet",
+        paragraphs: [
+          "The four jobs share one sheet, so a flavour impression is not a material identification. Structure, airflow, and burn rate are already set by thickness, fit, and whether the outer layer is hemp, tobacco leaf, or rolling paper. Taste is last because a neutral hemp wrap stays quiet and lets flower, concentrate, and kief define the profile, while tobacco leaf joins the draw. Silver, Gold, and Rose Gold stay recognizable for that reason: the outer sheet adds no tobacco note. Those series names still do not name the sheet. A licensed label has to say hemp, tobacco-free, tobacco leaf, or rolling paper.",
+          "That is why this hub does not start with flavour. The order is the four jobs, then hemp or tobacco, then what tobacco free means, then how fibre becomes a finished sheet, then burn rate, then flavour. A strain name or a series badge cannot skip those steps. Burn pace stays construction, not dosing, and this page does not add a laboratory claim.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
