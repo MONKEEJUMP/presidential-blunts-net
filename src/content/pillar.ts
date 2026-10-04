@@ -3,10 +3,10 @@ import type { PageContent } from "./types";
 export const pillarPage: PageContent = {
   path: "/",
   kind: "pillar",
-  h1: "Presidential Blunts: Official Infused Blunt Guide",
-  title: "Presidential Blunts | Official Infused Blunt Guide",
+  h1: "Presidential Wraps: Tobacco-Free Infused Blunts",
+  title: "Presidential Wraps | Tobacco-Free Infused Blunts",
   description:
-    "Presidential Blunts are Presidential's tobacco-free hemp-wrap infused blunts — flower, concentrate, and kief in one format — explained here, sold only at licensed retailers.",
+    "Presidential wraps are tobacco-free hemp-wrap infused blunts, with flower, concentrate, and kief, sold only at licensed retailers.",
   wordTarget: [1250, 1350],
   intro: [
     "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
