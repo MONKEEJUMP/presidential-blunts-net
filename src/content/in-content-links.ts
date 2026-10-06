@@ -35,7 +35,27 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/", anchor: "blunt", context: "main blunt guide on the home page" },
   ],
   "/wrap/what-a-wrap-does": [
-    { href: "/wrap", anchor: "hemp wrap", context: "Presidential uses a neutral hemp wrap, so" },
+    { href: "/wrap", anchor: "hemp wrap", context: "A smooth hemp wrap of blunt-scale thickness" },
+  ],
+  // Final pass 1006: incoming "hemp wrap" links to /wrap and "strains" to /strains.
+  "/ritual/session-length": [
+    { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap also stays neutral in taste" },
+  ],
+  "/ritual/storage": [
+    { href: "/wrap", anchor: "hemp wrap", context: "A neutral hemp wrap lets the contents lead the taste" },
+  ],
+  "/ritual/relighting": [
+    { href: "/wrap", anchor: "hemp wrap", context: "A thicker hemp wrap around flower, concentrate, and kief" },
+  ],
+  "/ritual/how-to-light-one": [
+    { href: "/wrap", anchor: "hemp wrap", context: "the thicker hemp wrap supports the slower burn" },
+  ],
+  "/compare/blunt-vs-spliff": [
+    { href: "/wrap", anchor: "hemp wrap", context: "The thicker hemp wrap keeps the format's capacity" },
+  ],
+  "/compare/mini-vs-full": [
+    { href: "/wrap", anchor: "hemp wraps", context: "Presidential rolls in neutral hemp wraps across the blunt catalog" },
+    { href: "/strains", anchor: "strains", context: "Presidential offers strains as blunts" },
   ],
 };
 

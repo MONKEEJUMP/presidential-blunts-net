@@ -76,6 +76,21 @@ export const wrapPages: PageContent[] = [
         ],
       },
       {
+        id: "how-a-hemp-wrap-smokes",
+        heading: "How does a hemp wrap smoke compared with paper and tobacco leaf?",
+        paragraphs: [
+          "A hemp wrap is thicker than the rolling paper on a joint or pre-roll, so the blunt holds more material, burns slower, and holds heat longer, while thin paper gives a lighter, quicker roll. Tobacco leaf keeps the thick blunt shell but brings tobacco taste and nicotine into every draw through the leaf itself. The hemp sheet keeps blunt-scale thickness and leaves tobacco out of the build.",
+          "Taste follows the same split. Because the hemp sheet stays neutral, the flavour comes from what is rolled inside it: the Silver Flavor Series is built on distillate with a fruit-forward direction, and the Gold Strain Series is built on live resin with a cannabis-forward direction.",
+        ],
+      },
+      {
+        id: "where-thc-is-listed",
+        heading: "Where is THC listed for a hemp-wrapped blunt?",
+        paragraphs: [
+          "On the package, not in the wrap description. The current package and its batch test record carry the THC and other cannabinoid information for the finished blunt, while the wrap line names the outer material: hemp, tobacco-free, tobacco leaf, or rolling paper. Reading the two fields separately keeps the wrap statement about material and the THC figure about the batch.",
+        ],
+      },
+      {
         id: "catalog-navigation",
         heading: "How to navigate the wrap catalog",
         paragraphs: [
