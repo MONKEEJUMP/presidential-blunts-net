@@ -170,12 +170,7 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       alternateName: ["Presidential Infused Blunts", "Presidential Hemp Blunts"],
       url: SITE_URL,
       logo: { "@type": "ImageObject", url: imageUrl(), width: 512, height: 512 },
-      sameAs: ["https://presidentialcannabis.net/"],
-      parentOrganization: {
-        "@type": "Organization",
-        name: "Presidential Cannabis",
-        url: "https://presidentialcannabis.net/",
-      },
+      parentOrganization: { "@type": "Organization", name: "Presidential Cannabis" },
     },
     {
       "@type": "WebSite",
@@ -192,7 +187,6 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       description: page.description,
       isPartOf: { "@id": websiteId },
       about: { "@id": organizationId },
-      relatedLink: ["https://presidentialcannabis.net/", "https://presidentialthc.net/"],
       ...(page.faq?.length
         ? {
             mainEntity: page.faq.map((item) => ({

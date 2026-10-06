@@ -59,7 +59,7 @@ export const aboutPage: PageContent = {
       paragraphs: [
         "This About page is the publisher parent. Five primary destinations nest beside it for adult readers: the homepage pillar for the full format overview, Wrap for hemp construction, Compare for rolled-format contrasts, Ritual for session cues, and Strains for named catalog groupings. Child articles under each hub isolate one practical question while linking back when the next question spans more than one silo.",
         "Browse in that practical order when you are new to the infused blunt format, or jump to the hub that matches the moment in hand. Company framing starts here; construction continues in Wrap; format choice continues in Compare; handling continues in Ritual; product names continue in Strains. Return to this About page whenever you need publisher identity, wholesale context, and the map of how those hubs stay separated.",
-        "Outbound catalog and find-us paths already linked from this site stay as published: leave moon-rock locator destinations unchanged when you follow them from here, and confirm current selection with the licensed retailer rather than inferring stock from a hub overview.",
+        "Confirm current selection with the licensed retailer rather than inferring stock from a hub overview.",
         "Use this publisher map whenever brand identity, wholesale context, or hub nesting is unclear, then return to the homepage pillar for the full infused-blunt overview without treating Presidential as a cultivar name.",
       ],
     },
