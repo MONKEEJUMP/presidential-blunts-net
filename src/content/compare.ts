@@ -130,6 +130,14 @@ export const comparePages: PageContent[] = [
           "Neither ranks above the other; they suit different sessions. Thin paper burns fastest and finishes quickest, which fits a short session or a moment when convenience is the priority. A blunt's thicker wrap carries more material, burns slower, and holds heat longer, which leaves room for a longer session and for sharing. A mini brings blunt construction to a smaller session when the full size is more than the moment needs.",
         ],
       },
+      {
+        id: "why-pre-rolls-can-be-hard-to-smoke",
+        heading: "Why are some pre-rolls hard to smoke?",
+        paragraphs: [
+          "Usually because of the pack. A ready-to-light pre-roll saves the hassle of rolling a joint, but the fill inside the paper still decides how air moves. A roll packed so tightly that air barely moves will tend to stall or canoe, and a roll packed too loosely can race once the paper catches. Soft spots, pinched seams, or a fill that leaves large voids create shortcuts for air and heat, so one side runs ahead of the other.",
+          "Infusion adds density: concentrate and kief make the fill heavier than flower alone, so an infused pre-roll needs an even, patient light rather than a hot flame fixed on one spot. The same reading applies to blunts rolled in hemp wraps. The thicker wrap holds more material and burns slower, and an uneven pack shows up the same way, as a stalled draw or one edge running ahead.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
