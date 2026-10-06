@@ -102,6 +102,34 @@ export const comparePages: PageContent[] = [
           "Read each child guide for one contrast only, then return here when several format questions arrive together so wrap, fill, infusion, and size stay in a clear order for the Presidential Blunts reference. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase. Marijuana labeling, weed nicknames, and cannabis strains still follow the package—not the hub title—when users shop.",
         ],
       },
+      {
+        id: "is-a-pre-roll-a-blunt",
+        heading: "Is a pre-roll considered a blunt?",
+        paragraphs: [
+          "No. A pre-roll is thin rolling paper around ground flower, and an infused pre-roll keeps that paper on the outside while adding concentrate or kief to the flower. A blunt is defined by its thicker wrap, which holds more material, burns slower, and keeps heat longer. Both can arrive ready to light, so being pre-rolled does not make a paper roll a blunt. The outer layer decides the name.",
+        ],
+      },
+      {
+        id: "blunts-without-tobacco",
+        heading: "Can you make blunts without using tobacco?",
+        paragraphs: [
+          "Yes. The traditional blunt is a cigar or cigarillo that has been emptied and refilled, so tobacco leaf and nicotine come with the wrap. A hemp wrap keeps the thicker blunt format without tobacco. Every Presidential blunt is rolled in hemp and is one hundred percent tobacco free, with flower, concentrate, and kief inside. On the package, hemp wrap or tobacco-free wrap is the line to look for.",
+        ],
+      },
+      {
+        id: "spliff-blunt-joint",
+        heading: "What makes spliffs different from both blunts and joints?",
+        paragraphs: [
+          "Where the tobacco sits. A spliff traditionally mixes tobacco with cannabis inside rolling paper. A joint is ground cannabis flower in thin paper, without tobacco in the fill. A blunt uses a thicker wrap: a traditional one keeps tobacco in the outer leaf, while a Presidential blunt uses hemp and keeps tobacco out of both the wrap and the fill.",
+        ],
+      },
+      {
+        id: "pre-rolls-or-blunts",
+        heading: "Are pre-rolls better than blunts?",
+        paragraphs: [
+          "Neither ranks above the other; they suit different sessions. Thin paper burns fastest and finishes quickest, which fits a short session or a moment when convenience is the priority. A blunt's thicker wrap carries more material, burns slower, and holds heat longer, which leaves room for a longer session and for sharing. A mini brings blunt construction to a smaller session when the full size is more than the moment needs.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
@@ -441,6 +469,30 @@ export const comparePages: PageContent[] = [
           "Select a pre-roll when the schedule favors the fastest finish and a light paper format. Select a mini blunt when a smaller session still calls for blunt construction. Select a full-size blunt when more material, longer heat retention, and room for sharing fit the occasion.",
           "The comparison works best as a simple sequence: decide how much time is available, decide how much capacity belongs in the session, then choose paper or hemp wrap. Those practical questions lead directly to the format that fits.",
           "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density rather than inventing a new name. That sequence stays adult, construction-first, and free of medical or dosing language.",
+        ],
+      },
+      {
+        id: "blunt-and-pre-roll-traditions",
+        heading: "Where do the blunt and pre-roll traditions come from?",
+        paragraphs: [
+          "The blunt comes from the cigar. A traditional blunt is a cigar or cigarillo that has been emptied and refilled, so the tobacco leaf stays on the outside and brings nicotine and tobacco taste with it. The pre-roll comes from the paper side: ground cannabis flower in thin rolling paper, the same build as a joint, prepared and packaged ready to light.",
+          "Presidential keeps the blunt's thicker outer layer but replaces the leaf with hemp. Every Presidential blunt is one hundred percent tobacco free, so the cigar heritage shows up in the format's capacity and slow burn rather than in tobacco.",
+        ],
+      },
+      {
+        id: "thc-and-terpenes-by-format",
+        heading: "Do blunts and pre-rolls differ in THC or terpenes?",
+        paragraphs: [
+          "The format name does not set either one. THC and other cannabinoids belong to the fill and are read from the current package and batch test record. A regular flower-filled roll reflects the tested cannabinoids in its flower, and an infused one adds concentrate and kief. Kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "Terpenes carry the aroma, and in both formats the infused cannabis inside leads the aroma and taste. The difference a smoker notices first is the outer layer: thin paper on the pre-roll, a thicker tobacco-free hemp wrap on a Presidential blunt.",
+        ],
+      },
+      {
+        id: "lighting-and-sharing",
+        heading: "How do you light and share a blunt compared with a pre-roll?",
+        paragraphs: [
+          "A pre-roll's thin paper catches quickly, burns fastest, and finishes quickest, which suits a short session. An infused blunt lights more gradually because its concentrate is dense and holds heat: place the end in the flame, rotate it steadily until the rim shows an even ring of glow, and expect a relight later.",
+          "That slower rhythm is what makes a full-size blunt a social format. It carries more material and holds heat between turns, so it leaves room for passing with care in a group. A mini keeps the same construction for fewer people or less time.",
         ],
       },
       {

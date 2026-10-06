@@ -422,6 +422,30 @@ export const wrapPages: PageContent[] = [
           "Burn belongs inside that same split. Both traditions use a thicker outer layer than a pre-roll, carry more material, burn slower, and hold heat longer than thin rolling paper. The session still depends on the wrap, the amount and density of the fill, how concentrate is distributed, and how air moves through the roll. On an infused Presidential blunt, concentrate adds density and holds heat, so the material takes time to catch. Rotating the end in the flame lets the roll establish a balanced light, and a later relight fits that dense, slow-burning construction. Within hemp, a uniform sheet of blunt-scale thickness gives heat and air a continuous wall. Soft spots, pinched seams, or an abrupt change in wrap gauge can still let one side catch ahead, and an edge that started even can drift if the remaining fill is uneven or overly dry. Those are observations about the sheet and the fill. They do not mean the wrap tradition changed. The package fields to read in one pass stay the ones already named here: hemp wrap, tobacco-free wrap, tobacco leaf, or cigar-wrap language, then size, then series name and extract type, along with any batch or lot identifier the market requires.",
         ],
       },
+      {
+        id: "where-thc-and-terpenes-come-from",
+        heading: "Where do THC, cannabinoids, and terpenes come from in a hemp-wrapped blunt?",
+        paragraphs: [
+          "From the fill. In a Presidential blunt the interior has three layers. Flower, the dried bud, is the base. Concentrate is carried through that flower: distillate in the Silver Flavor Series, live resin in the Gold Strain Series, and solventless live rosin in the Rose Gold Connoisseur Series. Kief goes on last, and kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "The wrap's job is different. Tobacco leaf adds nicotine and its own tobacco taste to every draw, while hemp is tobacco free and neutral, so the fill sets the profile. For THC and other cannabinoids, read the label rather than the wrap: the current package and batch test record hold the cannabinoid information, and high potency is not a promise that covers every blunt.",
+        ],
+      },
+      {
+        id: "strain-labels-and-aroma",
+        heading: "Does the strain or an indica, sativa, or hybrid label change the wrap?",
+        paragraphs: [
+          "No. A strain name identifies the flower, and indica, sativa, and hybrid labels classify the plant. Neither changes the outer layer. Presidential rolls every blunt in hemp, so each name in the blunt library and each series sits inside the same tobacco-free wrap. Presidential is the brand, not a strain.",
+          "What the strain and series do change is aroma. Terpenes carry the recognizable aromatic directions, such as peppery caryophyllene, pine-like pinene, musky myrcene, citrus limonene, and floral linalool. Silver is fruit forward and Gold is cannabis forward. Tobacco leaf lays its own taste over that aroma; a neutral hemp wrap leaves the fill's aroma in front.",
+        ],
+      },
+      {
+        id: "buying-and-smoking-hemp",
+        heading: "Where do you buy a tobacco-free hemp blunt?",
+        paragraphs: [
+          "At a licensed dispensary, for adults 21+. Read the wrap material first: hemp wrap or tobacco-free wrap means tobacco leaf is not the outer sheet, while tobacco leaf, cigar wrap, or emptied cigarillo means nicotine-bearing leaf is part of the roll. Then ask the dispensary for current THC labeling, aroma notes, and the batch on the package.",
+          "Smoking one follows the steps in the main blunt guide on the home page. The thicker hemp wrap and the dense infused fill take time to catch, so rotate the end in the flame for an even light, pace the puffs, and expect a relight. The same steps apply to a mini and a full-size blunt.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
