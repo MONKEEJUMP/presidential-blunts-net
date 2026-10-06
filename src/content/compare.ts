@@ -472,6 +472,30 @@ export const comparePages: PageContent[] = [
         ],
       },
       {
+        id: "blunt-and-pre-roll-traditions",
+        heading: "Where do the blunt and pre-roll traditions come from?",
+        paragraphs: [
+          "The blunt comes from the cigar. A traditional blunt is a cigar or cigarillo that has been emptied and refilled, so the tobacco leaf stays on the outside and brings nicotine and tobacco taste with it. The pre-roll comes from the paper side: ground cannabis flower in thin rolling paper, the same build as a joint, prepared and packaged ready to light.",
+          "Presidential keeps the blunt's thicker outer layer but replaces the leaf with hemp. Every Presidential blunt is one hundred percent tobacco free, so the cigar heritage shows up in the format's capacity and slow burn rather than in tobacco.",
+        ],
+      },
+      {
+        id: "thc-and-terpenes-by-format",
+        heading: "Do blunts and pre-rolls differ in THC or terpenes?",
+        paragraphs: [
+          "The format name does not set either one. THC and other cannabinoids belong to the fill and are read from the current package and batch test record. A regular flower-filled roll reflects the tested cannabinoids in its flower, and an infused one adds concentrate and kief. Kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "Terpenes carry the aroma, and in both formats the infused cannabis inside leads the aroma and taste. The difference a smoker notices first is the outer layer: thin paper on the pre-roll, a thicker tobacco-free hemp wrap on a Presidential blunt.",
+        ],
+      },
+      {
+        id: "lighting-and-sharing",
+        heading: "How do you light and share a blunt compared with a pre-roll?",
+        paragraphs: [
+          "A pre-roll's thin paper catches quickly, burns fastest, and finishes quickest, which suits a short session. An infused blunt lights more gradually because its concentrate is dense and holds heat: place the end in the flame, rotate it steadily until the rim shows an even ring of glow, and expect a relight later.",
+          "That slower rhythm is what makes a full-size blunt a social format. It carries more material and holds heat between turns, so it leaves room for passing with care in a group. A mini keeps the same construction for fewer people or less time.",
+        ],
+      },
+      {
         id: "shorter-is-not-paper",
         heading: "A shorter session is not a paper format",
         paragraphs: [

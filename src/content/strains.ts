@@ -80,6 +80,28 @@ export const strainsPage: PageContent = {
       ],
     },
     {
+      id: "indica-sativa-hybrid-labels",
+      heading: "Are these blunt strains indica, sativa, or hybrid?",
+      paragraphs: [
+        "This library does not label them. Indica, sativa, and hybrid describe cultivars and classify the plant; they do not describe the wrap, the series, or the company. Presidential is the brand and publisher, not a strain. When a classification matters, check the current package and a licensed retailer for product-specific details this index does not invent.",
+      ],
+    },
+    {
+      id: "cannabinoids-terpenes-and-names",
+      heading: "What does a strain name tell you about cannabinoids and terpenes?",
+      paragraphs: [
+        "A strain name identifies the flower. Cannabinoid information, including THC, sits on the current package and batch test record, not in the name, and high potency is not a promise that covers the whole catalog. Inside a Presidential blunt, kief adds collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+        "Terpenes give a selection its recognizable aromatic direction, such as peppery caryophyllene, pine-like pinene, musky myrcene, citrus limonene, and floral linalool. Series direction sits on top of that: Silver is fruit forward on a distillate base, Gold is cannabis forward on live resin, and Rose Gold is built on solventless live rosin.",
+      ],
+    },
+    {
+      id: "where-to-buy-strains-as-blunts",
+      heading: "Where can you buy these strains as blunts?",
+      paragraphs: [
+        "Through licensed dispensaries, for adults 21+. Current availability belongs to the licensed retailer and the package on the shelf, so a name on this list is not a statement that it is in stock today. Ask for the strain name and the blunt format together, and confirm whether the package is a full-size blunt or a mini.",
+      ],
+    },
+    {
       id: "browse-without-claims",
       heading: "Browse Without Medical Claims",
       paragraphs: [
