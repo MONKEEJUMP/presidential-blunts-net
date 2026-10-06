@@ -55,8 +55,8 @@ export const pillarPage: PageContent = {
       heading: "Compare Presidential products and find a licensed retailer",
       paragraphs: [
         "Use the Wrap guide for hemp construction, Compare for blunts versus pre rolls and minis, Ritual for handling and storage, and Strains for the current named catalog. Those focused pages carry the detail so this homepage can remain the clear starting point for Presidential Blunts.",
-        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Use the official Find Us path, then confirm the current selection with the retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
-        "For publisher context, wholesale footprint, and why this reference exists separately from the retail counter, read the About page. Keep outbound retailer discovery on the official Find Us path already linked from this site; leave moon-rock locator destinations unchanged when you follow them from here.",
+        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Confirm the current selection with a licensed retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
+        "For publisher context, wholesale footprint, and why this reference exists separately from the retail counter, read the About page.",
       ],
     },
     {
@@ -78,14 +78,6 @@ export const pillarPage: PageContent = {
     },
   ],
   linkParagraphs: [
-    {
-      before: "Explore company and plant context in the official Presidential Cannabis brand guide",
-      after: ".",
-    },
-    {
-      before: "Continue into extract and infusion context through the Presidential THC chemistry reference",
-      after: ".",
-    },
     {
       before: "Browse every current Presidential blunt ",
       link: { href: "/strains", label: "strain and product grouping" },
@@ -146,7 +138,7 @@ export const pillarPage: PageContent = {
     {
       question: "Where can adults find Presidential Blunts?",
       answer:
-        "Use Presidential's official retailer locator and confirm availability with the licensed retailer. Availability varies by location and product.",
+        "Presidential Blunts are sold only through licensed cannabis retailers. Availability varies by location and product, so confirm with the retailer.",
     },
   ],
   childLinks: [

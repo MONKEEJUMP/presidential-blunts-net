@@ -170,6 +170,7 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       alternateName: ["Presidential Infused Blunts", "Presidential Hemp Blunts"],
       url: SITE_URL,
       logo: { "@type": "ImageObject", url: imageUrl(), width: 512, height: 512 },
+      parentOrganization: { "@type": "Organization", name: "Presidential Cannabis" },
     },
     {
       "@type": "WebSite",

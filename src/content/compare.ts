@@ -174,7 +174,7 @@ export const comparePages: PageContent[] = [
       },
     ],
     ctaParagraph:
-      "Explore the full Presidential catalog and locate licensed retailers through the main Presidential site. A licensed dispensary remains the place to confirm current quality, THC labeling, and aroma on the package before purchase.",
+      "A licensed dispensary remains the place to confirm current quality, THC labeling, and aroma on the package before purchase.",
     childLinks: [
       {
         href: "/compare/blunt-vs-joint",
