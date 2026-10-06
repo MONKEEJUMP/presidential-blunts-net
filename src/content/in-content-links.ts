@@ -8,6 +8,11 @@ export type InContentLinkRule = {
 // section copy. Each rule links its anchor once, at the first paragraph that
 // contains the exact context, so no copy is added or reworded.
 export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRule[]>> = {
+  // SHIP-FIXLIST audit-1006 items 7-8.
+  "/": [
+    { href: "/ritual", anchor: "Ritual hub", context: "belongs in the Ritual hub" },
+    { href: "/strains", anchor: "Strains hub", context: "the Strains hub records the current named range" },
+  ],
   "/compare/blunt-vs-joint": [
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
   ],
