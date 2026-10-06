@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Fragment } from "react";
 
+import { IN_CONTENT_LINKS, INLINKS_MENTIONS, type InContentLinkRule } from "@/content/in-content-links";
 import type { ContentImage, ContentSection, PageContent } from "@/content/types";
 import { absoluteUrl, escapeJsonLd, imageUrl, siloLabels, SITE_URL } from "@/lib/site";
 
@@ -64,13 +65,35 @@ function DataTable({ section }: { section: ContentSection }) {
   );
 }
 
-function ArticleSection({ section, image, reverse }: { section: ContentSection; image?: ContentImage; reverse: boolean }) {
+function LinkedParagraph({ text, rule }: { text: string; rule?: InContentLinkRule }) {
+  const at = rule ? text.indexOf(rule.context) : -1;
+  if (!rule || at < 0) return <>{text}</>;
+  const start = at + rule.context.indexOf(rule.anchor);
+  const end = start + rule.anchor.length;
+  return <>{text.slice(0, start)}<Link href={rule.href}>{rule.anchor}</Link>{text.slice(end)}</>;
+}
+
+function firstParagraphRules(page: PageContent) {
+  const placed = new Map<string, InContentLinkRule>();
+  for (const rule of IN_CONTENT_LINKS[page.path] ?? []) {
+    for (const section of page.sections) {
+      const index = section.paragraphs.findIndex((paragraph) => paragraph.includes(rule.context));
+      if (index >= 0) {
+        placed.set(`${section.id}-${index}`, rule);
+        break;
+      }
+    }
+  }
+  return placed;
+}
+
+function ArticleSection({ section, image, reverse, linkRules }: { section: ContentSection; image?: ContentImage; reverse: boolean; linkRules: Map<string, InContentLinkRule> }) {
   return (
     <section className={`article-section${image ? " article-section--with-image" : ""}`} id={section.id}>
       <div className={`article-section__grid${reverse ? " article-section__grid--reverse" : ""}`}>
         <div className="article-section__copy">
           <h2>{section.heading}</h2>
-          {section.paragraphs.map((paragraph, index) => <p key={`${section.id}-paragraph-${index}`}>{paragraph}</p>)}
+          {section.paragraphs.map((paragraph, index) => <p key={`${section.id}-paragraph-${index}`}><LinkedParagraph rule={linkRules.get(`${section.id}-${index}`)} text={paragraph} /></p>)}
           {section.bullets?.length ? <ul>{section.bullets.map((bullet, index) => <li key={`${section.id}-bullet-${index}`}>{bullet}</li>)}</ul> : null}
           <DataTable section={section} />
         </div>
@@ -187,6 +210,7 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       description: page.description,
       isPartOf: { "@id": websiteId },
       about: { "@id": organizationId },
+      ...(INLINKS_MENTIONS[page.path] ? { mentions: INLINKS_MENTIONS[page.path] } : {}),
       ...(page.faq?.length
         ? {
             mainEntity: page.faq.map((item) => ({
@@ -232,6 +256,7 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
     : prependedPlainSection
       ? page.sections[1]?.id
       : page.sections[0]?.id;
+  const linkRules = firstParagraphRules(page);
   return (
     <>
       {page.path === "/" ? <link rel="canonical" href="https://presidentialblunts.net/" /> : null}
@@ -256,7 +281,7 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
               const image = layoutIndex >= 0 ? usedSectionImages[layoutIndex] : undefined;
               return (
               <Fragment key={section.id}>
-                <ArticleSection image={image} reverse={layoutIndex % 2 === 1} section={section} />
+                <ArticleSection image={image} linkRules={linkRules} reverse={layoutIndex % 2 === 1} section={section} />
                 {section.id === linkAnchorId ? <RelatedSiteLinks page={page} /> : null}
               </Fragment>
               );
