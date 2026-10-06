@@ -25,7 +25,7 @@ export const pillarPage: PageContent = {
       id: "what-a-blunt-is",
       heading: "What are Presidential Blunts?",
       paragraphs: [
-        "A Presidential blunt combines flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, premium THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
+        "A Presidential Blunt consists of flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, premium THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
         "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity. Product quality and construction quality can differ by item, so the current package remains the reliable reference.",
         "Read the build in that order—flower base, concentrate infusion, kief finish, hemp outer sheet—then move into the hubs when one part needs more depth. Construction language stays educational: no dosing claims, no invented lab percentages, and no substitute for the licensed label in your market.",
         "Adults 21+ can treat this homepage overview as format literacy rather than a shopping cart: the infused blunt is defined by hemp wrap, layered fill, and slower burn, while named catalog items and licensed doors answer which product is currently available in a given market.",
@@ -45,9 +45,9 @@ export const pillarPage: PageContent = {
       id: "three-layer-construction",
       heading: "Flower, concentrate, kief, and moon rock roots",
       paragraphs: [
-        "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief.",
+        "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief. In both formats, the infused cannabis inside leads the aroma and taste.",
         "Even distribution matters more than repeating a category-wide potency number. Concentrate changes density and heat retention, so consistent placement supports a more uniform roll. Presidential names the brand, while indica, sativa, and hybrid describe cultivars: an indica or sativa label classifies the plant, and another indica or sativa reference still describes an indica cultivar rather than the company.",
-        "Named products live in the Strains hub, where catalog groupings keep Silver, Gold, Rose Gold, and related lines readable without treating brand identity as a cultivar. Session handling—cool dark storage, even lighting, relights, pacing, and sharing—belongs in the Ritual hub so this homepage can stay the overview rather than a how-to manual.",
+        "Named products live in the Strains hub, where catalog groupings keep Silver, Gold, Rose Gold, and related lines readable without treating brand identity as a cultivar. Session handling—how to store a blunt cool and dark, how to smoke it with even lighting and relights, pacing between puffs, and sharing—belongs in the Ritual hub so this homepage can stay the overview rather than a how-to manual.",
       ],
     },
     {
@@ -55,7 +55,7 @@ export const pillarPage: PageContent = {
       heading: "Compare Presidential products and find a licensed retailer",
       paragraphs: [
         "Use the Wrap guide for hemp construction, Compare for blunts versus pre rolls and minis, Ritual for handling and storage, and Strains for the current named catalog. Those focused pages carry the detail so this homepage can remain the clear starting point for Presidential Blunts.",
-        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Confirm the current selection with a licensed retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
+        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Presidential Blunts reach customers through licensed retailers, and the Strains hub records the current named range. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Confirm the current selection with a licensed retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
         "For publisher context, wholesale footprint, and why this reference exists separately from the retail counter, read the About page.",
       ],
     },
