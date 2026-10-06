@@ -31,6 +31,9 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   "/wrap/wrap-and-flavour": [
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
+  "/wrap/hemp-vs-tobacco": [
+    { href: "/", anchor: "blunt", context: "main blunt guide on the home page" },
+  ],
   "/wrap/what-a-wrap-does": [
     { href: "/wrap", anchor: "hemp wrap", context: "Presidential uses a neutral hemp wrap, so" },
   ],

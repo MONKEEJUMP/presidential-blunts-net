@@ -102,6 +102,34 @@ export const comparePages: PageContent[] = [
           "Read each child guide for one contrast only, then return here when several format questions arrive together so wrap, fill, infusion, and size stay in a clear order for the Presidential Blunts reference. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase. Marijuana labeling, weed nicknames, and cannabis strains still follow the package—not the hub title—when users shop.",
         ],
       },
+      {
+        id: "is-a-pre-roll-a-blunt",
+        heading: "Is a pre-roll considered a blunt?",
+        paragraphs: [
+          "No. A pre-roll is thin rolling paper around ground flower, and an infused pre-roll keeps that paper on the outside while adding concentrate or kief to the flower. A blunt is defined by its thicker wrap, which holds more material, burns slower, and keeps heat longer. Both can arrive ready to light, so being pre-rolled does not make a paper roll a blunt. The outer layer decides the name.",
+        ],
+      },
+      {
+        id: "blunts-without-tobacco",
+        heading: "Can you make blunts without using tobacco?",
+        paragraphs: [
+          "Yes. The traditional blunt is a cigar or cigarillo that has been emptied and refilled, so tobacco leaf and nicotine come with the wrap. A hemp wrap keeps the thicker blunt format without tobacco. Every Presidential blunt is rolled in hemp and is one hundred percent tobacco free, with flower, concentrate, and kief inside. On the package, hemp wrap or tobacco-free wrap is the line to look for.",
+        ],
+      },
+      {
+        id: "spliff-blunt-joint",
+        heading: "What makes spliffs different from both blunts and joints?",
+        paragraphs: [
+          "Where the tobacco sits. A spliff traditionally mixes tobacco with cannabis inside rolling paper. A joint is ground cannabis flower in thin paper, without tobacco in the fill. A blunt uses a thicker wrap: a traditional one keeps tobacco in the outer leaf, while a Presidential blunt uses hemp and keeps tobacco out of both the wrap and the fill.",
+        ],
+      },
+      {
+        id: "pre-rolls-or-blunts",
+        heading: "Are pre-rolls better than blunts?",
+        paragraphs: [
+          "Neither ranks above the other; they suit different sessions. Thin paper burns fastest and finishes quickest, which fits a short session or a moment when convenience is the priority. A blunt's thicker wrap carries more material, burns slower, and holds heat longer, which leaves room for a longer session and for sharing. A mini brings blunt construction to a smaller session when the full size is more than the moment needs.",
+        ],
+      },
     ],
     linkParagraphs: [
       {
