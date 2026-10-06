@@ -84,12 +84,14 @@ function RelatedSiteLinks({ page }: { page: PageContent }) {
   if (!page.linkParagraphs?.length) return null;
   return (
     <div className="article-section__copy">
-      {page.linkParagraphs.map((paragraph) => (
-        <p key={paragraph.link.href}>
+      {page.linkParagraphs.map((paragraph, index) => (
+        <p key={paragraph.link?.href ?? `link-paragraph-${index}`}>
           {paragraph.before}
-          {paragraph.link.href.startsWith("/")
-            ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link>
-            : <a href={paragraph.link.href}>{paragraph.link.label}</a>}
+          {paragraph.link
+            ? paragraph.link.href.startsWith("/")
+              ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link>
+              : <a href={paragraph.link.href}>{paragraph.link.label}</a>
+            : null}
           {paragraph.after}
         </p>
       ))}
@@ -114,20 +116,10 @@ function FrequentlyAskedQuestions({ page }: { page: PageContent }) {
   );
 }
 
-function BrandCallToAction({ page }: { page: PageContent }) {
-  return (
-    <aside className="brand-cta" aria-labelledby="brand-cta-heading">
-      <h2 id="brand-cta-heading">Find Presidential Near You</h2>
-      <p>{page.ctaParagraph ?? "Explore the full Presidential catalog and locate licensed retailers through the main Presidential site."}</p>
-      <a className="brand-cta__button" href="https://presidentialmoonrocks.com/find-us" rel="nofollow">Find a licensed retailer</a>
-    </aside>
-  );
-}
-
 function LinkDirectory({ page }: { page: PageContent }) {
   const childLinks = page.childLinks ?? [];
   const relatedLinks = page.relatedLinks ?? [];
-  if (!childLinks.length && !relatedLinks.length && !page.externalLink) return null;
+  if (!childLinks.length && !relatedLinks.length) return null;
   return (
     <aside className="link-directory" aria-label="Continue reading">
       {childLinks.length ? (
@@ -154,7 +146,6 @@ function LinkDirectory({ page }: { page: PageContent }) {
           </div>
         </section>
       ) : null}
-      {page.externalLink ? <a className="editorial-link contextual-reference" href={page.externalLink.href}><span>{page.externalLink.label}</span></a> : null}
     </aside>
   );
 }
@@ -261,7 +252,7 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
           </header>
           <div className="gold-seam" aria-hidden="true" />
           <div className={`article-lead${leadImage ? " article-lead--with-image" : ""}`}>
-            <div className="article-lead__copy">{page.leadParagraphs?.map((paragraph) => (<p key={`lead-${paragraph.link.href}`}>{paragraph.before}{paragraph.link.href.startsWith("/") ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link> : <a href={paragraph.link.href}>{paragraph.link.label}</a>}{paragraph.after}</p>))}{page.intro.map((paragraph, index) => <p key={`intro-${index}`}>{paragraph}</p>)}</div>
+            <div className="article-lead__copy">{page.leadParagraphs?.map((paragraph, index) => (<p key={`lead-${paragraph.link?.href ?? index}`}>{paragraph.before}{paragraph.link ? paragraph.link.href.startsWith("/") ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link> : <a href={paragraph.link.href}>{paragraph.link.label}</a> : null}{paragraph.after}</p>))}{page.intro.map((paragraph, index) => <p key={`intro-${index}`}>{paragraph}</p>)}</div>
             {leadImage ? <ContentFigure image={leadImage} priority /> : null}
           </div>
           {showContents ? <TableOfContents page={page} /> : null}
@@ -273,7 +264,6 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
               <Fragment key={section.id}>
                 <ArticleSection image={image} reverse={layoutIndex % 2 === 1} section={section} />
                 {section.id === linkAnchorId ? <RelatedSiteLinks page={page} /> : null}
-                {section.id === linkAnchorId ? <BrandCallToAction page={page} /> : null}
               </Fragment>
               );
             })}

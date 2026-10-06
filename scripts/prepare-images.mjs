@@ -42,41 +42,6 @@ const strainMatchers = [
   ["prespreroll", "Presidential"], ["prex", "Presidential"],
 ];
 
-const productSlugs = {
-  "Apricotti": "presidential-line-apricotti",
-  "Blue Dream": "blue-dream",
-  "Blue Raspberry": "blue-raspberry",
-  "Cap Junky": "cap-junky",
-  "Cherry Gelato": "cherry-gelato",
-  "Crescendo": "crescendo",
-  "Daniel LaRusso": "presidential-line-daniel-larusso",
-  "Galactic Gas": "galactic-gas",
-  "Garlic Cookie": "presidential-line-garlic-cookies",
-  "Ghost Haze": "presidential-line-ghost-haze-train",
-  "Ghost Train Haze": "presidential-line-ghost-haze-train",
-  "Gorilla Goo": "gorilla-goo",
-  "Grape": "grape",
-  "King Louis": "king-louis",
-  "Laura Charles": "presidential-line-laura-charles",
-  "Nino Brown": "presidential-line-nino-brown",
-  "NYC Diesel": "nyc-diesel",
-  "Orange Push Pop": "orange-push-pop",
-  "Papaya Punch": "papaya-punch",
-  "Peach Mango": "peach-mango",
-  "Pineapple": "pineapple",
-  "Pink Cookie": "pink-cookies",
-  "Rainbow Belts": "rainbow-belts",
-  "SFV OG": "sfv-og",
-  "Skywalker": "skywalker",
-  "Strawberry": "strawberry",
-  "Tropical": "tropical",
-  "Watermelon": "watermelon",
-  "Waui": "waui",
-  "Whoa Si Whoa": "presidential-line-whoa-si-whoa",
-  "XJ-13": "xj-13",
-  "XXX": "xxx",
-};
-
 const pages = [
   ["/", 9, ["blunt", "mini-blunt", "moon-rocks", "single-mini-blunt", "infused-pre-roll"]],
   ["/wrap", 5, ["blunt", "mini-blunt"]],
@@ -124,15 +89,6 @@ function formatLabel(format) {
     "moon-rocks": "moon rocks",
     "mini-pre-roll": "mini pre-roll",
   }[format];
-}
-
-function productHref(strain, format) {
-  if (strain === "Presidential") {
-    const slug = format.includes("blunt") ? "presidential-blunts" : format.includes("pre-roll") ? "presidential-prerolls" : "presidential-moon-rocks";
-    return `https://presidentialmoonrocks.com/moon-rocks/${slug}`;
-  }
-  const slug = productSlugs[strain];
-  return slug ? `https://presidentialmoonrocks.com/moon-rocks/${slug}` : undefined;
 }
 
 async function collectSources() {
@@ -203,7 +159,6 @@ async function main() {
         height: metadata.height,
         alt: `Presidential ${displayStrain} ${formatLabel(record.format)} packaging${alternate} with illustrated label artwork`,
         caption: `Presidential ${displayStrain} ${formatLabel(record.format)} package artwork${variant > 1 ? `, alternate edition ${variant}` : ""}.`,
-        ...(productHref(record.strain, record.format) ? { productHref: productHref(record.strain, record.format) } : {}),
       });
     }
   }

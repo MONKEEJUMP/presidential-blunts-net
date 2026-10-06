@@ -51,7 +51,7 @@ export function ContentFigure({ image, priority = false }: { image: ContentImage
   return (
     <figure className="content-figure">
       <div className="content-figure__media">
-        {image.productHref ? <a className="content-figure__link" href={image.productHref}>{renderedImage}</a> : renderedImage}
+        {renderedImage}
         <svg
           aria-hidden="true"
           className="content-figure__frame"

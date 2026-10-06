@@ -130,18 +130,15 @@ export const wrapPages: PageContent[] = [
         after: " for the finished roll.",
       },
       {
-        before: "Compare ",
-        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        before: "Compare flower",
         after: " with infused formats in the broader product guide.",
       },
       {
-        before: "Explore the full plant and brand reference from ",
-        link: { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis" },
+        before: "Explore the full plant and brand reference from Presidential Cannabis",
         after: ".",
       },
       {
-        before: "Connect the ",
-        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        before: "Connect the hemp",
         after: " wrap conversation with the structure of cannabis flower.",
       },
       {
@@ -203,11 +200,6 @@ export const wrapPages: PageContent[] = [
       },
     ],
     relatedLinks: [{ href: "/", label: "Presidential Blunts" }],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "View the Presidential hemp-wrapped format",
-      description: "See the blunt format on the main Presidential site.",
-    },
   },
   {
     path: "/wrap/what-a-wrap-does",
@@ -358,11 +350,6 @@ export const wrapPages: PageContent[] = [
       { href: "/compare/hemp-wrap-vs-paper", label: "Contrast hemp wrap with rolling paper" },
       { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "See the complete infused blunt format",
-      description: "Explore Presidential blunts on the main product site.",
-    },
   },
 
   {
@@ -498,13 +485,11 @@ export const wrapPages: PageContent[] = [
         after: " so humidity habits support an even later burn inside the chosen wrap.",
       },
       {
-        before: "Compare the finished blunt format with infused ",
-        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        before: "Compare the finished blunt format with infused flower",
         after: " in the broader product guide.",
       },
       {
-        before: "Connect ",
-        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        before: "Connect hemp",
         after: " wrap material with the anatomy of cannabis flower.",
       },
     ],
@@ -519,11 +504,6 @@ export const wrapPages: PageContent[] = [
       { href: "/compare/hemp-wrap-vs-paper", label: "Contrast hemp wrap with rolling paper" },
       { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Explore Presidential's hemp wrap choice",
-      description: "See the tobacco-free blunt format in its product context.",
-    },
   },
 
   {
@@ -661,11 +641,6 @@ export const wrapPages: PageContent[] = [
       { href: "/compare/hemp-wrap-vs-paper", label: "Contrast hemp wrap with rolling paper" },
       { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Review the tobacco-free Presidential lineup",
-      description: "Visit the main site's dedicated blunt collection.",
-    },
   },
 
   {
@@ -802,11 +777,6 @@ export const wrapPages: PageContent[] = [
       { href: "/ritual/how-to-light-one", label: "Practice a measured light" },
       { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Study the slow-burning blunt construction",
-      description: "See Presidential's infused blunt format in the product catalog.",
-    },
   },
   {
     path: "/wrap/wrap-and-flavour",
@@ -937,11 +907,6 @@ export const wrapPages: PageContent[] = [
       { href: "/compare/blunt-vs-joint", label: "Compare blunt and joint formats" },
       { href: "/ritual/storage", label: "Review storage habits for aroma" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Discover the flavour-led blunt collection",
-      description: "Explore the current Presidential blunt range on the main site.",
-    },
   },
   {
     path: "/wrap/how-wraps-are-made",
@@ -1083,11 +1048,6 @@ export const wrapPages: PageContent[] = [
       { href: "/compare/hemp-wrap-vs-paper", label: "Contrast hemp wrap with rolling paper" },
       { href: "/ritual/storage", label: "Review storage habits for even burns" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Inspect the finished hemp-wrap format",
-      description: "See how Presidential presents its infused blunts.",
-    },
   },
 
 ];
