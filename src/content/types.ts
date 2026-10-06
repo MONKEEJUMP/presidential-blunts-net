@@ -24,7 +24,7 @@ export type PageLink = {
 
 export type LinkedParagraph = {
   before: string;
-  link: PageLink;
+  link?: PageLink;
   after: string;
 };
 
@@ -48,7 +48,6 @@ export type PageContent = {
   faq?: FaqItem[];
   childLinks?: PageLink[];
   relatedLinks?: PageLink[];
-  externalLink?: PageLink;
   ctaParagraph?: string;
 };
 
@@ -58,5 +57,4 @@ export type ContentImage = {
   height: number;
   alt: string;
   caption: string;
-  productHref?: string;
 };

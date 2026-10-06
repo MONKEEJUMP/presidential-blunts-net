@@ -115,18 +115,15 @@ export const ritualPages: PageContent[] = [
         after: " reference connects this ritual to construction, format, and the Presidential catalog.",
       },
       {
-        before: "Compare ",
-        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        before: "Compare flower",
         after: " with infused formats before choosing a session style.",
       },
       {
-        before: "Explore more official cannabis ",
-        link: { href: "https://presidentialcannabis.net/", label: "guides" },
+        before: "Explore more official cannabis guides",
         after: " from Presidential Cannabis.",
       },
       {
-        before: "Follow ",
-        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        before: "Follow hemp",
         after: " and flower back to their plant structure.",
       },
       {
@@ -183,10 +180,6 @@ export const ritualPages: PageContent[] = [
       },
     ],
     relatedLinks: [{ href: "/", label: "Presidential Blunts" }],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/presidential-blunts",
-      label: "Explore the Presidential blunt reference",
-    },
   },
   {
     path: "/ritual/how-to-light-one",
@@ -302,10 +295,6 @@ export const ritualPages: PageContent[] = [
       { href: "/ritual/storage", label: "Keep an infused blunt ready" },
       { href: "/ritual/session-length", label: "Plan the session timeline" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/different-extracts-need-different-heat",
-      label: "Read the Presidential guide to extract heat",
-    },
   },
   {
     path: "/ritual/relighting",
@@ -450,10 +439,6 @@ export const ritualPages: PageContent[] = [
       { href: "/compare/blunt-vs-pre-roll", label: "Compare blunt and pre-roll pace" },
       { href: "/compare/infused-vs-non-infused", label: "Compare infused and regular builds" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/infusion-science",
-      label: "Explore the Presidential infusion science reference",
-    },
   },
   {
     path: "/ritual/storage",
@@ -598,10 +583,6 @@ export const ritualPages: PageContent[] = [
       { href: "/compare/mini-vs-full", label: "Compare mini and full-size scales" },
       { href: "/compare/infused-vs-non-infused", label: "Compare infused and regular builds" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/flavor-science",
-      label: "Discover the Presidential flavor science guide",
-    },
   },
   {
     path: "/ritual/session-length",
@@ -746,10 +727,6 @@ export const ritualPages: PageContent[] = [
       { href: "/compare/mini-vs-full", label: "Compare mini and full-size scales" },
       { href: "/compare/blunt-vs-joint", label: "Compare blunt and joint timelines" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "View the Presidential blunt format collection",
-    },
   },
   {
     path: "/ritual/sharing",
@@ -882,10 +859,6 @@ export const ritualPages: PageContent[] = [
       { href: "/ritual/how-to-light-one", label: "Start the shared light evenly" },
       { href: "/compare/mini-vs-full", label: "Compare mini and full-size scales" },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/thc-design-blunts",
-      label: "Meet the Presidential and THC Design blunt collection",
-    },
   },
 
 ];

@@ -7,72 +7,63 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Apricotti blunt packaging with illustrated label artwork",
-      "caption": "Presidential Apricotti blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-apricotti"
+      "caption": "Presidential Apricotti blunt package artwork."
     },
     {
       "src": "/images/presidential-cap-junky-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Cap Junky mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Cap Junky mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cap-junky"
+      "caption": "Presidential Cap Junky mini blunt package artwork."
     },
     {
       "src": "/images/presidential-cherry-gelato-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Cherry Gelato moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Cherry Gelato moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cherry-gelato"
+      "caption": "Presidential Cherry Gelato moon rocks package artwork."
     },
     {
       "src": "/images/presidential-cherry-gelato-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Cherry Gelato single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Cherry Gelato single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cherry-gelato"
+      "caption": "Presidential Cherry Gelato single mini blunt package artwork."
     },
     {
       "src": "/images/presidential-blue-dream-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Blue Dream infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Blue Dream infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/blue-dream"
+      "caption": "Presidential Blue Dream infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-blue-dream-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Blue Dream blunt packaging with illustrated label artwork",
-      "caption": "Presidential Blue Dream blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/blue-dream"
+      "caption": "Presidential Blue Dream blunt package artwork."
     },
     {
       "src": "/images/presidential-cherry-gelato-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1080,
       "alt": "Presidential Cherry Gelato mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Cherry Gelato mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cherry-gelato"
+      "caption": "Presidential Cherry Gelato mini blunt package artwork."
     },
     {
       "src": "/images/presidential-daniel-larusso-moon-rocks-packaging.webp",
       "width": 1080,
       "height": 1080,
       "alt": "Presidential Daniel LaRusso moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Daniel LaRusso moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-daniel-larusso"
+      "caption": "Presidential Daniel LaRusso moon rocks package artwork."
     },
     {
       "src": "/images/presidential-gorilla-goo-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Gorilla Goo single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Gorilla Goo single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/gorilla-goo"
+      "caption": "Presidential Gorilla Goo single mini blunt package artwork."
     }
   ],
   "/wrap": [
@@ -81,40 +72,35 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Blue Raspberry blunt packaging with illustrated label artwork",
-      "caption": "Presidential Blue Raspberry blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/blue-raspberry"
+      "caption": "Presidential Blue Raspberry blunt package artwork."
     },
     {
       "src": "/images/presidential-crescendo-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Crescendo mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Crescendo mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/crescendo"
+      "caption": "Presidential Crescendo mini blunt package artwork."
     },
     {
       "src": "/images/presidential-cap-junky-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Cap Junky blunt packaging with illustrated label artwork",
-      "caption": "Presidential Cap Junky blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cap-junky"
+      "caption": "Presidential Cap Junky blunt package artwork."
     },
     {
       "src": "/images/presidential-gorilla-goo-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Gorilla Goo mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Gorilla Goo mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/gorilla-goo"
+      "caption": "Presidential Gorilla Goo mini blunt package artwork."
     },
     {
       "src": "/images/presidential-cherry-gelato-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Cherry Gelato blunt packaging with illustrated label artwork",
-      "caption": "Presidential Cherry Gelato blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cherry-gelato"
+      "caption": "Presidential Cherry Gelato blunt package artwork."
     }
   ],
   "/compare": [
@@ -123,40 +109,35 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Crescendo blunt packaging with illustrated label artwork",
-      "caption": "Presidential Crescendo blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/crescendo"
+      "caption": "Presidential Crescendo blunt package artwork."
     },
     {
       "src": "/images/presidential-blue-raspberry-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Blue Raspberry infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Blue Raspberry infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/blue-raspberry"
+      "caption": "Presidential Blue Raspberry infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-orange-push-pop-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Orange Push Pop mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Orange Push Pop mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/orange-push-pop"
+      "caption": "Presidential Orange Push Pop mini blunt package artwork."
     },
     {
       "src": "/images/presidential-daniel-larusso-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Daniel LaRusso blunt packaging with illustrated label artwork",
-      "caption": "Presidential Daniel LaRusso blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-daniel-larusso"
+      "caption": "Presidential Daniel LaRusso blunt package artwork."
     },
     {
       "src": "/images/presidential-cap-junky-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Cap Junky infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Cap Junky infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cap-junky"
+      "caption": "Presidential Cap Junky infused pre-roll package artwork."
     }
   ],
   "/ritual": [
@@ -165,40 +146,35 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Galactic Gas blunt packaging with illustrated label artwork",
-      "caption": "Presidential Galactic Gas blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/galactic-gas"
+      "caption": "Presidential Galactic Gas blunt package artwork."
     },
     {
       "src": "/images/presidential-peach-mango-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Peach Mango mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Peach Mango mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/peach-mango"
+      "caption": "Presidential Peach Mango mini blunt package artwork."
     },
     {
       "src": "/images/presidential-pink-cookie-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Pink Cookie single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Pink Cookie single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pink-cookies"
+      "caption": "Presidential Pink Cookie single mini blunt package artwork."
     },
     {
       "src": "/images/presidential-garlic-cookie-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Garlic Cookie blunt packaging with illustrated label artwork",
-      "caption": "Presidential Garlic Cookie blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-garlic-cookies"
+      "caption": "Presidential Garlic Cookie blunt package artwork."
     },
     {
       "src": "/images/presidential-pink-cookie-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Pink Cookie mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Pink Cookie mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pink-cookies"
+      "caption": "Presidential Pink Cookie mini blunt package artwork."
     }
   ],
   "/strains": [
@@ -207,40 +183,35 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Ghost Train Haze blunt packaging with illustrated label artwork",
-      "caption": "Presidential Ghost Train Haze blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-ghost-haze-train"
+      "caption": "Presidential Ghost Train Haze blunt package artwork."
     },
     {
       "src": "/images/presidential-classic-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Classic mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Classic mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts"
+      "caption": "Presidential Classic mini blunt package artwork."
     },
     {
       "src": "/images/presidential-garlic-cookie-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Garlic Cookie moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Garlic Cookie moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-garlic-cookies"
+      "caption": "Presidential Garlic Cookie moon rocks package artwork."
     },
     {
       "src": "/images/presidential-gorilla-goo-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Gorilla Goo blunt packaging with illustrated label artwork",
-      "caption": "Presidential Gorilla Goo blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/gorilla-goo"
+      "caption": "Presidential Gorilla Goo blunt package artwork."
     },
     {
       "src": "/images/presidential-skywalker-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Skywalker mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Skywalker mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/skywalker"
+      "caption": "Presidential Skywalker mini blunt package artwork."
     }
   ],
   "/wrap/what-a-wrap-does": [
@@ -249,32 +220,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Grape blunt packaging with illustrated label artwork",
-      "caption": "Presidential Grape blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/grape"
+      "caption": "Presidential Grape blunt package artwork."
     },
     {
       "src": "/images/presidential-strawberry-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Strawberry mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Strawberry mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/strawberry"
+      "caption": "Presidential Strawberry mini blunt package artwork."
     },
     {
       "src": "/images/presidential-king-louis-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential King Louis blunt packaging with illustrated label artwork",
-      "caption": "Presidential King Louis blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/king-louis"
+      "caption": "Presidential King Louis blunt package artwork."
     },
     {
       "src": "/images/presidential-watermelon-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Watermelon mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Watermelon mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/watermelon"
+      "caption": "Presidential Watermelon mini blunt package artwork."
     }
   ],
   "/wrap/hemp-vs-tobacco": [
@@ -283,32 +250,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Laura Charles blunt packaging with illustrated label artwork",
-      "caption": "Presidential Laura Charles blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-laura-charles"
+      "caption": "Presidential Laura Charles blunt package artwork."
     },
     {
       "src": "/images/presidential-waui-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Waui mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Waui mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/waui"
+      "caption": "Presidential Waui mini blunt package artwork."
     },
     {
       "src": "/images/presidential-nino-brown-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Nino Brown blunt packaging with illustrated label artwork",
-      "caption": "Presidential Nino Brown blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-nino-brown"
+      "caption": "Presidential Nino Brown blunt package artwork."
     },
     {
       "src": "/images/presidential-xj-13-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential XJ-13 mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential XJ-13 mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xj-13"
+      "caption": "Presidential XJ-13 mini blunt package artwork."
     }
   ],
   "/wrap/tobacco-free": [
@@ -317,32 +280,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1350,
       "alt": "Presidential NYC Diesel blunt packaging with illustrated label artwork",
-      "caption": "Presidential NYC Diesel blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/nyc-diesel"
+      "caption": "Presidential NYC Diesel blunt package artwork."
     },
     {
       "src": "/images/presidential-xxx-mini-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential XXX mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential XXX mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xxx"
+      "caption": "Presidential XXX mini blunt package artwork."
     },
     {
       "src": "/images/presidential-orange-push-pop-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Orange Push Pop blunt packaging with illustrated label artwork",
-      "caption": "Presidential Orange Push Pop blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/orange-push-pop"
+      "caption": "Presidential Orange Push Pop blunt package artwork."
     },
     {
       "src": "/images/presidential-papaya-punch-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Papaya Punch blunt packaging with illustrated label artwork",
-      "caption": "Presidential Papaya Punch blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/papaya-punch"
+      "caption": "Presidential Papaya Punch blunt package artwork."
     }
   ],
   "/wrap/burn-rate": [
@@ -351,32 +310,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Peach Mango blunt packaging with illustrated label artwork",
-      "caption": "Presidential Peach Mango blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/peach-mango"
+      "caption": "Presidential Peach Mango blunt package artwork."
     },
     {
       "src": "/images/presidential-pineapple-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Pineapple blunt packaging with illustrated label artwork",
-      "caption": "Presidential Pineapple blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pineapple"
+      "caption": "Presidential Pineapple blunt package artwork."
     },
     {
       "src": "/images/presidential-classic-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Classic single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Classic single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts"
+      "caption": "Presidential Classic single mini blunt package artwork."
     },
     {
       "src": "/images/presidential-pink-cookie-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Pink Cookie blunt packaging with illustrated label artwork",
-      "caption": "Presidential Pink Cookie blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pink-cookies"
+      "caption": "Presidential Pink Cookie blunt package artwork."
     }
   ],
   "/wrap/wrap-and-flavour": [
@@ -385,32 +340,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Classic blunt packaging with illustrated label artwork",
-      "caption": "Presidential Classic blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts"
+      "caption": "Presidential Classic blunt package artwork."
     },
     {
       "src": "/images/presidential-rainbow-belts-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Rainbow Belts blunt packaging with illustrated label artwork",
-      "caption": "Presidential Rainbow Belts blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/rainbow-belts"
+      "caption": "Presidential Rainbow Belts blunt package artwork."
     },
     {
       "src": "/images/presidential-sfv-og-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential SFV OG blunt packaging with illustrated label artwork",
-      "caption": "Presidential SFV OG blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/sfv-og"
+      "caption": "Presidential SFV OG blunt package artwork."
     },
     {
       "src": "/images/presidential-skywalker-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Skywalker blunt packaging with illustrated label artwork",
-      "caption": "Presidential Skywalker blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/skywalker"
+      "caption": "Presidential Skywalker blunt package artwork."
     }
   ],
   "/wrap/how-wraps-are-made": [
@@ -419,32 +370,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Strawberry blunt packaging with illustrated label artwork",
-      "caption": "Presidential Strawberry blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/strawberry"
+      "caption": "Presidential Strawberry blunt package artwork."
     },
     {
       "src": "/images/presidential-tropical-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Tropical blunt packaging with illustrated label artwork",
-      "caption": "Presidential Tropical blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/tropical"
+      "caption": "Presidential Tropical blunt package artwork."
     },
     {
       "src": "/images/presidential-watermelon-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Watermelon blunt packaging with illustrated label artwork",
-      "caption": "Presidential Watermelon blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/watermelon"
+      "caption": "Presidential Watermelon blunt package artwork."
     },
     {
       "src": "/images/presidential-waui-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Waui blunt packaging with illustrated label artwork",
-      "caption": "Presidential Waui blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/waui"
+      "caption": "Presidential Waui blunt package artwork."
     }
   ],
   "/compare/blunt-vs-joint": [
@@ -453,32 +400,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Whoa Si Whoa blunt packaging with illustrated label artwork",
-      "caption": "Presidential Whoa Si Whoa blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-whoa-si-whoa"
+      "caption": "Presidential Whoa Si Whoa blunt package artwork."
     },
     {
       "src": "/images/presidential-cherry-gelato-infused-pre-roll-packaging.webp",
       "width": 1800,
       "height": 1800,
       "alt": "Presidential Cherry Gelato infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Cherry Gelato infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cherry-gelato"
+      "caption": "Presidential Cherry Gelato infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-xj-13-blunt-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential XJ-13 blunt packaging with illustrated label artwork",
-      "caption": "Presidential XJ-13 blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xj-13"
+      "caption": "Presidential XJ-13 blunt package artwork."
     },
     {
       "src": "/images/presidential-galactic-gas-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Galactic Gas infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Galactic Gas infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/galactic-gas"
+      "caption": "Presidential Galactic Gas infused pre-roll package artwork."
     }
   ],
   "/compare/blunt-vs-pre-roll": [
@@ -487,32 +430,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential XXX blunt packaging with illustrated label artwork",
-      "caption": "Presidential XXX blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xxx"
+      "caption": "Presidential XXX blunt package artwork."
     },
     {
       "src": "/images/presidential-garlic-cookie-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1080,
       "alt": "Presidential Garlic Cookie infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Garlic Cookie infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-garlic-cookies"
+      "caption": "Presidential Garlic Cookie infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-cherry-gelato-mini-pre-roll-packaging.webp",
       "width": 1800,
       "height": 1800,
       "alt": "Presidential Cherry Gelato mini pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Cherry Gelato mini pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/cherry-gelato"
+      "caption": "Presidential Cherry Gelato mini pre-roll package artwork."
     },
     {
       "src": "/images/presidential-xxx-blunt-alternate-2-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential XXX blunt packaging alternate edition 2 with illustrated label artwork",
-      "caption": "Presidential XXX blunt package artwork, alternate edition 2.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xxx"
+      "caption": "Presidential XXX blunt package artwork, alternate edition 2."
     }
   ],
   "/compare/blunt-vs-spliff": [
@@ -528,24 +467,21 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Ghost Haze infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Ghost Haze infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-ghost-haze-train"
+      "caption": "Presidential Ghost Haze infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-gorilla-goo-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Gorilla Goo infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Gorilla Goo infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/gorilla-goo"
+      "caption": "Presidential Gorilla Goo infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-grape-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Grape infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Grape infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/grape"
+      "caption": "Presidential Grape infused pre-roll package artwork."
     }
   ],
   "/compare/mini-vs-full": [
@@ -554,32 +490,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Classic single mini blunt packaging alternate edition 2 with illustrated label artwork",
-      "caption": "Presidential Classic single mini blunt package artwork, alternate edition 2.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts"
+      "caption": "Presidential Classic single mini blunt package artwork, alternate edition 2."
     },
     {
       "src": "/images/presidential-skywalker-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Skywalker single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Skywalker single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/skywalker"
+      "caption": "Presidential Skywalker single mini blunt package artwork."
     },
     {
       "src": "/images/presidential-skywalker-single-mini-blunt-alternate-2-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Skywalker single mini blunt packaging alternate edition 2 with illustrated label artwork",
-      "caption": "Presidential Skywalker single mini blunt package artwork, alternate edition 2.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/skywalker"
+      "caption": "Presidential Skywalker single mini blunt package artwork, alternate edition 2."
     },
     {
       "src": "/images/presidential-waui-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Waui single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential Waui single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/waui"
+      "caption": "Presidential Waui single mini blunt package artwork."
     }
   ],
   "/compare/infused-vs-non-infused": [
@@ -588,32 +520,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Ghost Haze moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Ghost Haze moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-ghost-haze-train"
+      "caption": "Presidential Ghost Haze moon rocks package artwork."
     },
     {
       "src": "/images/presidential-king-louis-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential King Louis infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential King Louis infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/king-louis"
+      "caption": "Presidential King Louis infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-nyc-diesel-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential NYC Diesel infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential NYC Diesel infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/nyc-diesel"
+      "caption": "Presidential NYC Diesel infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-gorilla-goo-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Gorilla Goo moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Gorilla Goo moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/gorilla-goo"
+      "caption": "Presidential Gorilla Goo moon rocks package artwork."
     }
   ],
   "/compare/hemp-wrap-vs-paper": [
@@ -622,32 +550,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Orange Push Pop infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Orange Push Pop infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/orange-push-pop"
+      "caption": "Presidential Orange Push Pop infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-papaya-punch-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Papaya Punch infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Papaya Punch infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/papaya-punch"
+      "caption": "Presidential Papaya Punch infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-crescendo-mini-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Crescendo mini pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Crescendo mini pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/crescendo"
+      "caption": "Presidential Crescendo mini pre-roll package artwork."
     },
     {
       "src": "/images/presidential-peach-mango-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Peach Mango infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Peach Mango infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/peach-mango"
+      "caption": "Presidential Peach Mango infused pre-roll package artwork."
     }
   ],
   "/ritual/how-to-light-one": [
@@ -656,32 +580,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Waui single mini blunt packaging alternate edition 2 with illustrated label artwork",
-      "caption": "Presidential Waui single mini blunt package artwork, alternate edition 2.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/waui"
+      "caption": "Presidential Waui single mini blunt package artwork, alternate edition 2."
     },
     {
       "src": "/images/presidential-xxx-single-mini-blunt-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential XXX single mini blunt packaging with illustrated label artwork",
-      "caption": "Presidential XXX single mini blunt package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xxx"
+      "caption": "Presidential XXX single mini blunt package artwork."
     },
     {
       "src": "/images/presidential-pineapple-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Pineapple infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Pineapple infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pineapple"
+      "caption": "Presidential Pineapple infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-pink-cookie-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Pink Cookie infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Pink Cookie infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pink-cookies"
+      "caption": "Presidential Pink Cookie infused pre-roll package artwork."
     }
   ],
   "/ritual/relighting": [
@@ -690,32 +610,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Classic infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Classic infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-prerolls"
+      "caption": "Presidential Classic infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-rainbow-belts-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential Rainbow Belts infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Rainbow Belts infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/rainbow-belts"
+      "caption": "Presidential Rainbow Belts infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-sfv-og-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential SFV OG infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential SFV OG infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/sfv-og"
+      "caption": "Presidential SFV OG infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-skywalker-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Skywalker infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Skywalker infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/skywalker"
+      "caption": "Presidential Skywalker infused pre-roll package artwork."
     }
   ],
   "/ritual/storage": [
@@ -724,32 +640,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Strawberry infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Strawberry infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/strawberry"
+      "caption": "Presidential Strawberry infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-tropical-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Tropical infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Tropical infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/tropical"
+      "caption": "Presidential Tropical infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-watermelon-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Watermelon infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Watermelon infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/watermelon"
+      "caption": "Presidential Watermelon infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-waui-infused-pre-roll-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Waui infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential Waui infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/waui"
+      "caption": "Presidential Waui infused pre-roll package artwork."
     }
   ],
   "/ritual/session-length": [
@@ -758,16 +670,14 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1350,
       "alt": "Presidential XJ-13 infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential XJ-13 infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xj-13"
+      "caption": "Presidential XJ-13 infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-xxx-infused-pre-roll-packaging.webp",
       "width": 1080,
       "height": 1350,
       "alt": "Presidential XXX infused pre-roll packaging with illustrated label artwork",
-      "caption": "Presidential XXX infused pre-roll package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/xxx"
+      "caption": "Presidential XXX infused pre-roll package artwork."
     },
     {
       "src": "/images/presidential-head-cheese-infused-pre-roll-packaging.webp",
@@ -781,8 +691,7 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Grape moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Grape moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/grape"
+      "caption": "Presidential Grape moon rocks package artwork."
     }
   ],
   "/ritual/sharing": [
@@ -791,32 +700,28 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1080,
       "height": 1080,
       "alt": "Presidential Laura Charles moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Laura Charles moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-laura-charles"
+      "caption": "Presidential Laura Charles moon rocks package artwork."
     },
     {
       "src": "/images/presidential-nino-brown-moon-rocks-packaging.webp",
       "width": 1080,
       "height": 1080,
       "alt": "Presidential Nino Brown moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Nino Brown moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-line-nino-brown"
+      "caption": "Presidential Nino Brown moon rocks package artwork."
     },
     {
       "src": "/images/presidential-peach-mango-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Peach Mango moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Peach Mango moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/peach-mango"
+      "caption": "Presidential Peach Mango moon rocks package artwork."
     },
     {
       "src": "/images/presidential-pink-cookie-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Pink Cookie moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Pink Cookie moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/pink-cookies"
+      "caption": "Presidential Pink Cookie moon rocks package artwork."
     }
   ],
   "/about": [
@@ -825,24 +730,21 @@ export const pageImages: Record<string, ContentImage[]> = {
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Classic moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Classic moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/presidential-moon-rocks"
+      "caption": "Presidential Classic moon rocks package artwork."
     },
     {
       "src": "/images/presidential-skywalker-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Skywalker moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Skywalker moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/skywalker"
+      "caption": "Presidential Skywalker moon rocks package artwork."
     },
     {
       "src": "/images/presidential-strawberry-moon-rocks-packaging.webp",
       "width": 1200,
       "height": 1200,
       "alt": "Presidential Strawberry moon rocks packaging with illustrated label artwork",
-      "caption": "Presidential Strawberry moon rocks package artwork.",
-      "productHref": "https://presidentialmoonrocks.com/moon-rocks/strawberry"
+      "caption": "Presidential Strawberry moon rocks package artwork."
     }
   ]
 };

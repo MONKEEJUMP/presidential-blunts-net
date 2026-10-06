@@ -79,13 +79,11 @@ export const pillarPage: PageContent = {
   ],
   linkParagraphs: [
     {
-      before: "Explore company and plant context in ",
-      link: { href: "https://presidentialcannabis.net/", label: "the official Presidential Cannabis brand guide" },
+      before: "Explore company and plant context in the official Presidential Cannabis brand guide",
       after: ".",
     },
     {
-      before: "Continue into extract and infusion context through ",
-      link: { href: "https://presidentialthc.net/", label: "the Presidential THC chemistry reference" },
+      before: "Continue into extract and infusion context through the Presidential THC chemistry reference",
       after: ".",
     },
     {
@@ -163,8 +161,4 @@ export const pillarPage: PageContent = {
     { href: "/compare/mini-vs-full", label: "Mini and full-size formats" },
     { href: "/ritual/storage", label: "Storage for infused blunts" },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "Find current availability through licensed retailers",
-  },
 };

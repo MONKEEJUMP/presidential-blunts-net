@@ -131,18 +131,15 @@ export const comparePages: PageContent[] = [
         after: " after construction is clear, so cultivar labels refine the recipe rather than rewrite the format.",
       },
       {
-        before: "Compare ",
-        link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+        before: "Compare flower",
         after: " with infused formats in the wider choosing guide.",
       },
       {
-        before: "Continue through the official brand reference at ",
-        link: { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis" },
+        before: "Continue through the official brand reference at Presidential Cannabis",
         after: ".",
       },
       {
-        before: "See how ",
-        link: { href: "https://presidentialcannabis.net/plant/the-flower-structure", label: "hemp" },
+        before: "See how hemp",
         after: " wrap context connects with cannabis flower anatomy.",
       },
       {
@@ -216,11 +213,6 @@ export const comparePages: PageContent[] = [
         label: "Presidential Blunts",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "View the Presidential blunt format",
-      description: "See the hemp-wrapped format on the main Presidential site.",
-    },
   },
   {
     path: "/compare/blunt-vs-joint",
@@ -380,11 +372,6 @@ export const comparePages: PageContent[] = [
         description: "Keep the outer layer separate from the size question.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Explore Presidential hemp-wrapped blunts",
-      description: "See the full blunt format on the main Presidential site.",
-    },
   },
   {
     path: "/compare/blunt-vs-pre-roll",
@@ -564,11 +551,6 @@ export const comparePages: PageContent[] = [
         description: "Keep the outer layer separate from the ready-to-light question.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-prerolls",
-      label: "See Presidential infused pre-rolls",
-      description: "View the thin-paper format on the main Presidential site.",
-    },
   },
   {
     path: "/compare/blunt-vs-spliff",
@@ -724,11 +706,6 @@ export const comparePages: PageContent[] = [
         description: "Keep the outer layer separate from the fill question.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "View the tobacco-free blunt collection",
-      description: "See Presidential hemp-wrap blunts on the main site.",
-    },
   },
   {
     path: "/compare/mini-vs-full",
@@ -900,11 +877,6 @@ export const comparePages: PageContent[] = [
         description: "Keep the outer layer separate from the size question.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Browse Presidential blunt sizes",
-      description: "Explore the available hemp-wrapped format on the main site.",
-    },
   },
   {
     path: "/compare/infused-vs-non-infused",
@@ -1055,11 +1027,6 @@ export const comparePages: PageContent[] = [
         description: "Keep cultivar names separate from construction.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "Discover Presidential infused blunts",
-      description: "View the three-layer blunt format on the main site.",
-    },
   },
   {
     path: "/compare/hemp-wrap-vs-paper",
@@ -1230,10 +1197,5 @@ export const comparePages: PageContent[] = [
         description: "Read the outer-layer claim before comparing paper formats.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-blunts",
-      label: "See Presidential hemp-wrap construction",
-      description: "Explore the tobacco-free blunt format on the main site.",
-    },
   },
 ];

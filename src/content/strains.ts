@@ -119,18 +119,15 @@ export const strainsPage: PageContent = {
       after: " for lighting, storage, and sharing.",
     },
     {
-      before: "Trace how each ",
-      link: { href: "https://presidentialcannabis.net/genetics/phenotypes", label: "strain" },
+      before: "Trace how each strain",
       after: " expresses traits through cannabis genetics.",
     },
     {
-      before: "Compare ",
-      link: { href: "https://presidentialcannabis.net/choosing/flower-vs-infused", label: "flower" },
+      before: "Compare flower",
       after: " with infused products across the wider catalog.",
     },
     {
-      before: "Explore the official plant and company guide from ",
-      link: { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis" },
+      before: "Explore the official plant and company guide from Presidential Cannabis",
       after: ".",
     },
     {
@@ -170,8 +167,4 @@ export const strainsPage: PageContent = {
       label: "Presidential Blunts",
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "Check strain availability at licensed retailers",
-  },
 };
