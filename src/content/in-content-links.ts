@@ -15,6 +15,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/compare/blunt-vs-joint": [
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
+    { href: "/strains", anchor: "strain labels", context: "Series names and strain labels refine the recipe" },
   ],
   "/compare/blunt-vs-pre-roll": [
     { href: "/wrap", anchor: "hemp wrap", context: "neutral hemp wrap across its blunt catalog" },
@@ -56,6 +57,10 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   "/compare/mini-vs-full": [
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential rolls in neutral hemp wraps across the blunt catalog" },
     { href: "/strains", anchor: "strains", context: "Presidential offers strains as blunts" },
+  ],
+  // NETS-NEXT 1009 (InLinks 50403, 0 credits).
+  "/wrap/burn-rate": [
+    { href: "/compare/infused-vs-non-infused", anchor: "infused blunt", context: "and an infused blunt adds concentrate to the flower" },
   ],
 };
 
