@@ -6,7 +6,7 @@ export const aboutPage: PageContent = {
   h1: "About Presidential Blunts",
   title: "About Presidential Blunts | Brand and Publisher",
   description:
-    "About Presidential Blunts, the official reference for the brand's tobacco-free hemp-wrap infused blunts, product formats, construction, and licensed retail context.",
+    "About Presidential Blunts, the official reference for its tobacco-free hemp-wrap infused blunts, formats, construction, and licensed retail context.",
   wordTarget: [1250, 1350],
   intro: [
     "This is the official Presidential blunt reference, published to explain the format with clear, original reporting grounded in the brand’s verified product facts. It gives readers one focused place to understand hemp wraps, three-layer infusion, burn behavior, sizes, strain names, and licensed retail availability.",
