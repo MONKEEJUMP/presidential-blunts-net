@@ -39,6 +39,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  icons: { icon: [{ url: "/images/presidential-crest.webp", type: "image/webp" }] },
   title: SITE_NAME,
   description: "The official infused blunt reference: the format, the wrap, the comparisons, and the ritual.",
   robots: { index: true, follow: true },
