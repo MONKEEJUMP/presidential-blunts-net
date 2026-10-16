@@ -10,15 +10,11 @@ export type InContentLinkRule = {
 export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRule[]>> = {
   "/strains": [
     { href: "/", anchor: "Presidential blunts", context: "blunt name still returns to the same core construction cue. Presidential blunts are one hundred percent tobacco free" },
-    { href: "/ritual/sharing", anchor: "sharing", context: "or sharing is the next skill" },
     { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "concentrate, kief, and selected flavor direction define the finished profile. Readers" },
-    { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco-free", context: "e package. A format answer is separate: tobacco-free blunt, mi" },
   ],
   "/about": [
     { href: "/", anchor: "Presidential Blunts", context: "Presidential Blunts does not sell or ship cannabis" },
-    { href: "/ritual/sharing", anchor: "sharing", context: "relighting, storage, session length, and sharing. The strains hub records" },
     { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "kief, and deliberately selected flavor direction" },
-    { href: "/compare/blunt-vs-spliff", anchor: "spliffs", context: "joints, pre-rolls, spliffs, paper wraps" },
   ],
   // SHIP-FIXLIST audit-1006 items 7-8.
   "/": [
@@ -28,7 +24,6 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/strains", anchor: "Presidential Blunts strains", context: "The full list of Presidential Blunts strains" },
     { href: "/about", anchor: "founded in Los Angeles in 2012", context: "Presidential cannabis brand, founded in Los Angeles in 2012" },
     // SURFER-BLUNTS-HOME-R4.
-    { href: "/compare/blunt-vs-joint", anchor: "joint", context: "A joint is flower in thin paper" },
     { href: "/wrap/tobacco-free", anchor: "tobacco-free hemp wrap", context: "packed inside a tobacco-free hemp wrap" },
     { href: "/compare/infused-vs-non-infused", anchor: "concentrate infusion", context: "flower base, concentrate infusion" },
     { href: "/wrap/burn-rate", anchor: "slower burn", context: "layered fill, and slower burn" },
@@ -62,12 +57,10 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
   "/wrap/hemp-vs-tobacco": [
-    { href: "/", anchor: "blunt", context: "main blunt guide on the home page" },
     { href: "/strains", anchor: "blunt library", context: "each name in the blunt library" },
   ],
   "/wrap/what-a-wrap-does": [
     { href: "/wrap", anchor: "hemp wrap", context: "A smooth hemp wrap of blunt-scale thickness" },
-    { href: "/wrap/tobacco-free", anchor: "tobacco-free", context: "Hemp gives Presidential a tobacco-free, neutral outer layer" },
   ],
   // Final pass 1006: incoming "hemp wrap" links to /wrap and "strains" to /strains.
   "/ritual/session-length": [
@@ -89,7 +82,6 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/compare/mini-vs-full": [
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential rolls in neutral hemp wraps across the blunt catalog" },
-    { href: "/strains", anchor: "strains", context: "Presidential offers strains as blunts" },
   ],
   // NETS-NEXT 1009 (InLinks 50403, 0 credits).
   "/wrap/burn-rate": [
@@ -99,7 +91,6 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/ritual/how-to-light-one", anchor: "how to light a hemp-wrapped blunt", context: "see how to light a hemp-wrapped blunt" },
   ],
   "/compare": [
-    { href: "/ritual/sharing", anchor: "sharing", context: "The comparison looks at session length, sharing, and how size" },
     { href: "/wrap/wrap-and-flavour", anchor: "flavor profiles", context: "The wrap and the fill each shape how flavor profiles come through" },
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "hms to different occasions. Traditional tobacco leaf or cigar-" },
   ],
