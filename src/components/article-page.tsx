@@ -194,6 +194,16 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       url: SITE_URL,
       logo: { "@type": "ImageObject", url: imageUrl(), width: 512, height: 512 },
       parentOrganization: { "@type": "Organization", name: "Presidential Cannabis" },
+      // Published on /about: "Presidential was founded in Los Angeles in 2012."
+      foundingDate: "2012",
+      foundingLocation: { "@type": "Place", name: "Los Angeles" },
+      brand: { "@id": `${SITE_URL}/#brand` },
+    },
+    {
+      "@type": "Brand",
+      "@id": `${SITE_URL}/#brand`,
+      name: "Presidential Blunts",
+      logo: imageUrl(),
     },
     {
       "@type": "WebSite",
