@@ -121,9 +121,9 @@ export const pillarPage: PageContent = {
   ],
   faq: [
     {
-      question: "Are Presidential wraps the same as Presidential Blunts?",
+      question: "Are our wraps the same as Presidential Blunts?",
       answer:
-        "Yes. Presidential wraps and Presidential Blunts both mean Presidential's tobacco-free infused blunts: flower, concentrate, and kief inside a ready-to-use hemp wrap, in full-size and mini formats.",
+        "Yes. Our wraps and Presidential Blunts both mean Presidential's tobacco-free infused blunts: flower, concentrate, and kief inside a ready-to-use hemp wrap, in full-size and mini formats.",
     },
     {
       question: "What are Presidential Blunts wrapped in?",
