@@ -16,7 +16,7 @@ export const pillarPage: PageContent = {
   sections: [
     {
       id: "blunt-joint-wrap",
-      heading: "Blunt, joint, and wrap",
+      heading: "Wraps, blunts, and joints",
       paragraphs: [
         "A joint is flower in thin paper. A blunt is flower in a broader leaf or wrap, so the piece is typically larger and burns more slowly than a joint. A traditional blunt uses a tobacco wrap; that wrap is leaf, and the leaf is what carries nicotine. A hemp wrap is the tobacco-free sheet. An infused pre-roll is a different construction: paper on the outside, with concentrate added to the fill, not a change to a hemp wrap.",
       ],
@@ -45,7 +45,7 @@ export const pillarPage: PageContent = {
       id: "three-layer-construction",
       heading: "Flower, concentrate, kief, and moon rock roots",
       paragraphs: [
-        "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief. In both formats, the infused cannabis inside leads the aroma and taste.",
+        "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief. In both formats, the infused cannabis inside leads the aroma and taste. That moon rock build of flower, concentrate, and kief is the root of Presidential's moon rock blunts.",
         "Even distribution matters more than repeating a category-wide potency number. Concentrate changes density and heat retention, so consistent placement supports a more uniform roll. Presidential names the brand, while indica, sativa, and hybrid describe cultivars: an indica or sativa label classifies the plant, and another indica or sativa reference still describes an indica cultivar rather than the company.",
         "Named products live in the Strains hub, where catalog groupings keep Silver, Gold, Rose Gold, and related lines readable without treating brand identity as a cultivar. Session handling—how to store a blunt cool and dark, how to smoke it with even lighting and relights, pacing between puffs, and sharing—belongs in the Ritual hub so this homepage can stay the overview rather than a how-to manual.",
       ],
@@ -72,7 +72,7 @@ export const pillarPage: PageContent = {
       id: "brand-plant-format",
       heading: "Keep the brand, the plant label, and the format apart",
       paragraphs: [
-        "The names on this page do not stand in for each other. Presidential is the brand, while indica, sativa, and hybrid only classify the plant inside the catalog. Silver, Gold, and Rose Gold organize named lines; they do not choose the outer sheet. That sheet is its own fact: a tobacco-free hemp wrap when the format is a blunt, and paper when the format is a pre-roll. A moon rock presents the same flower, concentrate, and kief as a piece of flower rather than inside that wrap. Full-size blunts and minis keep the blunt construction and change the scale.",
+        "The names on this page do not stand in for each other. Presidential is the brand, while indica, sativa, and hybrid only classify the plant inside the catalog. Silver, Gold, and Rose Gold organize named lines; they do not choose the outer sheet. Named flavors and strains such as Cherry Gelato, Peach Mango, Grape, and Strawberry are listed in the strain library. That sheet is its own fact: a tobacco-free hemp wrap when the format is a blunt, and paper when the format is a pre-roll. A moon rock presents the same flower, concentrate, and kief as a piece of flower rather than inside that wrap. Full-size blunts and minis keep the blunt construction and change the scale.",
         "A slower burn follows the broader wrap and the denser infused fill, not the brand name or the cultivar label. The current package and batch test record still hold cannabinoid information, ingredients, and product identity; high potency is not a category-wide promise. Adults 21+ can use this page to sort those columns, then confirm availability with a licensed retailer. This site does not sell or ship cannabis, and it does not turn the format into dosing advice.",
       ],
     },
@@ -121,6 +121,21 @@ export const pillarPage: PageContent = {
   ],
   faq: [
     {
+      question: "Are Presidential wraps the same as Presidential Blunts?",
+      answer:
+        "Yes. Presidential wraps and Presidential Blunts both mean Presidential's tobacco-free infused blunts: flower, concentrate, and kief inside a ready-to-use hemp wrap, in full-size and mini formats.",
+    },
+    {
+      question: "What are Presidential Blunts wrapped in?",
+      answer:
+        "A tobacco-free hemp wrap rather than tobacco leaf. Confirm the current product and ingredient information on its package.",
+    },
+    {
+      question: "What is a Presidential joint?",
+      answer:
+        "A joint uses thin rolling paper around the flower, and a Presidential infused pre-roll keeps that paper on the outside. A Presidential Blunt uses a tobacco-free hemp wrap instead, so the outer sheet is what separates the two.",
+    },
+    {
       question: "What are Presidential Blunts?",
       answer:
         "Presidential Blunts are tobacco-free hemp-wrap infused blunts from Presidential Cannabis. They combine flower, concentrate, and kief in full-size and mini formats.",
@@ -131,7 +146,7 @@ export const pillarPage: PageContent = {
         "Yes. Presidential Blunts use hemp wraps rather than tobacco leaf. Confirm the current product and ingredient information on its package.",
     },
     {
-      question: "How are Presidential Blunts different from pre rolls?",
+      question: "How are Presidential Blunts different from Presidential pre-rolls?",
       answer:
         "Presidential Blunts use hemp wraps, while pre rolls use paper. Both can carry infused cannabis, but their outer construction and format are different.",
     },
