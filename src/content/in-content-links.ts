@@ -10,9 +10,13 @@ export type InContentLinkRule = {
 export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRule[]>> = {
   "/strains": [
     { href: "/", anchor: "Presidential blunts", context: "blunt name still returns to the same core construction cue. Presidential blunts are one hundred percent tobacco free" },
+    { href: "/ritual/sharing", anchor: "sharing", context: "or sharing is the next skill" },
+    { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "concentrate, kief, and selected flavor direction define the finished profile. Readers" },
   ],
   "/about": [
     { href: "/", anchor: "Presidential Blunts", context: "Presidential Blunts does not sell or ship cannabis" },
+    { href: "/ritual/sharing", anchor: "sharing", context: "relighting, storage, session length, and sharing. The strains hub records" },
+    { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "kief, and deliberately selected flavor direction" },
   ],
   // SHIP-FIXLIST audit-1006 items 7-8.
   "/": [
@@ -90,6 +94,10 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/wrap": [
     { href: "/ritual/how-to-light-one", anchor: "how to light a hemp-wrapped blunt", context: "see how to light a hemp-wrapped blunt" },
+  ],
+  "/compare": [
+    { href: "/ritual/sharing", anchor: "sharing", context: "The comparison looks at session length, sharing, and how size" },
+    { href: "/wrap/wrap-and-flavour", anchor: "flavor profiles", context: "The wrap and the fill each shape how flavor profiles come through" },
   ],
 };
 
