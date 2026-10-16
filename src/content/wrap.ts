@@ -94,7 +94,7 @@ export const wrapPages: PageContent[] = [
         id: "catalog-navigation",
         heading: "How to navigate the wrap catalog",
         paragraphs: [
-          "Browse in order: four jobs, hemp versus other wraps, tobacco-free meaning, manufacturing, burn rate, then flavour. Each child link isolates one wrap question; return here or continue to blunt, ritual, or compare hubs when the next question leaves the outer sheet.",
+          "Browse in order: four jobs, hemp versus other wraps, tobacco-free meaning, manufacturing, burn rate, then flavour. Each child link isolates one wrap question; return here or continue to blunt, ritual, or compare hubs when the next question leaves the outer sheet. For the first light, see how to light a hemp-wrapped blunt.",
         ],
       },
       {
