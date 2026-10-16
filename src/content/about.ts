@@ -33,6 +33,7 @@ export const aboutPage: PageContent = {
         "A single homepage overview cannot carry every construction, format, ritual, and catalog question without blurring them. The hub map keeps each question class in its silo so readers can move from definition to detail without mixing wrap physics into strain names or lighting cues into wholesale geography.",
         "Keeping those silos separate also protects adults 21+ from mixed claims: wrap physics stay in Wrap, format contrasts stay in Compare, session cues stay in Ritual, and catalog names stay in Strains, while this About page holds publisher and wholesale framing only.",
       ],
+      subsections: [{ id: "which-extract-sits-inside-each-series", heading: "Which extract sits inside each series?", parts: [{ text: "Every Presidential Blunts product uses the same three-layer interior inside one of our tobacco-free hemp wraps: flower as the base, concentrate carried through it, and kief added last. The series sets the concentrate. The Silver Flavor Series is built on distillate and carries fruit-forward profiles, the Gold Strain Series uses live resin, and the Rose Gold series uses live rosin. Keep reading with " }, { text: "infused vs non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: ", " }, { text: "wrap and flavour", href: "/wrap/wrap-and-flavour" }, { text: ", or " }, { text: "browse the blunt strains", href: "/strains" }, { text: "." }] }],
     },
     {
       id: "publishing-standard",
