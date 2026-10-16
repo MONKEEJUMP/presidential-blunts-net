@@ -70,10 +70,24 @@ export const comparePages: PageContent[] = [
         ],
       },
       {
+        id: "wrap-infusion-flavor-profiles",
+        heading: "How wrap and infusion change flavor profiles",
+        paragraphs: [
+          "The wrap and the fill each shape how flavor profiles come through. Tobacco leaf carries tobacco's own taste, while a neutral hemp wrap lets the flower, concentrate, kief, and selected flavor profile lead. Infusion adds concentrate and kief to the flower, so the fill carries more layers than flower alone. The package names the flavor; the construction decides what frames it.",
+        ],
+      },
+      {
         id: "hemp-wrap-vs-paper",
         heading: "Hemp Wrap vs Paper",
         paragraphs: [
           "Hemp wrap is thicker, holds more material, and burns more slowly than thin rolling papers. Presidential uses a neutral hemp wrap, allowing the flower, concentrate, kief, and selected flavor profile to lead the taste. The full comparison follows the material choice through burn rate, heat, capacity, and flavor presentation. Tobacco leaf wraps and classic tobacco wrap builds sit on one historical path; hemp blunt wrap and paper-only joints remain other paths for cannabis consumption without nicotine.",
+        ],
+      },
+      {
+        id: "blunt-wrap-materials",
+        heading: "What materials are blunt wraps made from?",
+        paragraphs: [
+          "Blunt wraps come from a few materials. The traditional blunt uses tobacco leaf, often a cigar or cigarillo that has been emptied and refilled. Hemp wraps keep the thicker blunt format without tobacco, and every Presidential blunt is rolled in hemp. Rolling paper, including flax, belongs to joints and pre-rolls rather than blunts, so the wrap or paper material on the package is the first line to read.",
         ],
       },
       {
@@ -100,6 +114,13 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Each child page answers one contrast and links back here; keep outbound moon-rock and find-us paths unchanged when you follow them from related pages. Tobacco leaves, tobacco leaf wraps, and nicotine cues belong in the spliff contrast, not in Presidential hemp construction.",
           "Read each child guide for one contrast only, then return here when several format questions arrive together so wrap, fill, infusion, and size stay in a clear order for the Presidential Blunts reference. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase. Marijuana labeling, weed nicknames, and cannabis strains still follow the package—not the hub title—when users shop.",
+        ],
+      },
+      {
+        id: "store-pre-rolls-and-blunts",
+        heading: "How to store pre-rolls and blunts for freshness",
+        paragraphs: [
+          "Store pre-rolls and blunts the same way: in a dedicated container in a cool, dark place. Heat and light reach terpenes first, so a stable temperature and deep shade protect aroma between sessions. Pick a container that fits without crushing the roll, close it only after any ember is fully out and the material has cooled, and return it to the same drawer, cabinet, or shaded shelf away from windows and heaters.",
         ],
       },
       {
