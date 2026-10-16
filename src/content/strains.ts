@@ -133,13 +133,13 @@ export const strainsPage: PageContent = {
   ],
   linkParagraphs: [
     {
-      before: "Return to the complete ",
-      link: { href: "/", label: "blunt" },
-      after: " reference for construction and format context.",
+      before: "Return to the ",
+      link: { href: "/", label: "complete blunt reference" },
+      after: " for construction and format context.",
     },
     {
-      before: "Match a selected format to the session ",
-      link: { href: "/ritual", label: "guide" },
+      before: "Match a selected format to the ",
+      link: { href: "/ritual", label: "session guide" },
       after: " for lighting, storage, and sharing.",
     },
     {
