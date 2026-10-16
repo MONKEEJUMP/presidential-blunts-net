@@ -39,9 +39,11 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/compare/blunt-vs-pre-roll": [
     { href: "/wrap", anchor: "hemp wrap", context: "neutral hemp wrap across its blunt catalog" },
+    { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "so the tobacco leaf stays on the outside" },
   ],
   "/compare/hemp-wrap-vs-paper": [
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential uses hemp wraps for its blunts" },
+    { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "Traditional tobacco leaf carries its own taste" },
   ],
   "/compare/infused-vs-non-infused": [
     { href: "/wrap", anchor: "hemp wrap", context: "share a hemp wrap" },
@@ -54,6 +56,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/wrap/hemp-vs-tobacco": [
     { href: "/", anchor: "blunt", context: "main blunt guide on the home page" },
+    { href: "/strains", anchor: "blunt library", context: "each name in the blunt library" },
   ],
   "/wrap/what-a-wrap-does": [
     { href: "/wrap", anchor: "hemp wrap", context: "A smooth hemp wrap of blunt-scale thickness" },
