@@ -12,6 +12,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   "/": [
     { href: "/ritual", anchor: "Ritual hub", context: "belongs in the Ritual hub" },
     { href: "/strains", anchor: "Strains hub", context: "the Strains hub records the current named range" },
+    { href: "/strains", anchor: "strain library", context: "are listed in the strain library" },
   ],
   "/compare/blunt-vs-joint": [
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
