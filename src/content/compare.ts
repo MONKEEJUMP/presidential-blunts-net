@@ -481,6 +481,7 @@ export const comparePages: PageContent[] = [
           "A reader can therefore compare more than shape. A paper pre-roll offers the quickest format. A hemp-wrapped infused blunt adds greater capacity, a slower burn, and three distinct layers. Presidential produces both infused pre-rolls and tobacco-free blunts, making the format decision separate from the larger catalog of series and strains.",
           "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A pre-roll comparison stays centered on thin paper and a ready-to-light fill unless the package states a different wrap.",
         ],
+        subsections: [{ id: "format-for-session", heading: "Which Presidential format fits which session?", parts: [{ text: "Choose a pre-roll when the schedule favors the fastest finish, a " }, { text: "mini blunt", href: "/compare/mini-vs-full" }, { text: " when a smaller session still calls for blunt construction, and a full-size blunt when more material and longer heat retention suit the occasion. Every Presidential blunt uses our same neutral hemp wraps; the " }, { text: "Presidential Blunts guide", href: "/" }, { text: " covers the full format." }] }],
       },
       {
         id: "ready-to-light-two-ways",
