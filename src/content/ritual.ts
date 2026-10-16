@@ -463,6 +463,7 @@ export const ritualPages: PageContent[] = [
           "Choose a stable location where the temperature stays comfortably cool and deep shade surrounds the container. Repeating that placement turns the rule into a dependable habit. The blunt receives the same environment each time it returns to storage.",
           "Practical placement follows the same cue. A drawer, cabinet, or shaded shelf away from windows, heaters, and parked-car heat keeps the container out of swinging temperature and direct sun. Cool and dark is not a special device requirement; it is a repeatable room choice that leaves the aromatic layers in a steadier state until the next session.",
         ],
+        subsections: [{ id: "why-storage-matters", heading: "Why does storage matter for an infused blunt?", parts: [{ text: "Heat and light take terpenes first, so stable temperature, shade, and a dedicated container keep an infused blunt in good order. Our thicker wraps hold heat longer once lit, which is covered in the " }, { text: "blunt burn rate guide", href: "/wrap/burn-rate" }, { text: ". For the next step, see " }, { text: "how to light one", href: "/ritual/how-to-light-one" }, { text: "." }] }],
       },
       {
         id: "container-choice",
