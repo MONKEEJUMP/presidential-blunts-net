@@ -44,6 +44,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   "/compare/hemp-wrap-vs-paper": [
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential uses hemp wraps for its blunts" },
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "Traditional tobacco leaf carries its own taste" },
+    { href: "/wrap/what-a-wrap-does", anchor: "outer layer", context: "Hemp wrap versus paper answers the outer layer" },
   ],
   "/compare/infused-vs-non-infused": [
     { href: "/wrap", anchor: "hemp wrap", context: "share a hemp wrap" },
@@ -60,6 +61,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/wrap/what-a-wrap-does": [
     { href: "/wrap", anchor: "hemp wrap", context: "A smooth hemp wrap of blunt-scale thickness" },
+    { href: "/wrap/tobacco-free", anchor: "tobacco-free", context: "Hemp gives Presidential a tobacco-free, neutral outer layer" },
   ],
   // Final pass 1006: incoming "hemp wrap" links to /wrap and "strains" to /strains.
   "/ritual/session-length": [
@@ -85,6 +87,9 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   // NETS-NEXT 1009 (InLinks 50403, 0 credits).
   "/wrap/burn-rate": [
     { href: "/compare/infused-vs-non-infused", anchor: "infused blunt", context: "and an infused blunt adds concentrate to the flower" },
+  ],
+  "/wrap": [
+    { href: "/ritual/how-to-light-one", anchor: "how to light a hemp-wrapped blunt", context: "see how to light a hemp-wrapped blunt" },
   ],
 };
 
