@@ -21,6 +21,17 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/strains", anchor: "strain library", context: "are listed in the strain library" },
     { href: "/strains", anchor: "Presidential Blunts strains", context: "The full list of Presidential Blunts strains" },
     { href: "/about", anchor: "founded in Los Angeles in 2012", context: "Presidential cannabis brand, founded in Los Angeles in 2012" },
+    // SURFER-BLUNTS-HOME-R4.
+    { href: "/compare/blunt-vs-joint", anchor: "joint", context: "A joint is flower in thin paper" },
+    { href: "/wrap/tobacco-free", anchor: "tobacco-free hemp wrap", context: "packed inside a tobacco-free hemp wrap" },
+    { href: "/compare/infused-vs-non-infused", anchor: "concentrate infusion", context: "flower base, concentrate infusion" },
+    { href: "/wrap/burn-rate", anchor: "slower burn", context: "layered fill, and slower burn" },
+    { href: "/wrap/hemp-vs-tobacco", anchor: "hemp wraps rather than tobacco leaf", context: "Presidential Blunts use hemp wraps rather than tobacco leaf. The wrap keeps" },
+    { href: "/compare/hemp-wrap-vs-paper", anchor: "Pre rolls use paper", context: "Pre rolls use paper; Presidential Blunts use a broader hemp wrap" },
+    { href: "/wrap", anchor: "Wrap hub", context: "continue in the Wrap hub" },
+    { href: "/ritual/storage", anchor: "handling and storage", context: "Ritual for handling and storage" },
+    { href: "/compare/blunt-vs-pre-roll", anchor: "blunt versus pre-roll", context: "burn rate, blunt versus pre-roll" },
+    { href: "/ritual/session-length", anchor: "session pacing", context: "wrap material and session pacing" },
   ],
   "/compare/blunt-vs-joint": [
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
