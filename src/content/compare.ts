@@ -322,6 +322,7 @@ export const comparePages: PageContent[] = [
           "This makes the comparison easy to frame: the blunt emphasizes capacity, heat retention, and an unhurried burn, while the joint emphasizes a light paper construction and fast completion.",
           "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A joint comparison stays centered on thin paper and a lighter flower fill unless the package states otherwise.",
         ],
+        subsections: [{ id: "hemp-wrap-change", heading: "What does a tobacco-free hemp wrap change?", parts: [{ text: "A joint uses thin rolling paper, while Presidential blunts use our hemp wraps, which are tobacco free and neutral in taste. That neutral wrap lets the flower, concentrate, and kief inside lead the profile. Compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: ", or start from the " }, { text: "Presidential Blunts home page", href: "/" }, { text: "." }] }],
       },
       {
         id: "read-them-side-by-side",
