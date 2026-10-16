@@ -988,6 +988,7 @@ export const wrapPages: PageContent[] = [
           "Full-size blunts and minis show how the same construction can be expressed at different scales. A mini is the same construction at a smaller size. The wrap still needs a consistent surface, an appropriate boundary around the contents, and the structural character of a blunt. Scale changes while the central role of the material stays the same.",
           "Reading thickness and size as separate dials keeps shelf comparison clear. A thicker wrap preserves the blunt side of the format contrast with thin rolling paper; a shorter length shortens the session window without rewriting the outer material. Solving sheet gauge first, then format scale, then series direction keeps related packaging readable when outlines look similar at a glance.",
         ],
+        subsections: [{ id: "why-thickness-matters", heading: "Why does wrap thickness matter?", parts: [{ text: "Thickness is what separates a blunt wrap from pre-roll paper: our wraps surround more material, burn slower, and hold heat longer. See the " }, { text: "burn rate guide", href: "/wrap/burn-rate" }, { text: " for pace and " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: " for the side-by-side comparison." }] }],
       },
       {
         id: "finished-consistency",

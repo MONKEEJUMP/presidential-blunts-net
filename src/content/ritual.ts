@@ -553,18 +553,18 @@ export const ritualPages: PageContent[] = [
         after: " after scale is clear and resting intervals still return unfinished material to storage.",
       },
       {
-        before: "Compare scales directly in the ",
-        link: { href: "/compare/mini-vs-full", label: "mini vs full-size blunt guide" },
+        before: "Compare blunt scales directly in the ",
+        link: { href: "/compare/mini-vs-full", label: "mini vs full-size guide" },
         after: " when container fit and occasion length are still deciding which format to store.",
       },
       {
-        before: "Separate thicker wraps from thin paper in the ",
-        link: { href: "/compare/blunt-vs-pre-roll", label: "blunt vs pre-roll guide" },
+        before: "Separate thicker blunt wraps from thin paper in the ",
+        link: { href: "/compare/blunt-vs-pre-roll", label: "pre-roll comparison guide" },
         after: " if storage still needs a format-level contrast beside this cool, dark routine.",
       },
       {
-        before: "See what changes inside the wrap in the ",
-        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular blunt guide" },
+        before: "See what changes inside a blunt wrap in the ",
+        link: { href: "/compare/infused-vs-non-infused", label: "infused vs regular guide" },
         after: " when terpene-rich layers explain why heat and light are the first storage concerns.",
       },
       {

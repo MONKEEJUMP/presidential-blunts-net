@@ -12,6 +12,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/", anchor: "Presidential blunts", context: "blunt name still returns to the same core construction cue. Presidential blunts are one hundred percent tobacco free" },
     { href: "/ritual/sharing", anchor: "sharing", context: "or sharing is the next skill" },
     { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "concentrate, kief, and selected flavor direction define the finished profile. Readers" },
+    { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco-free", context: "e package. A format answer is separate: tobacco-free blunt, mi" },
   ],
   "/about": [
     { href: "/", anchor: "Presidential Blunts", context: "Presidential Blunts does not sell or ship cannabis" },
@@ -84,6 +85,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   "/compare/blunt-vs-spliff": [
     { href: "/wrap", anchor: "hemp wrap", context: "The thicker hemp wrap keeps the format's capacity" },
+    { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "s. When the wrap is hemp or another non-tobacco leaf substitut" },
   ],
   "/compare/mini-vs-full": [
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential rolls in neutral hemp wraps across the blunt catalog" },
@@ -99,6 +101,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   "/compare": [
     { href: "/ritual/sharing", anchor: "sharing", context: "The comparison looks at session length, sharing, and how size" },
     { href: "/wrap/wrap-and-flavour", anchor: "flavor profiles", context: "The wrap and the fill each shape how flavor profiles come through" },
+    { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "hms to different occasions. Traditional tobacco leaf or cigar-" },
   ],
 };
 
