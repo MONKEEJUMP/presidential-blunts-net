@@ -59,6 +59,7 @@ export const wrapPages: PageContent[] = [
           "A blunt uses a thicker wrap than a pre-roll, holds more material, burns slower, and holds heat longer. Airflow, density, and the distribution of infused material all meet at the wrap. The burn-rate guide shows how those elements work together, why infused material takes a measured light, and how a slow pace defines the blunt as a session format.",
           "With infusion, concentrate holds heat, so wrap thickness and an even fill support a measured catch rather than a racing thin-paper edge—burn stays construction, not dosing.",
         ],
+        subsections: [{ id: "how-do-you-keep-a-hemp-wrap-in-good-condition", heading: "How do you keep a hemp wrap in good condition?", parts: [{ text: "Heat and light take terpenes first, so store an infused blunt in a cool, dark place inside a dedicated container. A container sized to fit the blunt protects the shape of our wraps and the seam that holds the roll together. The structure of our wraps is what manages airflow and burn rate, so keeping it intact keeps the slower, even burn the thicker hemp sheet is built for. Keep reading with " }, { text: "how to store infused blunts", href: "/ritual/storage" }, { text: ", " }, { text: "blunt wrap burn rate", href: "/wrap/burn-rate" }, { text: ", or " }, { text: "how wraps are made", href: "/wrap/how-wraps-are-made" }, { text: "." }] }],
       },
       {
         id: "wrap-and-flavour",
