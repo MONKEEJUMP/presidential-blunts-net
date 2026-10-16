@@ -17,6 +17,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/", anchor: "Presidential Blunts", context: "Presidential Blunts does not sell or ship cannabis" },
     { href: "/ritual/sharing", anchor: "sharing", context: "relighting, storage, session length, and sharing. The strains hub records" },
     { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "kief, and deliberately selected flavor direction" },
+    { href: "/compare/blunt-vs-spliff", anchor: "spliffs", context: "joints, pre-rolls, spliffs, paper wraps" },
   ],
   // SHIP-FIXLIST audit-1006 items 7-8.
   "/": [

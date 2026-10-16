@@ -25,7 +25,7 @@ export const pillarPage: PageContent = {
       id: "what-a-blunt-is",
       heading: "What are Presidential Blunts?",
       paragraphs: [
-        "A Presidential Blunt consists of flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, premium THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
+        "A Presidential Blunt consists of flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
         "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity. Product quality and construction quality can differ by item, so the current package remains the reliable reference.",
         "Read the build in that order—flower base, concentrate infusion, kief finish, hemp outer sheet—then move into the hubs when one part needs more depth. Construction language stays educational: no dosing claims, no invented lab percentages, and no substitute for the licensed label in your market.",
         "Adults 21+ can treat this homepage overview as format literacy rather than a shopping cart: the infused blunt is defined by hemp wrap, layered fill, and slower burn, while named catalog items and licensed doors answer which product is currently available in a given market.",
@@ -37,6 +37,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Named products in the blunt catalog include Skywalker, Pink Cookies, Gorilla Goo, Waui, and Grape. The full list of Presidential Blunts strains, grouped by series, lives in the strain library.",
       ],
+      subsections: [{ id: "blunts-in-catalog", heading: "Where do Presidential Blunts sit in the Presidential catalog?", parts: [{ text: "Presidential Blunts are one of four Presidential formats, alongside Moon Rocks, infused pre-rolls, and minis. Presidential was founded in Los Angeles in 2012, operates wholesale only, and its catalog contains 47 products across six groupings. The " }, { text: "strain library", href: "/strains" }, { text: " lists the names available as blunts, and " }, { text: "About", href: "/about" }, { text: " explains the publisher behind this guide." }] }],
     },
     {
       id: "hemp-wrap",
