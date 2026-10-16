@@ -14,6 +14,7 @@ export type ContentSection = {
   paragraphs: string[];
   bullets?: string[];
   table?: DataTable;
+  subsections?: { id: string; heading: string; parts: { text: string; href?: string }[] }[];
 };
 
 export type PageLink = {

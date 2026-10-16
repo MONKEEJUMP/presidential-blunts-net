@@ -58,6 +58,7 @@ export const strainsPage: PageContent = {
         "Together these six groupings form the verified catalog map. Extract-led series (Silver, Gold, Rose Gold) describe concentrate preparation and flavor direction. House and collaboration lines describe organizational structure. Counts across the six groupings total 47 products in the wider catalog, while this hub isolates the 24 names offered as blunts.",
         "Reading the groupings as layers—not as a second strain list—keeps the index accurate. A series label explains construction and catalog direction. It does not rename a cultivar or invent a one-to-one map from every blunt name to a single series when the verified record does not publish that assignment here.",
       ],
+      subsections: [{ id: "series-by-extract", heading: "How do the series differ by extract?", parts: [{ text: "Silver products are built on distillate with a fruit-forward direction, Gold products on live resin with a cannabis-forward direction, and Rose Gold products on solventless live rosin. Every blunt in the library is rolled in our wraps, the same " }, { text: "tobacco-free hemp wrap", href: "/wrap/tobacco-free" }, { text: ", so the series changes the extract and flavor direction, not the wrap. Compare formats on the " }, { text: "blunt vs pre-roll", href: "/compare/blunt-vs-pre-roll" }, { text: " page." }] }],
     },
     {
       id: "names-to-formats",

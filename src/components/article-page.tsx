@@ -96,6 +96,7 @@ function ArticleSection({ section, image, reverse, linkRules }: { section: Conte
           {section.paragraphs.map((paragraph, index) => <p key={`${section.id}-paragraph-${index}`}><LinkedParagraph rule={linkRules.get(`${section.id}-${index}`)} text={paragraph} /></p>)}
           {section.bullets?.length ? <ul>{section.bullets.map((bullet, index) => <li key={`${section.id}-bullet-${index}`}>{bullet}</li>)}</ul> : null}
           <DataTable section={section} />
+          {section.subsections?.map((sub) => (<div className="article-subsection" key={sub.id}><h3>{sub.heading}</h3><p>{sub.parts.map((part, index) => part.href ? <Link href={part.href} key={`${sub.id}-${index}`}>{part.text}</Link> : <span key={`${sub.id}-${index}`}>{part.text}</span>)}</p></div>))}
         </div>
         {image ? <ContentFigure image={image} /> : null}
       </div>
