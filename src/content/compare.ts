@@ -164,8 +164,8 @@ export const comparePages: PageContent[] = [
     linkParagraphs: [
       {
         before: "This ",
-        link: { href: "/about", label: "brand" },
-        after: " and publisher page explains who stands behind this educational reference.",
+        link: { href: "/about", label: "brand and publisher page" },
+        after: " explains who stands behind this educational reference.",
       },
 
       {
@@ -539,8 +539,8 @@ export const comparePages: PageContent[] = [
     linkParagraphs: [
       {
         before: "Catalog ",
-        link: { href: "/strains", label: "strains" },
-        after: " and cultivar groupings sit on the strains hub.",
+        link: { href: "/strains", label: "strains and cultivar groupings" },
+        after: " sit on the strains hub.",
       },
 
       {
@@ -865,8 +865,8 @@ export const comparePages: PageContent[] = [
     linkParagraphs: [
       {
         before: "Catalog ",
-        link: { href: "/strains", label: "strains" },
-        after: " and cultivar groupings sit on the strains hub.",
+        link: { href: "/strains", label: "strains and cultivar groupings" },
+        after: " sit on the strains hub.",
       },
 
       {

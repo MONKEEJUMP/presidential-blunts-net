@@ -22,7 +22,7 @@ export const aboutPage: PageContent = {
         "Across the blunt catalog, Presidential uses hemp wraps that are one hundred percent tobacco free. The hemp wrap provides the thicker structure, slower burn, and longer heat retention associated with a blunt while keeping its taste neutral. That lets the flower, concentrate, kief, and deliberately selected flavor direction provide the identity of what is rolled inside.",
         "Wholesale context matters for how this reference is read. Presidential Blunts does not sell or ship cannabis from this site; it explains the infused blunt format and points adults toward licensed doors where legal. Market coverage, retailer selection, and current package labeling remain the practical checks for availability and product identity.",
       ],
-      subsections: [{ id: "publisher-coverage", heading: "What does the publisher cover?", parts: [{ text: "This reference covers one subject: Presidential hemp-wrap infused blunts. Start with the " }, { text: "hemp blunt wrap guide", href: "/wrap" }, { text: ", compare rolled formats in " }, { text: "Compare" }, { text: ", read session cues in " }, { text: "Ritual" }, { text: ", and browse names in " }, { text: "Strains" }, { text: ". The catalog spans 47 products across six groupings and four formats, and products are supplied wholesale through licensed retailers." }] }],
+      subsections: [{ id: "publisher-coverage", heading: "What does the publisher cover?", parts: [{ text: "This reference covers one subject: Presidential hemp-wrap infused blunts. Start with the " }, { text: "hemp blunt wrap guide", href: "/wrap" }, { text: ", compare rolled formats in the " }, { text: "blunt comparison guides", href: "/compare" }, { text: ", read session cues in the " }, { text: "blunt ritual guides", href: "/ritual" }, { text: ", and browse names in the " }, { text: "full strain list", href: "/strains" }, { text: ". The catalog spans 47 products across six groupings and four formats, and products are supplied wholesale through licensed retailers." }] }],
     },
     {
       id: "why-this-reference-exists",
@@ -76,8 +76,8 @@ export const aboutPage: PageContent = {
   linkParagraphs: [
       {
         before: "Trace the three-layer ",
-        link: { href: "/wrap/how-wraps-are-made", label: "hemp" },
-        after: " wrap build on the how-wraps-are-made guide.",
+        link: { href: "/wrap/how-wraps-are-made", label: "hemp wrap" },
+        after: " build on the how-wraps-are-made guide.",
       },
 
     {

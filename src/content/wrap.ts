@@ -124,24 +124,24 @@ export const wrapPages: PageContent[] = [
       },
       {
         before: "This ",
-        link: { href: "/about", label: "brand" },
-        after: " and publisher page explains who stands behind this educational reference.",
+        link: { href: "/about", label: "brand and publisher page" },
+        after: " explains who stands behind this educational reference.",
       },
 
       {
         before: "Catalog ",
-        link: { href: "/strains", label: "strain" },
-        after: " or cultivar groupings sit on the strains hub.",
+        link: { href: "/strains", label: "strain or cultivar groupings" },
+        after: " sit on the strains hub.",
       },
 
       {
-        before: "Return to the complete ",
-        link: { href: "/", label: "blunt" },
-        after: " reference for the full infused format.",
+        before: "Return to the ",
+        link: { href: "/", label: "complete blunt reference" },
+        after: " for the full infused format.",
       },
       {
-        before: "Continue with the lighting, storage, and sharing ",
-        link: { href: "/ritual", label: "guide" },
+        before: "Continue with the lighting, storage, and ",
+        link: { href: "/ritual", label: "sharing guide" },
         after: " for the finished roll.",
       },
       {
@@ -288,8 +288,8 @@ export const wrapPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
-        before: "Ritual ",
-        link: { href: "/ritual", label: "guides" },
+        before: "",
+        link: { href: "/ritual", label: "Ritual guides" },
         after: " cover lighting, pacing, airflow, and storage.",
       },
 
@@ -1012,8 +1012,8 @@ export const wrapPages: PageContent[] = [
     ],
     linkParagraphs: [
       {
-        before: "The ritual ",
-        link: { href: "/ritual", label: "guide" },
+        before: "The ",
+        link: { href: "/ritual", label: "ritual guide" },
         after: " covers lighting, pacing, airflow, and storage.",
       },
 
@@ -1023,9 +1023,9 @@ export const wrapPages: PageContent[] = [
         after: " when you want manufacturing placed beside structure, material, tobacco-free definition, and flavour in one field guide.",
       },
       {
-        before: "See how the finished wrap performs in the complete ",
-        link: { href: "/", label: "blunt" },
-        after: " reference.",
+        before: "See how the finished wrap performs in the ",
+        link: { href: "/", label: "complete blunt reference" },
+        after: ".",
       },
       {
         before: "Connect manufacture to the wrap's four jobs in the ",

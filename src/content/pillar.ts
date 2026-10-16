@@ -37,7 +37,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Named products in the blunt catalog include Skywalker, Pink Cookies, Gorilla Goo, Waui, and Grape. The full list of Presidential Blunts strains, grouped by series, lives in the strain library.",
       ],
-      subsections: [{ id: "blunts-in-catalog", heading: "Where do Presidential Blunts sit in the Presidential catalog?", parts: [{ text: "Presidential Blunts are one of four Presidential formats, alongside Moon Rocks, infused pre-rolls, and minis. Presidential was founded in Los Angeles in 2012, operates wholesale only, and its catalog contains 47 products across six groupings. The " }, { text: "strain library", href: "/strains" }, { text: " lists the names available as blunts, and " }, { text: "About" }, { text: " explains the publisher behind this guide." }] }],
+      subsections: [{ id: "blunts-in-catalog", heading: "Where do Presidential Blunts sit in the Presidential catalog?", parts: [{ text: "Presidential Blunts are one of four Presidential formats, alongside Moon Rocks, infused pre-rolls, and minis. Presidential was founded in Los Angeles in 2012, operates wholesale only, and its catalog contains 47 products across six groupings. The " }, { text: "strain library", href: "/strains" }, { text: " lists the names available as blunts, and " }, { text: "our About page", href: "/about" }, { text: " explains the publisher behind this guide." }] }],
     },
     {
       id: "hemp-wrap",

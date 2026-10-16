@@ -93,26 +93,26 @@ export const ritualPages: PageContent[] = [
       },
       {
         before: "This ",
-        link: { href: "/about", label: "brand" },
-        after: " and publisher page explains who stands behind this educational reference.",
+        link: { href: "/about", label: "brand and publisher page" },
+        after: " explains who stands behind this educational reference.",
       },
 
       {
         before: "Trace the three-layer ",
-        link: { href: "/wrap/how-wraps-are-made", label: "hemp" },
-        after: " wrap build on the how-wraps-are-made guide.",
+        link: { href: "/wrap/how-wraps-are-made", label: "hemp wrap" },
+        after: " build on the how-wraps-are-made guide.",
       },
 
       {
         before: "Catalog ",
-        link: { href: "/strains", label: "strain" },
-        after: " or cultivar groupings sit on the strains hub.",
+        link: { href: "/strains", label: "strain or cultivar groupings" },
+        after: " sit on the strains hub.",
       },
 
       {
-        before: "The complete ",
-        link: { href: "/", label: "blunt" },
-        after: " reference connects this ritual to construction, format, and the Presidential catalog.",
+        before: "The ",
+        link: { href: "/", label: "complete blunt reference" },
+        after: " connects this ritual to construction, format, and the Presidential catalog.",
       },
       {
         before: "Compare flower",
@@ -263,8 +263,8 @@ export const ritualPages: PageContent[] = [
     linkParagraphs: [
       {
         before: "The outer ",
-        link: { href: "/wrap", label: "hemp" },
-        after: " wrap sets burn pace and flavour for this format.",
+        link: { href: "/wrap", label: "hemp wrap" },
+        after: " sets burn pace and flavour for this format.",
       },
 
       {
@@ -379,8 +379,8 @@ export const ritualPages: PageContent[] = [
     linkParagraphs: [
       {
         before: "The outer ",
-        link: { href: "/wrap", label: "hemp" },
-        after: " wrap sets burn pace and flavour for this format.",
+        link: { href: "/wrap", label: "hemp wrap" },
+        after: " sets burn pace and flavour for this format.",
       },
 
       {
@@ -524,8 +524,8 @@ export const ritualPages: PageContent[] = [
     linkParagraphs: [
       {
         before: "The outer ",
-        link: { href: "/wrap", label: "hemp" },
-        after: " wrap sets burn pace and flavour for this format.",
+        link: { href: "/wrap", label: "hemp wrap" },
+        after: " sets burn pace and flavour for this format.",
       },
 
       {
@@ -668,8 +668,8 @@ export const ritualPages: PageContent[] = [
     linkParagraphs: [
       {
         before: "The outer ",
-        link: { href: "/wrap", label: "hemp" },
-        after: " wrap sets burn pace and flavour for this format.",
+        link: { href: "/wrap", label: "hemp wrap" },
+        after: " sets burn pace and flavour for this format.",
       },
 
       {
