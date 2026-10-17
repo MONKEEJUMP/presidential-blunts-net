@@ -11,7 +11,7 @@ export const ritualPages: PageContent[] = [
       "Learn how to light, relight, store, time, and share a tobacco-free infused blunt through the practical session guidance from Presidential Blunts.",
     wordTarget: [1100, 1250],
     intro: [
-      "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower-concentrate-kief construction give the ritual its deliberate tempo.",
+      "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower, concentrate and kief-or-diamond construction give the ritual its deliberate tempo.",
       "Presidential blunts pair a neutral, tobacco-free hemp wrap with the three-layer build. The wrap lets the contents lead the taste, while evenly distributed concentrate holds heat and supports a steady burn. The same core ritual applies across the Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings. These five guides cover each part of the session from storage through sharing, with clear cues that work for minis and full-size blunts.",
       "Presidential Blunts publishes this hub as a practical guide to the hemp-wrapped infused format. Presidential is the brand and publisher, not a strain or cultivar, so the ritual stays focused on preparation, heat, pace, storage, and the people sharing the session.",
       "Adult readers 21+ can treat this hub as a session map: lighting flow, relighting, cool dark storage, format pacing, and sharing norms, then the child ritual pages that nest under each cue—without medical claims or invented dosing language.",
@@ -194,7 +194,7 @@ export const ritualPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "Light an infused blunt by placing the end in the flame, rotating it steadily, and giving the full edge time to catch. Infused material lights more gradually than flower because its concentrate is dense and holds heat, so a patient, even rotation creates the strongest start.",
-      "The goal is a continuous glow around the edge. Once the circumference carries that glow, the flower, concentrate, kief, and hemp wrap can move forward together at the slower pace built into the format.",
+      "The goal is a continuous glow around the edge. Once the circumference carries that glow, the flower, concentrate, kief or diamond finish, and hemp wrap can move forward together at the slower pace built into the format.",
       "Adult shoppers 21+ can treat the opening light as a construction step, not a rush. Thicker hemp wrap, denser fill, and evenly distributed concentrate ask for gradual heat. Reading the rim, completing each turn, and waiting for a connected ring keeps the first light construction-first and free of medical or dosing language.",
     ],
     sections: [
