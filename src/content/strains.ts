@@ -103,6 +103,7 @@ export const strainsPage: PageContent = {
       paragraphs: [
         "Through licensed dispensaries, for adults 21+. Current availability belongs to the licensed retailer and the package on the shelf, so a name on this list is not a statement that it is in stock today. Ask for the strain name and the blunt format together, and confirm whether the package is a full-size blunt or a mini.",
       ],
+      subsections: [{ id: "is-this-the-official-strain-list", heading: "Is this the official Presidential Blunts strain list?", parts: [{ text: "Yes. This library is part of " }, { text: "the official Presidential Blunts guide", href: "/" }, { text: ", an educational reference that doesn't sell or ship cannabis. Each name here is available as a blunt: flower and concentrate inside our tobacco-free hemp wraps, with a kief or diamond finish. Silver blunts are the fruit-led distillate line. Full-size and mini formats share the same construction, but mini availability depends on the flavor; Blue Raspberry, for example, has no mini. Compare " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: ", read " }, { text: "the tobacco-free wrap explained", href: "/wrap/tobacco-free" }, { text: ", and confirm the current package at a licensed dispensary." }] }],
     },
     {
       id: "browse-without-claims",
