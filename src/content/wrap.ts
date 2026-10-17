@@ -84,6 +84,7 @@ export const wrapPages: PageContent[] = [
           "A hemp wrap is thicker than the rolling paper on a joint or pre-roll, so the blunt holds more material, burns slower, and holds heat longer, while thin paper gives a lighter, quicker roll. Tobacco leaf keeps the thick blunt shell but brings tobacco taste and nicotine into every draw through the leaf itself. The hemp sheet keeps blunt-scale thickness and leaves tobacco out of the build.",
           "Taste follows the same split. Because the hemp sheet stays neutral, the flavour comes from what is rolled inside it: the Silver Flavor Series is built on distillate with a fruit-forward direction, and the Gold Strain Series is built on live resin with a cannabis-forward direction.",
         ],
+        subsections: [{ id: "comparing-our-wraps-side-by-side", heading: "Comparing our wraps side by side", parts: [{ text: "Our hemp wraps are thicker than paper and tobacco-free, so they set a slower burn and keep the flavor on the flower, concentrate and kief. Compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: ", read " }, { text: "hemp vs tobacco wraps", href: "/wrap/hemp-vs-tobacco" }, { text: ", and see how our wraps shape the " }, { text: "blunt burn rate", href: "/wrap/burn-rate" }, { text: "." }] }],
       },
       {
         id: "where-thc-is-listed",
