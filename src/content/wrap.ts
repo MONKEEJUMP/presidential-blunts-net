@@ -99,6 +99,7 @@ export const wrapPages: PageContent[] = [
         paragraphs: [
           "Browse in order: four jobs, hemp versus other wraps, tobacco-free meaning, manufacturing, burn rate, then flavour. Each child link isolates one wrap question; return here or continue to blunt, ritual, or compare hubs when the next question leaves the outer sheet. For the first light, see how to light a hemp-wrapped blunt.",
         ],
+        subsections: [{ id: "choosing-a-hemp-wrapped-blunt-by-strain", heading: "Choosing a hemp-wrapped blunt by strain", parts: [{ text: "After the wrap, the strain name is the next thing to read. Browse " }, { text: "the strain library", href: "/strains" }, { text: ", then compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: " and " }, { text: "infused vs non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: " before you pick a roll." }] }],
       },
       {
         id: "sheet-before-taste",
