@@ -466,6 +466,7 @@ export const wrapPages: PageContent[] = [
           "At a licensed dispensary, for adults 21+. Read the wrap material first: hemp wrap or tobacco-free wrap means tobacco leaf is not the outer sheet, while tobacco leaf, cigar wrap, or emptied cigarillo means nicotine-bearing leaf is part of the roll. Then ask the dispensary for current THC labeling, aroma notes, and the batch on the package.",
           "Smoking one follows the steps in the main blunt guide on the home page. The thicker hemp wrap and the dense infused fill take time to catch, so rotate the end in the flame for an even light, pace the puffs, and expect a relight. The same steps apply to a mini and a full-size blunt.",
         ],
+        subsections: [{ id: "are-our-wraps-sold-on-their-own", heading: "Are our wraps sold on their own?", parts: [{ text: "No. Our wraps are the tobacco-free hemp outer sheet of a finished Presidential infused blunt, not a separate rolling product. Flower, concentrate and kief come already packed inside a ready-to-use hemp wrap, in full-size and mini formats. To choose one, start with the strain name on the package, then find a licensed retailer. See " }, { text: "Presidential Blunts", href: "/" }, { text: ", " }, { text: "how our wraps are made", href: "/wrap/how-wraps-are-made" }, { text: ", or " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: "." }] }],
       },
     ],
     linkParagraphs: [
