@@ -77,7 +77,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "A neutral hemp wrap lets the contents lead the taste" },
   ],
   "/ritual/relighting": [
-    { href: "/wrap", anchor: "hemp wrap", context: "A thicker hemp wrap around flower, concentrate, and kief" },
+    { href: "/wrap", anchor: "hemp wrap", context: "A thicker hemp wrap around flower, concentrate, and a kief or diamond finish" },
   ],
   "/ritual/how-to-light-one": [
     { href: "/", anchor: "its blunts", context: "Presidential uses a hemp wrap across its blunts" },
