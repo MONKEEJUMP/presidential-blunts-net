@@ -9,7 +9,7 @@ export const pillarPage: PageContent = {
     "Presidential wraps are tobacco-free hemp-wrap infused blunts, with flower, concentrate, and kief, sold only at licensed retailers.",
   wordTarget: [1250, 1350],
   intro: [
-    "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
+    "Presidential Blunts are Presidential Cannabis's tobacco-free infused blunts: flower carried through with concentrate, finished with kief or diamonds, and rolled in a hemp wrap. This official brand guide explains the product, compares blunts with pre rolls and moon rock formats, and directs adults 21+ to licensed retailers where legal.",
     "Use this homepage as the starting map for the whole site. The Wrap hub covers hemp construction and burn, Compare separates blunts from pre rolls and minis, Ritual walks lighting through storage and sharing, Strains records the named catalog, and About explains the publisher and wholesale model. Each hub stays educational for adults 21+ and sends product questions back to the current package and licensed retailer.",
     "Presidential is the brand and publisher here, not a strain or cultivar name. Indica, sativa, and hybrid labels describe plant groupings inside the catalog; they do not rename the company. This site does not sell or ship cannabis—it explains the infused blunt format and points adults to legal, licensed doors. Adults 21+ can read this page for format literacy: a hemp wrap and a paper joint are different constructions.",
   ],
@@ -25,12 +25,12 @@ export const pillarPage: PageContent = {
       id: "what-a-blunt-is",
       heading: "What are Presidential Blunts?",
       paragraphs: [
-        "A Presidential Blunt consists of flower, concentrate, and kief packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, THC distillate can create the infused format, and kief completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
+        "A Presidential Blunt consists of flower, concentrate, and a kief or diamond finish packed inside a tobacco-free hemp wrap. Flower supplies the cannabis foundation, THC distillate can create the infused format, and a kief or diamond finish completes the layered material. The thicker wrap distinguishes these rolls from paper pre rolls while keeping the blunt category focused on the product inside.",
         "High potency is label literacy rather than a category-wide promise: the current package and batch test record provide cannabinoid information, ingredients, format, and product identity. Product quality and construction quality can differ by item, so the current package remains the reliable reference.",
         "Read the build in that order—flower base, concentrate infusion, kief finish, hemp outer sheet—then move into the hubs when one part needs more depth. Construction language stays educational: no dosing claims, no invented lab percentages, and no substitute for the licensed label in your market.",
         "Adults 21+ can treat this homepage overview as format literacy rather than a shopping cart: the infused blunt is defined by hemp wrap, layered fill, and slower burn, while named catalog items and licensed doors answer which product is currently available in a given market.",
       ],
-      subsections: [{ id: "full-size-or-mini-presidential-blunt", heading: "Should you choose a full-size or a mini Presidential Blunt?", parts: [{ text: "Choose by the session, not by the recipe. Full-size and mini Presidential Blunts use the same construction, flower, concentrate, and kief inside one of our tobacco-free hemp wraps, packed at different scales. A full-size blunt holds more material for a longer or shared session. A mini keeps our hemp wrap and the same layered fill in a smaller piece. Either way, the strain name on the package identifies the flower inside. Compare " }, { text: "mini vs full-size Presidential Blunts", href: "/compare/mini-vs-full" }, { text: ", browse " }, { text: "Presidential Blunts strains", href: "/strains" }, { text: ", or read about " }, { text: "session length for an infused blunt", href: "/ritual/session-length" }, { text: "." }] }],
+      subsections: [{ id: "full-size-or-mini-presidential-blunt", heading: "Should you choose a full-size or a mini Presidential Blunt?", parts: [{ text: "Choose by the session, not by the recipe. Full-size and mini Presidential Blunts use the same construction, flower, concentrate, and a kief or diamond finish inside one of our tobacco-free hemp wraps, packed at different scales. A full-size blunt holds more material for a longer or shared session. A mini keeps our hemp wrap and the same layered fill in a smaller piece. Either way, the strain name on the package identifies the flower inside. Compare " }, { text: "mini vs full-size Presidential Blunts", href: "/compare/mini-vs-full" }, { text: ", browse " }, { text: "Presidential Blunts strains", href: "/strains" }, { text: ", or read about " }, { text: "session length for an infused blunt", href: "/ritual/session-length" }, { text: "." }] }],
     },
     {
       id: "blunt-strains",
@@ -133,7 +133,7 @@ export const pillarPage: PageContent = {
     {
       question: "Are our wraps the same as Presidential Blunts?",
       answer:
-        "Yes. Our wraps and Presidential Blunts both mean Presidential's tobacco-free infused blunts: flower, concentrate, and kief inside a ready-to-use hemp wrap, in full-size and mini formats.",
+        "Yes. Our wraps and Presidential Blunts both mean Presidential's tobacco-free infused blunts: flower, concentrate, and a kief or diamond finish inside a ready-to-use hemp wrap, in full-size and mini formats.",
     },
     {
       question: "What are Presidential Blunts wrapped in?",

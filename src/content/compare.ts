@@ -52,7 +52,7 @@ export const comparePages: PageContent[] = [
         id: "blunt-vs-spliff",
         heading: "Blunt vs Spliff",
         paragraphs: [
-          "Blunt and spliff describe different construction choices. A spliff traditionally places tobacco with cannabis inside rolling paper, while a Presidential blunt places its flower, concentrate, and kief inside a neutral hemp wrap. The detailed guide separates the terms and shows exactly where a tobacco-free blunt fits. Avoiding tobacco leaf wraps and nicotine keeps Presidential builds distinct from a cigar-style tobacco wrap or tobacco leaves emptied for smoking weed.",
+          "Blunt and spliff describe different construction choices. A spliff traditionally places tobacco with cannabis inside rolling paper, while a Presidential blunt places its flower, concentrate, and a kief or diamond finish inside a neutral hemp wrap. The detailed guide separates the terms and shows exactly where a tobacco-free blunt fits. Avoiding tobacco leaf wraps and nicotine keeps Presidential builds distinct from a cigar-style tobacco wrap or tobacco leaves emptied for smoking weed.",
         ],
       },
       {
@@ -100,7 +100,7 @@ export const comparePages: PageContent[] = [
           "When only one feature is unclear, use the guide devoted to that feature. When several features change at once, read the guides in sequence: outer material first, flower or infusion second, and size last. This prevents a mini from being treated as a different construction and keeps ready-made pre rolls from being confused with a hemp-wrapped blunt. If tobacco and definition are the question, use the spliff guide before comparing scale. Pre rolled joints and paper-only formats stay on the thin-paper side of that map.",
           "Package details should support the comparison. Look for the format name, wrap or paper material, ingredient statement, net weight, batch information, and labeled potency where required. The library explains what those details mean; it does not rank products, promise an experience, or turn a brand name into a cultivar. Presidential Blunts remains the publisher and infused-blunt brand, while strain and cultivar names identify the flower separately. Ask a dispensary for current quality, THC numbers, aroma notes, and benefits of each format rather than relying on a nickname alone. Users typically check popularity and labeled flavor before they prefer one build; personal preferences still decide whether a joint, blunt wrap, or paper pre rolls fit the occasion.",
         ],
-        subsections: [{ id: "presidential-blunt-fit", heading: "Where does the Presidential blunt fit among these formats?", parts: [{ text: "Every Presidential blunt is rolled in our hemp wraps, with flower, concentrate, and kief inside, in full-size and mini formats. Start with the " }, { text: "Presidential Blunts guide", href: "/" }, { text: " for the complete overview, then use " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: " and " }, { text: "mini vs full", href: "/compare/mini-vs-full" }, { text: " for the specific contrasts." }] }],
+        subsections: [{ id: "presidential-blunt-fit", heading: "Where does the Presidential blunt fit among these formats?", parts: [{ text: "Every Presidential blunt is rolled in our hemp wraps, with flower, concentrate, and a kief or diamond finish inside, in full-size and mini formats. Start with the " }, { text: "Presidential Blunts guide", href: "/" }, { text: " for the complete overview, then use " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: " and " }, { text: "mini vs full", href: "/compare/mini-vs-full" }, { text: " for the specific contrasts." }] }],
       },
       {
         id: "choose-by-format",
@@ -137,7 +137,7 @@ export const comparePages: PageContent[] = [
         id: "blunts-without-tobacco",
         heading: "Can you make blunts without using tobacco?",
         paragraphs: [
-          "Yes. The traditional blunt is a cigar or cigarillo that has been emptied and refilled, so tobacco leaf and nicotine come with the wrap. A hemp wrap keeps the thicker blunt format without tobacco. Every Presidential blunt is rolled in hemp and is one hundred percent tobacco free, with flower, concentrate, and kief inside. On the package, hemp wrap or tobacco-free wrap is the line to look for.",
+          "Yes. The traditional blunt is a cigar or cigarillo that has been emptied and refilled, so tobacco leaf and nicotine come with the wrap. A hemp wrap keeps the thicker blunt format without tobacco. Every Presidential blunt is rolled in hemp and is one hundred percent tobacco free, with flower, concentrate, and a kief or diamond finish inside. On the package, hemp wrap or tobacco-free wrap is the line to look for.",
         ],
       },
       {
@@ -225,7 +225,7 @@ export const comparePages: PageContent[] = [
       {
         before: "Use the ",
         link: { href: "/compare/infused-vs-non-infused", label: "infused vs non-infused guide" },
-        after: " to isolate what concentrate and kief change in the build without treating infusion as a strain or making an effects claim.",
+        after: " to isolate what concentrate and a kief or diamond finish change in the build without treating infusion as a strain or making an effects claim.",
       },
       {
         before: "Finish with the ",
@@ -312,7 +312,7 @@ export const comparePages: PageContent[] = [
         heading: "Burn time and heat",
         paragraphs: [
           "A blunt burns more slowly and holds heat longer. Its thicker wrap and greater material volume create a deliberate pace. A joint's thin paper burns faster, so it reaches its finish sooner. This is the most immediate difference once the formats are lit, and it makes time available an easy way to choose between them.",
-          "Infusion adds another layer to the blunt's burn behavior. Concentrate is dense and holds heat. When the concentrate is distributed evenly through the flower, the material can burn evenly; Presidential's Infusion System carries distillate through the flower, with the kief layer applied last. Infused material catches more slowly, so rotation in the flame gives it time to establish an even light. Relighting also fits the format's dense, slower-burning construction.",
+          "Infusion adds another layer to the blunt's burn behavior. Concentrate is dense and holds heat. When the concentrate is distributed evenly through the flower, the material can burn evenly; Presidential's Infusion System carries distillate through the flower, with the kief or diamond finish applied last. Infused material catches more slowly, so rotation in the flame gives it time to establish an even light. Relighting also fits the format's dense, slower-burning construction.",
           "Pace belongs with occasion rather than with medical framing. A paper joint often moves on the quicker timeline once lit, while a thicker hemp blunt asks for more time at the flame and a session that can absorb the slower, heat-holding burn. Neither path is a dosing schedule; both are construction cues that help match wrap, size, and available time without rushing the catch.",
         ],
       },
@@ -324,15 +324,15 @@ export const comparePages: PageContent[] = [
           "This makes the comparison easy to frame: the blunt emphasizes capacity, heat retention, and an unhurried burn, while the joint emphasizes a light paper construction and fast completion.",
           "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A joint comparison stays centered on thin paper and a lighter flower fill unless the package states otherwise.",
         ],
-        subsections: [{ id: "hemp-wrap-change", heading: "What does a tobacco-free hemp wrap change?", parts: [{ text: "A joint uses thin rolling paper, while Presidential blunts use our hemp wraps, which are tobacco free and neutral in taste. That neutral wrap lets the flower, concentrate, and kief inside lead the profile. Compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: ", or start from the " }, { text: "Presidential Blunts home page", href: "/" }, { text: "." }] }],
+        subsections: [{ id: "hemp-wrap-change", heading: "What does a tobacco-free hemp wrap change?", parts: [{ text: "A joint uses thin rolling paper, while Presidential blunts use our hemp wraps, which are tobacco free and neutral in taste. That neutral wrap lets the flower, concentrate, and a kief or diamond finish inside lead the profile. Compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: ", or start from the " }, { text: "Presidential Blunts home page", href: "/" }, { text: "." }] }],
       },
       {
         id: "read-them-side-by-side",
         heading: "Read the formats side by side",
         paragraphs: [
           "Set the two formats beside each other and the decision becomes visible. The blunt has a thicker boundary and space for a greater fill. The joint has a slim paper boundary and a smaller overall build. Follow that visual difference forward and it predicts the slower blunt burn, the quicker joint finish, and the different amounts of time each asks from the occasion.",
-          "For an infused Presidential blunt, the inside adds flower, concentrate, and kief to that substantial hemp-wrapped shape. Concentrate carried through the flower adds density, while the final kief layer completes the construction. A joint keeps the comparison centered on thin paper and flower. The difference is therefore both outside and inside: wrap against paper, greater volume against compact volume, and layered infusion against a simpler fill when flower alone is used.",
-          "Solving wrap and size in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Blunt versus joint answers capacity and session length once the outer layer is known. Blunt versus spliff answers where tobacco sits—if it sits anywhere at all. Keeping those decisions separate makes a licensed shelf readable when packaging looks related at a glance.",
+          "For an infused Presidential blunt, the inside adds flower, concentrate, and a kief or diamond finish to that substantial hemp-wrapped shape. Concentrate carried through the flower adds density, while the final kief or diamond finish completes the construction. A joint keeps the comparison centered on thin paper and flower. The difference is therefore both outside and inside: wrap against paper, greater volume against compact volume, and layered infusion against a simpler fill when flower alone is used.",
+          "Solving wrap and size in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and a kief or diamond finish join the flower. Blunt versus joint answers capacity and session length once the outer layer is known. Blunt versus spliff answers where tobacco sits—if it sits anywhere at all. Keeping those decisions separate makes a licensed shelf readable when packaging looks related at a glance.",
         ],
       },
       {
@@ -480,7 +480,7 @@ export const comparePages: PageContent[] = [
         id: "what-infusion-adds",
         heading: "A layered interior adds another choice",
         paragraphs: [
-          "Presidential's infused construction combines flower, concentrate, and kief. The Infusion System carries distillate through the flower, and the kief layer goes on last. That arrangement integrates dense concentrate within the fill instead of making the outside wrap responsible for the flavor or structure.",
+          "Presidential's infused construction combines flower, concentrate, and a kief or diamond finish. The Infusion System carries distillate through the flower, and the kief or diamond finish goes on last. That arrangement integrates dense concentrate within the fill instead of making the outside wrap responsible for the flavor or structure.",
           "A reader can therefore compare more than shape. A paper pre-roll offers the quickest format. A hemp-wrapped infused blunt adds greater capacity, a slower burn, and three distinct layers. Presidential produces both infused pre-rolls and tobacco-free blunts, making the format decision separate from the larger catalog of series and strains.",
           "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A pre-roll comparison stays centered on thin paper and a ready-to-light fill unless the package states a different wrap.",
         ],
@@ -493,7 +493,7 @@ export const comparePages: PageContent[] = [
           "A pre-roll and a Presidential blunt can each place a finished rolled format in hand. Convenience is their shared starting point, while construction determines what happens next. The paper pre-roll favors speed and a compact volume. The hemp blunt favors capacity, heat retention, and a longer arc. That makes the label on the format useful information rather than a small naming detail.",
           "The decision can also begin with the people present. A concise paper format aligns with a short individual window. A mini blunt keeps hemp-wrap structure while scaling down the amount. A full blunt brings enough material and burn time to move comfortably through a group. Each choice has a clear role, and the transition from one scale to the next remains easy to understand.",
           "Storage and preparation can stay consistent with the material in hand: keep the finished format cool and dark, then give an infused build enough time to catch evenly. The contrast appears in pace, with paper moving quickly and the blunt settling into its slower-burning rhythm.",
-          "Solving wrap and capacity in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Blunt versus pre-roll answers ready-to-light pace and completion time once the outer layer is known. Keeping those decisions separate makes a licensed display readable when packaging looks related at a glance.",
+          "Solving wrap and capacity in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and a kief or diamond finish join the flower. Blunt versus pre-roll answers ready-to-light pace and completion time once the outer layer is known. Keeping those decisions separate makes a licensed display readable when packaging looks related at a glance.",
         ],
       },
       {
@@ -648,7 +648,7 @@ export const comparePages: PageContent[] = [
       "Learn the definitions of blunt and spliff, why the terms overlap in conversation, and where a tobacco-free hemp blunt fits.",
     wordTarget: [1100, 1250],
     intro: [
-      "A blunt describes a wrapped format with a thicker outer layer, while a spliff traditionally describes cannabis and tobacco combined inside rolling paper. A Presidential blunt uses a neutral hemp wrap and a flower, concentrate, and kief interior, making it fully tobacco free. The position of the tobacco—and Presidential's use of hemp—separates the terms clearly.",
+      "A blunt describes a wrapped format with a thicker outer layer, while a spliff traditionally describes cannabis and tobacco combined inside rolling paper. A Presidential blunt uses a neutral hemp wrap and a flower, concentrate, and kief or diamond interior, making it fully tobacco free. The position of the tobacco—and Presidential's use of hemp—separates the terms clearly.",
       "Everyday conversation sometimes groups rolled formats together because they share a familiar silhouette. Construction provides the reliable definition: identify the outer material, then identify what sits inside it.",
       "On a licensed blunt or pre-roll shelf, those two builds can sit near each other under similar rolled silhouettes. The useful first questions are wrap and fill, not packaging art or a casual nickname. Reading the outside material, then the ingredient statement, turns a crowded display into a clear blunt-versus-spliff comparison for adult shoppers 21+.",
     ],
@@ -675,7 +675,7 @@ export const comparePages: PageContent[] = [
         id: "presidential-position",
         heading: "Where a Presidential blunt sits",
         paragraphs: [
-          "Presidential occupies a clear place in this comparison. Its blunt uses hemp wrap, and the entire format is tobacco free. Inside are three layers: flower, concentrate, and kief. The Infusion System carries distillate through the flower, and collected kief trichomes form the final layer.",
+          "Presidential occupies a clear place in this comparison. Its blunt uses hemp wrap, and the entire format is tobacco free. Inside are three layers: flower, concentrate, and a kief or diamond finish. The Infusion System carries distillate through the flower, and collected kief trichomes form the final layer.",
           "That build preserves the thicker wrap, greater material volume, slower burn, and longer heat retention associated with a blunt. At the same time, the neutral hemp wrap allows the contents to lead the taste. The result is best described directly as an infused, tobacco-free hemp blunt.",
           "Because Presidential keeps tobacco out of both wrap and fill, the product should not be read as a spliff even when someone uses that word casually for any rolled format. The accurate shelf language stays blunt-first: hemp wrap outside, cannabis construction inside, no tobacco leaf and no tobacco mixed into the fill. Series names and strain labels refine the recipe after that construction is clear.",
         ],
@@ -696,7 +696,7 @@ export const comparePages: PageContent[] = [
           "A precise comparison gives every material an address. In a traditional spliff, rolling paper is outside and a combination of cannabis and tobacco is inside. In a Presidential blunt, hemp wrap is outside and the infused flower build is inside. This outside-and-inside method communicates more than the silhouette ever can, and it stays useful across mini and full-size versions.",
           "It also clarifies the role of flavor. Tobacco leaf or tobacco within the fill carries tobacco's own taste. Neutral hemp allows Presidential's selected materials to set the profile. Distillate can serve as a near-neutral base for deliberately added fruit-forward flavor, while live resin and live rosin provide their respective cannabis-forward and solventless extract paths. The wrap supports those choices through structure and a slower pace.",
           "Burn rate completes the description. Thin paper gives the traditional spliff its quick paper pace. The thicker hemp wrap, greater volume, and dense infusion give a Presidential blunt a longer, heat-holding pace. Material placement and burn behavior point to the same definition from two directions.",
-          "Solving wrap and fill in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Blunt versus spliff answers where tobacco sits—if it sits anywhere at all. Keeping those decisions separate makes a licensed shelf readable when packaging looks related at a glance.",
+          "Solving wrap and fill in that order also keeps related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and a kief or diamond finish join the flower. Blunt versus spliff answers where tobacco sits—if it sits anywhere at all. Keeping those decisions separate makes a licensed shelf readable when packaging looks related at a glance.",
         ],
         subsections: [{ id: "is-a-spliff-ever-tobacco-free", heading: "Is a spliff ever tobacco free?", parts: [{ text: "Not in its traditional form. A traditional spliff puts rolling paper outside and a combination of cannabis and tobacco inside, so tobacco is part of the fill. A traditional blunt puts tobacco leaf on the outside instead. A Presidential blunt removes tobacco from both places: hemp wrap is outside and the infused flower build is inside. The thicker hemp wrap keeps the blunt's capacity and slower burn, which is why \"tobacco-free hemp blunt\" is the precise name for the construction. Keep reading with " }, { text: "hemp vs tobacco blunt wraps", href: "/wrap/hemp-vs-tobacco" }, { text: ", " }, { text: "blunt vs joint differences", href: "/compare/blunt-vs-joint" }, { text: ", or " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: "." }] }],
       },
@@ -780,7 +780,7 @@ export const comparePages: PageContent[] = [
       {
         href: "/compare/infused-vs-non-infused",
         label: "See what infusion adds",
-        description: "Explore flower, concentrate, and kief construction.",
+        description: "Explore flower, concentrate, and kief or diamond construction.",
       },
       {
         href: "/ritual/how-to-light-one",
@@ -805,7 +805,7 @@ export const comparePages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "A mini blunt uses the same core construction as a full-size blunt at a smaller size. The mini suits a shorter session or fewer people, while the full-size format brings more material, a longer burn, and more room for sharing. The choice is about scale rather than a different definition of the blunt.",
-      "That shared construction matters. Both sizes can use the same tobacco-free hemp wrap and the same flower, concentrate, and kief layering, so size can be chosen after the desired format and profile are already clear.",
+      "That shared construction matters. Both sizes can use the same tobacco-free hemp wrap and the same flower, concentrate, and kief or diamond layering, so size can be chosen after the desired format and profile are already clear.",
       "On a licensed blunt shelf for adult consumers 21+, mini and full-size packages can share a brand line, wrap material, and recipe language while still naming different capacities. The useful first questions are net weight, fill volume, and intended session length—not packaging art or a casual nickname. Once construction is confirmed as a hemp-wrapped blunt, scale becomes a practical fit to time and company rather than a new format category.",
     ],
     sections: [
@@ -822,9 +822,9 @@ export const comparePages: PageContent[] = [
         id: "construction-stays-familiar",
         heading: "Construction stays familiar",
         paragraphs: [
-          "The infused build has three layers: flower, concentrate, and kief. Presidential's Infusion System distributes distillate through the flower, then places the kief layer last. The mini carries that same layered idea in a smaller package; the full blunt gives the build more room.",
+          "The infused build has three layers: flower, concentrate, and a kief or diamond finish. Presidential's Infusion System distributes distillate through the flower, then places the kief or diamond finish last. The mini carries that same layered idea in a smaller package; the full blunt gives the build more room.",
           "This consistency makes size selection simple. A reader can first choose an extract and profile across Presidential's series, then choose the amount of format suited to the occasion. The mini is a true blunt at a reduced scale, rather than a shift to thin rolling paper or a different outer material.",
-          "Keeping construction first also prevents related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and kief join the flower. Mini versus full answers only scale once those decisions are settled. Series names and strain labels refine the recipe after the wrap and size are clear, so a smaller blunt is never mistaken for a paper joint simply because the package looks compact.",
+          "Keeping construction first also prevents related catalog questions from colliding. Hemp wrap versus paper answers how the format is framed. Infused versus regular answers whether concentrate and a kief or diamond finish join the flower. Mini versus full answers only scale once those decisions are settled. Series names and strain labels refine the recipe after the wrap and size are clear, so a smaller blunt is never mistaken for a paper joint simply because the package looks compact.",
         ],
       },
       {
@@ -976,7 +976,7 @@ export const comparePages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "An infused blunt combines flower with concentrate and kief, while a regular blunt uses flower as its primary fill. Infusion raises the measurable potency, adds density, retains more heat, and creates a slower lighting and burn pattern. The wrap can remain the same; the meaningful change takes place inside it.",
-      "Presidential's construction makes that interior easy to understand as three layers. Flower forms the base, concentrate is carried through it, and kief completes the build on the outside of the infused material beneath the wrap.",
+      "Presidential's construction makes that interior easy to understand as three layers. Flower forms the base, concentrate is carried through it, and a kief or diamond finish completes the build on the outside of the infused material beneath the wrap.",
       "On a licensed blunt or pre-roll shelf, those two builds often sit side by side under similar brand art. The useful first question is not flavor marketing or a series name; it is whether the fill is flower alone or flower joined by concentrate and kief. Reading the package for construction language, ingredient order, and batch test context turns the shelf into a clear comparison instead of a guessing game.",
     ],
     sections: [
@@ -984,8 +984,8 @@ export const comparePages: PageContent[] = [
         id: "three-layers-and-one",
         heading: "Three layers compared with flower",
         paragraphs: [
-          "A regular blunt centers on flower inside its wrap. An infused blunt adds concentrate and kief, turning the fill into a coordinated three-layer system. Each component has a clear role: flower provides the body of the fill, concentrate adds a dense refined layer, and kief contributes collected trichomes—the resin glands that hold most of the plant's cannabinoids and terpenes.",
-          "Presidential's Infusion System carries distillate through the flower instead of concentrating it only at the surface. The kief layer goes on last. Distribution is important because dense concentrate burns evenly when spread evenly, producing a more consistent path through the filled material.",
+          "A regular blunt centers on flower inside its wrap. An infused blunt adds concentrate and a kief or diamond finish, turning the fill into a coordinated three-layer system. Each component has a clear role: flower provides the body of the fill, concentrate adds a dense refined layer, and kief contributes collected trichomes—the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "Presidential's Infusion System carries distillate through the flower instead of concentrating it only at the surface. The kief or diamond finish goes on last. Distribution is important because dense concentrate burns evenly when spread evenly, producing a more consistent path through the filled material.",
           "That layer map also travels well across a licensed retail display. Two packages can share a hemp wrap, a similar size, and the same brand crest while still describing different interiors. When the label or panel names concentrate, distillate, live resin, live rosin, or kief alongside flower, the build belongs on the infused side. When flower is the complete fill story, the build stays regular. Keeping the comparison on construction prevents series names or artwork from standing in for the interior architecture.",
         ],
       },
@@ -1020,18 +1020,18 @@ export const comparePages: PageContent[] = [
         id: "extract-paths",
         heading: "Extract choice refines the infused side",
         paragraphs: [
-          "Infused is a broad construction category with several possible extract paths. Presidential's Silver Flavor Series is built on distillate and carries fruit-forward profiles. The Gold Strain Series uses live resin for a cannabis-forward profile. The Rose Gold Connoisseur Series uses solventless live rosin. Each still sits on the infused side because concentrate and kief join the flower in the layered build.",
+          "Infused is a broad construction category with several possible extract paths. Presidential's Silver Flavor Series is built on distillate and carries fruit-forward profiles. The Gold Strain Series uses live resin for a cannabis-forward profile. The Rose Gold Connoisseur Series uses solventless live rosin. Each still sits on the infused side because concentrate and a kief or diamond finish join the flower in the layered build.",
           "The extract path changes how the recipe is assembled while the comparison with regular flower remains stable. Distillate is refined to a near-neutral aroma, live resin begins with cannabis flash-frozen at harvest, and live rosin begins with fresh-frozen material washed in ice water and pressed under heat and pressure. These are distinct concentrate routes serving the same structural role: adding a dense layer to flower before kief completes the construction.",
-          "Series choice answers which concentrate route and profile belong in the blunt. The infused-versus-regular choice answers whether concentrate and kief join the flower at all. Keeping those decisions separate makes the catalog easier to read and preserves the direct construction comparison.",
-          "When a package names the extract path clearly, treat that line as a refinement inside the infused category rather than a replacement for the flower-versus-infused question. Distillate, live resin, and live rosin explain how the concentrate layer was prepared; they do not erase the simpler shelf check that asks whether any concentrate and kief joined the flower in the first place.",
+          "Series choice answers which concentrate route and profile belong in the blunt. The infused-versus-regular choice answers whether concentrate and a kief or diamond finish join the flower at all. Keeping those decisions separate makes the catalog easier to read and preserves the direct construction comparison.",
+          "When a package names the extract path clearly, treat that line as a refinement inside the infused category rather than a replacement for the flower-versus-infused question. Distillate, live resin, and live rosin explain how the concentrate layer was prepared; they do not erase the simpler shelf check that asks whether any concentrate and a kief or diamond finish joined the flower in the first place.",
         ],
-        subsections: [{ id: "how-does-each-extract-fit-inside-an-infused-blun", heading: "How does each extract fit inside an infused blunt?", parts: [{ text: "Every infused Presidential blunt has three layers: flower as the body, a concentrate carried through it, and kief added last. The series sets the concentrate. The Silver Flavor Series is built on distillate and carries fruit-forward profiles, the Gold Strain Series uses live resin, and the Rose Gold series uses live rosin. Concentrate is dense and holds heat, so an infused blunt takes longer to catch than flower alone and carries heat through a slower burn. The neutral hemp wrap keeps the comparison focused on that interior. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: ", or " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: "." }] }],
+        subsections: [{ id: "how-does-each-extract-fit-inside-an-infused-blun", heading: "How does each extract fit inside an infused blunt?", parts: [{ text: "Every infused Presidential blunt has three layers: flower as the body, a concentrate carried through it, and a kief or diamond finish added last. The series sets the concentrate. The Silver Flavor Series is built on distillate and carries fruit-forward profiles, the Gold Strain Series uses live resin, and the Rose Gold series uses live rosin. Concentrate is dense and holds heat, so an infused blunt takes longer to catch than flower alone and carries heat through a slower burn. The neutral hemp wrap keeps the comparison focused on that interior. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: ", or " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: "." }] }],
       },
       {
         id: "choose-by-construction",
         heading: "Choose by construction and occasion",
         paragraphs: [
-          "Choose a regular blunt when flower is the complete center of the format. Choose an infused blunt when the desired build includes flower, concentrate, and kief, along with the slower catch and denser burn that accompany those layers. Mini and full sizes can then match the format to the time and company available.",
+          "Choose a regular blunt when flower is the complete center of the format. Choose an infused blunt when the desired build includes flower, concentrate, and a kief or diamond finish, along with the slower catch and denser burn that accompany those layers. Mini and full sizes can then match the format to the time and company available.",
           "The direct comparison is simple: same blunt family, different interior architecture. Reading the layers tells you which one you have and how to approach its lighting and pace.",
           "A practical order of decisions keeps the library usable. Confirm blunt construction and wrap first, decide whether the fill should stay flower-only or take the three-layer infused path, then match mini or full size to the session. Lighting and storage guides can follow once the build is chosen, because catch technique and storage habits respond to density rather than inventing a new format. That sequence stays adult, construction-first, and free of medical or dosing language.",
         ],
@@ -1172,10 +1172,10 @@ export const comparePages: PageContent[] = [
         id: "outside-and-inside",
         heading: "Coordinate the outside with the inside",
         paragraphs: [
-          "The outer material and inner fill work as one system. Hemp wrap supplies strength, capacity, and a slower rate around flower, concentrate, and kief. Paper supplies a thin, fast-burning boundary around the fill of a joint or pre-roll. Choosing the outside layer therefore sets the conditions in which the inside material will travel from first light to finish.",
-          "Presidential's Infusion System is designed for the hemp-wrapped side of that comparison. Distillate runs through the flower, so dense concentrate is distributed within the fill, and kief goes on last. The wrap contains that layered construction and maintains its deliberate pace. With paper, the quickest burn remains the defining practical characteristic, making time and desired capacity reliable selection cues.",
+          "The outer material and inner fill work as one system. Hemp wrap supplies strength, capacity, and a slower rate around flower, concentrate, and a kief or diamond finish. Paper supplies a thin, fast-burning boundary around the fill of a joint or pre-roll. Choosing the outside layer therefore sets the conditions in which the inside material will travel from first light to finish.",
+          "Presidential's Infusion System is designed for the hemp-wrapped side of that comparison. Distillate runs through the flower, so dense concentrate is distributed within the fill, and a kief or diamond finish goes on last. The wrap contains that layered construction and maintains its deliberate pace. With paper, the quickest burn remains the defining practical characteristic, making time and desired capacity reliable selection cues.",
           "The comparison can be read in one sequence: material, thickness, capacity, then pace. Hemp establishes a substantial tobacco-free wrap, greater fill, and longer burn. Paper establishes a thin boundary, compact fill, and quick finish. The inside recipe then adds the final level of detail.",
-          "Splitting the questions helps when related formats sit nearby. Hemp wrap versus paper answers the outer layer. Blunt versus spliff asks where tobacco sits, if it sits anywhere. Infused versus regular asks whether concentrate and kief join the flower. Solving those in order keeps a licensed display readable when silhouettes look related at a glance.",
+          "Splitting the questions helps when related formats sit nearby. Hemp wrap versus paper answers the outer layer. Blunt versus spliff asks where tobacco sits, if it sits anywhere. Infused versus regular asks whether concentrate and a kief or diamond finish join the flower. Solving those in order keeps a licensed display readable when silhouettes look related at a glance.",
         ],
       },
       {

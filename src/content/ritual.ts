@@ -21,11 +21,11 @@ export const ritualPages: PageContent[] = [
         id: "lighting",
         heading: "Begin with an even light",
         paragraphs: [
-          "Infused material catches more gradually than flower because concentrate is dense and holds heat. Bring the end to the flame, rotate the blunt, and give the full edge time to glow. That patient rotation introduces heat around the circumference and prepares the flower, concentrate, and kief to burn together.",
+          "Infused material catches more gradually than flower because concentrate is dense and holds heat. Bring the end to the flame, rotate the blunt, and give the full edge time to glow. That patient rotation introduces heat around the circumference and prepares the flower, concentrate, and a kief or diamond finish to burn together.",
           "The lighting guide explains the visual rhythm of rotation, warming, and an even catch. It also shows how the first light establishes a balanced starting line for the session.",
           "Lighting flow stays construction-first: soft flame at the rim, complete turns, and a connected glowing ring before the first draw. A one-sided catch is a cue to continue rotating, not to hold heat on a single hot corner until the edge races ahead.",
         ],
-        subsections: [{ id: "why-a-blunt-session-moves-slower-than-a-joint", heading: "Why a blunt session moves slower than a joint", parts: [{ text: "A joint is flower in thin paper. A Presidential blunt uses one of our thicker tobacco-free hemp wraps around flower, concentrate and kief, so the session needs an even first light, patient relights and a slower, more deliberate pace. The " }, { text: "step-by-step guide to lighting an infused blunt", href: "/ritual/how-to-light-one" }, { text: " covers the first flame, and " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: " covers what to do when the dense material needs fresh heat, and " }, { text: "how long a blunt session lasts", href: "/ritual/session-length" }, { text: " covers pacing. For the side-by-side differences, read " }, { text: "blunt versus joint compared", href: "/compare" }, { text: "." }] }, { id: "sharing-culture-and-good-practice", heading: "Sharing culture and good practice", parts: [{ text: "Passing a blunt is a social practice with its own simple norms, and " }, { text: "sharing an infused blunt", href: "/ritual/sharing" }, { text: " lays them out. Between sessions, " }, { text: "cool, dark blunt storage", href: "/ritual/storage" }, { text: " keeps our wraps in shape. " }, { text: "How hemp wraps are made", href: "/wrap/how-wraps-are-made" }, { text: " explains why our wraps can be handled more than paper and burn the way they do. To weigh size, compare " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: "." }] }, { id: "where-the-wrap-fits-in-the-ritual", heading: "Where the wrap fits in the ritual", parts: [{ text: "Our tobacco-free hemp wraps set the pace of the session. See " }, { text: "how our hemp wraps are made", href: "/wrap/how-wraps-are-made" }, { text: ", then follow " }, { text: "how to light a blunt", href: "/ritual/how-to-light-one" }, { text: " for an even first light." }] }],
+        subsections: [{ id: "why-a-blunt-session-moves-slower-than-a-joint", heading: "Why a blunt session moves slower than a joint", parts: [{ text: "A joint is flower in thin paper. A Presidential blunt uses one of our thicker tobacco-free hemp wraps around flower, concentrate and a kief or diamond finish, so the session needs an even first light, patient relights and a slower, more deliberate pace. The " }, { text: "step-by-step guide to lighting an infused blunt", href: "/ritual/how-to-light-one" }, { text: " covers the first flame, and " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: " covers what to do when the dense material needs fresh heat, and " }, { text: "how long a blunt session lasts", href: "/ritual/session-length" }, { text: " covers pacing. For the side-by-side differences, read " }, { text: "blunt versus joint compared", href: "/compare" }, { text: "." }] }, { id: "sharing-culture-and-good-practice", heading: "Sharing culture and good practice", parts: [{ text: "Passing a blunt is a social practice with its own simple norms, and " }, { text: "sharing an infused blunt", href: "/ritual/sharing" }, { text: " lays them out. Between sessions, " }, { text: "cool, dark blunt storage", href: "/ritual/storage" }, { text: " keeps our wraps in shape. " }, { text: "How hemp wraps are made", href: "/wrap/how-wraps-are-made" }, { text: " explains why our wraps can be handled more than paper and burn the way they do. To weigh size, compare " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: "." }] }, { id: "where-the-wrap-fits-in-the-ritual", heading: "Where the wrap fits in the ritual", parts: [{ text: "Our tobacco-free hemp wraps set the pace of the session. See " }, { text: "how our hemp wraps are made", href: "/wrap/how-wraps-are-made" }, { text: ", then follow " }, { text: "how to light a blunt", href: "/ritual/how-to-light-one" }, { text: " for an even first light." }] }],
       },
       {
         id: "relighting",
@@ -202,7 +202,7 @@ export const ritualPages: PageContent[] = [
         id: "why-it-takes-time",
         heading: "Why infused material catches gradually",
         paragraphs: [
-          "A Presidential blunt brings three layers into one construction: flower, concentrate, and kief. Concentrate is dense and holds heat. The Presidential Infusion System carries distillate through the flower, and the kief layer finishes the build. The first light therefore warms a richer structure than the flower and thin paper of a pre-roll.",
+          "A Presidential blunt brings three layers into one construction: flower, concentrate, and a kief or diamond finish. Concentrate is dense and holds heat. The Presidential Infusion System carries distillate through the flower, and the kief or diamond finish completes the build. The first light therefore warms a richer structure than the flower and thin paper of a pre-roll.",
           "That density gives the lighting step its deliberate character. A pre-roll uses thin rolling paper and finishes quickly. A blunt uses a thicker wrap, carries more material, burns slower, and retains heat longer. The opening flame begins that larger heat cycle, and a measured start suits it perfectly.",
           "Expecting a gradual catch prevents holding the flame on one spot until a hot corner races ahead of the rim. Dense concentrate stores heat once it arrives, so patience at the opening pays forward through the first draws.",
         ],
@@ -317,9 +317,9 @@ export const ritualPages: PageContent[] = [
         id: "why-relights-belong",
         heading: "Why relights belong to infused construction",
         paragraphs: [
-          "A Presidential blunt combines flower, concentrate, and kief. The concentrate is distributed through the flower by the Presidential Infusion System, with the kief layer applied last. That dense construction burns more slowly than flower alone and keeps heat for a longer interval.",
+          "A Presidential blunt combines flower, concentrate, and a kief or diamond finish. The concentrate is distributed through the flower by the Presidential Infusion System, with the kief or diamond finish applied last. That dense construction burns more slowly than flower alone and keeps heat for a longer interval.",
           "A relight follows directly from those physical traits. The material takes time to catch at the beginning, and the same measured response applies after a pause. Fresh flame restores heat to the active edge and returns the three-layer build to its steady sequence.",
-          "Thin rolling paper around a lighter fill often finishes on a quicker clock and may need fewer returns to flame. A thicker hemp wrap around flower, concentrate, and kief holds warmth between turns and still cools enough during conversation or a resting interval that the edge can quiet. Expecting that quiet moment—and answering it with rotation rather than a rushed hot spot—keeps the ritual aligned with how the format is built.",
+          "Thin rolling paper around a lighter fill often finishes on a quicker clock and may need fewer returns to flame. A thicker hemp wrap around flower, concentrate, and a kief or diamond finish holds warmth between turns and still cools enough during conversation or a resting interval that the edge can quiet. Expecting that quiet moment—and answering it with rotation rather than a rushed hot spot—keeps the ritual aligned with how the format is built.",
         ],
       },
       {
@@ -337,7 +337,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Gradual heat keeps the relight aligned with the blunt's construction. Rotation shares the flame around the full edge so each area advances together. Even input complements evenly distributed concentrate and supports an even return to the burn.",
           "Watch the glow build from section to section. Each pass adds heat where the active rim is still coming up, and the connected ring signals that the reset is complete. This approach gives the hemp wrap and infused contents one clear line from which to continue.",
-          "The neutral hemp wrap keeps the focus on what was rolled inside it. As the edge renews, the flower, concentrate, and kief return to the same balanced path established by the opening light. The wrap supports the slower pace while the distributed concentrate carries heat through the material.",
+          "The neutral hemp wrap keeps the focus on what was rolled inside it. As the edge renews, the flower, concentrate, and a kief or diamond finish return to the same balanced path established by the opening light. The wrap supports the slower pace while the distributed concentrate carries heat through the material.",
           "Gradual heat also protects the session's rhythm. A hotter, fixed flame on one spot can create a runaway edge that the rest of the circumference never quite joins. Steady rotation avoids that imbalance and matches the deliberate tempo already built into thicker wrap and denser fill. The goal is a renewed ring, not a scorched corner.",
         ],
       },
@@ -354,7 +354,7 @@ export const ritualPages: PageContent[] = [
         id: "follow-the-layers",
         heading: "Let the layers guide the reset",
         paragraphs: [
-          "The three layers each remain part of the relight. Flower forms the core, concentrate travels through that flower, and kief completes the outside of the infused material. Applying flame around the circumference brings fresh heat to the assembled structure as one unit.",
+          "The three layers each remain part of the relight. Flower forms the core, concentrate travels through that flower, and a kief or diamond finish completes the outside of the infused material. Applying flame around the circumference brings fresh heat to the assembled structure as one unit.",
           "The active edge provides all the information the ritual needs. A growing glow shows where heat is arriving, and a connected ring shows that the circumference has caught. This direct visual sequence works through the first relight and every later return.",
           "Because concentrate is already distributed through the flower, the reset does not require chasing a separate topping or scraping an outer layer. The circumference is the working surface. Warm it evenly, let the dense interior respond, and continue once the ring looks connected. That layer-aware cue stays the same whether the package names distillate, live resin, live rosin, or another Presidential grouping.",
         ],
@@ -454,7 +454,7 @@ export const ritualPages: PageContent[] = [
     intro: [
       "Store an infused blunt in a cool, dark place inside a dedicated container. Heat and light take terpenes first, so stable temperature, shade, and an orderly home are the core of the storage routine.",
       "The same approach works before a first session and between sessions. A simple sequence of container, location, and return keeps every storage decision connected to the material inside.",
-      "Adult shoppers 21+ can treat storage as construction care, not a dosing schedule. Flower, concentrate, and kief hold aromatic terpenes that leave first when heat and light rise, so a dedicated container in a cool, shaded place protects the three-layer build before the first even glow and after every pause. The habit stays descriptive of materials and environment—free of medical claims.",
+      "Adult shoppers 21+ can treat storage as construction care, not a dosing schedule. Flower, concentrate, and a kief or diamond finish hold aromatic terpenes that leave first when heat and light rise, so a dedicated container in a cool, shaded place protects the three-layer build before the first even glow and after every pause. The habit stays descriptive of materials and environment—free of medical claims.",
     ],
     sections: [
       {
@@ -481,9 +481,9 @@ export const ritualPages: PageContent[] = [
         id: "understand-the-build",
         heading: "Store for the three-layer build",
         paragraphs: [
-          "Presidential infused construction combines flower, concentrate, and kief. Kief consists of collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. The concentrate is carried through the flower, and the final kief layer completes the build.",
+          "Presidential infused construction combines flower, concentrate, and a kief or diamond finish. Kief consists of collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. The concentrate is carried through the flower, and the final kief or diamond finish completes the build.",
           "That layered material gives storage a clear purpose. The routine supports the full composition rather than the wrap alone. A neutral hemp wrap lets the contents lead the taste during the session, while the cool, dark setting gives those contents a consistent home beforehand.",
-          "Because the outer infused surface includes a kief finish over distributed concentrate, storage is about protecting the assembled structure, not only the hemp sheet. Avoiding heat spikes, bright light, and tight crush points helps those layers stay where they were built to sit until gradual flame brings the circumference back to an even glow.",
+          "Because the outer infused surface includes a kief or diamond finish over distributed concentrate, storage is about protecting the assembled structure, not only the hemp sheet. Avoiding heat spikes, bright light, and tight crush points helps those layers stay where they were built to sit until gradual flame brings the circumference back to an even glow.",
         ],
       },
       {
@@ -608,7 +608,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A blunt and a pre-roll use different outer materials. The blunt uses a thicker wrap, and the pre-roll uses thin rolling paper. The blunt also holds more material, which gives the flame a larger, denser construction to move through over the course of a session.",
           "Those characteristics make the blunt the slower format. The wrap and contents hold heat longer, while the larger capacity creates more distance from the opening light to the finish. The session follows that physical design at a measured tempo.",
-          "The hemp wrap also stays neutral in taste, allowing the flower, concentrate, and kief to lead throughout that longer timeline. The session therefore combines added duration with a clear view of the three-layer build, all carried by the steady heat of the thicker format.",
+          "The hemp wrap also stays neutral in taste, allowing the flower, concentrate, and a kief or diamond finish to lead throughout that longer timeline. The session therefore combines added duration with a clear view of the three-layer build, all carried by the steady heat of the thicker format.",
           "Label literacy makes that pace readable before anything is lit. A package that names hemp wrap or tobacco-free wrap, then lists a higher net weight than a paper pre-roll beside it, is pointing at a longer construction timeline. Thicker outer layer and greater fill capacity usually ask for more available time; thin paper and a lighter fill usually move on a quicker clock. The comparison stays descriptive of materials, not a promise about effects.",
         ],
       },
@@ -616,7 +616,7 @@ export const ritualPages: PageContent[] = [
         id: "infusion-adds-density",
         heading: "Infusion adds density to the timeline",
         paragraphs: [
-          "An infused blunt carries flower, concentrate, and kief. Concentrate is dense and holds heat, and the Presidential Infusion System distributes it through the flower before the kief layer is applied. Even distribution supports an even burn across the layered material.",
+          "An infused blunt carries flower, concentrate, and a kief or diamond finish. Concentrate is dense and holds heat, and the Presidential Infusion System distributes it through the flower before the kief or diamond finish is applied. Even distribution supports an even burn across the layered material.",
           "That density also explains the slower catch at the first flame and the natural place of relighting later. The session can include several heat cycles: an even opening light, a steady period of burn, a pause, and a gradual relight around the active edge.",
           "Multiple heat cycles are a construction feature, not a fault. Dense concentrate and a thicker wrap retain warmth between turns, so setting the blunt down and returning to it fits the format. Gradual rotation reunites the circumference after a pause, and planning for those returns keeps the clock honest: lighting, draws, resting intervals, and the occasional steady relight.",
         ],
@@ -751,7 +751,7 @@ export const ritualPages: PageContent[] = [
         heading: "A format built around more time",
         paragraphs: [
           "The shared quality begins with physical construction. A blunt uses a thicker wrap than a pre-roll and carries more material. It burns slower and holds heat longer, so the session has room for more than one person to participate in a measured sequence.",
-          "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free. The material inside therefore leads the taste as the blunt moves through the group. Flower, concentrate, and kief remain the center of the format from the first light to the final pass.",
+          "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free. The material inside therefore leads the taste as the blunt moves through the group. Flower, concentrate, and a kief or diamond finish remain the center of the format from the first light to the final pass.",
           "Label cues make that shared timeline readable before anything is lit. A package that names hemp wrap or tobacco-free wrap beside a higher net weight than a thin-paper pre-roll is pointing at a longer construction clock. Thicker outer layer and greater fill capacity usually leave room for passes and pauses; thin paper and a lighter fill usually move on a quicker solo pace. The comparison stays descriptive of materials, not a promise about effects.",
         ],
       },
@@ -777,19 +777,19 @@ export const ritualPages: PageContent[] = [
         id: "choose-the-size",
         heading: "Choose the scale for the group",
         paragraphs: [
-          "A mini is the same blunt construction at a smaller size. Its hemp wrap, flower, concentrate, and kief follow the same lighting and relighting pattern in a compact format. A full-size blunt holds more material and extends the shared timeline.",
+          "A mini is the same blunt construction at a smaller size. Its hemp wrap, flower, concentrate, and a kief or diamond finish follow the same lighting and relighting pattern in a compact format. A full-size blunt holds more material and extends the shared timeline.",
           "Selecting between them connects size directly to the occasion. A smaller gathering can choose the mini expression, while a gathering with more time can choose the full-size expression. Both formats give the group one shared object and one easy ritual to follow.",
           "The choice keeps every later cue familiar. Either size rotates through the opening flame, travels through the passing order, rests during pauses, and returns through a gradual relight. Scale changes the session length while the group method stays consistent.",
           "Three cues organize the size decision without inventing dosing language: available time, company size, and preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final choice, and net weight on the label simply confirms which scale left the licensed counter.",
         ],
-        subsections: [{ id: "does-the-series-change-a-shared-session", heading: "Does the series change a shared session?", parts: [{ text: "The series changes the profile, not the passing rhythm. Silver Flavor is distillate-based and fruit-forward, Gold Strain is live-resin-based and cannabis-forward, and Rose Gold is built on live rosin. Whichever series the group chooses, the construction is the same: flower, concentrate carried through it, and kief last, inside one of our neutral hemp wraps. One person rotates the end until the edge glows evenly, and the group passes in a clear order while our thicker wraps hold heat through the pauses. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: ", or " }, { text: "infused vs non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: "." }] }],
+        subsections: [{ id: "does-the-series-change-a-shared-session", heading: "Does the series change a shared session?", parts: [{ text: "The series changes the profile, not the passing rhythm. Silver Flavor is distillate-based and fruit-forward, Gold Strain is live-resin-based and cannabis-forward, and Rose Gold is built on live rosin. Whichever series the group chooses, the construction is the same: flower, concentrate carried through it, and a kief or diamond finish last, inside one of our neutral hemp wraps. One person rotates the end until the edge glows evenly, and the group passes in a clear order while our thicker wraps hold heat through the pauses. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: ", or " }, { text: "infused vs non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: "." }] }],
       },
       {
         id: "share-the-lighting-cues",
         heading: "Share the lighting cues",
         paragraphs: [
           "Every participant can read the same active edge. The first person begins with a steady rotation in the flame until the circumference carries an even glow. Later participants can use that same cue after a resting interval, turning the edge until the connected ring returns.",
-          "A shared visual method supports continuity as the blunt moves around the group. Flower, concentrate, and kief travel together inside the hemp wrap, and the group responds to the assembled format with one repeatable motion. Rotation becomes the bridge between each pause and return.",
+          "A shared visual method supports continuity as the blunt moves around the group. Flower, concentrate, and a kief or diamond finish travel together inside the hemp wrap, and the group responds to the assembled format with one repeatable motion. Rotation becomes the bridge between each pause and return.",
           "Teaching the cue once keeps later passes smooth. Point out the even ring after the opening light so everyone can recognize a quiet glow as a shared signal, not a private judgment. Humidity and pack evenness can nudge how the edge behaves; a drifting glow is a cue to slow down, rotate fully, and restore the circumference rather than force a hotter flame mid-pass.",
         ],
       },
