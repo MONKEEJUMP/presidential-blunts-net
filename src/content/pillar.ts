@@ -30,6 +30,7 @@ export const pillarPage: PageContent = {
         "Read the build in that order—flower base, concentrate infusion, kief finish, hemp outer sheet—then move into the hubs when one part needs more depth. Construction language stays educational: no dosing claims, no invented lab percentages, and no substitute for the licensed label in your market.",
         "Adults 21+ can treat this homepage overview as format literacy rather than a shopping cart: the infused blunt is defined by hemp wrap, layered fill, and slower burn, while named catalog items and licensed doors answer which product is currently available in a given market.",
       ],
+      subsections: [{ id: "full-size-or-mini-presidential-blunt", heading: "Should you choose a full-size or a mini Presidential Blunt?", parts: [{ text: "Choose by the session, not by the recipe. Full-size and mini Presidential Blunts use the same construction, flower, concentrate, and kief inside one of our tobacco-free hemp wraps, packed at different scales. A full-size blunt holds more material for a longer or shared session. A mini keeps our hemp wrap and the same layered fill in a smaller piece. Either way, the strain name on the package identifies the flower inside. Compare " }, { text: "mini vs full-size Presidential Blunts", href: "/compare/mini-vs-full" }, { text: ", browse " }, { text: "Presidential Blunts strains", href: "/strains" }, { text: ", or read about " }, { text: "session length for an infused blunt", href: "/ritual/session-length" }, { text: "." }] }],
     },
     {
       id: "blunt-strains",
@@ -37,7 +38,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Named products in the blunt catalog include Skywalker, Pink Cookies, Gorilla Goo, Waui, and Grape. The full list of Presidential Blunts strains, grouped by series, lives in the strain library.",
       ],
-      subsections: [{ id: "blunts-in-catalog", heading: "Where do Presidential Blunts sit in the Presidential catalog?", parts: [{ text: "Presidential Blunts are one of four Presidential formats, alongside Moon Rocks, infused pre-rolls, and minis. Presidential was founded in Los Angeles in 2012, operates wholesale only, and its catalog contains 47 products across six groupings. The " }, { text: "strain library", href: "/strains" }, { text: " lists the names available as blunts, and " }, { text: "our About page", href: "/about" }, { text: " explains the publisher behind this guide." }] }],
+      subsections: [{ id: "blunts-in-catalog", heading: "Where do Presidential Blunts sit in the Presidential catalog?", parts: [{ text: "Presidential Blunts are one of four Presidential formats, alongside Moon Rocks, infused pre-rolls, and minis. Presidential was founded in Los Angeles in 2012, operates wholesale only, and its catalog spans six groupings. The " }, { text: "strain library", href: "/strains" }, { text: " lists the names available as blunts, and " }, { text: "our About page", href: "/about" }, { text: " explains the publisher behind this guide." }] }],
     },
     {
       id: "hemp-wrap",
@@ -143,11 +144,6 @@ export const pillarPage: PageContent = {
       question: "What is a Presidential joint?",
       answer:
         "A joint uses thin rolling paper around the flower, and a Presidential infused pre-roll keeps that paper on the outside. A Presidential Blunt uses a tobacco-free hemp wrap instead, so the outer sheet is what separates the two.",
-    },
-    {
-      question: "What are Presidential Blunts?",
-      answer:
-        "Presidential Blunts are tobacco-free hemp-wrap infused blunts from Presidential Cannabis. They combine flower, concentrate, and kief in full-size and mini formats.",
     },
     {
       question: "Are Presidential Blunts tobacco-free?",
