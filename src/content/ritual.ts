@@ -797,7 +797,7 @@ export const ritualPages: PageContent[] = [
         id: "bring-a-series-to-the-gathering",
         heading: "Bring the chosen series into the gathering",
         paragraphs: [
-          "Presidential offers six groupings across its catalog. Silver Flavor is distillate-based and fruit-forward, Gold Strain is live-resin-based and cannabis-forward, and Rose Gold Connoisseur uses solventless live rosin. Presidential, House, and THC Design groupings add more choices to the format.",
+          "Presidential offers multiple groupings across its catalog. Silver Flavor is distillate-based and fruit-forward, Gold Strain is live-resin-based and cannabis-forward, and Rose Gold Connoisseur uses solventless live rosin. Presidential, House, and THC Design groupings add more choices to the format.",
           "The group can select that material direction and then choose the session scale. A mini carries the same build into a compact gathering, and a full-size blunt supports the longer expression. The shared ritual remains clear across every choice: light evenly, pass in order, pause naturally, and relight gradually.",
           "Series choice refines aroma and extract direction after size is settled. None of those names change the group method: the hemp wrap still frames the build, concentrate still adds density, and mini or full size still sets how long the occasion should reserve. Keeping series after scale prevents a flavor preference from choosing the wrong shared timeline.",
         ],
