@@ -7,7 +7,7 @@ export const strainsPage: PageContent = {
   h1: "Blunt Strains and Catalog Groupings",
   title: "Blunt Strain and Catalog Guide | Presidential Blunts",
   description:
-    "A standalone library of the 24 named strains available as Presidential blunts, with a guide to the six verified catalog groupings.",
+    "Presidential blunt strains: a standalone library of the named strains available as Presidential blunts, with a guide to the verified catalog groupings.",
   wordTarget: [1100, 1250],
   intro: [
     "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. Individual strain pages belong to a later expansion, so this page serves as the complete strain index today.",
