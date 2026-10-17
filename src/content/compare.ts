@@ -69,6 +69,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Infusion adds concentrate and kief to flower, creating a three-layer construction with more density than flower alone. That density holds heat and supports a slower burn, while even distribution helps the material burn evenly for an even burn across the session. The guide explains each layer, its job, and the measurable potency difference in the finished format, including how labeled THC and aroma cues appear on quality packaging at a dispensary.",
         ],
+        subsections: [{ id: "how-does-lighting-a-blunt-differ-from-lighting-a", heading: "How does lighting a blunt differ from lighting a joint?", parts: [{ text: "Thin paper catches quickly and burns fastest. An infused blunt lights more gradually, because concentrate is dense and holds heat. Bring the end to the flame, rotate the blunt, and give the full edge time to glow before the first draw. If it goes out, a relight is a natural part of the format: rotate the edge again to bring back an even burn. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: ", or " }, { text: "blunt vs joint differences", href: "/compare/blunt-vs-joint" }, { text: "." }] }],
       },
       {
         id: "wrap-infusion-flavor-profiles",
