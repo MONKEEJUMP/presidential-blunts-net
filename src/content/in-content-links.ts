@@ -13,6 +13,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/about", anchor: "Presidential's Los Angeles story", context: "Presidential's Los Angeles story covers how that build began." },
   ],
   "/ritual/sharing": [
+    { href: "/wrap/burn-rate", anchor: "burn rate in a shared blunt", context: "For why the wrap sets that pace, see burn rate in a shared blunt." },
     { href: "/compare/blunt-vs-pre-roll", anchor: "thicker wrap than a pre-roll", context: "A blunt uses a thicker wrap than a pre-roll and carries more material" },
     { href: "/wrap", anchor: "a neutral hemp wrap", context: "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free" },
   ],
@@ -54,6 +55,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/ritual/session-length", anchor: "session pacing", context: "questions about session pacing lead" },
   ],
   "/compare/blunt-vs-joint": [
+    { href: "/wrap/burn-rate", anchor: "guide to wrap thickness and burn pace", context: "The guide to wrap thickness and burn pace breaks down the burn side." },
     { href: "/ritual/sharing", anchor: "passing it around a group", context: "a larger format, or passing it around a group." },
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
     { href: "/strains", anchor: "strain labels", context: "Series names and strain labels refine the recipe" },
@@ -121,6 +123,8 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   // NETS-NEXT 1009 (InLinks 50403, 0 credits).
   "/wrap/burn-rate": [
+    { href: "/ritual/sharing", anchor: "how to share a blunt in a group", context: "If the roll is being passed around, how to share a blunt in a group covers pacing between people." },
+    { href: "/compare/blunt-vs-joint", anchor: "blunt-or-joint pacing comparison", context: "The blunt-or-joint pacing comparison covers size, capacity, and burn time side by side" },
     { href: "/compare/infused-vs-non-infused", anchor: "infused blunt", context: "and an infused blunt adds concentrate to the flower" },
   ],
   "/wrap": [

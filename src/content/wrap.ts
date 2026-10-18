@@ -713,7 +713,7 @@ export const wrapPages: PageContent[] = [
           "The clearest starting point is the outer material. A pre-roll uses thin rolling paper, burns fastest, and finishes quickest. A blunt uses a thicker wrap, holds more material, burns slower, and retains heat longer. Those differences define two distinct session formats before infusion is even considered.",
           "Thickness does not act alone, but it establishes the conditions around the filling. The wrap surrounds the entire roll, meeting the heat at the lit end while holding the unburned contents in shape. That continuous outer layer helps the active edge progress at the deliberate rate associated with a blunt rather than the faster rate of thin paper.",
           "Material and thickness also shape how evenly that edge advances. A uniform hemp sheet of blunt-scale thickness gives heat and air a consistent outer wall, which supports a balanced cherry instead of a racing thin-paper seam. Uneven sheet quality or an abrupt change in wrap gauge can leave one side catching ahead of the other even when the fill is prepared carefully. Reading wrap language on a licensed label—hemp wrap, blunt wrap, or paper—helps set expectations for evenness before the session starts.",
-        ], subsections: [{ id: "how-burn-rate-compares-with-a-joint", heading: "How burn rate compares with a joint", parts: [{ text: "Burn rate is easiest to judge next to another format. Our hemp wraps are thicker than rolling paper, so the flame meets more material at the edge and the roll moves at a slower pace. A joint in thin paper usually burns through sooner, with less wrap between the flame and the flower. That difference changes how a session feels from the first light to the last. The " }, { text: "blunt-or-joint pacing comparison", href: "/compare/blunt-vs-joint" }, { text: " covers size, capacity, and burn time side by side. If the roll is being passed around, " }, { text: "how to share a blunt in a group", href: "/ritual/sharing" }, { text: " covers pacing between people." }] }],
+        ],
       },
       {
         id: "density",
@@ -724,6 +724,7 @@ export const wrapPages: PageContent[] = [
           "Pack density and humidity habits sit beside that infusion story as everyday descriptive factors. A roll packed so tightly that air barely moves will tend to stall or canoe; a roll packed too loosely can race once the wrap catches. Flower that has been stored very dry may light quickly and finish faster, while material kept overly moist can be slow to establish an even edge. Cool, dark storage that protects the contents without soaking or baking them is the practical habit: it keeps density and moisture in a workable range so the wrap's thickness and the fill can burn together rather than fighting each other.",
         ],
       },
+      { id: "how-burn-rate-compares-with-a-joint", heading: "How burn rate compares with a joint", paragraphs: ["Burn rate is easiest to judge next to another format. Our hemp wraps are thicker than rolling paper, so the flame meets more material at the edge and the roll moves at a slower pace. A joint in thin paper usually burns through sooner, with less wrap between the flame and the flower. That difference changes how a session feels from the first light to the last. The blunt-or-joint pacing comparison covers size, capacity, and burn time side by side. If the roll is being passed around, how to share a blunt in a group covers pacing between people."] },
       {
         id: "airflow",
         heading: "Airflow connects the light to the roll",
@@ -761,9 +762,9 @@ export const wrapPages: PageContent[] = [
         after: " when you want burn rate placed beside structure, material, manufacturing, and flavour in one field guide.",
       },
       {
-        before: "Place pace among the wrap's four jobs in the ",
+        before: "Place pace among the wrap's jobs in the ",
         link: { href: "/wrap/what-a-wrap-does", label: "what a wrap does guide" },
-        after: " before isolating thickness, density, and airflow on this page.",
+        after: ", then look at thickness, density, and airflow here.",
       },
       {
         before: "Compare outer materials in the ",
