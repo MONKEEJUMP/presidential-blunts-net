@@ -107,6 +107,8 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "A thicker hemp wrap around flower, concentrate, and a kief or diamond finish" },
   ],
   "/ritual/how-to-light-one": [
+    { href: "/compare/blunt-vs-joint", anchor: "blunt and joint burn compared", context: "For how a blunt's slower pace compares with a joint's, see blunt and joint burn compared" },
+    { href: "/ritual/sharing", anchor: "guide to sharing a blunt in a circle", context: "The guide to sharing a blunt in a circle covers pacing and passing order" },
     { href: "/", anchor: "its blunts", context: "Presidential uses a hemp wrap across its blunts" },
     { href: "/wrap", anchor: "hemp wrap", context: "the thicker hemp wrap supports the slower burn" },
   ],

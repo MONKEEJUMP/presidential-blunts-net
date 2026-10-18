@@ -214,7 +214,7 @@ export const ritualPages: PageContent[] = [
           "Hold the end where the flame can meet the full rim, then turn the blunt at a steady rate. Each rotation introduces heat to a new part of the circumference. Continue the motion until the edge shows an even ring of active glow. This movement matches the same principle that supports the construction: evenly distributed concentrate burns evenly.",
           "The rotation can be smooth and unhurried. A complete turn gives every section of the edge its moment in the flame, while another turn deepens the catch. The wrap and contents then reach their working temperature together. The result is a clear starting line with a full ring of balanced light.",
           "Keep the flame at the rim rather than burying the tip deep into a torch. Soft contact plus continuous turning shares heat without a scorched pocket. If one arc lights faster, slow the turn and give quieter sections another pass until the ring looks continuous.",
-        ], subsections: [{ id: "lighting-a-blunt-that-will-be-passed-around", heading: "Lighting a blunt that will be passed around", parts: [{ text: "A blunt meant for a group needs a steadier light than one smoked alone. Rotating the tip through the flame until the edge glows evenly gives the next person a clean start, rather than a side that has already run ahead. Between passes, a hemp wrap holds its burn better when the roll is not left resting tip-down. The " }, { text: "guide to sharing a blunt in a circle", href: "/ritual/sharing" }, { text: " covers pacing and passing order. For how a blunt's slower pace compares with a joint's, see " }, { text: "blunt and joint burn compared", href: "/compare/blunt-vs-joint" }, { text: ". Either way, the even first light sets up the rest." }] }],
+        ],
       },
       {
         id: "read-the-edge",
@@ -261,6 +261,7 @@ export const ritualPages: PageContent[] = [
           "Treat the opening light as the first beat in a longer clock of draws, rests, and occasional rim renewals. A heat-safe surface between turns and the same gradual rotation at each return keep the session aligned with thicker wrap and denser fill.",
         ],
       },
+      { id: "lighting-a-blunt-that-will-be-passed-around", heading: "Lighting a blunt that will be passed around", paragraphs: ["A blunt meant for a group needs a steadier light than one smoked alone. Rotating the tip through the flame until the edge glows evenly gives the next person a clean start, rather than a side that has already run ahead. Between passes, a hemp wrap holds its burn better when the roll is not left resting tip-down. The guide to sharing a blunt in a circle covers pacing and passing order. For how a blunt's slower pace compares with a joint's, see blunt and joint burn compared. Either way, the even first light sets up the rest."] },
     ],
     linkParagraphs: [
       {
