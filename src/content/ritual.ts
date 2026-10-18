@@ -501,7 +501,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The Silver Flavor Series is built on distillate, the Gold Strain Series on live resin, and the Rose Gold Connoisseur Series on solventless live rosin. The Presidential, House, and THC Design groupings broaden the catalog with more flower and extract combinations. Cool, dark storage gives all of these infused directions one clear home rule.",
           "Distillate supplies a near-neutral aromatic base when flavor is added deliberately. Live resin begins with cannabis flash-frozen at harvest, while live rosin begins with fresh-frozen material and uses an ice-water wash followed by heat and pressure. The extract paths vary, and the storage cue stays consistent.",
-          "Series choice refines aroma and extract direction after format size is settled. Mini or full size still gets a fitted container, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple cool, dark habit that protects every Presidential infused direction the same way.",
+          "Series choice refines aroma and extract direction after format size is settled. Mini or full size still gets a fitted container, and hemp wrap still frames the build. A hemp sheet stores differently from tobacco leaf, so keep it cool and sealed. Keeping series after scale prevents a flavor preference from changing the simple cool, dark habit that protects every Presidential infused direction the same way.",
         ],
       },
       {
@@ -607,7 +607,7 @@ export const ritualPages: PageContent[] = [
         id: "format-sets-the-pace",
         heading: "The format sets the pace",
         paragraphs: [
-          "A blunt and a pre-roll use different outer materials. The blunt uses a thicker wrap, and the pre-roll uses thin rolling paper. The blunt also holds more material, which gives the flame a larger, denser construction to move through over the course of a session.",
+          "A blunt and a pre-roll use different outer materials. The blunt uses a thicker wrap, and the pre-roll uses thin rolling paper. That thicker sheet is hemp, not leaf; see why Presidential picked hemp over tobacco. The blunt also holds more material, which gives the flame a larger, denser construction to move through over the course of a session.",
           "Those characteristics make the blunt the slower format. The wrap and contents hold heat longer, while the larger capacity creates more distance from the opening light to the finish. The session follows that physical design at a measured tempo.",
           "The hemp wrap also stays neutral in taste, allowing the flower, concentrate, and a kief or diamond finish to lead throughout that longer timeline. The session therefore combines added duration with a clear view of the three-layer build, all carried by the steady heat of the thicker format.",
           "A package that names hemp wrap or tobacco-free wrap, then lists a higher net weight than a paper pre-roll beside it, is pointing at a longer construction timeline. Thicker outer layer and greater fill capacity usually ask for more available time; thin paper and a lighter fill usually move on a quicker clock. The comparison stays descriptive of materials, not a promise about effects.",

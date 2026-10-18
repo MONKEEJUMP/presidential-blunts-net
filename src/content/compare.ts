@@ -62,7 +62,7 @@ export const comparePages: PageContent[] = [
         id: "infused-vs-non-infused",
         heading: "Infused vs Non-Infused",
         paragraphs: [
-          "Infusion adds concentrate and kief to flower, creating a three-layer construction with more density than flower alone. That density holds heat and supports a slower burn, while even distribution helps the material burn evenly for an even burn across the session. The guide explains each layer, its job, and the measurable potency difference in the finished format, including how labeled THC and aroma cues appear on quality packaging at a dispensary.",
+          "Infusion adds concentrate and a kief or diamond finish to flower, creating a three-layer construction with more density than flower alone. That density holds heat and supports a slower burn, while even distribution helps the material burn evenly for an even burn across the session. The guide explains each layer, its job, and the measurable potency difference in the finished format, including how labeled THC and aroma cues appear on quality packaging at a dispensary.",
         ],
         subsections: [{ id: "how-does-lighting-a-blunt-differ-from-lighting-a", heading: "How does lighting a blunt differ from lighting a joint?", parts: [{ text: "Thin paper catches quickly and burns fastest. An infused blunt lights more gradually, because concentrate is dense and holds heat. Bring the end to the flame, rotate the blunt, and give the full edge time to glow before the first draw. If it goes out, a relight is a natural part of the format: rotate the edge again to bring back an even burn. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: ", or " }, { text: "blunt vs joint differences", href: "/compare/blunt-vs-joint" }, { text: "." }] }, { id: "comparing-formats-for-a-shared-session", heading: "Comparing formats for a shared session", parts: [{ text: "Format changes how a group session moves. The " }, { text: "blunt vs spliff guide", href: "/compare/blunt-vs-spliff" }, { text: " covers what is in the fill, the " }, { text: "blunt sharing guide", href: "/ritual/sharing" }, { text: " covers pace, and " }, { text: "how our wraps shape flavour", href: "/wrap/wrap-and-flavour" }, { text: " explains taste." }] }],
       },
@@ -70,7 +70,7 @@ export const comparePages: PageContent[] = [
         id: "wrap-infusion-flavor-profiles",
         heading: "How wrap and infusion change flavor profiles",
         paragraphs: [
-          "The wrap and the fill each shape how flavor profiles come through. Tobacco leaf carries tobacco's own taste, while a neutral hemp wrap lets the flower, concentrate, kief or diamond finish, and selected flavor profile lead. Infusion adds concentrate and kief to the flower, so the fill carries more layers than flower alone. The package names the flavor; the construction decides what frames it.",
+          "The wrap and the fill each shape how flavor profiles come through. Tobacco leaf carries tobacco's own taste, while a neutral hemp wrap lets the flower, concentrate, kief or diamond finish, and selected flavor profile lead. Infusion adds concentrate and a kief or diamond finish to the flower, so the fill carries more layers than flower alone. The package names the flavor; the construction decides what frames it.",
         ],
       },
       {
@@ -154,7 +154,7 @@ export const comparePages: PageContent[] = [
         heading: "Why are some pre-rolls hard to smoke?",
         paragraphs: [
           "Usually because of the pack. A ready-to-light pre-roll saves the hassle of rolling a joint, but the fill inside the paper still decides how air moves. A roll packed so tightly that air barely moves will tend to stall or canoe, and a roll packed too loosely can race once the paper catches. Soft spots, pinched seams, or a fill that leaves large voids create shortcuts for air and heat, so one side runs ahead of the other.",
-          "Infusion adds density: concentrate and kief make the fill heavier than flower alone, so an infused pre-roll needs an even, patient light rather than a hot flame fixed on one spot. The same reading applies to blunts rolled in hemp wraps. The thicker wrap holds more material and burns slower, and an uneven pack shows up the same way, as a stalled draw or one edge running ahead.",
+          "Infusion adds density: concentrate and a kief or diamond finish make the fill heavier than flower alone, so an infused pre-roll needs an even, patient light rather than a hot flame fixed on one spot. The same reading applies to blunts rolled in hemp wraps. The thicker wrap holds more material and burns slower, and an uneven pack shows up the same way, as a stalled draw or one edge running ahead.",
         ],
       },
     ],
@@ -319,7 +319,7 @@ export const comparePages: PageContent[] = [
           "This makes the comparison easy to frame: the blunt emphasizes capacity, heat retention, and an unhurried burn, while the joint emphasizes a light paper construction and fast completion.",
           "Because Presidential keeps the blunt tobacco free in wrap and fill, the accurate shelf language stays blunt-first once hemp wrap and greater capacity are confirmed. Series names and strain labels refine the recipe after that construction is clear. A joint comparison stays centered on thin paper and a lighter flower fill unless the package states otherwise.",
         ],
-        subsections: [{ id: "hemp-wrap-change", heading: "What does a tobacco-free hemp wrap change?", parts: [{ text: "A joint uses thin rolling paper, while Presidential blunts use our hemp wraps, which are tobacco free and neutral in taste. That neutral wrap lets the flower, concentrate, and a kief or diamond finish inside lead the profile. Compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: ", or start from the " }, { text: "infused-blunt guide home page", href: "/" }, { text: "." }] }],
+        subsections: [{ id: "hemp-wrap-change", heading: "What does a tobacco-free hemp wrap change?", parts: [{ text: "A joint uses thin rolling paper, while Presidential blunts use " }, { text: "our tobacco-free hemp wraps", href: "/wrap/hemp-vs-tobacco" }, { text: ", which are neutral in taste. That neutral wrap lets the flower, concentrate, and a kief or diamond finish inside lead the profile. Compare " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: ", or start from the " }, { text: "infused-blunt guide home page", href: "/" }, { text: "." }] }],
       },
       {
         id: "read-them-side-by-side",
@@ -512,7 +512,7 @@ export const comparePages: PageContent[] = [
         id: "thc-and-terpenes-by-format",
         heading: "Do blunts and pre-rolls differ in THC or terpenes?",
         paragraphs: [
-          "The format name does not set either one. THC and other cannabinoids belong to the fill and are read from the current package and batch test record. A regular flower-filled roll reflects the tested cannabinoids in its flower, and an infused one adds concentrate and kief. Kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "The format name does not set either one. THC and other cannabinoids belong to the fill and are read from the current package and batch test record. A regular flower-filled roll reflects the tested cannabinoids in its flower, and an infused one adds concentrate and a kief or diamond finish. Kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
           "Terpenes carry the aroma, and in both formats the infused cannabis inside leads the aroma and taste. The difference a smoker notices first is the outer layer: thin paper on the pre-roll, a thicker tobacco-free hemp wrap on a Presidential blunt.",
         ],
       },
@@ -980,7 +980,7 @@ export const comparePages: PageContent[] = [
         id: "three-layers-and-one",
         heading: "Three layers compared with flower",
         paragraphs: [
-          "A regular blunt centers on flower inside its wrap. An infused blunt adds concentrate and a kief or diamond finish, turning the fill into a coordinated three-layer system. Each component has a clear role: flower provides the body of the fill, concentrate adds a dense refined layer, and a kief or diamond finish completes the build: kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "A regular blunt centers on flower inside its wrap. An infused blunt adds concentrate and a kief or diamond finish, turning the fill into a coordinated three-layer system. Each component has a clear role: flower provides the body of the fill, concentrate adds a dense refined layer, and a kief or diamond finish completes the build: kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. The wrap around that build is hemp; hemp and leaf wraps side by side shows why.",
           "Presidential's Infusion System carries distillate through the flower instead of concentrating it only at the surface. The kief or diamond finish goes on last. Distribution is important because dense concentrate burns evenly when spread evenly, producing a more consistent path through the filled material.",
           "That layer map also travels well across a licensed retail display. Two packages can share a hemp wrap, a similar size, and the same brand crest while still describing different interiors. When the label or panel names concentrate, distillate, live resin, live rosin, or kief alongside flower, the build belongs on the infused side. When flower is the complete fill story, the build stays regular. Keeping the comparison on construction prevents series names or artwork from standing in for the interior architecture.",
         ],
@@ -989,7 +989,7 @@ export const comparePages: PageContent[] = [
         id: "measurable-potency",
         heading: "Potency depends on the tested batch",
         paragraphs: [
-          "A regular flower-filled blunt reflects the tested cannabinoids in its flower. An infused build combines flower with concentrated material and kief, so its values must come from the finished batch rather than a generic category range.",
+          "A regular flower-filled blunt reflects the tested cannabinoids in its flower. An infused build combines flower with concentrated material and a kief or diamond finish, so its values must come from the finished batch rather than a generic category range.",
           "The comparison is therefore structural and batch-specific. Series and extract choice refine the recipe: distillate supports the Silver Flavor Series, live resin identifies the Gold Strain Series, and live rosin supplies the solventless Rose Gold path. Read the current package label and associated test results for potency.",
           "Look for format name, wrap material, ingredient statement, net weight, batch or lot identifiers, and the potency figures tied to that finished unit where the market requires them. Those details describe what is in the wrap; they do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the numbers to compare builds on the shelf without treating a category average as a substitute for the current batch.",
         ],
