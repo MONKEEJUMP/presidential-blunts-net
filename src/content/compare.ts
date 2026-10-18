@@ -334,7 +334,7 @@ export const comparePages: PageContent[] = [
         id: "match-the-occasion",
         heading: "Match the format to the occasion",
         paragraphs: [
-          "Choose a blunt when the occasion has room for a longer pace, a larger format, or sharing. Choose a joint when the available time favors a quick paper-wrapped session. Choose a mini blunt when the desired combination is hemp-wrap structure in a smaller size.",
+          "Choose a blunt when the occasion has room for a longer pace, a larger format, or passing it around a group. Choose a joint when the available time favors a quick paper-wrapped session. Choose a mini blunt when the desired combination is hemp-wrap structure in a smaller size.",
           "The most useful answer stays practical. Look at the number of people, the time available, and whether the layered infused construction belongs in the plan. Those three cues point naturally toward full blunt, mini blunt, or joint.",
           "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density.",
         ],
@@ -1151,7 +1151,7 @@ export const comparePages: PageContent[] = [
         id: "burn-and-heat",
         heading: "Burn rate and heat follow thickness",
         paragraphs: [
-          "A hemp-wrapped blunt burns more slowly and holds heat longer. Thin rolling paper burns fastest and finishes quickest. These are practical characteristics rather than abstract material differences: they determine how much time the format asks for and how naturally it can be shared.",
+          "A hemp-wrapped blunt burns more slowly and holds heat longer. Thin rolling paper burns fastest and finishes quickest. These are practical characteristics rather than abstract material differences: they determine how much time the format asks for and how naturally it moves around a group.",
           "An infused interior adds density to the hemp-wrapped format. Concentrate retains heat and catches more gradually than flower. Rotating the blunt in the flame helps it establish an even light, and even concentrate distribution supports an even burn. A relight is part of the deliberate pace created by the dense fill and thicker wrap.",
           "Burn behavior is what shoppers notice once the format is lit. Thicker hemp tends to ask for a measured catch and holds heat longer; thin paper usually finishes on a quicker timeline. Those are construction traits tied to wrap thickness and fill density. For a closer look at how pace is set after the material is chosen, the burn-rate guide belongs beside this comparison rather than replacing it.",
         ],

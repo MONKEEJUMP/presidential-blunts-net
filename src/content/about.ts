@@ -41,7 +41,7 @@ export const aboutPage: PageContent = {
         "Every article starts with a direct answer and builds from verified facts. Product construction, catalog counts, formats, geographic availability, and extract processes stay connected to the information Presidential has established. Plain language keeps the reference useful for a first visit and precise enough for a reader comparing the role of wrap, fill, extract, size, and heat.",
         "The publication also connects learning with the brand’s wholesale model. Readers can understand the format here, then use Presidential’s complete catalog and retail resources to continue through licensed channels. That relationship keeps the reference centered on education while giving current product information a clear home.",
         "Brand statements describe the company and product family. Construction statements describe wrap, fill, and burn behavior. Keeping those layers separate prevents a strain name from rewriting the publisher or a format label from inventing an unverified product claim.",
-        "When a detail depends on a licensed market or current retail selection, this reference points readers back to the package and the licensed door rather than inventing stock, assay, or regulatory claims that belong to the label and the retailer.",
+        "For current selection, check the package and the licensed retailer.",
       ],
     },
     {

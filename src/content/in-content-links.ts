@@ -54,6 +54,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/ritual/session-length", anchor: "session pacing", context: "questions about session pacing lead" },
   ],
   "/compare/blunt-vs-joint": [
+    { href: "/ritual/sharing", anchor: "passing it around a group", context: "a larger format, or passing it around a group." },
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
     { href: "/strains", anchor: "strain labels", context: "Series names and strain labels refine the recipe" },
   ],
@@ -62,6 +63,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "so the tobacco leaf stays on the outside" },
   ],
   "/compare/hemp-wrap-vs-paper": [
+    { href: "/ritual/sharing", anchor: "how naturally it moves around a group", context: "and how naturally it moves around a group." },
     { href: "/about", anchor: "Who publishes Presidential Blunts and why", context: "Who publishes Presidential Blunts and why explains the brand behind the wrap." },
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential uses hemp wraps for its blunts" },
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "Traditional tobacco leaf carries its own taste" },
