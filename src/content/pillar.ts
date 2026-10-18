@@ -48,7 +48,7 @@ export const pillarPage: PageContent = {
         "A blunt and a pre roll are related rolled-cannabis formats, but they are not interchangeable. Pre rolls use paper; Presidential Blunts use a broader hemp wrap. Full-size blunts and minis keep the same construction packed at different scales. The format page and package provide the reliable comparison.",
         "When the outer sheet is the question—material, tobacco-free meaning, burn pace, or how flavour reads through a neutral wrap—continue in the Wrap hub. When size and format contrast matter more than the sheet itself, Compare keeps blunt, pre-roll, mini, and paper distinctions side by side without collapsing them into one product story.",
         "Tobacco-free labeling stays with the wrap material itself. Confirm the current package for wrap composition and ingredients; this guide explains why hemp is used for blunt construction.",
-      ],
+      ], subsections: [{ id: "from-hemp-fibre-to-a-shared-roll", heading: "From hemp fibre to a shared roll", parts: [{ text: "Presidential Blunts start with the sheet. A hemp wrap begins as plant fibre, pressed into a consistent sheet that can close around a packed fill without tobacco leaf. Inside it, the build is flower, concentrate, and a kief or diamond finish. The " }, { text: "step-by-step account of making a hemp sheet", href: "/wrap/how-wraps-are-made" }, { text: " shows how that wrap is produced. A blunt is often passed around, so read the " }, { text: "passing etiquette guide", href: "/ritual/sharing" }, { text: " for handling a shared roll cleanly. Then confirm availability with a licensed retailer." }] }],
     },
     {
       id: "three-layer-construction",
