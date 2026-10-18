@@ -875,7 +875,7 @@ export const wrapPages: PageContent[] = [
         heading: "Terpenes are part of the material's voice",
         paragraphs: [
           "Terpenes carry recognizable aromatic directions within the plant material. The verified range includes peppery caryophyllene, pine-associated pinene, musky myrcene, citrus-associated limonene, and floral linalool. Those descriptors give precise language to different parts of a cannabis-forward or deliberately flavoured profile without asking the wrap to provide the main taste.",
-          "The kief layer matters here because trichomes contain most of the plant's terpenes along with its cannabinoids. Flower, extract, and kief therefore form a detailed inner composition. Neutral hemp keeps the wrap from placing tobacco taste over those components, allowing the selected material and series direction to remain recognizable.",
+          "The kief layer matters here because trichomes contain most of the plant's terpenes along with its cannabinoids. Flower, extract, and a kief or diamond finish therefore form a detailed inner composition. Neutral hemp keeps the wrap from placing tobacco taste over those components, allowing the selected material and series direction to remain recognizable.",
           "Storage habits protect that voice before the session starts. Cool, dark conditions slow the loss of volatile aroma compounds that heat and light take first, so the profile that left the licensed counter is closer to the profile that reaches the palate. The wrap still frames the material, but it cannot restore terpenes that were baked out in a hot car or left open under bright light.",
         ],
       },

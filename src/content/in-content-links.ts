@@ -65,6 +65,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap/what-a-wrap-does", anchor: "outer layer", context: "Hemp wrap versus paper answers the outer layer" },
   ],
   "/compare/infused-vs-non-infused": [
+    { href: "/wrap/hemp-vs-tobacco", anchor: "hemp and leaf wraps side by side", context: "hemp and leaf wraps side by side shows why" },
     { href: "/", anchor: "the official infused-blunt guide on this website", context: "start with the official infused-blunt guide on this website" },
     { href: "/wrap", anchor: "hemp wrap", context: "share a hemp wrap" },
   ],
@@ -84,9 +85,11 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   // Final pass 1006: incoming "hemp wrap" links to /wrap and "strains" to /strains.
   "/ritual/session-length": [
+    { href: "/wrap/hemp-vs-tobacco", anchor: "why Presidential picked hemp over tobacco", context: "see why Presidential picked hemp over tobacco" },
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap also stays neutral in taste" },
   ],
   "/ritual/storage": [
+    { href: "/wrap/hemp-vs-tobacco", anchor: "A hemp sheet stores differently from tobacco leaf", context: "A hemp sheet stores differently from tobacco leaf, so keep it cool" },
     { href: "/", anchor: "brand’s official infused-blunt website", context: "The brand’s official infused-blunt website explains" },
     { href: "/wrap", anchor: "hemp wrap", context: "A neutral hemp wrap lets the contents lead the taste" },
   ],
