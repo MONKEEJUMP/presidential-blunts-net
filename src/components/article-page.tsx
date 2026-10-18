@@ -163,7 +163,17 @@ function FrequentlyAskedQuestions({ page }: { page: PageContent }) {
         {page.faq.map((item) => (
           <div key={item.question}>
             <h3>{item.question}</h3>
-            <p>{item.answer}</p>
+            <p>
+              {item.answer}
+              {item.more ? (
+                <>
+                  {" "}
+                  {item.more.before}
+                  <Link href={item.more.href}>{item.more.label}</Link>
+                  {item.more.after}
+                </>
+              ) : null}
+            </p>
           </div>
         ))}
       </div>
@@ -258,7 +268,7 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
             mainEntity: page.faq.map((item) => ({
               "@type": "Question",
               name: item.question,
-              acceptedAnswer: { "@type": "Answer", text: item.answer },
+              acceptedAnswer: { "@type": "Answer", text: item.more ? `${item.answer} ${item.more.before}${item.more.label}${item.more.after}` : item.answer },
             })),
           }
         : {}),
