@@ -629,7 +629,7 @@ export const ritualPages: PageContent[] = [
           "A mini uses the same construction at a smaller size. It keeps the blunt's thicker hemp wrap and infused build while presenting them on a more compact scale. A full-size blunt brings greater material capacity to the same basic ritual.",
           "This gives the format an immediate planning tool. Choose the mini when the occasion calls for the smaller expression, and choose the full blunt when the occasion has room for the longer expression. Both begin with steady rotation in the flame and support relighting as the dense material moves through its cycle.",
           "Three cues organize the size choice: available time, company size, and format preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final decision, and net weight on the label simply confirms which scale left the licensed counter.",
-        ],
+        ], subsections: [{ id: "what-the-wrap-adds-to-a-long-session", heading: "What the wrap adds to a long session", parts: [{ text: "Part of a long session comes from the wrap itself. A tobacco-free hemp sheet is thicker than paper, and our wraps hold the fill steady as it burns, which is why a hemp-wrapped blunt sets a slower pace. The " }, { text: "tobacco-free wrap explainer", href: "/wrap/tobacco-free" }, { text: " covers what that sheet is and isn't. If your group usually rolls with mixed fills, the " }, { text: "blunt and spliff comparison", href: "/compare/blunt-vs-spliff" }, { text: " shows how tobacco changes the timeline and taste. Presidential's build stays the same throughout: flower, concentrate, and a kief or diamond finish." }] }],
       },
       {
         id: "individual-and-shared",
