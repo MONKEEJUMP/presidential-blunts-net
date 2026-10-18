@@ -79,6 +79,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
   "/wrap/wrap-and-flavour": [
+    { href: "/compare/blunt-vs-spliff", anchor: "how a blunt differs from a spliff", context: "A spliff mixes tobacco into the fill instead; see how a blunt differs from a spliff." },
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
   "/wrap/hemp-vs-tobacco": [

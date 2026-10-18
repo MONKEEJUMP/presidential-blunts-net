@@ -10,7 +10,7 @@ export const strainsPage: PageContent = {
     "Presidential blunt strains: a standalone library of the named strains available as Presidential blunts, with a guide to the verified catalog groupings.",
   wordTarget: [1100, 1250],
   intro: [
-    "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. This page is the complete Presidential blunt strain index.",
+    "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. The Presidential blunt strain index lists each name as it appears on the pack.",
     "Presidential is the brand and publisher, not a strain or cultivar name, so the page keeps named selections separate from the series and partnership labels used to organize them.",
     "Start with a familiar name, read the grouping notes for extract and catalog context, then move to the format guides when the question shifts to wrap construction, size, or how long a session runs.",
   ],
@@ -127,7 +127,7 @@ export const strainsPage: PageContent = {
       id: "twenty-four-is-not-forty-seven",
       heading: "Do not sort the names into the groupings",
       paragraphs: [
-        "The wider catalog spans multiple groupings and four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. This page lists the blunt names and does not assign those names to a grouping.",
+        "The wider catalog spans multiple groupings and four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. The names are listed without assigning them to a grouping.",
         "A grouping still explains extract and catalog direction. Silver is distillate and fruit-forward. Gold is live resin from cannabis frozen at harvest, and it is cannabis-forward. Rose Gold is solventless live rosin, made with ice water, heat, and pressure rather than chemical solvents. House and collaboration labels say who organized the line, including flower cultivated by THC Design. Those facts do not rename a cultivar, change the tobacco-free hemp wrap, or say which format is on a shelf today. Availability stays with the current package and a licensed retailer.",
       ],
     },
