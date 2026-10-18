@@ -56,7 +56,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A mini carries the same blunt construction at a smaller size. A full-size blunt brings greater capacity and a longer session, while the mini keeps the format compact. The comparison looks at session length, sharing, and how size can match the number of people and the time available for smoking sessions with friends who bring different preferences around pace, capacity, and flavor.",
           "Scale stays separate from construction: a mini is still a blunt at smaller capacity, not a different wrap class, so session length and sharing should be read after wrap and fill are already settled. Smokers who prefer a shorter cannabis experience often choose mini scale without changing the blunt wrap recipe.",
-        ],
+        ], subsections: [{ id: "comparing-formats-after-the-session-ends", heading: "Comparing formats after the session ends", parts: [{ text: "A comparison also covers what happens between sessions. " }, { text: "Blunt storage between sessions", href: "/ritual/storage" }, { text: " explains how to keep the wrap in shape." }] }],
       },
       {
         id: "infused-vs-non-infused",
