@@ -19,6 +19,8 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/ritual/sharing", anchor: "session length, and sharing", context: "relighting, storage, session length, and sharing. The strains hub records" },
     { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "kief, and deliberately selected flavor direction" },
     { href: "/compare/blunt-vs-spliff", anchor: "spliffs, paper wraps", context: "joints, pre-rolls, spliffs, paper wraps" },
+    // SITEBULB-R28 fix 1.
+    { href: "/wrap/hemp-vs-tobacco", anchor: "how our wraps compare with tobacco leaf", context: "see how our wraps compare with tobacco leaf" },
   ],
   // SHIP-FIXLIST audit-1006 items 7-8.
   "/": [
@@ -90,6 +92,8 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   "/compare/mini-vs-full": [
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential rolls in neutral hemp wraps across the blunt catalog" },
     { href: "/strains", anchor: "strains as blunts", context: "Presidential offers strains as blunts" },
+    // SITEBULB-R28 fix 3.
+    { href: "/wrap/hemp-vs-tobacco", anchor: "Our wraps are tobacco-free hemp", context: "Our wraps are tobacco-free hemp, not tobacco leaf" },
   ],
   // NETS-NEXT 1009 (InLinks 50403, 0 credits).
   "/wrap/burn-rate": [

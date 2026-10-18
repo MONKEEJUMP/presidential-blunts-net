@@ -398,7 +398,7 @@ export const wrapPages: PageContent[] = [
       },
       {
         id: "hemp-tradition",
-        heading: "The hemp wrap tradition",
+        heading: "Our wraps and the hemp tradition",
         paragraphs: [
           "A hemp blunt wrap creates the same broad format around a different material choice. It holds more material than the thin paper used for a pre-roll, supports a slow burn, and retains heat, while keeping tobacco outside the construction. Presidential's use of hemp makes every blunt in the catalog one hundred percent tobacco free.",
           "Hemp's neutral character changes the relationship between the outer layer and the filling. Rather than adding tobacco taste, the wrap gives the inner construction room to lead. Flower provides the base, concentrate is carried through that flower, and a kief or diamond finish is added last. Those three layers remain the main sources of the blunt's identity.",

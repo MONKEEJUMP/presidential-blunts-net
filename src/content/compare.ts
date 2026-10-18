@@ -814,7 +814,7 @@ export const comparePages: PageContent[] = [
         heading: "The same format at two sizes",
         paragraphs: [
           "A mini keeps the recognizable blunt structure: a thicker wrap, more deliberate burn behavior than thin paper, and capacity for an infused interior. Its smaller dimensions make the session compact. A full-size blunt expands that structure, increasing the amount of material and the time the format can remain in rotation.",
-          "Presidential rolls in neutral hemp wraps across the blunt catalog. The wrap is tobacco free and lets the interior lead the taste. Because this foundation remains consistent, comparing mini and full size can stay centered on practical questions of time, company, and desired volume.",
+          "Presidential rolls in neutral hemp wraps across the blunt catalog. Our wraps are tobacco-free hemp, not tobacco leaf, and they let the interior lead the taste. Because this foundation remains consistent, comparing mini and full size can stay centered on practical questions of time, company, and desired volume.",
           "Reading the two sizes side by side on a licensed shelf keeps the comparison honest. Look for wrap language, ingredient statements, net weight, and batch or lot identifiers where the market requires them. Those cues describe how much material each format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult shoppers 21+ can treat mini and full as the same blunt vocabulary at two scales once the package confirms hemp wrap and fill construction.",
         ],
       },
