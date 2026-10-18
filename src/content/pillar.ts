@@ -65,8 +65,8 @@ export const pillarPage: PageContent = {
       heading: "Compare Presidential products and find a licensed retailer",
       paragraphs: [
         "Use the Wrap guide for hemp construction, Compare for blunts versus pre rolls and minis, Ritual for handling and storage, and Strains for the current named catalog. Those focused pages carry the detail so this homepage can remain the clear starting point for Presidential Blunts.",
-        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Presidential Blunts reach customers through licensed retailers, and the Strains hub records the current named range. Each state has its own licensed-market footprint and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Confirm the current selection with a licensed retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
-        "For publisher context, wholesale footprint, and why this reference exists separately from the retail counter, read the About page.",
+        "Presidential operates through licensed cannabis retailers, where state market coverage, retail quality, and reputation shape the experience. Presidential Blunts reach customers through licensed retailers, and the Strains hub records the current named range. Each state has its own licensed market and retail experience. Availability varies by market, retailer, and product, so the experience begins with the current selection at a licensed door. Confirm the current selection with a licensed retailer. This website is an educational brand reference and does not sell or ship cannabis products.",
+        "For publisher and wholesale context, read the About page.",
       ],
     },
     {
