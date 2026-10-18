@@ -11,7 +11,7 @@ export const aboutPage: PageContent = {
   intro: [
     "This is the official Presidential blunt reference, published to explain the format with clear, original reporting grounded in the brand’s verified product facts. It gives readers one focused place to understand hemp wraps, three-layer infusion, burn behavior, sizes, strain names, and licensed retail availability.",
     "Presidential Blunts is the publisher identity for this focused reference. Presidential is the brand, not a strain or cultivar, and the site keeps that identity separate from the named flower selections recorded in the catalog index.",
-    "This page covers who publishes the guide and how the wholesale model works.",
+    "The sections below cover who publishes the guide and how the wholesale model works.",
   ],
   sections: [
     {
