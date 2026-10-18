@@ -638,7 +638,7 @@ export const ritualPages: PageContent[] = [
         heading: "Match the pace to the gathering",
         paragraphs: [
           "The number of people participating shapes how the available time is used. One person can follow the burn directly, while a group adds passing and resting intervals. The blunt's slower burn and greater capacity give a shared session room to move through those turns.",
-          "A mini can serve a compact gathering, and a full-size blunt can support a longer shared rhythm. The most useful measure is the occasion itself: the chosen size, the number of participants, and the familiar sequence of light, pass, pause, and relight.",
+          "A mini can serve a compact gathering, and a full-size blunt can support a longer shared rhythm. Measure by the occasion itself: the chosen size, the number of participants, and the familiar sequence of light, pass, pause, and relight.",
           "Passing order and resting intervals are part of the timeline, not interruptions of it. A clear clockwise or counterclockwise sequence keeps the active edge moving; when the glow quiets, the next person rotates the end through the flame. Solo sessions skip the pass but still use the same edge reading and gradual returns. Session length is construction pace plus the gathering's natural rhythm.",
         ],
       },

@@ -28,7 +28,7 @@ export const aboutPage: PageContent = {
       id: "why-this-reference-exists",
       heading: "Why This Reference Exists",
       paragraphs: [
-        "Infused blunts bring several topics together in one format. The outer wrap manages airflow and burn rate. The inner construction combines flower, concentrate, and a kief or diamond finish. Extract choices distinguish fruit-forward distillate products, cannabis-forward live resin products, solventless live rosin products, and collaboration lines. Full-size blunts and minis then carry that construction at two scales.",
+        "Infused blunts bring several topics together in one format. The outer wrap manages airflow and burn rate. The inner construction combines flower, concentrate, and a kief or diamond finish. Extract choices distinguish distillate, live resin and live rosin products, plus collaboration lines. Full-size blunts and minis then carry that construction at two scales.",
         "The wrap library covers material and function. Comparisons explain the structural differences among rolled formats. The ritual library follows lighting, relighting, storage, session length, and sharing. The strains hub records every name currently available as blunts. Together, those pages create a durable path from a quick definition to a detailed understanding.",
         "A single homepage overview cannot carry every construction, format, ritual, and catalog question without blurring them.",
       ],
