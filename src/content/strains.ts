@@ -54,12 +54,12 @@ export const strainsPage: PageContent = {
       id: "series-and-lines",
       heading: "Series and Collaboration Lines",
       paragraphs: [
-        "The Silver Flavor Series is built on distillate and has a fruit-forward direction. The Gold Strain Series is built on live resin and has a cannabis-forward direction. Live resin begins with cannabis frozen at harvest rather than first dried and cured.",
-        "The Rose Gold Connoisseur Series is built on solventless live rosin, which uses ice water, heat, and pressure instead of chemical solvents. Additional groupings complete the catalog structure: the Presidential Line, the Presidential House Line, and Presidential x THC Design. The collaboration uses flower cultivated by THC Design.",
+        "The Silver Flavor Series has a fruit-forward direction. The Gold Strain Series has a cannabis-forward direction.",
+        "The Rose Gold Connoisseur Series is the connoisseur line, and each pack prints its own build. Additional groupings complete the catalog structure: the Presidential Line, the Presidential House Line, and Presidential x THC Design. The collaboration uses flower cultivated by THC Design.",
         "Together these groupings form the catalog map. Extract-led series (Silver, Gold, Rose Gold) describe concentrate preparation and flavor direction. House and collaboration lines describe organizational structure. The groupings make up the wider catalog, while this hub isolates the names offered as blunts.",
         "Read the groupings as layers, not as a second strain list. A series label explains construction and catalog direction.",
       ],
-      subsections: [{ id: "series-by-extract", heading: "How do the series differ by extract?", parts: [{ text: "Silver products are built on distillate with a fruit-forward direction, Gold products on live resin with a cannabis-forward direction, and Rose Gold products on solventless live rosin. Every blunt in the library is rolled in our wraps, the same " }, { text: "tobacco-free hemp wrap", href: "/wrap/tobacco-free" }, { text: ", so the series changes the extract and flavor direction, not the wrap. Compare formats on the " }, { text: "blunt vs pre-roll", href: "/compare/blunt-vs-pre-roll" }, { text: " page." }] }],
+      subsections: [{ id: "series-by-extract", heading: "How do the series differ?", parts: [{ text: "Silver products have a fruit-forward direction, Gold products a cannabis-forward direction, and Rose Gold is the connoisseur line; each pack prints its own build. Every blunt in the library is rolled in our wraps, the same " }, { text: "tobacco-free hemp wrap", href: "/wrap/tobacco-free" }, { text: ", so the series changes the flavor direction, not the wrap. Compare formats on the " }, { text: "blunt vs pre-roll", href: "/compare/blunt-vs-pre-roll" }, { text: " page." }] }],
     },
     {
       id: "names-to-formats",
@@ -93,7 +93,7 @@ export const strainsPage: PageContent = {
       heading: "What does a strain name tell you about cannabinoids and terpenes?",
       paragraphs: [
         "A strain name identifies the flower. Cannabinoid information, including THC, sits on the current package and batch test record, not in the name, and high potency is not a promise that covers the whole catalog. Inside a Presidential blunt, the kief or diamond finish adds resin-rich material; kief itself is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
-        "Terpenes give a selection its recognizable aromatic direction, such as peppery caryophyllene, pine-like pinene, musky myrcene, citrus limonene, and floral linalool. Series direction sits on top of that: Silver is fruit forward on a distillate base, Gold is cannabis forward on live resin, and Rose Gold is built on solventless live rosin.",
+        "Terpenes give a selection its recognizable aromatic direction, such as peppery caryophyllene, pine-like pinene, musky myrcene, citrus limonene, and floral linalool. Series direction sits on top of that: Silver is fruit forward, Gold is cannabis forward, and Rose Gold is the connoisseur line.",
       ],
     },
     {
@@ -102,7 +102,7 @@ export const strainsPage: PageContent = {
       paragraphs: [
         "Through licensed dispensaries, for adults 21+. Current availability belongs to the licensed retailer and the package on the shelf, so a name on this list is not a statement that it is in stock today. Ask for the strain name and the blunt format together, and confirm whether the package is a full-size blunt or a mini.",
       ],
-      subsections: [{ id: "is-this-the-official-strain-list", heading: "Is this the official Presidential Blunts strain list?", parts: [{ text: "Yes. This library is part of " }, { text: "the official infused-blunt guide", href: "/" }, { text: ", an educational reference that doesn't sell or ship cannabis. Each name here is available as a blunt: flower and concentrate inside our tobacco-free hemp wraps, with a kief or diamond finish. Silver blunts are the fruit-led distillate line. Full-size and mini formats share the same construction, but mini availability depends on the flavor; Blue Raspberry, for example, has no mini. Compare " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: ", read " }, { text: "the tobacco-free wrap explained", href: "/wrap/tobacco-free" }, { text: ", and confirm the current package at a licensed dispensary." }] }],
+      subsections: [{ id: "is-this-the-official-strain-list", heading: "Is this the official Presidential Blunts strain list?", parts: [{ text: "Yes. This library is part of " }, { text: "the official infused-blunt guide", href: "/" }, { text: ", an educational reference that doesn't sell or ship cannabis. Each name here is available as a blunt: flower and concentrate inside our tobacco-free hemp wraps, with a kief or diamond finish. Silver blunts are the fruit-led line. Full-size and mini formats share the same construction, but mini availability depends on the flavor; Blue Raspberry, for example, has no mini. Compare " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: ", read " }, { text: "the tobacco-free wrap explained", href: "/wrap/tobacco-free" }, { text: ", and confirm the current package at a licensed dispensary." }] }],
     },
     {
       id: "browse-without-claims",
@@ -128,7 +128,7 @@ export const strainsPage: PageContent = {
       heading: "Do not sort the names into the groupings",
       paragraphs: [
         "The wider catalog spans multiple groupings and these formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. The names are listed without assigning them to a grouping.",
-        "A grouping still explains extract and catalog direction. Silver is distillate and fruit-forward. Gold is live resin from cannabis frozen at harvest, and it is cannabis-forward. Rose Gold is solventless live rosin, made with ice water, heat, and pressure rather than chemical solvents. House and collaboration labels say who organized the line, including flower cultivated by THC Design. Those facts do not rename a cultivar, change the tobacco-free hemp wrap, or say which format is on a shelf today. Availability stays with the current package and a licensed retailer.",
+        "A grouping still explains catalog direction. Silver is fruit-forward. Gold is cannabis-forward. Rose Gold is the connoisseur line, and each pack prints its own build. House and collaboration labels say who organized the line, including flower cultivated by THC Design. Those facts do not rename a cultivar, change the tobacco-free hemp wrap, or say which format is on a shelf today. Availability stays with the current package and a licensed retailer.",
       ],
     },
   ],
