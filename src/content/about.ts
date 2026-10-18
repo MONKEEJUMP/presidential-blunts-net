@@ -50,8 +50,8 @@ export const aboutPage: PageContent = {
       paragraphs: [
         "The publication covers one subject: Presidential hemp-wrap infused blunts. It explains the format, records the verified catalog structure, and identifies the publisher behind the material. It does not turn every catalog name into a separate page, assign unverified products to a series, or use the Presidential name as though it were a cultivar.",
         "Each hub answers a different class of question. The wrap hub explains the tobacco-free outer material, airflow, burn rate, and how hemp wraps are made. The ritual hub covers storage, lighting, relighting, session length, and sharing. The comparison hub separates blunts from joints, pre-rolls, spliffs, paper wraps, and smaller formats. The strains hub keeps the name list and its catalog groupings together.",
-        "Readers can enter through the hub that matches the question in front of them. A construction question belongs in the wrap library. A question about lighting or storage belongs in the ritual library. Format differences belong in comparisons, while exact names and series context belong in the strains index.",
-        "The site uses direct answers first, then adds the facts needed to understand the answer. When a detail depends on a specific package, check the package rather than a strain name, series label, image, or older page. That check keeps the publication current without adding unsupported catalog claims.",
+        "Construction questions are answered in the wrap library, lighting and storage questions in the ritual library, format differences in the comparisons, and names and series in the strains index.",
+        " When a detail depends on a specific package, check the package rather than a strain name, series label, image, or older page. That check keeps the publication current without adding unsupported catalog claims.",
       ],
     },
     {

@@ -110,7 +110,7 @@ export const comparePages: PageContent[] = [
         id: "navigate-comparison-library",
         heading: "How to navigate this comparison library",
         paragraphs: [
-          "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Tobacco leaves, tobacco leaf wraps, and nicotine cues belong in the spliff contrast, not in Presidential hemp construction.",
+          "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Tobacco leaf and nicotine come up only in the spliff comparison; Presidential blunts use a tobacco-free hemp wrap.",
           "Read one comparison at a time, then come back here when several format questions come up together. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase.",
         ],
       },

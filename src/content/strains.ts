@@ -12,7 +12,7 @@ export const strainsPage: PageContent = {
   intro: [
     "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. This page is the complete Presidential blunt strain index.",
     "Presidential is the brand and publisher, not a strain or cultivar name, so the page keeps named selections separate from the series and partnership labels used to organize them.",
-    "Start with a familiar name, read the grouping notes for extract and catalog context, then move to the format guides when the question shifts to wrap construction, size, or session pace.",
+    "Start with a familiar name, read the grouping notes for extract and catalog context, then move to the format guides when the question shifts to wrap construction, size, or how long a session runs.",
   ],
   sections: [
     {
