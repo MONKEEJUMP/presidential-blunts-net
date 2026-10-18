@@ -46,15 +46,15 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Presidential Blunts use hemp wraps rather than tobacco leaf. The wrap keeps the crafted infused fill packed securely and helps define the slower blunt format without adding tobacco or nicotine. Distinct flavors come from the flower, the concentrate, the kief or diamond finish, and the profile identified for the particular product. Check the current package for flavor details.",
         "A blunt and a pre roll are related rolled-cannabis formats, but they are not interchangeable. Pre rolls use paper; Presidential Blunts use a broader hemp wrap. Full-size blunts and minis keep the same construction packed at different scales. The format page and package provide the reliable comparison.",
-        "When the outer sheet is the question—material, tobacco-free meaning, burn pace, or how flavour reads through a neutral wrap—continue in the Wrap hub. When size and format contrast matter more than the sheet itself, Compare keeps blunt, pre-roll, mini, and paper distinctions side by side without collapsing them into one product story.",
-        "Tobacco-free labeling stays with the wrap material itself. Confirm the current package for wrap composition and ingredients; this guide explains why hemp is used for blunt construction.",
-      ], subsections: [{ id: "from-hemp-fibre-to-a-shared-roll", heading: "From hemp fibre to a shared roll", parts: [{ text: "Presidential Blunts start with the sheet. A hemp wrap begins as plant fibre, pressed into a consistent sheet that can close around a packed fill without tobacco leaf. Inside it, the build is flower, concentrate, and a kief or diamond finish. The " }, { text: "step-by-step account of making a hemp sheet", href: "/wrap/how-wraps-are-made" }, { text: " shows how that wrap is produced. A blunt is often passed around, so read the " }, { text: "passing etiquette guide", href: "/ritual/sharing" }, { text: " for handling a shared roll cleanly. Then confirm availability with a licensed retailer." }] }],
+        "When the outer sheet is the question—material, tobacco-free meaning, burn pace, or how flavour reads through a neutral wrap—continue in the Wrap hub. When size and format matter more than the sheet itself, Compare puts blunt, pre-roll, mini, and paper side by side.",
+        "Confirm the current package for wrap composition and ingredients; this guide explains why hemp is used for blunt construction.",
+      ], subsections: [{ id: "from-hemp-fibre-to-a-shared-roll", heading: "From hemp fibre to a shared roll", parts: [{ text: "Presidential Blunts start with the sheet. A hemp wrap begins as plant fibre, pressed into a consistent sheet that can close around a packed fill without tobacco leaf. Inside it, the build is flower, concentrate, and a kief or diamond finish. To see how that wrap is produced, read " }, { text: "how a hemp sheet is made", href: "/wrap/how-wraps-are-made" }, { text: ". A blunt is often passed around, so read the " }, { text: "passing etiquette guide", href: "/ritual/sharing" }, { text: " for handling a shared roll cleanly. Then confirm availability with a licensed retailer." }] }],
     },
     {
       id: "three-layer-construction",
-      heading: "Flower, concentrate, kief, and moon rock roots",
+      heading: "Flower, concentrate, finish, and moon rock roots",
       paragraphs: [
-        "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate and finish with kief. In both formats, the infused cannabis inside leads the aroma and taste. That moon rock build is the root of Presidential's moon rock infused blunts: flower carried through with concentrate and a kief or diamond finish, rolled in a tobacco-free hemp wrap.",
+        "The three-layer idea connects Presidential Blunts with the brand's flagship moon rock format. A moon rock presents the layered cannabis material as a piece of flower, while a blunt carries infused material inside a ready-to-use hemp wrap. Both begin with flower and concentrate; Moon Rocks are finished with kief, and blunts carry a kief or diamond finish. In both formats, the infused cannabis inside leads the aroma and taste. That moon rock build is the root of Presidential's moon rock infused blunts: flower carried through with concentrate and a kief or diamond finish, rolled in a tobacco-free hemp wrap.",
         "Even distribution matters more than repeating a category-wide potency number. Concentrate changes density and heat retention, so consistent placement supports a more uniform roll. Presidential names the brand, while indica, sativa, and hybrid describe cultivars: an indica or sativa label classifies the plant, and another indica or sativa reference still describes an indica cultivar rather than the company.",
         "Named products live in the Strains hub, where catalog groupings keep Silver, Gold, Rose Gold, and related lines readable without treating brand identity as a cultivar. Session handling (storing a blunt cool and dark, even lighting and relights, pacing between puffs, and sharing) is covered in the Ritual guide.",
       ],
@@ -140,6 +140,7 @@ export const pillarPage: PageContent = {
       question: "What are Presidential Blunts wrapped in?",
       answer:
         "A tobacco-free hemp wrap rather than tobacco leaf. Confirm the current product and ingredient information on its package.",
+      more: { before: "The wrap holds the fill together and sets the burn pace; ", label: "what a blunt wrap does", href: "/wrap/what-a-wrap-does", after: " explains each job." },
     },
     {
       question: "What is a Presidential joint?",
@@ -165,6 +166,7 @@ export const pillarPage: PageContent = {
       question: "Do Presidential Blunts come in mini sizes?",
       answer:
         "Yes. Presidential Blunts come in full-size and mini formats, with the same construction packed at different scales.",
+      more: { before: "A mini suits a shorter session, and if either size goes out, ", label: "relighting an infused blunt", href: "/ritual/relighting", after: " covers bringing the edge back." },
     },
     {
       question: "Where can adults find Presidential Blunts?",

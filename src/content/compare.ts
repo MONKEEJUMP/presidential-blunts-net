@@ -23,7 +23,7 @@ export const comparePages: PageContent[] = [
         id: "pre-roll-vs-blunt",
         heading: "Pre roll vs blunt",
         paragraphs: [
-          "Joints consist of ground cannabis flower in thin paper. That sheet can be only rolling paper, including flax, in king-size and 1 1/4 sizes. A blunt places flower in a broader leaf or wrap. A tobacco wrap holds tobacco content in the outer leaf, while a hemp wrap is the tobacco-free sheet used for a smooth smoking experience. An infused pre-roll keeps paper on the outside and adds concentrate or kief to the flower. Pre-rolls typically hold ground flower in a compact pack for on the go use, while a blunt's fill can sit more tightly in the thicker wrap. Pre-rolled blunts arrive already formed, which removes grinding and rolling from the choice, and that paper build is not pre rolled joints.",
+          "Joints consist of ground cannabis flower in thin paper. That sheet can be only rolling paper, including flax, in king-size and 1 1/4 sizes. A blunt places flower in a broader leaf or wrap. A tobacco wrap holds tobacco content in the outer leaf, while a hemp wrap is the tobacco-free sheet used for a smooth smoking experience. An infused pre-roll keeps paper on the outside and adds concentrate and a kief or diamond finish to the flower. Pre-rolls typically hold ground flower in a compact pack for on the go use, while a blunt's fill can sit more tightly in the thicker wrap. Pre-rolled blunts arrive already formed, which removes grinding and rolling from the choice, and that paper build is not pre rolled joints.",
         ],
       },
       {
@@ -125,7 +125,7 @@ export const comparePages: PageContent[] = [
         id: "is-a-pre-roll-a-blunt",
         heading: "Is a pre-roll considered a blunt?",
         paragraphs: [
-          "No. A pre-roll is thin rolling paper around ground flower, and an infused pre-roll keeps that paper on the outside while adding concentrate or kief to the flower. A blunt is defined by its thicker wrap, which holds more material, burns slower, and keeps heat longer. Both can arrive ready to light, so being pre-rolled does not make a paper roll a blunt. The outer layer decides the name.",
+          "No. A pre-roll is thin rolling paper around ground flower, and an infused pre-roll keeps that paper on the outside while adding concentrate and a kief or diamond finish to the flower. A blunt is defined by its thicker wrap, which holds more material, burns slower, and keeps heat longer. Both can arrive ready to light, so being pre-rolled does not make a paper roll a blunt. The outer layer decides the name.",
         ],
       },
       {
@@ -670,7 +670,7 @@ export const comparePages: PageContent[] = [
         id: "presidential-position",
         heading: "Where a Presidential blunt sits",
         paragraphs: [
-          "Presidential occupies a clear place in this comparison. Its blunt uses hemp wrap, and the entire format is tobacco free. Inside are three layers: flower, concentrate, and a kief or diamond finish. The Infusion System carries distillate through the flower, and collected kief trichomes form the final layer.",
+          "Presidential occupies a clear place in this comparison. Its blunt uses hemp wrap, and the entire format is tobacco free. Inside are three layers: flower, concentrate, and a kief or diamond finish. The Infusion System carries distillate through the flower, and a kief or diamond finish forms the final layer.",
           "That build preserves the thicker wrap, greater material volume, slower burn, and longer heat retention associated with a blunt. At the same time, the neutral hemp wrap allows the contents to lead the taste. The result is best described directly as an infused, tobacco-free hemp blunt.",
           "Because Presidential keeps tobacco out of both wrap and fill, the product should not be read as a spliff even when someone uses that word casually for any rolled format. The accurate shelf language stays blunt-first: hemp wrap outside, cannabis construction inside, no tobacco leaf and no tobacco mixed into the fill. Series names and strain labels refine the recipe after that construction is clear.",
         ],

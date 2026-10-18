@@ -32,6 +32,7 @@ export type LinkedParagraph = {
 export type FaqItem = {
   question: string;
   answer: string;
+  more?: { before: string; label: string; href: string; after: string };
 };
 
 export type PageContent = {
