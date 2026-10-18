@@ -113,7 +113,7 @@ export const ritualPages: PageContent[] = [
 
       {
         before: "The ",
-        link: { href: "/", label: "complete blunt reference" },
+        link: { href: "/", label: "blunt reference" },
         after: " connects this ritual to construction, format, and the Presidential catalog.",
       },
       {
@@ -449,7 +449,7 @@ export const ritualPages: PageContent[] = [
     kind: "article",
     silo: "ritual",
     h1: "How to Store Infused Blunts",
-    title: "Complete Infused Blunt Storage Guide | Presidential Blunts",
+    title: "Infused Blunt Storage Guide | Presidential Blunts",
     description:
       "Build a cool, dark storage routine around temperature, light, containers, and terpene-rich infused material with the Presidential Blunts guide.",
     wordTarget: [1100, 1250],
@@ -467,7 +467,7 @@ export const ritualPages: PageContent[] = [
           "Choose a stable location where the temperature stays comfortably cool and deep shade surrounds the container. Repeating that placement turns the rule into a dependable habit. The blunt receives the same environment each time it returns to storage.",
           "Practical placement follows the same cue. A drawer, cabinet, or shaded shelf away from windows, heaters, and parked-car heat keeps the container out of swinging temperature and direct sun. Cool and dark is not a special device requirement; it is a repeatable room choice that leaves the aromatic layers in a steadier state until the next session.",
         ],
-        subsections: [{ id: "why-storage-matters", heading: "Why does storage matter for an infused blunt?", parts: [{ text: "Heat and light take terpenes first, so stable temperature, shade, and a dedicated container keep an infused blunt in good order. Our thicker wraps hold heat longer once lit, which is covered in the " }, { text: "blunt burn rate guide", href: "/wrap/burn-rate" }, { text: ". For the next step, see " }, { text: "how to light one", href: "/ritual/how-to-light-one" }, { text: "." }] }, { id: "why-a-hemp-wrap-stores-differently-from-tobacco-leaf", heading: "Why a hemp wrap stores differently from tobacco leaf", parts: [{ text: "A hemp wrap and a tobacco leaf wrap age in different ways. Hemp is pressed into an even sheet with no tobacco, so it stays neutral in flavour and keeps a consistent feel when it is stored cool, dark, and sealed. A leaf wrap varies more from piece to piece and can pick up or lose moisture unevenly. That makes a dedicated container and a steady spot more useful for a hemp blunt than an open shelf. The " }, { text: "explainer on why the hemp wrap holds no tobacco", href: "/wrap/tobacco-free" }, { text: " covers the material. For how the wrap shapes taste, see " }, { text: "the guide to how a neutral wrap shapes flavour", href: "/wrap/wrap-and-flavour" }, { text: "." }] }],
+        subsections: [{ id: "why-storage-matters", heading: "Why does storage matter for an infused blunt?", parts: [{ text: "Heat and light take terpenes first, so stable temperature, shade, and a dedicated container keep an infused blunt in good order. Our thicker wraps hold heat longer once lit, which is covered in the " }, { text: "blunt burn rate guide", href: "/wrap/burn-rate" }, { text: ". For the next step, see " }, { text: "how to light one", href: "/ritual/how-to-light-one" }, { text: "." }] }],
       },
       {
         id: "container-choice",
@@ -477,7 +477,7 @@ export const ritualPages: PageContent[] = [
           "This choice also makes format planning straightforward. A full-size blunt and a mini share the same three-layer construction at different sizes, so each can have a container matched to its dimensions. The guiding conditions remain identical: cool temperature and deep shade.",
           "Consistency gives the routine its value. One container, one stable location, and one return step create an easy pattern around the infused format. Each part reinforces the cool, dark principle that places terpene care at the center of storage.",
           "Fit matters as much as location. The blunt should rest without being crushed, and the lid should close only after any remaining ember is fully out and the material has cooled. An opaque or shaded container in the same cool spot reduces stray light between sittings and keeps the home address of the format unmistakable.",
-        ],
+        ], subsections: [{ id: "why-a-hemp-wrap-stores-differently-from-tobacco-leaf", heading: "Why a hemp wrap stores differently from tobacco leaf", parts: [{ text: "A hemp wrap and a tobacco leaf wrap age in different ways. Hemp is pressed into an even sheet with no tobacco, so it stays neutral in flavour and keeps a consistent feel when it is stored cool, dark, and sealed. A leaf wrap varies more from piece to piece and can pick up or lose moisture unevenly. That makes a dedicated container and a steady spot more useful for a hemp blunt than an open shelf. The " }, { text: "explainer on why the hemp wrap holds no tobacco", href: "/wrap/tobacco-free" }, { text: " covers the material. For how the wrap shapes taste, see " }, { text: "the guide to how a neutral wrap shapes flavour", href: "/wrap/wrap-and-flavour" }, { text: "." }] }],
       },
       {
         id: "understand-the-build",
@@ -499,7 +499,7 @@ export const ritualPages: PageContent[] = [
       },
       {
         id: "store-every-series",
-        heading: "Apply the same rule across every series",
+        heading: "One storage rule for each series",
         paragraphs: [
           "The Silver Flavor Series is built on distillate, the Gold Strain Series on live resin, and the Rose Gold Connoisseur Series on solventless live rosin. The Presidential, House, and THC Design groupings broaden the catalog with more flower and extract combinations. Cool, dark storage gives all of these infused directions one clear home rule.",
           "Distillate supplies a near-neutral aromatic base when flavor is added deliberately. Live resin begins with cannabis flash-frozen at harvest, while live rosin begins with fresh-frozen material and uses an ice-water wash followed by heat and pressure. The extract paths vary, and the storage cue stays consistent.",
@@ -510,7 +510,7 @@ export const ritualPages: PageContent[] = [
         id: "prepare-for-the-next-light",
         heading: "Connect storage to the next session",
         paragraphs: [
-          "A complete storage routine can be read in three short steps. Place the infused blunt in its fitted container, return that container to the cool and shaded location, and bring it forward when the next session begins. The same sequence works for an intact format and for a pause between sessions.",
+          "A storage routine can be read in three short steps. Place the infused blunt in its fitted container, return that container to the cool and shaded location, and bring it forward when the next session begins. The same sequence works for an intact format and for a pause between sessions.",
           "At that next opening, the heat strategy changes by design. Storage supplies coolness and darkness; lighting supplies a gradual flame around the circumference. Keeping those stages distinct gives the material a stable home followed by an even start.",
           "Retrieval should stay patient. Bring the container forward, open it once the session is ready, and rotate the active end through the flame until the rim shows a connected glow. Do not rush heat to compensate for time in storage—the cool, dark setting was meant to hold the material steady, and gradual rotation is what activates the edge again.",
           "The brand’s official infused-blunt website explains the hemp wrap and three-layer build that storage protects.",

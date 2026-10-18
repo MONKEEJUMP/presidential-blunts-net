@@ -20,7 +20,7 @@ export const strainsPage: PageContent = {
       heading: "All Blunt Strains",
       paragraphs: [
         "Each name below is available as a blunt. The list presents the library without assigning individual strains to a series, leaving the series descriptions to explain their construction and catalog direction.",
-        "A familiar selection can sit next to a newer label without implying ranking, potency, or a hidden series assignment. Until individual reference pages arrive, this roll call is the complete blunt-name layer of the catalog.",
+        "A familiar selection can sit next to a newer label without implying ranking, potency, or a hidden series assignment. Until individual reference pages arrive, this roll call is the blunt-name layer of the catalog.",
       ],
       subsections: [{ id: "choose-among-24", heading: "How to choose among the infused blunt strains", parts: [{ text: "Start with taste. Fruit names like Strawberry, Watermelon, Peach Mango and Blue Raspberry point toward the flavor-led side of the library. Names like Gorilla Goo, Skywalker, Garlic Cookies and Ghost Train Haze point toward strain-led cannabis character. In every case the terpenes in the flower set the aroma first, and the concentrate and kief or diamond layers add to the fill without changing what the strain name means. Indica, sativa and hybrid are plant groupings. They aren't a ranking, and this index doesn't promise any outcome from a label. The rest of each blunt comes from the build and the session. " }, { text: "How our wraps shape flavour", href: "/wrap/wrap-and-flavour" }, { text: " explains what the hemp sheet adds, " }, { text: "infused versus non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: " covers the concentrate layer, and the " }, { text: "blunt sharing guide", href: "/ritual/sharing" }, { text: " covers passing one around a group. The current package and its batch test record remain the reference for THC and cannabinoid figures." }] }],
       bullets: [
@@ -78,7 +78,7 @@ export const strainsPage: PageContent = {
       paragraphs: [
         "A strain name and a series name provide two different entry points. The strain list supports browsing by a familiar selection, while the series description explains an extract base, flavor direction, or collaboration. Keeping those pieces distinct makes the library accurate and gives every name equal space until its own reference page is developed.",
         "The groupings make up the wider catalog. Those products appear in these formats—Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis—while this library focuses specifically on the names available as blunts. Every name listed here is a Presidential blunt; the series guide gives each one's extract.",
-        "All of these selections return to the same blunt format: a thicker hemp wrap around infused material. Presidential blunts are one hundred percent tobacco free, and the neutral wrap lets the flower, concentrate, kief or diamond finish, and selected flavor direction define the finished profile. Readers who want the complete format overview can return to Presidential Blunts, while current retail availability is available through the licensed-retailer locator.",
+        "All of these selections return to the same blunt format: a thicker hemp wrap around infused material. Presidential blunts are one hundred percent tobacco free, and the neutral wrap lets the flower, concentrate, kief or diamond finish, and selected flavor direction define the finished profile. Readers who want the format overview can return to Presidential Blunts, while current retail availability is available through the licensed-retailer locator.",
       ], subsections: [{ id: "keeping-a-strains-aroma-between-sessions", heading: "Keeping a strain's aroma between sessions", parts: [{ text: "A strain name only holds up if the blunt is kept well. " }, { text: "How to store a blunt", href: "/ritual/storage" }, { text: " covers keeping the wrap fresh, and " }, { text: "relighting a blunt", href: "/ritual/relighting" }, { text: " covers picking one back up later." }] }, { id: "what-the-wrap-adds-to-a-strain-name", heading: "What the wrap adds to a strain name", parts: [{ text: "The flower carries the strain, and the wrap frames it. " }, { text: "The jobs a blunt wrap performs", href: "/wrap/what-a-wrap-does" }, { text: " and " }, { text: "the hemp wrap production steps", href: "/wrap/how-wraps-are-made" }, { text: " explain that outer layer." }] }, { id: "how-a-strain-burns-in-a-hemp-wrap", heading: "How a strain burns in a hemp wrap", parts: [{ text: "The wrap shapes how a strain smokes. Read " }, { text: "the pace of a hemp-wrapped burn", href: "/wrap/burn-rate" }, { text: " and " }, { text: "hemp wrap versus rolling paper", href: "/compare/hemp-wrap-vs-paper" }, { text: "." }] }],
     },
     {
@@ -135,7 +135,7 @@ export const strainsPage: PageContent = {
   linkParagraphs: [
     {
       before: "Return to the ",
-      link: { href: "/", label: "complete blunt reference" },
+      link: { href: "/", label: "blunt reference" },
       after: " for construction and format context.",
     },
     {
