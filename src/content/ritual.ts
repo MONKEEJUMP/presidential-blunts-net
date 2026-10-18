@@ -79,7 +79,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The ritual guides cover how to light one, relighting, storage, session length, and sharing. Each child isolates one cue—opening glow, gradual reset, cool dark home, format timeline, or group rhythm—while linking back here when the next question spans more than one step.",
           "Browse in that practical order when you are new to the format, or jump to the child that matches the moment in hand. Lighting flow and relighting stay paired with denser builds; storage protects what remains between sittings; session length and sharing translate capacity into solo or group pacing. Return to this hub whenever you need the full sequence in one place.",
-        ],
+        ], subsections: [{ id: "ritual-questions-about-wraps-and-spliffs", heading: "Ritual questions about wraps and spliffs", parts: [{ text: "Readers often ask how a blunt compares with a spliff. See " }, { text: "blunts compared with spliffs", href: "/compare/blunt-vs-spliff" }, { text: " and " }, { text: "the wrap guide hub", href: "/wrap" }, { text: "." }] }],
       },
     ],
     linkParagraphs: [
