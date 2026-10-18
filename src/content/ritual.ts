@@ -12,8 +12,8 @@ export const ritualPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower, concentrate and kief-or-diamond construction give the ritual its deliberate tempo.",
-      "Presidential blunts pair a neutral, tobacco-free hemp wrap with the three-layer build. The wrap lets the contents lead the taste, while evenly distributed concentrate holds heat and supports a steady burn. The same core ritual applies across the Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings. These five guides cover each part of the session from storage through sharing, with clear cues that work for minis and full-size blunts.",
-      "Presidential Blunts publishes this hub as a practical guide to the hemp-wrapped infused format. Presidential is the brand and publisher, not a strain or cultivar, so the ritual stays focused on preparation, heat, pace, storage, and the people sharing the session.",
+      "Presidential blunts pair a neutral, tobacco-free hemp blunt wrap with the three-layer build. The wrap lets the contents lead the taste, while evenly distributed concentrate holds heat and supports a steady burn. The same core ritual applies across the Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings. These five guides cover each part of the session from storage through sharing, with clear cues that work for minis and full-size blunts.",
+      "Presidential is the brand and publisher, not a strain or cultivar, so the ritual stays focused on preparation, heat, pace, storage, and the people sharing the session.",
       "This guide covers lighting flow, relighting, cool dark storage, format pacing, and sharing norms.",
     ],
     sections: [
@@ -106,9 +106,9 @@ export const ritualPages: PageContent[] = [
       },
 
       {
-        before: "Catalog ",
-        link: { href: "/strains", label: "strain or cultivar groupings" },
-        after: " sit on the strains hub.",
+        before: "Browse ",
+        link: { href: "/strains", label: "blunt strains by series" },
+        after: ".",
       },
 
       {
@@ -229,7 +229,7 @@ export const ritualPages: PageContent[] = [
         id: "wrap-and-flavour",
         heading: "Let the hemp wrap frame the contents",
         paragraphs: [
-          "Presidential uses a hemp wrap across its blunts. The wrap is one hundred percent tobacco free and neutral in taste, so the material inside leads the flavor. This makes the lighting step a direct introduction to the flower, concentrate, and final kief layer.",
+          "Presidential uses a hemp wrap across its blunts. The wrap is one hundred percent tobacco free and neutral in taste, so the material inside leads the flavor. This makes the lighting step a direct introduction to the flower, the concentrate, and the kief or diamond finish.",
           "The catalog carries distillate-based, live-resin, live-rosin, Presidential, House, and THC Design groupings. Each build still benefits from the same even opening heat. The format stays consistent while the material inside supplies its own direction.",
           "Because the wrap stays neutral, the opening glow lets flower and extract directions present themselves without a competing paper taste. Lighting evenly protects that introduction—a scorched corner muddies what the wrap was meant to leave clear.",
         ],
@@ -610,7 +610,7 @@ export const ritualPages: PageContent[] = [
           "A blunt and a pre-roll use different outer materials. The blunt uses a thicker wrap, and the pre-roll uses thin rolling paper. The blunt also holds more material, which gives the flame a larger, denser construction to move through over the course of a session.",
           "Those characteristics make the blunt the slower format. The wrap and contents hold heat longer, while the larger capacity creates more distance from the opening light to the finish. The session follows that physical design at a measured tempo.",
           "The hemp wrap also stays neutral in taste, allowing the flower, concentrate, and a kief or diamond finish to lead throughout that longer timeline. The session therefore combines added duration with a clear view of the three-layer build, all carried by the steady heat of the thicker format.",
-          "Label literacy makes that pace readable before anything is lit. A package that names hemp wrap or tobacco-free wrap, then lists a higher net weight than a paper pre-roll beside it, is pointing at a longer construction timeline. Thicker outer layer and greater fill capacity usually ask for more available time; thin paper and a lighter fill usually move on a quicker clock. The comparison stays descriptive of materials, not a promise about effects.",
+          "A package that names hemp wrap or tobacco-free wrap, then lists a higher net weight than a paper pre-roll beside it, is pointing at a longer construction timeline. Thicker outer layer and greater fill capacity usually ask for more available time; thin paper and a lighter fill usually move on a quicker clock. The comparison stays descriptive of materials, not a promise about effects.",
         ],
       },
       {
@@ -646,7 +646,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The active edge provides a practical marker throughout the session. An even glowing circumference shows the material moving together. A quieter glow during a resting interval signals the natural moment for another complete rotation through the flame.",
           "This approach keeps time connected to the format itself. The group or individual reads the edge, responds with gradual heat, and lets the dense construction resume its pace. Each heat cycle becomes a visible part of the full timeline.",
-          "Humidity and pack evenness can nudge how that edge behaves after the first light. A drifting glow is a cue to slow down, rotate fully, and restore an even ring rather than chase a hotter flame. Returning an unfinished portion to a cool, dark resting place protects the remaining material between sittings. Progress stays a visible construction story—edge, heat, pause, return—without medical or dosing advice.",
+          "Humidity and pack evenness can nudge how that edge behaves after the first light. A drifting glow is a cue to slow down, rotate fully, and restore an even ring rather than chase a hotter flame. Returning an unfinished portion to a cool, dark resting place protects the remaining material between sittings.",
         ],
       },
       {

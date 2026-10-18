@@ -13,15 +13,10 @@ export const comparePages: PageContent[] = [
     intro: [
       "A blunt is defined by its wrap, capacity, and slower-burning character. Put it beside a joint, pre-roll, spliff, mini, or paper-wrapped format and the practical differences become clear: the material around the fill, the amount it holds, the way heat travels, and the pace of the session all help identify the right format for an occasion. The main difference smokers notice first is wrap thickness and whether tobacco leaf wraps, a blunt wrap, or thin rolling papers surround the fill.",
       "This comparison library takes one distinction at a time. Each guide starts with the direct answer, then looks closely at construction, burn behavior, taste, size, and use so readers can make a straightforward format choice for their smoking experience and smoking sessions.",
-      "Presidential Blunts publishes this hub as an infused-blunt format reference. Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question. Quality cannabis construction, aroma, flavor, and convenience matter more than nicknames when adults choose a format that users can verify on a labeled package.",
-      "Start with the outer layer, then fill and infusion, then size and session pace. Each guide below covers one contrast: joint, pre-roll, spliff, mini, infused build, or wrap versus paper. The goal is a clearer cannabis experience for smokers who want construction literacy before lighting, including how cannabis strains, burn time, and flavor cues show up on labeled packages.",
+      "Presidential is the brand and publisher, not a strain or cultivar. The comparisons separate construction from naming so readers can check the wrap, fill, infusion, size, and intended session before following the guide that answers the next question. Quality cannabis construction, aroma, flavor, and convenience matter more than nicknames when adults choose a format that users can verify on a labeled package.",
+      "Start with the outer layer, then fill and infusion, then size and session pace. Each guide below covers one contrast: joint, pre-roll, spliff, mini, infused build, or wrap versus paper.",
     ],
     leadParagraphs: [
-      {
-        before: "This comparison library is published by ",
-        link: { href: "https://presidentialblunts.net/", label: "Presidential Blunts" },
-        after: ".",
-      },
     ],
     sections: [
       {
@@ -116,7 +111,7 @@ export const comparePages: PageContent[] = [
         heading: "How to navigate this comparison library",
         paragraphs: [
           "Browse in a practical order when several questions arrive at once: hemp wrap versus paper for the outer layer, blunt versus joint or pre-roll for thick-wrap capacity versus thin-paper pace, blunt versus spliff for tobacco placement, infused versus regular for fill layers, then mini versus full for scale. Tobacco leaves, tobacco leaf wraps, and nicotine cues belong in the spliff contrast, not in Presidential hemp construction.",
-          "Read one comparison at a time, then come back here when several format questions come up together. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase. Marijuana labeling, weed nicknames, and cannabis strains still follow the package—not the hub title—when users shop.",
+          "Read one comparison at a time, then come back here when several format questions come up together. Two users comparing the same shelf may still choose different builds based on flavor and session length. That habit keeps the cannabis experience educational and the smoking experience grounded in construction for adults comparing formats before a dispensary purchase.",
         ],
       },
       {
@@ -304,7 +299,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A blunt generally carries more material than a joint. That greater capacity supports an occasion with more time or more people, while a joint's smaller paper-wrapped build suits a concise session. Size here is more than a visual distinction: it influences how long the format remains in use and how often it can move around a group.",
           "Presidential also offers the mini, which keeps blunt construction at a smaller size. That creates a useful middle choice for someone who values the thicker hemp wrap and layered format in a compact package.",
-          "Label literacy keeps size honest on the shelf. Look for wrap or paper language, net weight, and batch or lot identifiers where the market requires them. Those details describe how much material the format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and joint capacity without treating a casual nickname as a substitute for the current label.",
+          "Look for wrap or paper language, net weight, and batch or lot identifiers where the market requires them. Those details describe how much material the format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and joint capacity without treating a casual nickname as a substitute for the current label.",
         ],
       },
       {
@@ -464,7 +459,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A blunt holds more material than a pre-roll. Its thicker wrap supplies the structure for that greater capacity, creating a format suited to a longer window or a shared occasion. A pre-roll's thin-paper form keeps the scale compact and the completion time short.",
           "Size can be refined further through a mini blunt. A mini uses the same construction at a smaller size, preserving the hemp wrap and blunt character while shortening the session. That gives readers three clear positions: quick pre-roll, compact mini blunt, and longer full-size blunt.",
-          "Label literacy keeps size honest on the shelf. Look for wrap or paper language, net weight, and batch or lot identifiers where the market requires them. Those details describe how much material the format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and pre-roll capacity without treating a casual nickname as a substitute for the current label.",
+          "Look for wrap or paper language, net weight, and batch or lot identifiers where the market requires them. Those details describe how much material the format carries and what surrounds it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and pre-roll capacity without treating a casual nickname as a substitute for the current label.",
         ],
       },
       {
@@ -666,9 +661,9 @@ export const comparePages: PageContent[] = [
         id: "why-terms-meet",
         heading: "Why the terms meet in conversation",
         paragraphs: [
-          "Both are rolled formats, and both can be held, lit, and shared in a similar way. That visible resemblance explains why casual language can blur the names. A construction-based vocabulary restores precision and keeps the topic simple.",
+          "Both are rolled formats, and both can be held, lit, and shared in a similar way. That visible resemblance explains why casual language can blur the names.",
           "Ask two direct questions. What material forms the outside layer? What materials form the fill? A thick wrap around flower points to the blunt family. Thin paper around cannabis combined with tobacco points to the traditional spliff family. Thin paper around flower corresponds to a joint or pre-roll, depending on how it was prepared and presented.",
-          "Label literacy keeps those answers honest on the shelf. Look for wrap or paper language, ingredient statements, net weight, and batch or lot identifiers where the market requires them. Those details describe what is around the fill and what sits inside it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and spliff construction without treating a casual nickname as a substitute for the current label.",
+          "Look for wrap or paper language, ingredient statements, net weight, and batch or lot identifiers where the market requires them. Those details describe what is around the fill and what sits inside it. They do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the package text to separate blunt and spliff construction without treating a casual nickname as a substitute for the current label.",
         ],
       },
       {
@@ -996,7 +991,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A regular flower-filled blunt reflects the tested cannabinoids in its flower. An infused build combines flower with concentrated material and kief, so its values must come from the finished batch rather than a generic category range.",
           "The comparison is therefore structural and batch-specific. Series and extract choice refine the recipe: distillate supports the Silver Flavor Series, live resin identifies the Gold Strain Series, and live rosin supplies the solventless Rose Gold path. Read the current package label and associated test results for potency.",
-          "Label literacy keeps that reading honest. Look for format name, wrap material, ingredient statement, net weight, batch or lot identifiers, and the potency figures tied to that finished unit where the market requires them. Those details describe what is in the wrap; they do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the numbers to compare builds on the shelf without treating a category average as a substitute for the current batch.",
+          "Look for format name, wrap material, ingredient statement, net weight, batch or lot identifiers, and the potency figures tied to that finished unit where the market requires them. Those details describe what is in the wrap; they do not authorize dosing advice, medical claims, or a promise about how a session will feel. Adult consumers 21+ can use the numbers to compare builds on the shelf without treating a category average as a substitute for the current batch.",
         ],
       },
       {

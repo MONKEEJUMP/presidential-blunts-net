@@ -103,7 +103,7 @@ function firstParagraphRules(page: PageContent) {
   return placed;
 }
 
-function ArticleSection({ section, image, reverse, linkRules }: { section: ContentSection; image?: ContentImage; reverse: boolean; linkRules: Map<string, InContentLinkRule[]> }) {
+function ArticleSection({ section, image, reverse, linkRules, links }: { section: ContentSection; image?: ContentImage; reverse: boolean; linkRules: Map<string, InContentLinkRule[]>; links?: ReactNode }) {
   return (
     <section className={`article-section${image ? " article-section--with-image" : ""}`} id={section.id}>
       <div className={`article-section__grid${reverse ? " article-section__grid--reverse" : ""}`}>
@@ -111,12 +111,27 @@ function ArticleSection({ section, image, reverse, linkRules }: { section: Conte
           <h2>{section.heading}</h2>
           {section.paragraphs.map((paragraph, index) => <p key={`${section.id}-paragraph-${index}`}><LinkedParagraph rules={linkRules.get(`${section.id}-${index}`)} text={paragraph} /></p>)}
           {section.bullets?.length ? <ul>{section.bullets.map((bullet, index) => <li key={`${section.id}-bullet-${index}`}>{bullet}</li>)}</ul> : null}
+          {links}
           <DataTable section={section} />
           {section.subsections?.map((sub) => (<div className="article-subsection" key={sub.id}><h3>{sub.heading}</h3><p>{sub.parts.map((part, index) => part.href ? <Link href={part.href} key={`${sub.id}-${index}`}>{part.text}</Link> : <span key={`${sub.id}-${index}`}>{part.text}</span>)}</p>{sub.more?.map((paragraph, pIndex) => <p key={`${sub.id}-more-${pIndex}`}>{paragraph.map((part, index) => part.href ? <Link href={part.href} key={`${sub.id}-${pIndex}-${index}`}>{part.text}</Link> : <span key={`${sub.id}-${pIndex}-${index}`}>{part.text}</span>)}</p>)}</div>))}
         </div>
         {image ? <ContentFigure image={image} /> : null}
       </div>
     </section>
+  );
+}
+
+function RelatedSiteLinksInline({ page }: { page: PageContent }) {
+  return (
+    <>
+      {page.linkParagraphs?.map((paragraph, index) => (
+        <p key={paragraph.link?.href ?? `link-paragraph-${index}`}>
+          {paragraph.before}
+          {paragraph.link ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link> : null}
+          {paragraph.after}
+        </p>
+      ))}
+    </>
   );
 }
 
@@ -310,8 +325,8 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
               const image = layoutIndex >= 0 ? usedSectionImages[layoutIndex] : undefined;
               return (
               <Fragment key={section.id}>
-                <ArticleSection image={image} linkRules={linkRules} reverse={layoutIndex % 2 === 1} section={section} />
-                {section.id === linkAnchorId ? <RelatedSiteLinks page={page} /> : null}
+                <ArticleSection image={image} linkRules={linkRules} links={page.linkSectionId === section.id ? <RelatedSiteLinksInline page={page} /> : undefined} reverse={layoutIndex % 2 === 1} section={section} />
+                {section.id === linkAnchorId && !page.linkSectionId ? <RelatedSiteLinks page={page} /> : null}
               </Fragment>
               );
             })}
