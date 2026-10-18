@@ -7,10 +7,10 @@ export const strainsPage: PageContent = {
   h1: "Blunt Strains and Catalog Groupings",
   title: "Blunt Strain and Catalog Guide | Presidential Blunts",
   description:
-    "Presidential blunt strains: a standalone library of the named strains available as Presidential blunts, with a guide to the verified catalog groupings.",
+    "Presidential blunt strains: a standalone library of the named strains available as Presidential blunts, with a guide to the catalog groupings.",
   wordTarget: [1100, 1250],
   intro: [
-    "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. The Presidential blunt strain index lists each name as it appears on the pack.",
+    "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the groupings that surround the library. The Presidential blunt strain index lists each name as it appears on the pack.",
     "Presidential is the brand and publisher, not a strain or cultivar name, so the page keeps named selections separate from the series and partnership labels used to organize them.",
     "Start with a familiar name, read the grouping notes for extract and catalog context, then move to the format guides when the question shifts to wrap construction, size, or how long a session runs.",
   ],
@@ -19,7 +19,7 @@ export const strainsPage: PageContent = {
       id: "all-24-strains",
       heading: "All Blunt Strains",
       paragraphs: [
-        "Each name below is available as a blunt. The list presents the library without assigning individual strains to a series, leaving the series descriptions to explain their verified construction and catalog direction.",
+        "Each name below is available as a blunt. The list presents the library without assigning individual strains to a series, leaving the series descriptions to explain their construction and catalog direction.",
         "A familiar selection can sit next to a newer label without implying ranking, potency, or a hidden series assignment. Until individual reference pages arrive, this roll call is the complete blunt-name layer of the catalog.",
       ],
       subsections: [{ id: "choose-among-24", heading: "How to choose among the infused blunt strains", parts: [{ text: "Start with taste. Fruit names like Strawberry, Watermelon, Peach Mango and Blue Raspberry point toward the flavor-led side of the library. Names like Gorilla Goo, Skywalker, Garlic Cookies and Ghost Train Haze point toward strain-led cannabis character. In every case the terpenes in the flower set the aroma first, and the concentrate and kief or diamond layers add to the fill without changing what the strain name means. Indica, sativa and hybrid are plant groupings. They aren't a ranking, and this index doesn't promise any outcome from a label. The rest of each blunt comes from the build and the session. " }, { text: "How our wraps shape flavour", href: "/wrap/wrap-and-flavour" }, { text: " explains what the hemp sheet adds, " }, { text: "infused versus non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: " covers the concentrate layer, and the " }, { text: "blunt sharing guide", href: "/ritual/sharing" }, { text: " covers passing one around a group. The current package and its batch test record remain the reference for THC and cannabinoid figures." }] }],
@@ -56,7 +56,7 @@ export const strainsPage: PageContent = {
       paragraphs: [
         "The Silver Flavor Series is built on distillate and has a fruit-forward direction. The Gold Strain Series is built on live resin and has a cannabis-forward direction. Live resin begins with cannabis frozen at harvest rather than first dried and cured.",
         "The Rose Gold Connoisseur Series is built on solventless live rosin, which uses ice water, heat, and pressure instead of chemical solvents. Additional groupings complete the catalog structure: the Presidential Line, the Presidential House Line, and Presidential x THC Design. The collaboration uses flower cultivated by THC Design.",
-        "Together these groupings form the verified catalog map. Extract-led series (Silver, Gold, Rose Gold) describe concentrate preparation and flavor direction. House and collaboration lines describe organizational structure. The groupings make up the wider catalog, while this hub isolates the names offered as blunts.",
+        "Together these groupings form the catalog map. Extract-led series (Silver, Gold, Rose Gold) describe concentrate preparation and flavor direction. House and collaboration lines describe organizational structure. The groupings make up the wider catalog, while this hub isolates the names offered as blunts.",
         "Read the groupings as layers, not as a second strain list. A series label explains construction and catalog direction.",
       ],
       subsections: [{ id: "series-by-extract", heading: "How do the series differ by extract?", parts: [{ text: "Silver products are built on distillate with a fruit-forward direction, Gold products on live resin with a cannabis-forward direction, and Rose Gold products on solventless live rosin. Every blunt in the library is rolled in our wraps, the same " }, { text: "tobacco-free hemp wrap", href: "/wrap/tobacco-free" }, { text: ", so the series changes the extract and flavor direction, not the wrap. Compare formats on the " }, { text: "blunt vs pre-roll", href: "/compare/blunt-vs-pre-roll" }, { text: " page." }] }],
@@ -117,7 +117,7 @@ export const strainsPage: PageContent = {
       id: "reading-the-index",
       heading: "Read the Catalog in Layers",
       paragraphs: [
-        "Use the name list as the first layer of the index. The series and line descriptions form a second layer that explains how the wider catalog is grouped. Keeping those layers separate prevents a reader from assigning a named selection to a series when the verified catalog record does not make that relationship.",
+        "Use the name list as the first layer of the index. The series and line descriptions form a second layer that explains how the wider catalog is grouped. Keeping those layers separate prevents a reader from assigning a named selection to a series when the catalog record does not make that relationship.",
         "Extract base is part of the grouping context, not another strain name. Distillate defines the Silver Flavor Series construction, live resin defines the Gold Strain Series, and solventless live rosin defines the Rose Gold Connoisseur Series. Fruit-forward and cannabis-forward language describes each series direction. It does not turn an extract, flavor direction, or series label into a cultivar identity.",
         "House and collaboration labels describe who organized or contributed to a line. The Presidential Line and Presidential House Line sit under the Presidential catalog, while Presidential x THC Design identifies a collaboration using flower cultivated by THC Design. Those labels explain catalog relationships. They do not rename the flower selections or make Presidential itself a strain.",
         "To use the hub, begin with the exact name list, then read the grouping notes for extract and catalog context. Move to the format guides when the question shifts to hemp wrap construction, blunt-versus-pre-roll differences, or mini-versus-full sizing. Check the current package for product-specific details instead of inferring them from a name or grouping alone.",

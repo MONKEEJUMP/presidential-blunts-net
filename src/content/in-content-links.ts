@@ -77,6 +77,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "share a hemp wrap" },
   ],
   "/wrap/tobacco-free": [
+    { href: "/ritual/relighting", anchor: "the step-by-step relight method", context: "Relighting belongs naturally to that pace, and the step-by-step relight method keeps it even" },
     { href: "/ritual/session-length", anchor: "slower-burning blunt session", context: "while preserving the larger, slower-burning blunt session" },
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
@@ -85,6 +86,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
   "/wrap/hemp-vs-tobacco": [
+    { href: "/ritual/relighting", anchor: "an occasional relight", context: "absorb a slower catch and an occasional relight; a mini keeps the same hemp-wrap logic" },
     { href: "/", anchor: "main blunt guide", context: "main blunt guide on the home page" },
     { href: "/strains", anchor: "blunt library", context: "each name in the blunt library" },
   ],
@@ -104,6 +106,8 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "A neutral hemp wrap lets the contents lead the taste" },
   ],
   "/ritual/relighting": [
+    { href: "/wrap/tobacco-free", anchor: "hemp wrap without tobacco explainer", context: "For why the wrap itself carries no tobacco, see the hemp wrap without tobacco explainer." },
+    { href: "/compare/blunt-vs-joint", anchor: "blunt-versus-joint pacing guide", context: "The blunt-versus-joint pacing guide covers size, capacity, and burn time side by side" },
     { href: "/wrap", anchor: "hemp wrap", context: "A thicker hemp wrap around flower, concentrate, and a kief or diamond finish" },
   ],
   "/ritual/how-to-light-one": [
