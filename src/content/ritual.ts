@@ -751,7 +751,7 @@ export const ritualPages: PageContent[] = [
         id: "built-for-time",
         heading: "A format built around more time",
         paragraphs: [
-          "The shared quality begins with physical construction. A blunt uses a thicker wrap than a pre-roll and carries more material. It burns slower and holds heat longer, so the session has room for more than one person to participate in a measured sequence.",
+          "The shared quality begins with physical construction. A blunt uses a thicker wrap than a pre-roll and carries more material. It burns slower and holds heat longer, so the session has room for more than one person to participate in a measured sequence. For why the wrap sets that pace, see burn rate in a shared blunt.",
           "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free. The material inside therefore leads the taste as the blunt moves through the group. Flower, concentrate, and a kief or diamond finish remain the center of the format from the first light to the final pass.",
           "Label cues make that shared timeline readable before anything is lit. A package that names hemp wrap or tobacco-free wrap beside a higher net weight than a thin-paper pre-roll is pointing at a longer construction clock. Thicker outer layer and greater fill capacity usually leave room for passes and pauses; thin paper and a lighter fill usually move on a quicker solo pace. The comparison stays descriptive of materials, not a promise about effects.",
         ],

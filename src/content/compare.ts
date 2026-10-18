@@ -280,7 +280,7 @@ export const comparePages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "A blunt uses a thicker wrap, holds more material, burns more slowly, and retains heat longer than a joint. A joint uses thin rolling paper, carries a lighter construction, and moves through a session more quickly. The useful choice comes down to desired size, pace, and whether the occasion calls for an extended or compact format.",
-      "Those differences begin at the outside layer and continue through every practical part of the format. Wrap thickness shapes capacity, airflow, burn rate, heat, and the role the filled material plays in the overall taste.",
+      "Those differences begin at the outside layer and continue through every practical part of the format. Wrap thickness shapes capacity, airflow, burn rate, heat, and the role the filled material plays in the overall taste. The guide to wrap thickness and burn pace breaks down the burn side.",
       "On a licensed blunt or pre-roll shelf, both formats can share a rolled silhouette while still describing different wraps, sizes, and session lengths. The useful first questions are wrap and capacity, not packaging art or a casual nickname. Reading the outside material, then net weight and ingredient language, turns a crowded display into a clear blunt-versus-joint comparison for adult shoppers 21+.",
     ],
     sections: [
