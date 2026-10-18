@@ -20,7 +20,7 @@ export const strainsPage: PageContent = {
       heading: "All Blunt Strains",
       paragraphs: [
         "Each name below is available as a blunt. The list presents the library without assigning individual strains to a series, leaving the series descriptions to explain their construction and catalog direction.",
-        "A familiar selection can sit next to a newer label without implying ranking, potency, or a hidden series assignment. Until individual reference pages arrive, this roll call is the blunt-name layer of the catalog.",
+        "A familiar selection can sit next to a newer label without implying ranking, cannabinoid content, or a hidden series assignment. Until individual reference pages arrive, this roll call is the blunt-name layer of the catalog.",
       ],
       subsections: [{ id: "choose-among-24", heading: "How to choose among the infused blunt strains", parts: [{ text: "Start with taste. Fruit names like Strawberry, Watermelon, Peach Mango and Blue Raspberry point toward the flavor-led side of the library. Names like Gorilla Goo, Skywalker, Garlic Cookies and Ghost Train Haze point toward strain-led cannabis character. In every case the terpenes in the flower set the aroma first, and the concentrate and kief or diamond layers add to the fill without changing what the strain name means. Indica, sativa and hybrid are plant groupings. They aren't a ranking, and this index doesn't promise any outcome from a label. The rest of each blunt comes from the build and the session. " }, { text: "How our wraps shape flavour", href: "/wrap/wrap-and-flavour" }, { text: " explains what the hemp sheet adds, " }, { text: "infused versus non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: " covers the concentrate layer, and the " }, { text: "blunt sharing guide", href: "/ritual/sharing" }, { text: " covers passing one around a group. The current package and its batch test record remain the reference for THC and cannabinoid figures." }] }],
       bullets: [
@@ -92,7 +92,7 @@ export const strainsPage: PageContent = {
       id: "cannabinoids-terpenes-and-names",
       heading: "What does a strain name tell you about cannabinoids and terpenes?",
       paragraphs: [
-        "A strain name identifies the flower. Cannabinoid information, including THC, sits on the current package and batch test record, not in the name, and high potency is not a promise that covers the whole catalog. Inside a Presidential blunt, the kief or diamond finish adds resin-rich material; kief itself is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+        "A strain name identifies the flower. Cannabinoid information, including THC, sits on the current package and batch test record, not in the name, and high cannabinoid content is not a promise that covers the whole catalog. Inside a Presidential blunt, the kief or diamond finish adds resin-rich material; kief itself is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes.",
         "Terpenes give a selection its recognizable aromatic direction, such as peppery caryophyllene, pine-like pinene, musky myrcene, citrus limonene, and floral linalool. Series direction sits on top of that: Silver is fruit forward, Gold is cannabis forward, and Rose Gold is the connoisseur line.",
       ],
     },
