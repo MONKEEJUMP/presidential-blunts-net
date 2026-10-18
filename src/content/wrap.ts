@@ -12,7 +12,7 @@ export const wrapPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "A blunt wrap holds the material together, manages airflow, sets the pace of the burn, and influences what reaches the palate. Presidential uses a neutral hemp wrap across its blunt catalog, creating a tobacco-free format in which the flower, concentrate, and a kief or diamond finish remain at the center of the taste.",
-      "This reference follows the wrap from its basic purpose through its finished performance. Each guide isolates one part of the subject, then connects it to the complete infused blunt format.",
+      "This reference follows the wrap from its basic purpose through its finished performance. Each guide isolates one part of the subject, then connects it to the infused blunt format.",
       "Presidential is the brand and publisher, not a strain or cultivar. The library separates the outer material from the flower and infusion inside so readers can compare one part of the roll at a time.",
       "This guide covers the outer sheet, hemp versus other wraps, and how burn and flavour work with infusion.",
     ],
@@ -73,7 +73,7 @@ export const wrapPages: PageContent[] = [
         id: "how-wraps-are-made",
         heading: "From hemp fibre to finished wrap",
         paragraphs: [
-          "A finished hemp wrap turns plant fibre into a consistent sheet that can hold a roll and support a steady path for air and heat. Thickness, uniformity, and a dependable finished shape are the qualities that become visible during lighting and burning. The manufacturing guide follows that functional journey and shows how consistency at the wrap stage carries through to the complete blunt.",
+          "A finished hemp wrap turns plant fibre into a consistent sheet that can hold a roll and support a steady path for air and heat. Thickness, uniformity, and a dependable finished shape are the qualities that become visible during lighting and burning. The manufacturing guide follows that functional journey and shows how consistency at the wrap stage carries through to the blunt.",
           "Manufacturing consistency matters because a wrap that varies in thickness or edge quality changes how the roll catches and how evenly heat travels. This guide follows the wrap from fibre to sheet to finished blunt.",
         ],
       },
@@ -140,7 +140,7 @@ export const wrapPages: PageContent[] = [
 
       {
         before: "Return to the ",
-        link: { href: "/", label: "complete blunt reference" },
+        link: { href: "/", label: "blunt reference" },
         after: " for the full infused format.",
       },
       {
@@ -274,7 +274,7 @@ export const wrapPages: PageContent[] = [
       },
       {
         id: "complete-format",
-        heading: "One component shapes the complete format",
+        heading: "One component shapes the whole format",
         paragraphs: [
           "The wrap's jobs converge during a session. Its shape holds the three layers, its boundary guides airflow, its thickness contributes to the slow burn, and its neutrality keeps the taste centered on the material. None of those roles needs to compete with the others; a well-matched wrap performs them together.",
           "That combination explains why wrap choice changes more than appearance. It determines how the roll is organized, how air and heat move, how quickly the contents advance, and whether the outer layer adds a separate taste. In a Presidential blunt, hemp makes those decisions consistent across full-size blunts and minis, with the smaller format carrying the same basic construction at a smaller size.",
@@ -360,7 +360,7 @@ export const wrapPages: PageContent[] = [
       },
     ],
     relatedLinks: [
-      { href: "/wrap", label: "Return to the complete wrap reference" },
+      { href: "/wrap", label: "Return to the wrap reference" },
       { href: "/", label: "Presidential Blunts" },
       { href: "/wrap/burn-rate", label: "Examine how the pace is set" },
       { href: "/wrap/wrap-and-flavour", label: "Continue from structure into taste" },
@@ -970,7 +970,7 @@ export const wrapPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "A hemp blunt wrap begins with hemp fibre and becomes a thin, flexible, consistent sheet sized to hold rolled material. The essential manufacturing goal is uniform function: dependable thickness, an even surface, and a finished form that can contain the filling, guide airflow, and support the blunt's slow burn. Those qualities become visible when the wrap meets flower, concentrate, a kief or diamond finish, heat, and air.",
-      "This reference follows the functional journey from plant fibre to a consistent finished wrap, then connects each manufacturing objective to the complete infused blunt.",
+      "This reference follows the functional journey from plant fibre to a consistent finished wrap, then connects each manufacturing objective to the infused blunt.",
       "Reading for wrap material, format scale, and sheet consistency on a licensed package keeps attention on how the outer layer is built to perform beside flower, concentrate, and a kief or diamond finish.",
     ],
     sections: [
@@ -1007,7 +1007,7 @@ export const wrapPages: PageContent[] = [
         heading: "Finished consistency appears in the roll",
         paragraphs: [
           "Once the wrap has its final form, manufacturing quality becomes practical. A consistent piece can surround the filling with a dependable outer layer. It supports the shape of the roll, keeps the contents organized, and gives air and heat a stable boundary through the length of the product.",
-          "This is also where neutrality serves the finished design. Presidential uses hemp wraps that stay neutral in flavour, allowing the flower, concentrate, kief or diamond finish, and selected series profile to lead. Presidential's Los Angeles story covers how that build began. The final wrap is therefore evaluated by what it contributes—structure, pace, and a clear setting for the contents—across the complete blunt.",
+          "This is also where neutrality serves the finished design. Presidential uses hemp wraps that stay neutral in flavour, allowing the flower, concentrate, kief or diamond finish, and selected series profile to lead. Presidential's Los Angeles story covers how that build began. The final wrap is therefore evaluated by what it contributes—structure, pace, and a clear setting for the contents—across the blunt.",
           "Look for wrap material, net weight or format size, and series name in the same pass, along with any batch or lot identifiers the market requires. Those fields describe construction and aroma intent. They do not authorize medical promises. When hemp wrap and a named series appear together, the package is saying the outer layer stays quiet so the interior profile can remain recognizable from the first draw to the last.",
         ],
         subsections: [{ id: "why-a-hemp-wrap-stays-neutral", heading: "Why should a hemp wrap stay neutral?", parts: [{ text: "Because the flavor belongs to the fill. Inside the wrap, flower forms the base, concentrate is carried through it, and a kief or diamond finish is added last. The terpenes in the flower set the taste before the concentrate or finish adds anything. Our neutral, consistent hemp wraps hold that interior in shape and keep the airflow path stable, without bringing tobacco or nicotine into the profile. Keep reading with " }, { text: "how our wraps affect flavour", href: "/wrap/wrap-and-flavour" }, { text: ", " }, { text: "tobacco-free wrap construction", href: "/wrap/tobacco-free" }, { text: ", or " }, { text: "storing a blunt properly", href: "/ritual/storage" }, { text: "." }] }],
@@ -1037,7 +1037,7 @@ export const wrapPages: PageContent[] = [
       },
       {
         before: "See how the finished wrap performs in the ",
-        link: { href: "/", label: "complete blunt reference" },
+        link: { href: "/", label: "blunt reference" },
         after: ".",
       },
       {

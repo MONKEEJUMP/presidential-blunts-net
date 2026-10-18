@@ -95,7 +95,7 @@ export const comparePages: PageContent[] = [
           "When only one feature is unclear, use the guide devoted to that feature. When several features change at once, read the guides in sequence: outer material first, flower or infusion second, and size last. This prevents a mini from being treated as a different construction and keeps ready-made pre rolls from being confused with a hemp-wrapped blunt. If tobacco and definition are the question, use the spliff guide before comparing scale. Pre rolled joints and paper-only formats stay on the thin-paper side of that map.",
           "Package details should support the comparison. Look for the format name, wrap or paper material, ingredient statement, net weight, batch information, and labeled potency where required. The library explains what those details mean; it does not rank products, promise an experience, or turn a brand name into a cultivar. Presidential Blunts remains the publisher and infused-blunt brand, while strain and cultivar names identify the flower separately. Ask a dispensary for current quality, THC numbers, aroma notes, and benefits of each format rather than relying on a nickname alone. Users typically check popularity and labeled flavor before they prefer one build; personal preferences still decide whether a joint, blunt wrap, or paper pre rolls fit the occasion.",
         ],
-        subsections: [{ id: "presidential-blunt-fit", heading: "Where does the Presidential blunt fit among these formats?", parts: [{ text: "Every Presidential blunt is rolled in our hemp wraps, with flower, concentrate, and a kief or diamond finish inside, in full-size and mini formats. Start with the " }, { text: "full infused-blunt guide", href: "/" }, { text: " for the complete overview, then use " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: " and " }, { text: "mini vs full", href: "/compare/mini-vs-full" }, { text: " for the specific contrasts." }] }, { id: "the-wrap-details-behind-each-comparison", heading: "The wrap details behind each comparison", parts: [{ text: "These contrasts keep coming back to the wrap. Read " }, { text: "the role a hemp wrap plays", href: "/wrap/what-a-wrap-does" }, { text: ", " }, { text: "how our wraps are manufactured", href: "/wrap/how-wraps-are-made" }, { text: " and " }, { text: "how wrap burn rate works", href: "/wrap/burn-rate" }, { text: " for the detail behind each guide." }] }],
+        subsections: [{ id: "presidential-blunt-fit", heading: "Where does the Presidential blunt fit among these formats?", parts: [{ text: "Every Presidential blunt is rolled in our hemp wraps, with flower, concentrate, and a kief or diamond finish inside, in full-size and mini formats. Start with the " }, { text: "full infused-blunt guide", href: "/" }, { text: " for the overview, then use " }, { text: "hemp wrap vs paper", href: "/compare/hemp-wrap-vs-paper" }, { text: " and " }, { text: "mini vs full", href: "/compare/mini-vs-full" }, { text: " for the specific contrasts." }] }, { id: "the-wrap-details-behind-each-comparison", heading: "The wrap details behind each comparison", parts: [{ text: "These contrasts keep coming back to the wrap. Read " }, { text: "the role a hemp wrap plays", href: "/wrap/what-a-wrap-does" }, { text: ", " }, { text: "how our wraps are manufactured", href: "/wrap/how-wraps-are-made" }, { text: " and " }, { text: "how wrap burn rate works", href: "/wrap/burn-rate" }, { text: " for the detail behind each guide." }] }],
       },
       {
         id: "choose-by-format",
@@ -336,7 +336,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "Choose a blunt when the occasion has room for a longer pace, a larger format, or passing it around a group. Choose a joint when the available time favors a quick paper-wrapped session. Choose a mini blunt when the desired combination is hemp-wrap structure in a smaller size.",
           "The most useful answer stays practical. Look at the number of people, the time available, and whether the layered infused construction belongs in the plan. Those three cues point naturally toward full blunt, mini blunt, or joint.",
-          "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits respond to wrap thickness and fill density.",
+          "A practical order of decisions keeps the library usable. Confirm wrap and capacity first, decide whether the fill should stay flower-only or take a layered infused path, then match mini or full size to the session. Lighting and storage guides can follow once the format is chosen, because catch technique and storage habits for a hemp blunt respond to wrap thickness and fill density.",
         ],
       },
     ],
@@ -756,7 +756,7 @@ export const comparePages: PageContent[] = [
       {
         href: "/compare",
         label: "Return to Compare",
-        description: "Continue through the complete comparison collection.",
+        description: "Continue through the comparison collection.",
       },
       {
         href: "/",
@@ -848,7 +848,7 @@ export const comparePages: PageContent[] = [
           "Three cues organize the choice: time, company, and format preference. Time establishes the desired session length. Company establishes how much sharing capacity belongs in the plan. Format preference confirms that the thicker hemp wrap, slower burn, and infused construction are the characteristics being selected. Once those cues align, mini or full size becomes a practical final decision.",
           "The same cues also help with lighting. Either size benefits from a steady rotation in the flame because its concentrate content catches gradually. The mini reaches an established burn across a smaller circumference and carries less total material. The full-size blunt establishes the same kind of light across a larger format, then holds heat through its longer path. Scale changes the duration while the lighting method stays familiar.",
           "A size choice can remain flexible from one occasion to the next. The mini brings the construction into a concise window, and the full-size blunt expands it for time and sharing. The consistent hemp wrap and layered interior keep the format recognizable at either scale.",
-          "A practical order of decisions keeps the library usable. Confirm wrap and fill construction first, decide whether the interior should stay flower-only or take a layered infused path, then match mini or full size to time and company. Lighting, relighting, and storage guides can follow once scale is chosen, because catch technique and storage habits respond to wrap thickness and fill density.",
+          "A practical order of decisions keeps the library usable. Confirm wrap and fill construction first, decide whether the interior should stay flower-only or take a layered infused path, then match mini or full size to time and company. Lighting, relighting, and storage guides for full and mini blunts can follow once scale is chosen, because catch technique and storage habits respond to wrap thickness and fill density.",
         ],
       },
       {
@@ -982,7 +982,7 @@ export const comparePages: PageContent[] = [
         paragraphs: [
           "A regular blunt centers on flower inside its wrap. An infused blunt adds concentrate and a kief or diamond finish, turning the fill into a coordinated three-layer system. Each component has a clear role: flower provides the body of the fill, concentrate adds a dense refined layer, and a kief or diamond finish completes the build: kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. The wrap around that build is hemp; hemp and leaf wraps side by side shows why.",
           "Presidential's Infusion System carries distillate through the flower instead of concentrating it only at the surface. The kief or diamond finish goes on last. Distribution is important because dense concentrate burns evenly when spread evenly, producing a more consistent path through the filled material.",
-          "That layer map also travels well across a licensed retail display. Two packages can share a hemp wrap, a similar size, and the same brand crest while still describing different interiors. When the label or panel names concentrate, distillate, live resin, live rosin, or kief alongside flower, the build belongs on the infused side. When flower is the complete fill story, the build stays regular. Keeping the comparison on construction prevents series names or artwork from standing in for the interior architecture.",
+          "That layer map also travels well across a licensed retail display. Two packages can share a hemp wrap, a similar size, and the same brand crest while still describing different interiors. When the label or panel names concentrate, distillate, live resin, live rosin, or kief alongside flower, the build belongs on the infused side. When flower is the fill story, the build stays regular. Keeping the comparison on construction prevents series names or artwork from standing in for the interior architecture.",
         ],
       },
       {
@@ -1027,9 +1027,9 @@ export const comparePages: PageContent[] = [
         id: "choose-by-construction",
         heading: "Choose by construction and occasion",
         paragraphs: [
-          "Choose a regular blunt when flower is the complete center of the format. Choose an infused blunt when the desired build includes flower, concentrate, and a kief or diamond finish, along with the slower catch and denser burn that accompany those layers. Mini and full sizes can then match the format to the time and company available.",
+          "Choose a regular blunt when flower is the center of the format. Choose an infused blunt when the desired build includes flower, concentrate, and a kief or diamond finish, along with the slower catch and denser burn that accompany those layers. Mini and full sizes can then match the format to the time and company available.",
           "The direct comparison is simple: same blunt family, different interior architecture. Reading the layers tells you which one you have and how to approach its lighting and pace.",
-          "A practical order of decisions keeps the library usable. Confirm blunt construction and wrap first, decide whether the fill should stay flower-only or take the three-layer infused path, then match mini or full size to the session. Lighting and storage guides can follow once the build is chosen, because catch technique and storage habits respond to density.",
+          "A practical order of decisions keeps the library usable. Confirm blunt construction and wrap first, decide whether the fill should stay flower-only or take the three-layer infused path, then match mini or full size to the session. Lighting and storage guides can follow once the build is chosen, because catch technique and storage habits for an infused build respond to density.",
           "For the full format overview, start with the official infused-blunt guide on this website.",
         ],
       },

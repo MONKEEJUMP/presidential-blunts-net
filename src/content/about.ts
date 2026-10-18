@@ -39,7 +39,7 @@ export const aboutPage: PageContent = {
       heading: "A Clear Publishing Standard",
       paragraphs: [
         "Every article starts with a direct answer and builds from the brand’s product facts. Product construction, catalog counts, formats, geographic availability, and extract processes stay connected to the information Presidential has established. Plain language keeps the reference useful for a first visit and precise enough for a reader comparing the role of wrap, fill, extract, size, and heat.",
-        "The publication also connects learning with the brand’s wholesale model. Readers can understand the format here, then use Presidential’s complete catalog and retail resources to continue through licensed channels. That relationship keeps the reference centered on education while giving current product information a clear home.",
+        "The publication also connects learning with the brand’s wholesale model. Readers can understand the format here, then use Presidential’s catalog and retail resources to continue through licensed channels. That relationship keeps the reference centered on education while giving current product information a clear home.",
         "Brand statements describe the company and product family. Construction statements describe wrap, fill, and burn behavior. Keeping those layers separate prevents a strain name from rewriting the publisher or a format label from inventing an unverified product claim.",
         "For current selection, check the package and the licensed retailer.",
       ],
@@ -79,8 +79,8 @@ export const aboutPage: PageContent = {
       },
 
     {
-      before: "Start with the complete ",
-      link: { href: "/", label: "complete infused-blunt homepage guide" },
+      before: "Start with the ",
+      link: { href: "/", label: "infused-blunt homepage guide" },
       after: " for the core infused blunt format overview.",
     },
     {

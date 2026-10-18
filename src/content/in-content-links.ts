@@ -55,6 +55,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/ritual/session-length", anchor: "session pacing", context: "questions about session pacing lead" },
   ],
   "/compare/blunt-vs-joint": [
+    { href: "/ritual/storage", anchor: "storage habits for a hemp blunt", context: "catch technique and storage habits for a hemp blunt respond to wrap thickness" },
     { href: "/wrap/burn-rate", anchor: "guide to wrap thickness and burn pace", context: "The guide to wrap thickness and burn pace breaks down the burn side." },
     { href: "/ritual/sharing", anchor: "passing it around a group", context: "a larger format, or passing it around a group." },
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },
@@ -72,6 +73,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap/what-a-wrap-does", anchor: "outer layer", context: "Hemp wrap versus paper answers the outer layer" },
   ],
   "/compare/infused-vs-non-infused": [
+    { href: "/ritual/storage", anchor: "storage habits for an infused build", context: "catch technique and storage habits for an infused build respond to density" },
     { href: "/wrap/hemp-vs-tobacco", anchor: "hemp and leaf wraps side by side", context: "hemp and leaf wraps side by side shows why" },
     { href: "/", anchor: "the official infused-blunt guide on this website", context: "start with the official infused-blunt guide on this website" },
     { href: "/wrap", anchor: "hemp wrap", context: "share a hemp wrap" },
@@ -121,6 +123,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "s. When the wrap is hemp or another non-tobacco leaf substitut" },
   ],
   "/compare/mini-vs-full": [
+    { href: "/ritual/storage", anchor: "storage guides for full and mini blunts", context: "Lighting, relighting, and storage guides for full and mini blunts can follow once scale is chosen" },
     { href: "/", anchor: "the official Presidential blunt guide’s home page", context: "Both sizes are covered on the official Presidential blunt guide’s home page" },
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential rolls in neutral hemp wraps across the blunt catalog" },
     { href: "/strains", anchor: "strains as blunts", context: "Presidential offers strains as blunts" },
