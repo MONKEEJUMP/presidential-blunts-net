@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Fragment } from "react";
+import { Fragment, type ReactNode } from "react";
 
 import { IN_CONTENT_LINKS, INLINKS_MENTIONS, type InContentLinkRule } from "@/content/in-content-links";
 import type { ContentImage, ContentSection, PageContent } from "@/content/types";
@@ -65,21 +65,37 @@ function DataTable({ section }: { section: ContentSection }) {
   );
 }
 
-function LinkedParagraph({ text, rule }: { text: string; rule?: InContentLinkRule }) {
-  const at = rule ? text.indexOf(rule.context) : -1;
-  if (!rule || at < 0) return <>{text}</>;
-  const start = at + rule.context.indexOf(rule.anchor);
-  const end = start + rule.anchor.length;
-  return <>{text.slice(0, start)}<Link href={rule.href}>{rule.anchor}</Link>{text.slice(end)}</>;
+function LinkedParagraph({ text, rules }: { text: string; rules?: readonly InContentLinkRule[] }) {
+  const ranges = (rules ?? [])
+    .map((rule) => {
+      const at = text.indexOf(rule.context);
+      if (at < 0) return null;
+      const start = at + rule.context.indexOf(rule.anchor);
+      return { start, end: start + rule.anchor.length, rule };
+    })
+    .filter((range): range is { start: number; end: number; rule: InContentLinkRule } => range !== null)
+    .sort((a, b) => a.start - b.start);
+  if (!ranges.length) return <>{text}</>;
+  const nodes: ReactNode[] = [];
+  let cursor = 0;
+  ranges.forEach((range, index) => {
+    if (range.start < cursor) return;
+    nodes.push(text.slice(cursor, range.start));
+    nodes.push(<Link href={range.rule.href} key={`link-${index}`}>{range.rule.anchor}</Link>);
+    cursor = range.end;
+  });
+  nodes.push(text.slice(cursor));
+  return <>{nodes}</>;
 }
 
 function firstParagraphRules(page: PageContent) {
-  const placed = new Map<string, InContentLinkRule>();
+  const placed = new Map<string, InContentLinkRule[]>();
   for (const rule of IN_CONTENT_LINKS[page.path] ?? []) {
     for (const section of page.sections) {
       const index = section.paragraphs.findIndex((paragraph) => paragraph.includes(rule.context));
       if (index >= 0) {
-        placed.set(`${section.id}-${index}`, rule);
+        const key = `${section.id}-${index}`;
+        placed.set(key, [...(placed.get(key) ?? []), rule]);
         break;
       }
     }
@@ -87,13 +103,13 @@ function firstParagraphRules(page: PageContent) {
   return placed;
 }
 
-function ArticleSection({ section, image, reverse, linkRules }: { section: ContentSection; image?: ContentImage; reverse: boolean; linkRules: Map<string, InContentLinkRule> }) {
+function ArticleSection({ section, image, reverse, linkRules }: { section: ContentSection; image?: ContentImage; reverse: boolean; linkRules: Map<string, InContentLinkRule[]> }) {
   return (
     <section className={`article-section${image ? " article-section--with-image" : ""}`} id={section.id}>
       <div className={`article-section__grid${reverse ? " article-section__grid--reverse" : ""}`}>
         <div className="article-section__copy">
           <h2>{section.heading}</h2>
-          {section.paragraphs.map((paragraph, index) => <p key={`${section.id}-paragraph-${index}`}><LinkedParagraph rule={linkRules.get(`${section.id}-${index}`)} text={paragraph} /></p>)}
+          {section.paragraphs.map((paragraph, index) => <p key={`${section.id}-paragraph-${index}`}><LinkedParagraph rules={linkRules.get(`${section.id}-${index}`)} text={paragraph} /></p>)}
           {section.bullets?.length ? <ul>{section.bullets.map((bullet, index) => <li key={`${section.id}-bullet-${index}`}>{bullet}</li>)}</ul> : null}
           <DataTable section={section} />
           {section.subsections?.map((sub) => (<div className="article-subsection" key={sub.id}><h3>{sub.heading}</h3><p>{sub.parts.map((part, index) => part.href ? <Link href={part.href} key={`${sub.id}-${index}`}>{part.text}</Link> : <span key={`${sub.id}-${index}`}>{part.text}</span>)}</p>{sub.more?.map((paragraph, pIndex) => <p key={`${sub.id}-more-${pIndex}`}>{paragraph.map((part, index) => part.href ? <Link href={part.href} key={`${sub.id}-${pIndex}-${index}`}>{part.text}</Link> : <span key={`${sub.id}-${pIndex}-${index}`}>{part.text}</span>)}</p>)}</div>))}
