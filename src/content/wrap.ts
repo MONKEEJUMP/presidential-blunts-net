@@ -564,7 +564,7 @@ export const wrapPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "Tobacco free means the blunt is rolled in hemp rather than tobacco leaf. In a Presidential blunt, the wrap contains no tobacco, carries no nicotine from tobacco leaf, and stays neutral in flavour so the flower, concentrate, kief or diamond finish, and selected profile lead the finished taste. The definition applies across every Presidential blunt in the catalog.",
-      "That precise material choice distinguishes the wrap while preserving the larger, slower-burning blunt format.",
+      "That precise material choice distinguishes the wrap while preserving the larger, slower-burning blunt session.",
       "On a licensed shelf, adult shoppers 21+ can treat tobacco-free as a materials label before anything is lit. Reading the package for hemp wrap or tobacco-free wrap language, then confirming net weight and series direction beside it, keeps the definition grounded in construction rather than medical claims or dosing advice.",
     ],
     sections: [

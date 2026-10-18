@@ -20,6 +20,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "a neutral, tobacco-free hemp blunt wrap", context: "Presidential blunts pair a neutral, tobacco-free hemp blunt wrap" },
   ],
   "/strains": [
+    { href: "/ritual/session-length", anchor: "how long a session runs", context: "wrap construction, size, or how long a session runs" },
     { href: "/", anchor: "infused hemp-wrapped blunts", context: "same core construction cue. Presidential’s infused hemp-wrapped blunts are one hundred percent tobacco free" },
     { href: "/ritual/sharing", anchor: "sharing is the next skill", context: "or sharing is the next skill" },
     { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "concentrate, kief, and selected flavor direction define the finished profile. Readers" },
@@ -72,6 +73,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "hemp wrap", context: "share a hemp wrap" },
   ],
   "/wrap/tobacco-free": [
+    { href: "/ritual/session-length", anchor: "slower-burning blunt session", context: "while preserving the larger, slower-burning blunt session" },
     { href: "/wrap", anchor: "hemp wrap", context: "names hemp wrap or tobacco-free wrap" },
   ],
   "/wrap/wrap-and-flavour": [
