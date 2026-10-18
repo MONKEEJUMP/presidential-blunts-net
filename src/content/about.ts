@@ -52,7 +52,7 @@ export const aboutPage: PageContent = {
         "Each hub answers a different class of question. The wrap hub explains the tobacco-free outer material, airflow, burn rate, and how hemp wraps are made. The ritual hub covers storage, lighting, relighting, session length, and sharing. The comparison hub separates blunts from joints, pre-rolls, spliffs, paper wraps, and smaller formats. The strains hub keeps the name list and its catalog groupings together.",
         "Construction questions are answered in the wrap library, lighting and storage questions in the ritual library, format differences in the comparisons, and names and series in the strains index.",
         " When a detail depends on a specific package, check the package rather than a strain name, series label, image, or older page. That check keeps the publication current without adding unsupported catalog claims.",
-      ],
+      ], subsections: [{ id: "two-guides-to-read-after-this-page", heading: "Two guides to read after this page", parts: [{ text: "Compare formats in " }, { text: "blunt versus joint", href: "/compare/blunt-vs-joint" }, { text: ", then see " }, { text: "blunt storage basics", href: "/ritual/storage" }, { text: "." }] }],
     },
     {
       id: "hub-nesting",
