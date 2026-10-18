@@ -595,7 +595,7 @@ export const comparePages: PageContent[] = [
       {
         href: "/compare",
         label: "Open the comparison library",
-        description: "See all six format guides.",
+        description: "See every format guide.",
       },
       {
         href: "/",
