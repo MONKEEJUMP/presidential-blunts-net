@@ -11,7 +11,7 @@ export const strainsPage: PageContent = {
   wordTarget: [1100, 1250],
   intro: [
     "The Presidential blunt library contains named strains across a catalog organized by extract base, flavor direction, house lines, and collaboration. This hub gathers every current name as text and explains the verified groupings that surround the library. This page is the complete Presidential blunt strain index.",
-    "Presidential Blunts publishes this index as a catalog guide. Presidential is the brand and publisher, not a strain or cultivar name, so the page keeps named selections separate from the series and partnership labels used to organize them.",
+    "Presidential is the brand and publisher, not a strain or cultivar name, so the page keeps named selections separate from the series and partnership labels used to organize them.",
     "Start with a familiar name, read the grouping notes for extract and catalog context, then move to the format guides when the question shifts to wrap construction, size, or session pace.",
   ],
   sections: [
@@ -66,7 +66,7 @@ export const strainsPage: PageContent = {
       heading: "How Names Map to Blunt Formats",
       paragraphs: [
         "A strain name answers which selection is on the package. A format answer is separate: tobacco-free blunt, mini, infused pre-roll, or Moon Rocks. This library focuses on the blunt format—a thicker hemp wrap around infused material—while the wider catalog still carries those other formats under the same brand umbrella.",
-        "Family language on this hub means catalog relationship, not botanical taxonomy invented here. Fruit-forward Silver and cannabis-forward Gold selections illustrate series direction; house and collaboration lines show who organized a grouping. None of those labels replace the blunt wrap, infusion system, or size choice.",
+        "Fruit-forward Silver and cannabis-forward Gold selections illustrate series direction; house and collaboration lines show who organized a grouping. None of those labels replace the blunt wrap, infusion system, or size choice.",
         "When a reader moves from name to format, useful next questions are about construction: Is the outer layer a hemp blunt wrap or thinner paper? Is the scale full-size or mini? Is the comparison against an infused pre-roll or another rolled format? The wrap and compare guides answer those questions.",
         "Every listed blunt name still returns to the same core construction cue. Presidential’s infused hemp-wrapped blunts are one hundred percent tobacco free. The neutral wrap lets flower, concentrate, a kief or diamond finish, and the selected flavor direction define the finished profile. Series and line labels refine extract character and catalog placement.",
       ],
@@ -79,7 +79,6 @@ export const strainsPage: PageContent = {
         "A strain name and a series name provide two different entry points. The strain list supports browsing by a familiar selection, while the series description explains an extract base, flavor direction, or collaboration. Keeping those pieces distinct makes the library accurate and gives every name equal space until its own reference page is developed.",
         "The groupings make up the wider catalog. Those products appear in four formats—Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis—while this library focuses specifically on the names available as blunts. The format focus makes the index easy to scan: every listed name belongs in the blunt conversation, and the surrounding series guide supplies the verified extract and catalog context readers can use alongside it.",
         "All of these selections return to the same blunt format: a thicker hemp wrap around infused material. Presidential blunts are one hundred percent tobacco free, and the neutral wrap lets the flower, concentrate, kief or diamond finish, and selected flavor direction define the finished profile. Readers who want the complete format overview can return to Presidential Blunts, while current retail availability is available through the licensed-retailer locator.",
-        "The hub keeps every verified strain name visible here as the foundation for later individual reference pages.",
       ],
     },
     {
@@ -109,7 +108,7 @@ export const strainsPage: PageContent = {
       id: "browse-without-claims",
       heading: "Browse the strain names",
       paragraphs: [
-        "Use the hub as a catalog map, not a wellness guide. Names, series labels, and format notes describe what is published in the Presidential blunt library. They do not diagnose, treat, or promise an outcome.",
+        "Names, series labels, and format notes describe what is published in the Presidential blunt library. They do not diagnose, treat, or promise an outcome.",
         "A practical browse path stays concrete. Start with a name you recognize. Read the grouping section for extract base and catalog context. Open the wrap guide when outer construction matters, the compare hub when blunt-versus-pre-roll or mini-versus-full sizing is next, and the ritual guide when lighting, storage, or sharing is the next skill. Check the current package and licensed retailer for product-specific details.",
         "Keeping medical language out protects accuracy. The page explains groupings, formats, and browsing steps so readers 21+ navigate with construction and catalog facts—not unverifiable claims.",
       ],

@@ -8,6 +8,12 @@ export type InContentLinkRule = {
 // section copy. Each rule links its anchor once, at the first paragraph that
 // contains the exact context, so no copy is added or reworded.
 export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRule[]>> = {
+  "/ritual/sharing": [
+    { href: "/wrap", anchor: "a neutral hemp wrap", context: "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free" },
+  ],
+  "/ritual": [
+    { href: "/wrap", anchor: "a neutral, tobacco-free hemp blunt wrap", context: "Presidential blunts pair a neutral, tobacco-free hemp blunt wrap" },
+  ],
   "/strains": [
     { href: "/", anchor: "infused hemp-wrapped blunts", context: "same core construction cue. Presidential’s infused hemp-wrapped blunts are one hundred percent tobacco free" },
     { href: "/ritual/sharing", anchor: "sharing is the next skill", context: "or sharing is the next skill" },
@@ -15,16 +21,16 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco-free blunt", context: "e package. A format answer is separate: tobacco-free blunt, mi" },
   ],
   "/about": [
-    { href: "/", anchor: "Presidential Blunts", context: "Presidential Blunts does not sell or ship cannabis" },
+    { href: "/", anchor: "the infused blunt format", context: "it explains the infused blunt format" },
     { href: "/ritual/sharing", anchor: "session length, and sharing", context: "relighting, storage, session length, and sharing. The strains hub records" },
-    { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "kief, and deliberately selected flavor direction" },
+    { href: "/wrap/wrap-and-flavour", anchor: "selected flavor direction", context: "the kief or diamond finish, and the selected flavor direction" },
     { href: "/compare/blunt-vs-spliff", anchor: "spliffs, paper wraps", context: "joints, pre-rolls, spliffs, paper wraps" },
     // SITEBULB-R28 fix 1.
     { href: "/wrap/hemp-vs-tobacco", anchor: "how our wraps compare with tobacco leaf", context: "see how our wraps compare with tobacco leaf" },
   ],
   // SHIP-FIXLIST audit-1006 items 7-8.
   "/": [
-    { href: "/ritual", anchor: "Ritual hub", context: "belongs in the Ritual hub" },
+    { href: "/ritual", anchor: "the Ritual guide", context: "is covered in the Ritual guide" },
     { href: "/strains", anchor: "Strains hub", context: "the Strains hub records the current named range" },
     { href: "/strains", anchor: "strain library", context: "are listed in the strain library" },
     { href: "/strains", anchor: "full list of blunt strains", context: "The full list of blunt strains" },
@@ -39,7 +45,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap", anchor: "Wrap hub", context: "continue in the Wrap hub" },
     { href: "/ritual/storage", anchor: "handling and storage", context: "Ritual for handling and storage" },
     { href: "/compare/blunt-vs-pre-roll", anchor: "blunt versus pre-roll", context: "burn rate, blunt versus pre-roll" },
-    { href: "/ritual/session-length", anchor: "session pacing", context: "wrap material and session pacing" },
+    { href: "/ritual/session-length", anchor: "session pacing", context: "questions about session pacing lead" },
   ],
   "/compare/blunt-vs-joint": [
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap is tobacco free" },

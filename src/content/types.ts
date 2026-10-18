@@ -46,6 +46,7 @@ export type PageContent = {
   sections: ContentSection[];
   leadParagraphs?: LinkedParagraph[];
   linkParagraphs?: LinkedParagraph[];
+  linkSectionId?: string;
   faq?: FaqItem[];
   childLinks?: PageLink[];
   relatedLinks?: PageLink[];
