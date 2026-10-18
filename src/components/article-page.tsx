@@ -255,7 +255,7 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       publisher: { "@id": organizationId },
     },
     {
-      "@type": page.kind === "about" ? ["WebPage", "AboutPage"] : page.faq?.length ? ["WebPage", "FAQPage"] : "WebPage",
+      "@type": page.kind === "about" ? ["WebPage", "AboutPage"] : "WebPage",
       "@id": webPageId,
       url: pageUrl,
       name: page.title,
@@ -263,15 +263,6 @@ function StructuredData({ page, images }: { page: PageContent; images: ContentIm
       isPartOf: { "@id": websiteId },
       about: { "@id": organizationId },
       ...(INLINKS_MENTIONS[page.path] ? { mentions: INLINKS_MENTIONS[page.path] } : {}),
-      ...(page.faq?.length
-        ? {
-            mainEntity: page.faq.map((item) => ({
-              "@type": "Question",
-              name: item.question,
-              acceptedAnswer: { "@type": "Answer", text: item.more ? `${item.answer} ${item.more.before}${item.more.label}${item.more.after}` : item.answer },
-            })),
-          }
-        : {}),
     },
     ...imageObjects,
   ];

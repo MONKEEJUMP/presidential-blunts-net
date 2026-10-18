@@ -978,7 +978,7 @@ export const wrapPages: PageContent[] = [
         heading: "Hemp fibre is the starting material",
         paragraphs: [
           "The process starts with hemp as the material source. For a tobacco-free blunt, that choice is foundational: hemp supplies the outer layer in place of traditional tobacco leaf. The finished wrap therefore carries the blunt's structure while staying outside the tobacco-and-nicotine tradition associated with cigar or cigarillo leaf.",
-          "At this stage, the important idea is material identity rather than a proprietary formula. The plant fibre must ultimately become a continuous sheet capable of bending around a roll. It needs enough substance to behave like a blunt wrap, which is thicker than the thin rolling paper used for a pre-roll and supports a slower, heat-holding format.",
+          "At this stage, the important idea is material identity rather than a proprietary formula. The plant fibre must ultimately become a continuous sheet capable of bending around a roll. It needs enough substance to behave like a blunt wrap, which is thicker than the thin rolling paper used for a pre-roll and supports a slower, heat-holding format. See how a wrapped blunt and a paper pre-roll differ.",
           "That identity also shows up on packaging. Labels that name hemp wrap or tobacco-free wrap are pointing at the outer sheet. Keeping fibre choice attached to the wrap prevents nicknames from standing in for material, and it keeps the later questions of size, series, and infusion on their own terms.",
         ],
       },

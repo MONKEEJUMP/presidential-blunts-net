@@ -11,7 +11,7 @@ export const aboutPage: PageContent = {
   intro: [
     "This is the official Presidential blunt reference, published to explain the format with clear, original reporting grounded in the brand’s verified product facts. It gives readers one focused place to understand hemp wraps, three-layer infusion, burn behavior, sizes, strain names, and licensed retail availability.",
     "Presidential Blunts is the publisher identity for this focused reference. Presidential is the brand, not a strain or cultivar, and the site keeps that identity separate from the named flower selections recorded in the catalog index.",
-    "This page explains who publishes the guide, how the wholesale model works, and how brand, catalog, and construction statements fit together.",
+    "This page covers who publishes the guide and how the wholesale model works.",
   ],
   sections: [
     {
@@ -40,7 +40,7 @@ export const aboutPage: PageContent = {
       paragraphs: [
         "Every article starts with a direct answer and builds from verified facts. Product construction, catalog counts, formats, geographic availability, and extract processes stay connected to the information Presidential has established. Plain language keeps the reference useful for a first visit and precise enough for a reader comparing the role of wrap, fill, extract, size, and heat.",
         "The publication also connects learning with the brand’s wholesale model. Readers can understand the format here, then use Presidential’s complete catalog and retail resources to continue through licensed channels. That relationship keeps the reference centered on education while giving current product information a clear home.",
-        "Publisher statements stay with Presidential Blunts as the identity on this site. Brand statements describe the company and product family. Catalog statements describe named items and groupings. Construction statements describe wrap, fill, and burn behavior. Keeping those layers separate prevents a strain name from rewriting the publisher or a format label from inventing an unverified product claim.",
+        "Brand statements describe the company and product family. Construction statements describe wrap, fill, and burn behavior. Keeping those layers separate prevents a strain name from rewriting the publisher or a format label from inventing an unverified product claim.",
         "When a detail depends on a licensed market or current retail selection, this reference points readers back to the package and the licensed door rather than inventing stock, assay, or regulatory claims that belong to the label and the retailer.",
       ],
     },

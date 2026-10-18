@@ -9,9 +9,11 @@ export type InContentLinkRule = {
 // contains the exact context, so no copy is added or reworded.
 export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRule[]>> = {
   "/wrap/how-wraps-are-made": [
+    { href: "/compare/blunt-vs-pre-roll", anchor: "how a wrapped blunt and a paper pre-roll differ", context: "See how a wrapped blunt and a paper pre-roll differ." },
     { href: "/about", anchor: "Presidential's Los Angeles story", context: "Presidential's Los Angeles story covers how that build began." },
   ],
   "/ritual/sharing": [
+    { href: "/compare/blunt-vs-pre-roll", anchor: "thicker wrap than a pre-roll", context: "A blunt uses a thicker wrap than a pre-roll and carries more material" },
     { href: "/wrap", anchor: "a neutral hemp wrap", context: "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free" },
   ],
   "/ritual": [
@@ -85,6 +87,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
   ],
   // Final pass 1006: incoming "hemp wrap" links to /wrap and "strains" to /strains.
   "/ritual/session-length": [
+    { href: "/compare/blunt-vs-pre-roll", anchor: "the pre-roll uses thin rolling paper", context: "The blunt uses a thicker wrap, and the pre-roll uses thin rolling paper" },
     { href: "/wrap/hemp-vs-tobacco", anchor: "why Presidential picked hemp over tobacco", context: "see why Presidential picked hemp over tobacco" },
     { href: "/wrap", anchor: "hemp wrap", context: "The hemp wrap also stays neutral in taste" },
   ],
