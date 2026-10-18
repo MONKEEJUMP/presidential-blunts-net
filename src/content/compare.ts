@@ -48,7 +48,7 @@ export const comparePages: PageContent[] = [
         heading: "Blunt vs Spliff",
         paragraphs: [
           "Blunt and spliff describe different construction choices. A spliff traditionally places tobacco with cannabis inside rolling paper, while a Presidential blunt places its flower, concentrate, and a kief or diamond finish inside a neutral hemp wrap. The detailed guide separates the terms and shows exactly where a tobacco-free blunt fits. Avoiding tobacco leaf wraps and nicotine keeps Presidential builds distinct from a cigar-style tobacco wrap or tobacco leaves emptied for smoking weed.",
-        ],
+        ], subsections: [{ id: "what-a-tobacco-free-wrap-changes-in-a-comparison", heading: "What a tobacco-free wrap changes in a comparison", parts: [{ text: "Every Presidential blunt uses a tobacco-free hemp wrap, so a blunt-versus-spliff comparison turns on the tobacco. The " }, { text: "guide to tobacco-free hemp wraps", href: "/wrap/tobacco-free" }, { text: " and " }, { text: "how long one blunt session runs", href: "/ritual/session-length" }, { text: " cover both sides." }] }],
       },
       {
         id: "mini-vs-full",
