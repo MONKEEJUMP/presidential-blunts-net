@@ -59,7 +59,7 @@ export const aboutPage: PageContent = {
       id: "hub-nesting",
       heading: "How this guide is organized",
       paragraphs: [
-        "Browse in that practical order when you are new to the infused blunt format, or jump to the hub that matches the moment in hand. Company framing starts here; construction continues in Wrap; format choice continues in Compare; handling continues in Ritual; product names continue in Strains. Return to this About page whenever you need publisher identity, wholesale context, and the map of how those hubs stay separated.",
+        "When you are new to the infused blunt format, read the hubs in this order, or jump to the hub that matches the moment in hand. Company framing starts here; construction continues in Wrap; format choice continues in Compare; handling continues in Ritual; product names continue in Strains. Return to this About page whenever you need publisher identity, wholesale context, and the map of how those hubs stay separated.",
         "Confirm current selection with the licensed retailer rather than inferring stock from a hub overview.",
       ],
     },
