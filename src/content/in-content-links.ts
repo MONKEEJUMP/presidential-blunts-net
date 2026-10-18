@@ -8,6 +8,9 @@ export type InContentLinkRule = {
 // section copy. Each rule links its anchor once, at the first paragraph that
 // contains the exact context, so no copy is added or reworded.
 export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRule[]>> = {
+  "/wrap/how-wraps-are-made": [
+    { href: "/about", anchor: "Presidential's Los Angeles story", context: "Presidential's Los Angeles story covers how that build began." },
+  ],
   "/ritual/sharing": [
     { href: "/wrap", anchor: "a neutral hemp wrap", context: "Presidential uses a neutral hemp wrap that is one hundred percent tobacco free" },
   ],
@@ -56,6 +59,7 @@ export const IN_CONTENT_LINKS: Readonly<Record<string, readonly InContentLinkRul
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "so the tobacco leaf stays on the outside" },
   ],
   "/compare/hemp-wrap-vs-paper": [
+    { href: "/about", anchor: "Who publishes Presidential Blunts and why", context: "Who publishes Presidential Blunts and why explains the brand behind the wrap." },
     { href: "/wrap", anchor: "hemp wraps", context: "Presidential uses hemp wraps for its blunts" },
     { href: "/wrap/hemp-vs-tobacco", anchor: "tobacco leaf", context: "Traditional tobacco leaf carries its own taste" },
     { href: "/wrap/what-a-wrap-does", anchor: "outer layer", context: "Hemp wrap versus paper answers the outer layer" },

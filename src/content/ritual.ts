@@ -77,7 +77,7 @@ export const ritualPages: PageContent[] = [
         id: "hub-nesting",
         heading: "Where to go next in the ritual guide",
         paragraphs: [
-          "Five child ritual pages nest directly under it: how to light one, relighting, storage, session length, and sharing. Each child isolates one cue—opening glow, gradual reset, cool dark home, format timeline, or group rhythm—while linking back here when the next question spans more than one step.",
+          "The ritual guides cover how to light one, relighting, storage, session length, and sharing. Each child isolates one cue—opening glow, gradual reset, cool dark home, format timeline, or group rhythm—while linking back here when the next question spans more than one step.",
           "Browse in that practical order when you are new to the format, or jump to the child that matches the moment in hand. Lighting flow and relighting stay paired with denser builds; storage protects what remains between sittings; session length and sharing translate capacity into solo or group pacing. Return to this hub whenever you need the full sequence in one place.",
         ],
       },

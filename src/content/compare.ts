@@ -1132,6 +1132,7 @@ export const comparePages: PageContent[] = [
         id: "material-and-format",
         heading: "Material establishes the format",
         paragraphs: [
+          "Who publishes Presidential Blunts and why explains the brand behind the wrap.",
           "Presidential uses hemp wraps for its blunts. The wrap is 100% tobacco free and neutral in taste, keeping the finished format centered on what was rolled inside. Rolling paper is the thin outer layer associated with joints and pre-rolls. These two materials create distinct structures before size, flower, or infusion is considered.",
           "A thicker wrap gives a blunt enough support to carry more material. Thin paper keeps a joint or pre-roll light and compact. The choice of outer material therefore establishes both the name of the format and the scale it can comfortably hold.",
           "Feel follows that material choice on the counter. A hemp wrap has more body between the fingers than thin rolling paper, and that tactile difference usually tracks with capacity and session length once the package is open. Reading the wrap or paper line on the label, then the net weight and ingredient statement, confirms whether the outer layer is hemp-based or paper before any nickname stands in for the build.",
