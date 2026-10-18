@@ -14,7 +14,7 @@ export const ritualPages: PageContent[] = [
       "The infused blunt ritual follows a clear rhythm: keep the blunt cool and dark, rotate it in the flame until the edge catches evenly, relight whenever the dense material asks for fresh heat, and choose a mini or full-size format that fits the occasion. A thicker hemp wrap, more material, and a flower, concentrate and kief-or-diamond construction give the ritual its deliberate tempo.",
       "Presidential blunts pair a neutral, tobacco-free hemp wrap with the three-layer build. The wrap lets the contents lead the taste, while evenly distributed concentrate holds heat and supports a steady burn. The same core ritual applies across the Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings. These five guides cover each part of the session from storage through sharing, with clear cues that work for minis and full-size blunts.",
       "Presidential Blunts publishes this hub as a practical guide to the hemp-wrapped infused format. Presidential is the brand and publisher, not a strain or cultivar, so the ritual stays focused on preparation, heat, pace, storage, and the people sharing the session.",
-      "Adult readers 21+ can treat this hub as a session map: lighting flow, relighting, cool dark storage, format pacing, and sharing norms, then the child ritual pages that nest under each cue—without medical claims or invented dosing language.",
+      "This guide covers lighting flow, relighting, cool dark storage, format pacing, and sharing norms.",
     ],
     sections: [
       {
@@ -23,7 +23,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Infused material catches more gradually than flower because concentrate is dense and holds heat. Bring the end to the flame, rotate the blunt, and give the full edge time to glow. That patient rotation introduces heat around the circumference and prepares the flower, concentrate, and a kief or diamond finish to burn together.",
           "The lighting guide explains the visual rhythm of rotation, warming, and an even catch. It also shows how the first light establishes a balanced starting line for the session.",
-          "Lighting flow stays construction-first: soft flame at the rim, complete turns, and a connected glowing ring before the first draw. A one-sided catch is a cue to continue rotating, not to hold heat on a single hot corner until the edge races ahead.",
+          "Lighting comes down to a soft flame at the rim, complete turns, and a connected glowing ring before the first draw. A one-sided catch is a cue to continue rotating, not to hold heat on a single hot corner until the edge races ahead.",
         ],
         subsections: [{ id: "why-a-blunt-session-moves-slower-than-a-joint", heading: "Why a blunt session moves slower than a joint", parts: [{ text: "A joint is flower in thin paper. A Presidential blunt uses one of our thicker tobacco-free hemp wraps around flower, concentrate and a kief or diamond finish, so the session needs an even first light, patient relights and a slower, more deliberate pace. The " }, { text: "step-by-step guide to lighting an infused blunt", href: "/ritual/how-to-light-one" }, { text: " covers the first flame, and " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: " covers what to do when the dense material needs fresh heat, and " }, { text: "how long a blunt session lasts", href: "/ritual/session-length" }, { text: " covers pacing. For the side-by-side differences, read " }, { text: "blunt versus joint compared", href: "/compare" }, { text: "." }] }, { id: "sharing-culture-and-good-practice", heading: "Sharing culture and good practice", parts: [{ text: "Passing a blunt is a social practice with its own simple norms, and " }, { text: "sharing an infused blunt", href: "/ritual/sharing" }, { text: " lays them out. Between sessions, " }, { text: "cool, dark blunt storage", href: "/ritual/storage" }, { text: " keeps our wraps in shape. " }, { text: "How hemp wraps are made", href: "/wrap/how-wraps-are-made" }, { text: " explains why our wraps can be handled more than paper and burn the way they do. To weigh size, compare " }, { text: "mini vs full-size blunts", href: "/compare/mini-vs-full" }, { text: "." }] }, { id: "where-the-wrap-fits-in-the-ritual", heading: "Where the wrap fits in the ritual", parts: [{ text: "Our tobacco-free hemp wraps, rather than tobacco leaf", href: "/wrap/hemp-vs-tobacco" }, { text: ", set the pace of the session. See " }, { text: "how our hemp wraps are made", href: "/wrap/how-wraps-are-made" }, { text: ", then follow " }, { text: "how to light a blunt", href: "/ritual/how-to-light-one" }, { text: " for an even first light." }] }],
       },
@@ -75,9 +75,9 @@ export const ritualPages: PageContent[] = [
       },
       {
         id: "hub-nesting",
-        heading: "How ritual pages nest under this hub",
+        heading: "Where to go next in the ritual guide",
         paragraphs: [
-          "This hub is the parent map. Five child ritual pages nest directly under it: how to light one, relighting, storage, session length, and sharing. Each child isolates one cue—opening glow, gradual reset, cool dark home, format timeline, or group rhythm—while linking back here when the next question spans more than one step.",
+          "Five child ritual pages nest directly under it: how to light one, relighting, storage, session length, and sharing. Each child isolates one cue—opening glow, gradual reset, cool dark home, format timeline, or group rhythm—while linking back here when the next question spans more than one step.",
           "Browse in that practical order when you are new to the format, or jump to the child that matches the moment in hand. Lighting flow and relighting stay paired with denser builds; storage protects what remains between sittings; session length and sharing translate capacity into solo or group pacing. Return to this hub whenever you need the full sequence in one place.",
         ],
       },
@@ -195,7 +195,7 @@ export const ritualPages: PageContent[] = [
     intro: [
       "Light an infused blunt by placing the end in the flame, rotating it steadily, and giving the full edge time to catch. Infused material lights more gradually than flower because its concentrate is dense and holds heat, so a patient, even rotation creates the strongest start.",
       "The goal is a continuous glow around the edge. Once the circumference carries that glow, the flower, concentrate, kief or diamond finish, and hemp wrap can move forward together at the slower pace built into the format.",
-      "Adult shoppers 21+ can treat the opening light as a construction step, not a rush. Thicker hemp wrap, denser fill, and evenly distributed concentrate ask for gradual heat. Reading the rim, completing each turn, and waiting for a connected ring keeps the first light construction-first and free of medical or dosing language.",
+      "Adult shoppers 21+ can treat the opening light as a construction step, not a rush. Thicker hemp wrap, denser fill, and evenly distributed concentrate ask for gradual heat. Read the rim, complete each turn, and wait for a connected ring before the first draw.",
     ],
     sections: [
       {
@@ -240,7 +240,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The catalog presents several approaches to infused material. The Silver Flavor Series uses distillate and follows a fruit-forward direction. The Gold Strain Series uses live resin for a cannabis-forward direction, while the Rose Gold Connoisseur Series uses solventless live rosin. Presidential, House, and THC Design groupings add further choices within the same broad format.",
           "Each series still gives the lighting ritual one consistent cue: give the dense infused material time to catch. Rotate the circumference, observe the forming glow, and continue until the ring appears connected. The series establishes the material direction, while the even first light establishes the burn.",
-          "Series choice refines aroma and extract character; it does not invent a new lighting method. Distillate, live resin, and live rosin remain dense concentrates inside a thicker wrap, so gradual heat and a complete turn still apply.",
+          "Series choice refines aroma and extract character. Distillate, live resin, and live rosin remain dense concentrates inside a thicker wrap, so gradual heat and a complete turn still apply.",
         ],
       },
       {
@@ -310,7 +310,7 @@ export const ritualPages: PageContent[] = [
     intro: [
       "Relighting an infused blunt is a normal part of its slower-burning construction. Bring the active end back to the flame, rotate it steadily, and allow the full edge to regain an even glow before continuing.",
       "Concentrate is dense and holds heat, while a blunt carries more material inside a thicker wrap. Those traits extend the format's pace and make a fresh application of heat a natural reset within the full session.",
-      "Adult shoppers 21+ can treat a quieter glow after a pause as a construction cue, not a fault. Thicker hemp wrap, greater fill capacity, and evenly distributed concentrate ask for gradual returns to flame the same way they ask for a patient first light. Reading the circumference, rotating fully, and waiting for a connected ring keeps the reset construction-first and free of medical or dosing language.",
+      "Adult shoppers 21+ can treat a quieter glow after a pause as a construction cue, not a fault. Thicker hemp wrap, greater fill capacity, and evenly distributed concentrate ask for gradual returns to flame the same way they ask for a patient first light. Read the circumference, rotate fully, and wait for a connected ring before the next draw.",
     ],
     sections: [
       {
@@ -365,7 +365,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A mini carries the same blunt construction in a smaller size, so its relight follows the same rotation. The full-size format adds material and session length, while the edge still responds to a gradual complete turn through the flame.",
           "The Silver Flavor, Gold Strain, Rose Gold Connoisseur, Presidential, House, and THC Design groupings use distinct extract and flower directions. Across them, concentrate remains dense and infused material catches gradually. The shared relighting method keeps attention on the format's common physical cue.",
-          "Series choice refines aroma and extract direction after size is settled; it does not invent a new lighting method. Mini or full size still sets how often a pause may appear, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple edge-reading habit that renews the burn.",
+          "Series choice refines aroma and extract direction after size is settled. Mini or full size still sets how often a pause may appear, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple edge-reading habit that renews the burn.",
         ],
       },
       {
@@ -374,7 +374,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Between sessions, a cool and dark storage place gives terpenes the setting they favor. Heat and light take terpenes first, so a steady storage routine complements the careful heat used during lighting and relighting.",
           "That connection completes the ritual. Storage protects the material's starting point, gradual flame activates the edge, and a relight renews it as the dense build asks. Expecting the reset lets the blunt keep its intended slow rhythm from beginning to end.",
-          "A practical closeout keeps the next return ready: confirm the ember is fully out, allow remaining material to cool, then place it in a dedicated container only after it has cooled completely. Cool, dark storage between sittings protects what is left; gradual rotation at the next opening restores the edge. The sequence stays adult, construction-first, and free of medical language.",
+          "A practical closeout keeps the next return ready: confirm the ember is fully out, allow remaining material to cool, then place it in a dedicated container only after it has cooled completely. Cool, dark storage between sittings protects what is left; gradual rotation at the next opening restores the edge.",
         ],
       },
     ],
@@ -454,7 +454,7 @@ export const ritualPages: PageContent[] = [
     intro: [
       "Store an infused blunt in a cool, dark place inside a dedicated container. Heat and light take terpenes first, so stable temperature, shade, and an orderly home are the core of the storage routine.",
       "The same approach works before a first session and between sessions. A simple sequence of container, location, and return keeps every storage decision connected to the material inside.",
-      "Adult shoppers 21+ can treat storage as construction care, not a dosing schedule. Flower, concentrate, and a kief or diamond finish hold aromatic terpenes that leave first when heat and light rise, so a dedicated container in a cool, shaded place protects the three-layer build before the first even glow and after every pause. The habit stays descriptive of materials and environment—free of medical claims.",
+      "Adult shoppers 21+ can treat storage as construction care, not a dosing schedule. Flower, concentrate, and a kief or diamond finish hold aromatic terpenes that leave first when heat and light rise, so a dedicated container in a cool, shaded place protects the three-layer build before the first even glow and after every pause.",
     ],
     sections: [
       {
@@ -501,7 +501,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The Silver Flavor Series is built on distillate, the Gold Strain Series on live resin, and the Rose Gold Connoisseur Series on solventless live rosin. The Presidential, House, and THC Design groupings broaden the catalog with more flower and extract combinations. Cool, dark storage gives all of these infused directions one clear home rule.",
           "Distillate supplies a near-neutral aromatic base when flavor is added deliberately. Live resin begins with cannabis flash-frozen at harvest, while live rosin begins with fresh-frozen material and uses an ice-water wash followed by heat and pressure. The extract paths vary, and the storage cue stays consistent.",
-          "Series choice refines aroma and extract direction after format size is settled; it does not invent a separate storage method. Mini or full size still gets a fitted container, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple cool, dark habit that protects every Presidential infused direction the same way.",
+          "Series choice refines aroma and extract direction after format size is settled. Mini or full size still gets a fitted container, and hemp wrap still frames the build. Keeping series after scale prevents a flavor preference from changing the simple cool, dark habit that protects every Presidential infused direction the same way.",
         ],
       },
       {
@@ -511,6 +511,7 @@ export const ritualPages: PageContent[] = [
           "A complete storage routine can be read in three short steps. Place the infused blunt in its fitted container, return that container to the cool and shaded location, and bring it forward when the next session begins. The same sequence works for an intact format and for a pause between sessions.",
           "At that next opening, the heat strategy changes by design. Storage supplies coolness and darkness; lighting supplies a gradual flame around the circumference. Keeping those stages distinct gives the material a stable home followed by an even start.",
           "Retrieval should stay patient. Bring the container forward, open it once the session is ready, and rotate the active end through the flame until the rim shows a connected glow. Do not rush heat to compensate for time in storage—the cool, dark setting was meant to hold the material steady, and gradual rotation is what activates the edge again.",
+          "The brand’s official infused-blunt website explains the hemp wrap and three-layer build that storage protects.",
         ],
       },
       {
@@ -519,7 +520,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Time becomes easier to manage when the chosen format matches the occasion. A mini presents the same construction at a smaller size, while a full blunt carries more material and burns longer than a pre-roll. Selecting the scale beforehand can shape how much of the format the session uses.",
           "Whatever the format, the storage principle stays concise: a dedicated container, a cool location, and darkness. That trio respects the terpene-rich layers and makes the next step easy to remember. When the session resumes, an even rotation in the flame carries the ritual forward.",
-          "Occasion planning and storage reinforce each other. Choose mini or full size against available time and company, keep the unused portion cool and dark between sittings, and treat relighting as the measured return to flame when a pause quieted the edge. The sequence stays adult, construction-first, and free of medical language—format sets the clock; storage protects what remains on it.",
+          "Occasion planning and storage reinforce each other. Choose mini or full size against available time and company, keep the unused portion cool and dark between sittings, and treat relighting as the measured return to flame when a pause quieted the edge. Format sets the clock; storage protects what remains on it.",
         ],
       },
     ],
@@ -627,7 +628,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "A mini uses the same construction at a smaller size. It keeps the blunt's thicker hemp wrap and infused build while presenting them on a more compact scale. A full-size blunt brings greater material capacity to the same basic ritual.",
           "This gives the format an immediate planning tool. Choose the mini when the occasion calls for the smaller expression, and choose the full blunt when the occasion has room for the longer expression. Both begin with steady rotation in the flame and support relighting as the dense material moves through its cycle.",
-          "Three cues organize the size choice without inventing dosing language: available time, company size, and format preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final decision, and net weight on the label simply confirms which scale left the licensed counter.",
+          "Three cues organize the size choice: available time, company size, and format preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final decision, and net weight on the label simply confirms which scale left the licensed counter.",
         ],
       },
       {
@@ -663,7 +664,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "Storage, lighting, and relighting all contribute to the timeline. A cool, dark place supports the terpene-rich material before the session. A gradual rotating light gives the circumference an even glow, and a later relight restores that glow after a pause.",
           "Together, these steps make session length easy to understand as a format story. Thicker hemp wrap, more material, dense concentrate, and chosen size establish the pace. The ritual then follows those traits from the first flame through each steady return.",
-          "A practical order keeps the plan usable: confirm hemp wrap and infused construction on the label, choose mini or full size against available time and company, store cool and dark, rotate the opening light until the edge glows evenly, then follow the active circumference. When the glow quiets, relight gradually and continue. The sequence stays adult, construction-first, and free of medical language.",
+          "A practical order keeps the plan usable: confirm hemp wrap and infused construction on the label, choose mini or full size against available time and company, store cool and dark, rotate the opening light until the edge glows evenly, then follow the active circumference. When the glow quiets, relight gradually and continue.",
         ],
       },
     ],
@@ -780,7 +781,7 @@ export const ritualPages: PageContent[] = [
           "A mini is the same blunt construction at a smaller size. Its hemp wrap, flower, concentrate, and a kief or diamond finish follow the same lighting and relighting pattern in a compact format. A full-size blunt holds more material and extends the shared timeline.",
           "Selecting between them connects size directly to the occasion. A smaller gathering can choose the mini expression, while a gathering with more time can choose the full-size expression. Both formats give the group one shared object and one easy ritual to follow.",
           "The choice keeps every later cue familiar. Either size rotates through the opening flame, travels through the passing order, rests during pauses, and returns through a gradual relight. Scale changes the session length while the group method stays consistent.",
-          "Three cues organize the size decision without inventing dosing language: available time, company size, and preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final choice, and net weight on the label simply confirms which scale left the licensed counter.",
+          "Three cues organize the size decision: available time, company size, and preference for the thicker hemp wrap and infused layers. Once those cues align, mini or full size becomes a practical final choice, and net weight on the label simply confirms which scale left the licensed counter.",
         ],
         subsections: [{ id: "does-the-series-change-a-shared-session", heading: "Does the series change a shared session?", parts: [{ text: "The series changes the profile, not the passing rhythm. Silver Flavor is distillate-based and fruit-forward, Gold Strain is live-resin-based and cannabis-forward, and Rose Gold is built on live rosin. Whichever series the group chooses, the construction is the same: flower, concentrate carried through it, and a kief or diamond finish last, inside one of our neutral hemp wraps. One person rotates the end until the edge glows evenly, and the group passes in a clear order while our thicker wraps hold heat through the pauses. Keep reading with " }, { text: "how to light one evenly", href: "/ritual/how-to-light-one" }, { text: ", " }, { text: "relighting an infused blunt", href: "/ritual/relighting" }, { text: ", or " }, { text: "infused vs non-infused blunts", href: "/compare/infused-vs-non-infused" }, { text: "." }] }],
       },
@@ -808,7 +809,7 @@ export const ritualPages: PageContent[] = [
         paragraphs: [
           "The full sequence begins before the gathering with a cool, dark storage place. At session time, one person rotates the end in the flame until the circumference glows evenly. The group passes in a clear order, makes room for pauses, and uses gradual relights whenever the dense material calls for fresh heat.",
           "Every step comes from the format itself. The hemp wrap stays neutral, the infused layers provide density, the larger capacity supplies time, and the chosen size fits the occasion. Sharing turns those construction facts into a clear, repeatable group rhythm.",
-          "A practical order keeps the plan usable: confirm hemp wrap and infused construction on the label, choose mini or full size against company and available time, store cool and dark, rotate the opening light until the edge glows evenly, then follow the agreed passing direction. When the glow quiets, relight gradually and continue. The sequence stays adult, construction-first, and free of medical language.",
+          "A practical order keeps the plan usable: confirm hemp wrap and infused construction on the label, choose mini or full size against company and available time, store cool and dark, rotate the opening light until the edge glows evenly, then follow the agreed passing direction. When the glow quiets, relight gradually and continue.",
         ],
       },
     ],
