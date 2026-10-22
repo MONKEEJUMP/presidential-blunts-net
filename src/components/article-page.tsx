@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { LocatorConsole } from "./locator-console";
 import { Fragment, type ReactNode } from "react";
 
 import { IN_CONTENT_LINKS, INLINKS_MENTIONS, type InContentLinkRule } from "@/content/in-content-links";
@@ -315,6 +316,11 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
             <p className="article-hero__dek">{page.description}</p>
           </header>
           <div className="gold-seam" aria-hidden="true" />
+          {page.path === "/" ? (
+            <section aria-label="Find Presidential near you" style={{ paddingBlock: "clamp(2rem, 4vw, 3.5rem)" }}>
+              <LocatorConsole />
+            </section>
+          ) : null}
           <div className={`article-lead${leadImage ? " article-lead--with-image" : ""}`}>
             <div className="article-lead__copy">{page.leadParagraphs?.map((paragraph, index) => (<p key={`lead-${paragraph.link?.href ?? index}`}>{paragraph.before}{paragraph.link ? paragraph.link.href.startsWith("/") ? <Link href={paragraph.link.href}>{paragraph.link.label}</Link> : <a href={paragraph.link.href}>{paragraph.link.label}</a> : null}{paragraph.after}</p>))}{page.intro.map((paragraph, index) => <p key={`intro-${index}`}>{paragraph}</p>)}</div>
             {leadImage ? <ContentFigure image={leadImage} priority /> : null}
