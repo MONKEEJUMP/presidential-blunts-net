@@ -25,7 +25,7 @@ export function SiteHeader({ currentPath = "/" }: { currentPath?: string }) {
           </Link>
           <span className="brand-lockup__text">
             <span className="brand-lockup__name">Presidential Blunts</span>
-            <span className="brand-lockup__tagline">The Official Presidential Site</span>
+            <a className="brand-lockup__tagline" href="https://presidentialmoonrocks.com/">To visit the official Presidential site, click here.</a>
           </span>
         </div>
         <nav className="primary-nav" aria-label="Primary navigation">
