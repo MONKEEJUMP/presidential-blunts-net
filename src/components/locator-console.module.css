@@ -61,6 +61,7 @@
   display: block;
   color: var(--teal);
   font-family: var(--display);
+  font-weight: 600;
   font-size: 1.014rem;
   text-transform: uppercase;
 }
@@ -86,6 +87,7 @@
   padding: 0.2em 0.28em;
   color: var(--paper);
   font-family: var(--display);
+  font-weight: 600;
   font-size: clamp(3.5rem, 19cqi, 7rem);
   line-height: 1;
   text-align: center;

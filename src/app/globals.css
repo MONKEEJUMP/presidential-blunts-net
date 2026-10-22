@@ -250,6 +250,11 @@ h1 { max-width: 15ch; margin-bottom: 1.35rem; font-size: clamp(3rem, 13vw, 7.8re
 h2 { margin-bottom: 1.35rem; font-size: clamp(2rem, 7vw, 4rem); line-height: 1.02; text-wrap: balance; }
 .article-hero__dek { max-width: 54rem; margin: 0; color: var(--paper-muted); font-size: clamp(1.2rem, 3vw, 1.65rem); line-height: 1.5; }
 .gold-seam { width: 100%; height: 3px; margin-block: clamp(2.5rem, 7vw, 5rem); background: var(--champagne); }
+.gold-seam:has(+ .homepage-locator) { margin-bottom: 0; }
+.homepage-locator { padding: 0.5rem 0 2rem; color: #fff; }
+.homepage-locator__heading { margin-bottom: 1.75rem; text-align: center; }
+.homepage-locator__heading p { margin: 0; color: var(--teal); font-size: 0.75rem; font-weight: 900; line-height: 1.5; text-transform: uppercase; }
+.homepage-locator .homepage-locator__heading h2 { margin: 0.5rem 0 0; font-family: var(--display); font-size: clamp(2.25rem, 4.2vw, 3.75rem); font-weight: 600; line-height: 0.92; letter-spacing: normal; text-transform: uppercase; }
 
 .article-lead { max-width: 48rem; }
 .article-lead--with-image,

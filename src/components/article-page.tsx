@@ -317,8 +317,12 @@ export function ArticlePage({ page, images }: { page: PageContent; images: Conte
           </header>
           <div className="gold-seam" aria-hidden="true" />
           {page.path === "/" ? (
-            <section aria-label="Find Presidential near you" style={{ paddingBlock: "clamp(2rem, 4vw, 3.5rem)" }}>
-              <LocatorConsole />
+            <section className="homepage-locator" aria-labelledby="homepage-locator-title">
+              <div className="homepage-locator__heading">
+                <p>Coast to coast</p>
+                <h2 id="homepage-locator-title">Find Presidential near you</h2>
+              </div>
+              <LocatorConsole layout="stacked" />
             </section>
           ) : null}
           <div className={`article-lead${leadImage ? " article-lead--with-image" : ""}`}>
